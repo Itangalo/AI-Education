@@ -39,11 +39,11 @@ A> Det totala antalet möjliga utfall är 6 `*` 6 `*` 6 = 216 (eftersom det finn
 A> 
 A> Så sannolikheten att slå par med tre tärningar är 180/216 = 1/6 eller ungefär 0,17.
 
-I konversationen ovan uttrycker sig ChatGPT klart och tydligt, och det den säger är _fel_. (Det är drygt 40 procents chans att slå ett par.) ChatGPT kan till och med motivera sitt svar, på ett sätt som på ytan låter trovärdigt men är inkonsekvent och innehåller felaktiga beräkningar. *Det som ChatGPT är bra på är att låta som en matematiker, inte att vara en matematiker.*
+I konversationen ovan uttrycker sig ChatGPT klart och tydligt, och det den säger är *fel*. (Det är drygt 40 procents chans att slå ett par.) ChatGPT kan till och med motivera sitt svar, på ett sätt som på ytan låter trovärdigt men är inkonsekvent och innehåller felaktiga beräkningar. *Det som ChatGPT är bra på är att låta som en matematiker, inte att vara en matematiker.*
 
 En elev som lämnas att lära sig av ChatGPT kan råka ut för alla möjliga dumheter. I bästa fall blir eleven förvirrad av dumheterna och frågar läraren. Men det är också fullt möjligt att eleven lär sig felaktigheter, utan att du som lärare ens märker när det händer, och att det skapar svårigheter senare.
 
-Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men ChatGPT kan kasta ur sig mycket mer dolda misstag som blir till fällor för eleverna. ChatGPT är _inte_ en lärare eller instruktör.
+Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men ChatGPT kan kasta ur sig mycket mer dolda misstag som blir till fällor för eleverna. ChatGPT är *inte* en lärare eller instruktör.
 
 {pagebreak}
 
@@ -125,7 +125,7 @@ Ett sätt att försöka hindra fusk med hjälp av ChatGPT är att blockera webbt
 
 Jag är övertygad om att uppfinningsrika elever kommer att hitta förhållandevis enkla sätt att lura AI-kontroller och ta sig runt blockeringar i nätverk: Det behöver inte vara svårare än att göra lätta bearbetningar av en ChatGPT-text, respektive att dela nätverk från sin telefon. Om man som lärare behöver skriftliga alster från elever, och de används som betygsunderlag, tror jag alltså att man behöver genomföra de uppgifterna på ett övervakat sätt – exempelvis inte hemma. Jag tror också att det finns anledning att undersöka hur uppgifter kan utformas så att exempelvis ChatGPT kan användas som ett verktyg i arbetet, i stället för att klassas som fusk. Andra vägar man kan tänka sig är att försöka minska incitamenten för elever att fuska, men med det fokus som finns på betyg är det en svår kamp.
 
-Oavsett hur man arbetar kommer det att finnas fall där man misstänker att elever har fuskat. Ett naturligt med ganska tidskrävande sätt att hantera det är att be elever berätta om det de lämnat in. Om eleven kan göra det på ett sätt som är övertygande, så är det ett trovärdigt sätt att se att eleven har de kunskaper man som lärare är intresserad av. Om eleven inte kan redogöra för det hen lämnat in, så är det ett trovärdigt sätt att se att eleven _inte_ har de kunskaperna. Huruvida eleven fuskat eller inte, och med vilka verktyg, blir sekundärt – det är elevens kunskaper som hamnar i fokus.
+Oavsett hur man arbetar kommer det att finnas fall där man misstänker att elever har fuskat. Ett naturligt med ganska tidskrävande sätt att hantera det är att be elever berätta om det de lämnat in. Om eleven kan göra det på ett sätt som är övertygande, så är det ett trovärdigt sätt att se att eleven har de kunskaper man som lärare är intresserad av. Om eleven inte kan redogöra för det hen lämnat in, så är det ett trovärdigt sätt att se att eleven *inte* har de kunskaperna. Huruvida eleven fuskat eller inte, och med vilka verktyg, blir sekundärt – det är elevens kunskaper som hamnar i fokus.
 
 I vissa ämnen, eller vissa delar av ämnen, är det svårt att arbeta på det viset. Och hur man hanterar frågor om fusk handlar ofta om både personliga förhållningssätt och policyer på skolan.
 
