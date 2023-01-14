@@ -1,3 +1,4 @@
+{pagebreak}
 # Använda ChatGPT i praktiken som lärare
 
 
@@ -20,29 +21,23 @@ I och med att ChatGPT helt utgår från den textmängd som den tränats på kan 
 
 I synnerhet ska du inte använda ChatGPT som en extralärare, som förklarar saker för elever utan att du som lärare ser att det som ChatGPT säger är ok. Exemplet nedan kan göra tydligt varför det är olämpligt.
 
-
----
-
-**Vad är sannolikheten att slå par med tre tärningar?**
-
-Sannolikheten att slå par med tre tärningar är 1/6 eller ungefär 0,17. Detta eftersom det finns sex möjliga resultat på en tärning och du vill att två av dem ska vara det samma numret, medan det tredje numret kan vara vilket som helst.
-
-**Jag förstår inte riktigt. Kan du förklara närmare hur jag ska tänka?**
-
-Säkerställ att jag förstår din fråga korrekt, du vill veta sannolikheten att slå par med tre tärningar (där två av tärningarna visar samma nummer och den tredje är ett annat nummer) ?
-
-För att beräkna sannolikheten måste vi veta antalet möjliga utfall som leder till det önskade resultatet, och jämföra det med det totala antalet möjliga utfall.
-
-Det finns 6 olika nummer på en tärning (1, 2, 3, 4, 5, 6), så det finns 6 möjliga nummer som den första tärningen kan visa. För den andra tärningen måste vi också välja ett av de 6 numrena, men eftersom vi redan har valt ett nummer för den första tärningen så finns det bara 5 möjliga nummer kvar. För den tredje tärningen finns det 6 möjliga nummer kvar att välja.
-
-Så antalet möjliga utfall som leder till det önskade resultatet (två av tärningarna visar samma nummer och den tredje är ett annat nummer) är 6 * 5 * 6 = 180.
-
-Det totala antalet möjliga utfall är 6 * 6 * 6 = 216 (eftersom det finns 6 möjliga nummer för varje tärning).
-
-Så sannolikheten att slå par med tre tärningar är 180/216 = 1/6 eller ungefär 0,17.
-
-
----
+> **Vad är sannolikheten att slå par med tre tärningar?**
+> 
+> Sannolikheten att slå par med tre tärningar är 1/6 eller ungefär 0,17. Detta eftersom det finns sex möjliga resultat på en tärning och du vill att två av dem ska vara det samma numret, medan det tredje numret kan vara vilket som helst.
+> 
+> **Jag förstår inte riktigt. Kan du förklara närmare hur jag ska tänka?**
+> 
+> Säkerställ att jag förstår din fråga korrekt, du vill veta sannolikheten att slå par med tre tärningar (där två av tärningarna visar samma nummer och den tredje är ett annat nummer) ?
+> 
+> För att beräkna sannolikheten måste vi veta antalet möjliga utfall som leder till det önskade resultatet, och jämföra det med det totala antalet möjliga utfall.
+> 
+> Det finns 6 olika nummer på en tärning (1, 2, 3, 4, 5, 6), så det finns 6 möjliga nummer som den första tärningen kan visa. För den andra tärningen måste vi också välja ett av de 6 numrena, men eftersom vi redan har valt ett nummer för den första tärningen så finns det bara 5 möjliga nummer kvar. För den tredje tärningen finns det 6 möjliga nummer kvar att välja.
+> 
+> Så antalet möjliga utfall som leder till det önskade resultatet (två av tärningarna visar samma nummer och den tredje är ett annat nummer) är 6 * 5 * 6 = 180.
+> 
+> Det totala antalet möjliga utfall är 6 * 6 * 6 = 216 (eftersom det finns 6 möjliga nummer för varje tärning).
+> 
+> Så sannolikheten att slå par med tre tärningar är 180/216 = 1/6 eller ungefär 0,17.
 
 I konversationen ovan uttrycker sig ChatGPT klart och tydligt, och det den säger är _fel_. (Det är drygt 40 procents chans att slå ett par.) ChatGPT kan till och med motivera sitt svar, på ett sätt som på ytan låter trovärdigt men är inkonsekvent och innehåller felaktiga beräkningar. _Det som ChatGPT är bra på är att låta som en matematiker, inte att vara en matematiker._
 
@@ -50,19 +45,18 @@ En elev som lämnas att lära sig av ChatGPT kan råka ut för alla möjliga dum
 
 Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men ChatGPT kan kasta ur sig mycket mer dolda misstag som blir till fällor för eleverna. ChatGPT är _inte_ en lärare eller instruktör.
 
-
+{pagebreak}
 ## Lär eleverna om ChatGPT och liknande verktyg
 
 * Diskutera värderingar och andra icke-explicita budskap. Dessutom: Vad händer när en eller ett fåtal avsändare får så stort inflytande över budskap till många personer? Skiljer det sig från hur Google eller ett fåtal sociala plattformar har inflytande? (Hur/varför?)
 * Träna på att granska information. Även försöka ordna referenser till studier – och vad betyder det?
 
-
+{pagebreak}
 ## Fortbildning och läsa på
 
 * Sammanfatta dokument
-* 
 
-
+{pagebreak}
 ## Planeringshjälp
 
 * Upplägg för lektionsplaneringar
@@ -70,10 +64,9 @@ Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men
 * Idéer för specifika aktiviteter
 * Uppslag för hur man kan beskriva eller förklara områden
 * Idéer för gymnasiearbeten, temaarbeten, med mera
-* 
 * Skapa gruppindelningar
 
-
+{pagebreak}
 ## Skapa material
 
 * Skapa texter som elever får bygga vidare på
@@ -87,21 +80,21 @@ Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men
 * Korta ner, sammanfatta eller göra texter mer engagerande
 * Skapa veckobrev
 
-
+{pagebreak}
 ## Programmering
 
 * Skapa enkla datorprogram
 * Felsöka datorprogram
 * Skapa kod för specifika uppgifter
 
-
+{pagebreak}
 ## Personlig utveckling relaterad till arbetet
 
 * Få coachning i att utveckla sin skrivförmåga
 * Tips på tekniska verktyg och hur man använder dem
 * Ge sig själv uppmuntran och motivation
 
-
+{pagebreak}
 ## Annat
 
 * Liva upp lektionen med oväntad konst baserat på undervisningsområdet
@@ -109,14 +102,14 @@ Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men
 * Skriva rekommendationsbrev
 * Översätta enskilda ord, begrepp eller fraser
 
-
-## ~~Don’t~~ try this at home
+{pagebreak}
+## ~~Don't~~ try this at home
 
 * Hjälpa elever att skriva bättre – att hitta orden
 * Första underlag för återkoppling på elevtexter
 * Mail till vårdnadshavare
 
-
+{pagebreak}
 ## ChatGPT och fusk
 
 “Fusk” kan betyda många olika saker, och det är värt att komma ihåg att det inte behöver vara fusk att använda ChatGPT i skrivuppgifter – mer än det behöver vara fusk att använda stavningskontroll eller miniräknare. I vissa lägen räknas det som fusk, i andra inte.
