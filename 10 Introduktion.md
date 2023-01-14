@@ -4,16 +4,17 @@ ChatGPT lanserades i slutet av 2022 och har spridits som en löpeld. Det är en 
 
 Den här boken handlar om hur du som lärare kan använda ChatGPT för att underlätta ditt arbete. Boken handlar också om hur man _inte_ bör använda ChatGPT i sin undervisning. Ett centralt tema i boken är omdöme, vilket är särskilt angeläget med kraftfulla verktyg som inte har testats i undervisning på ett systematiskt sätt.
 
-Kapitel **X–X** tar upp praktiska exempel på hur du kan använda ChatGPT för att underlätta ditt arbete, och är förmodligen de du kommer att ha mest nytta av. Bläddra gärna fritt i dem och få inspiration, men hoppa inte över kapitel **X** som tar upp sådant som du _inte_ ska göra med ChatGPT. Om du inte har använt ChatGPT förut berättar kapitel **X** hur du kommer igång, och slutet av kapitlet innehåller också några tips som kanske är bra även för den som använt ChatGPT ett tag. Kapitel **X** tar upp frågan om ChatGPT och fusk.
+Kapitel ((**X–X**)) tar upp praktiska exempel på hur du kan använda ChatGPT för att underlätta ditt arbete, och är förmodligen de du kommer att ha mest nytta av. Bläddra gärna fritt i dem och få inspiration, men hoppa inte över kapitel ((**X**)) som tar upp sådant som du _inte_ ska göra med ChatGPT. Om du inte har använt ChatGPT förut berättar kapitel ((**X**)) hur du kommer igång, och slutet av kapitlet innehåller också några tips som kanske är bra även för den som använt ChatGPT ett tag. Kapitel ((**X**)) tar upp frågan om ChatGPT och fusk.
 
-Om du är intresserad av AI i allmänhet tar kapitel **X** upp bakgrund till de senaste årens AI-utveckling, inklusive mer information om ChatGPT och företaget OpenAI som skapade tjänsten. Kanske är du också intresserad av kapitel **X** och **X**, som dels tar upp bredare frågor om AI och människan, dels mer spekulativa tankar om hur AI kan komma att påverka skola i framtiden.
+Om du är intresserad av AI i allmänhet tar kapitel ((**X**)) upp bakgrund till de senaste årens AI-utveckling, inklusive mer information om ChatGPT och företaget OpenAI som skapade tjänsten. Kanske är du också intresserad av kapitel ((**X**)) och ((**X**)), som dels tar upp bredare frågor om AI och människan, dels mer spekulativa tankar om hur AI kan komma att påverka skola i framtiden.
 
 Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har följt AI-utveckling sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson, Daniel Ståhl, Julia Tsygan och Marcus Strömbäck Hjärne.
 
-Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på (URL), där boken också finns att ladda hem i olika format. Den här versionen av boken är nummer **X**, från ((2023-XX-XX)).
+Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på [github.com/Itangalo/AI-och-skolan](https://github.com/Itangalo/AI-och-skolan), där boken också finns att ladda hem i olika format. Den här versionen av boken är nummer ((**X**)), från ((**2023-XX-XX**)).
 
 
 {pagebreak}
+
 # Introduktion
 
 
@@ -21,45 +22,45 @@ Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå
 
 Till det yttre är ChatGPT ett chattfönster där man skriver meddelanden till en chatbot, som svarar. Det finns dock flera saker som gör ChatGPT speciell. Det första är att den skriver på ett mänskligt sätt – den följer konversationen, skriver vettiga saker och är dessutom allmänt trevlig. Det andra som gör ChatGPT speciell är att den har massor med kunskaper även om detaljområden: Du kan fråga om modelljärnvägens historia, vad som krävs för att odla potatis på ett effektivt sätt eller vad som utmärker schottis som dans, och ChatGPT kommer att svara på ett tydligt och trovärdigt sätt – men inte alltid korrekt.
 
-ChatGPT drivs av en så kallad AI-modell som har blivit tränad på massor av text. Det är mer text än en människa hinner läsa i hela sitt liv – faktiskt så mycket text att det skulle kräva 57 miljarder människoåldrar att läsa igenom hela textmassan. Den texten är utgångspunkten för de svar som ChatGPT ger, men svaren slås inte upp från befintlig text. I stället har textmassan använts för att destillera fram mönster för hur text och ord brukar hänga samman, och utifrån det gör ChatGPT gissningar på vilka ord som vore bra att skriva. Den typen av AI-modell kallas för large language model eller stor språkmodell, som i sin tur använder en mer generell princip som heter artificiella neurala nätverk – inspirerad av hur nervceller i våra hjärnor fungerar. Du kan hitta mer information om ChatGPT i kapitel **X**.
+ChatGPT drivs av en så kallad AI-modell som har blivit tränad på massor av text. Det är mer text än en människa hinner läsa i hela sitt liv – faktiskt så mycket text att det skulle kräva 57 miljarder människoåldrar att läsa igenom hela textmassan. Den texten är utgångspunkten för de svar som ChatGPT ger, men svaren slås inte upp från befintlig text. I stället har textmassan använts för att destillera fram mönster för hur text och ord brukar hänga samman, och utifrån det gör ChatGPT gissningar på vilka ord som vore bra att skriva. Den typen av AI-modell kallas för large language model eller stor språkmodell, som i sin tur använder en mer generell princip som heter artificiella neurala nätverk – inspirerad av hur nervceller i våra hjärnor fungerar. Du kan hitta mer information om ChatGPT i kapitel ((**X**)).
 
 I den här boken finns många utdrag från konversationer med ChatGPT. De är alltid ordagrant återgivna – det du läser är hur konversationen med ChatGPT sett ut. Den fetstilade texten är prompt från användaren, det övriga är svaret.
 
 
-> **Vad vet du om modelljärnvägens historia?**
-> 
-> Modelljärnvägar är en populär hobby där människor bygger och kör miniatyrmodeller av järnvägar och tåg. Historien bakom modelljärnvägar sträcker sig tillbaka till det tidiga 1800-talet, då järnvägar blev allt vanligare i Europa och Nordamerika. På den tiden byggde människor modeller av järnvägar med hjälp av trä och metall, men det var inte förrän sent 1800-tal och tidigt 1900-tal som modelljärnvägar blev en vanlig hobby.
-> 
-> Under 1920- och 30-talet blev modelljärnvägar mer avancerade och det började dyka upp företag som specialiserade sig på att tillverka modelltåg och -järnvägar. I USA var Lionel och American Flyer två av de mest kända företagen inom modelljärnväg, medan Hornby i Storbritannien var en ledande tillverkare i Europa.
-> 
-> Sedan dess har modelljärnvägar utvecklats mycket, med mer detaljerade modeller och avancerad teknologi, som digital styrenhet och ljud- och ljuseffekter. Idag finns det många olika klubbar och organisationer runt om i världen som ägnar sig åt modelljärnvägar, och det finns också många olika typer av modeller att välja mellan, inklusive skala H0, N och G.
-> 
-> **En helt annan sak: Vet du vad som krävs för att odla potatis på ett effektivt sätt?**
-> 
-> För att odla potatis på ett effektivt sätt är det viktigt att välja rätt sorts potatis och jordtyp, samt att skapa rätt förhållanden för växten att växa i. Här är några viktiga faktorer att tänka på:
-> 
-> 1. Välj rätt sorts potatis: Det finns många olika sorter av potatis, och vissa passar bättre för odling i vissa klimat och jordar. Det är viktigt att välja en sort som är lämplig för ditt område och dina förhållanden.
-> 2. Jordblandning: Potatis trivs bäst i en jord med högt humusinnehåll, som är väldränerad och har en pH-nivå på mellan 4,8 och 5,5.
-> 3. Sådd: Potatisen sås ofta i rader med ca 50 cm mellanrad och 30cm mellan plantorna.
-> 4. Gödsling: Potatis behöver gödselmedel med höga nivåer av kväve, fosfor och kalium för att växa och bilda skörd.
-> 5. Vattning: Potatis behöver regelbunden vattning under sin växtperiod, särskilt under torkperioder.
-> 6. Skötsel: Potatis kräver också regelbunden skötsel för att hålla ogräs och sjukdomar borta.
-> 7. Skörd: Potatis skördas vanligtvis när bladen på plantan börjar att gulna och torka. Det är viktigt att inte skörda för tidigt eftersom potatisen inte har utvecklat sig fullt ut ännu.
-> 8. Lagring: Skördad potatis lagras bäst i en mörk, sval och torr miljö.
-> 
-> **Tack! En sak till, förresten: Vad utmärker schottis som dans?**
-> 
-> Schottis är en traditionell folkdans från Skottland som ofta dansas till fiol- och accordeonmusik. Den är känd för sina snabba och livliga steg och är vanligtvis dansad i par.
-> 
-> Några av de viktigaste kännetecknen för schottis är:
-> 
-> * Dansen är ofta i 4/4-takt och har en snabb och livlig rytm.
-> * Schottis är ofta dansad i par, med en ledande och en följande dansare.
-> * Schottis är känd för sina snabba, livliga steg och skärnings- och skuttsteg.
-> * Dansen innehåller ofta en serie med hopar och skottsteg, som är kännetecknande för schottis.
-> * Schottis dansas ofta på folkmusikfester och -evenemang i Skottland, men är också vanlig på folkdansläger och -festivals runt om i världen.
-> 
-> Det finns många olika varianter av schottis, och dansen kan variera beroende på region och tradition. Men oavsett var och hur den dansas, är schottis känd för sin livliga och energiska karaktär.
+A> **Vad vet du om modelljärnvägens historia?**
+A> 
+A> Modelljärnvägar är en populär hobby där människor bygger och kör miniatyrmodeller av järnvägar och tåg. Historien bakom modelljärnvägar sträcker sig tillbaka till det tidiga 1800-talet, då järnvägar blev allt vanligare i Europa och Nordamerika. På den tiden byggde människor modeller av järnvägar med hjälp av trä och metall, men det var inte förrän sent 1800-tal och tidigt 1900-tal som modelljärnvägar blev en vanlig hobby.
+A> 
+A> Under 1920- och 30-talet blev modelljärnvägar mer avancerade och det började dyka upp företag som specialiserade sig på att tillverka modelltåg och -järnvägar. I USA var Lionel och American Flyer två av de mest kända företagen inom modelljärnväg, medan Hornby i Storbritannien var en ledande tillverkare i Europa.
+A> 
+A> Sedan dess har modelljärnvägar utvecklats mycket, med mer detaljerade modeller och avancerad teknologi, som digital styrenhet och ljud- och ljuseffekter. Idag finns det många olika klubbar och organisationer runt om i världen som ägnar sig åt modelljärnvägar, och det finns också många olika typer av modeller att välja mellan, inklusive skala H0, N och G.
+A> 
+A> **En helt annan sak: Vet du vad som krävs för att odla potatis på ett effektivt sätt?**
+A> 
+A> För att odla potatis på ett effektivt sätt är det viktigt att välja rätt sorts potatis och jordtyp, samt att skapa rätt förhållanden för växten att växa i. Här är några viktiga faktorer att tänka på:
+A> 
+A> 1. Välj rätt sorts potatis: Det finns många olika sorter av potatis, och vissa passar bättre för odling i vissa klimat och jordar. Det är viktigt att välja en sort som är lämplig för ditt område och dina förhållanden.
+A> 2. Jordblandning: Potatis trivs bäst i en jord med högt humusinnehåll, som är väldränerad och har en pH-nivå på mellan 4,8 och 5,5.
+A> 3. Sådd: Potatisen sås ofta i rader med ca 50 cm mellanrad och 30cm mellan plantorna.
+A> 4. Gödsling: Potatis behöver gödselmedel med höga nivåer av kväve, fosfor och kalium för att växa och bilda skörd.
+A> 5. Vattning: Potatis behöver regelbunden vattning under sin växtperiod, särskilt under torkperioder.
+A> 6. Skötsel: Potatis kräver också regelbunden skötsel för att hålla ogräs och sjukdomar borta.
+A> 7. Skörd: Potatis skördas vanligtvis när bladen på plantan börjar att gulna och torka. Det är viktigt att inte skörda för tidigt eftersom potatisen inte har utvecklat sig fullt ut ännu.
+A> 8. Lagring: Skördad potatis lagras bäst i en mörk, sval och torr miljö.
+A> 
+A> **Tack! En sak till, förresten: Vad utmärker schottis som dans?**
+A> 
+A> Schottis är en traditionell folkdans från Skottland som ofta dansas till fiol- och accordeonmusik. Den är känd för sina snabba och livliga steg och är vanligtvis dansad i par.
+A> 
+A> Några av de viktigaste kännetecknen för schottis är:
+A> 
+A> * Dansen är ofta i 4/4-takt och har en snabb och livlig rytm.
+A> * Schottis är ofta dansad i par, med en ledande och en följande dansare.
+A> * Schottis är känd för sina snabba, livliga steg och skärnings- och skuttsteg.
+A> * Dansen innehåller ofta en serie med hopar och skottsteg, som är kännetecknande för schottis.
+A> * Schottis dansas ofta på folkmusikfester och -evenemang i Skottland, men är också vanlig på folkdansläger och -festivals runt om i världen.
+A> 
+A> Det finns många olika varianter av schottis, och dansen kan variera beroende på region och tradition. Men oavsett var och hur den dansas, är schottis känd för sin livliga och energiska karaktär.
 
 ### ChatGPT gör fel ibland
 
@@ -88,17 +89,18 @@ Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg,
 3. Kolla igenom konversationen igen och fundera över var det kan finnas sakfel och vinklingar, utöver de som nämnts.
 
 {pagebreak}
+
 ## Så kommer du igång med ChatGPT
 
 ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com](https://beta.openai.com/)). Konto är gratis, och än så länge är det också gratis att använda ChatGPT. Användarvillkoren för OpenAI-konton säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com](https://chat.openai.com/) och börja använda ChatGPT.
 
-![Gränssnittet för ChatGPT, med de viktigaste elementen markerade 1–3.](https://user-images.githubusercontent.com/262940/212463937-050069cb-ad3a-4e64-a212-a266b4d973b1.png "Det grafiska gränssnittet för ChatGPT, innan konversation startat")
+!["Gränssnittet för ChatGPT, med de viktigaste elementen markerade 1–3."](100-blank-chat.png)
 
 De viktigaste delarna av chattfönstret är (1) fönstret för att skriva input till ChatGPT – ofta kallat en “prompt”, (2) historik över tidigare chattar, och (3) knappen för att starta nya chattrådar. Om den valda chattråden är tom, som på bilden ovan, visas en sammanfattning av några av de viktigaste egenskaperna för ChatGPT.
 
 När du skriver något till ChatGPT dyker konversationen upp i huvuddelen av fönstret. Svaret från ChatGPT växer fram ord för ord, och om tjänsten är tungt belastad kan det ta några sekunder innan texten dyker upp. Chatten sparas i vänsterspalten och får automatiskt en rubrik baserat på innehållet.
 
-![Gränssnittet för ChatGPT, så som det ser ut när en konversation är igång.](https://user-images.githubusercontent.com/262940/212463940-7cf40758-8d33-4520-8b8e-8b3cd80134c7.png "Grafiska gränssnittet för ChatGPT, när en konversation är igång")
+C> !["Gränssnittet för ChatGPT, så som det ser ut när en konversation är igång."](110-nonblank-chat.png)
 
 Håller du pekaren på ditt meddelande till ChatGPT syns en ikon för att redigera frågeställningen, vilket ger ett nytt svar. Invid varje svar finns knappar som kan användas att ge återkoppling på om svaret var bra eller dåligt, vilket också ger en chans att ange vad man tycker är ett bra svar. Återkopplingen används för att förbättra hur ChatGPT fungerar.
 
@@ -129,9 +131,10 @@ På nätet finns samlingar med prompter som folk funnit särskilt användbara. D
 2. Ställ frågor till ChatGPT. Ha minst tre chattar, där du ställer uppföljningsfrågor i minst en. Minst en av chattarna ska handla om skola eller undervisning. Testa att skriva både på svenska och engelska.
 
 {pagebreak}
+
 ## Övergripande frågor om ChatGPT, utbildning och skola
 
-_Om du inte använt ChatGPT förut rekommenderas att du testar en stund innan du läser vidare._
+*Om du inte använt ChatGPT förut rekommenderas att du testar en stund innan du läser vidare.*
 
 Att börja använda ChatGPT kan vara överväldigande eller till och med omvälvande. Oavsett om du ställer frågor om cellbiologi, August Strindberg eller buddhismens historia har den svar, som levereras sakligt och tydligt. Den kan sammanfatta texter, skriva dikter, skapa datorprogram, hitta på berättelser, ge återkoppling på och ge förbättringsförslag på textutkast, och utveckla sina resonemang i en konversation med en människa. Ja, det finns tydliga hål i ChatGPT:s kunskaper, och den beter sig självsäkert även när den har fel, men vad AI:n klarar av överstiger vad de allra flesta förväntar sig.
 
@@ -143,7 +146,7 @@ Något som gör det extra svårt att säga vad ChatGPT och liknande verktyg inne
 
 ((Några ord om att det krävs kunskaper för att ha omdöme, och omdöme behövs alltid. Att ChatGPT egentligen bara är användbar för sådant vi redan kan, men där vi vill ha hjälp att göra det snabbare, eller mer.))
 
-Om du vill läsa mer om hur växande AI-teknik kan påverka människans syn på sig själv kan du titta i kapitel **X**.
+Om du vill läsa mer om hur växande AI-teknik kan påverka människans syn på sig själv kan du titta i kapitel ((**X**)).
 
 
 ### Flera nivåer att använda omdömet på
