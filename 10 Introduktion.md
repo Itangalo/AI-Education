@@ -4,13 +4,13 @@ ChatGPT lanserades i slutet av 2022 och har spridits som en löpeld. Det är en 
 
 Den här boken handlar om hur du som lärare kan använda ChatGPT för att underlätta ditt arbete. Boken handlar också om hur man _inte_ bör använda ChatGPT i sin undervisning. Ett centralt tema i boken är omdöme, vilket är särskilt angeläget med kraftfulla verktyg som inte har testats i undervisning på ett systematiskt sätt.
 
-Kapitel [N–N] tar upp praktiska exempel på hur du kan använda ChatGPT för att underlätta ditt arbete, och är förmodligen de du kommer att ha mest nytta av. Bläddra gärna fritt i dem och få inspiration, men hoppa inte över kapitel [N] som tar upp sådant som du _inte_ ska göra med ChatGPT. Om du inte har använt ChatGPT förut berättar kapitel [N] hur du kommer igång, och slutet av kapitlet innehåller också några tips som kanske är bra även för den som använt ChatGPT ett tag. Kapitel [N] tar upp frågan om ChatGPT och fusk.
+Kapitel **X–X** tar upp praktiska exempel på hur du kan använda ChatGPT för att underlätta ditt arbete, och är förmodligen de du kommer att ha mest nytta av. Bläddra gärna fritt i dem och få inspiration, men hoppa inte över kapitel **X** som tar upp sådant som du _inte_ ska göra med ChatGPT. Om du inte har använt ChatGPT förut berättar kapitel **X** hur du kommer igång, och slutet av kapitlet innehåller också några tips som kanske är bra även för den som använt ChatGPT ett tag. Kapitel **X** tar upp frågan om ChatGPT och fusk.
 
-Om du är intresserad av AI i allmänhet tar kapitel [N] upp bakgrund till de senaste årens AI-utveckling, inklusive mer information om ChatGPT och företaget OpenAI som skapade tjänsten. Kanske är du också intresserad av kapitel [N] och [N], som dels tar upp bredare frågor om AI och människan, dels mer spekulativa tankar om hur AI kan komma att påverka skola i framtiden.
+Om du är intresserad av AI i allmänhet tar kapitel **X** upp bakgrund till de senaste årens AI-utveckling, inklusive mer information om ChatGPT och företaget OpenAI som skapade tjänsten. Kanske är du också intresserad av kapitel **X** och **X**, som dels tar upp bredare frågor om AI och människan, dels mer spekulativa tankar om hur AI kan komma att påverka skola i framtiden.
 
 Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har följt AI-utveckling sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson, Daniel Ståhl, Julia Tsygan och Marcus Strömbäck Hjärne.
 
-Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på [URL], där boken också finns att ladda hem i olika format. Den här versionen av boken är nummer [N], från [2023-XX-XX].
+Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på [URL], där boken också finns att ladda hem i olika format. Den här versionen av boken är nummer **X**, från [2023-XX-XX**.
 
 
 # Introduktion
@@ -20,7 +20,7 @@ Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå
 
 Till det yttre är ChatGPT ett chattfönster där man skriver meddelanden till en chatbot, som svarar. Det finns dock flera saker som gör ChatGPT speciell. Det första är att den skriver på ett mänskligt sätt – den följer konversationen, skriver vettiga saker och är dessutom allmänt trevlig. Det andra som gör ChatGPT speciell är att den har massor med kunskaper även om detaljområden: Du kan fråga om modelljärnvägens historia, vad som krävs för att odla potatis på ett effektivt sätt eller vad som utmärker schottis som dans, och ChatGPT kommer att svara på ett tydligt och trovärdigt sätt – men inte alltid korrekt.
 
-ChatGPT drivs av en så kallad AI-modell som har blivit tränad på massor av text. Det är mer text än en människa hinner läsa i hela sitt liv – faktiskt så mycket text att det skulle kräva 57 miljarder människoåldrar att läsa igenom hela textmassan. Den texten är utgångspunkten för de svar som ChatGPT ger, men svaren slås inte upp från befintlig text. I stället har textmassan använts för att destillera fram mönster för hur text och ord brukar hänga samman, och utifrån det gör ChatGPT gissningar på vilka ord som vore bra att skriva. Den typen av AI-modell kallas för large language model eller stor språkmodell, som i sin tur använder en mer generell princip som heter artificiella neurala nätverk – inspirerad av hur nervceller i våra hjärnor fungerar. Du kan hitta mer information om ChatGPT i kapitel [N].
+ChatGPT drivs av en så kallad AI-modell som har blivit tränad på massor av text. Det är mer text än en människa hinner läsa i hela sitt liv – faktiskt så mycket text att det skulle kräva 57 miljarder människoåldrar att läsa igenom hela textmassan. Den texten är utgångspunkten för de svar som ChatGPT ger, men svaren slås inte upp från befintlig text. I stället har textmassan använts för att destillera fram mönster för hur text och ord brukar hänga samman, och utifrån det gör ChatGPT gissningar på vilka ord som vore bra att skriva. Den typen av AI-modell kallas för large language model eller stor språkmodell, som i sin tur använder en mer generell princip som heter artificiella neurala nätverk – inspirerad av hur nervceller i våra hjärnor fungerar. Du kan hitta mer information om ChatGPT i kapitel **X**.
 
 I den här boken finns många utdrag från konversationer med ChatGPT. De är alltid ordagrant återgivna – det du läser är hur konversationen med ChatGPT sett ut. Den fetstilade texten är prompt från användaren, det övriga är svaret.
 
@@ -146,9 +146,9 @@ Det är för tidigt för att säga något säkert om hur vår syn på kunskap ko
 
 Något som gör det extra svårt att säga vad ChatGPT och liknande verktyg innebär för vår syn på kunskap är att tekniken fortfarande accelererar. Den AI-teknik vi ser idag är miltals bättre än [den som fanns 2019](https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction) – och redan då väckte både uppmärksamhet, frågor och oro. Under våren 2023 förväntas GPT-3.5, som är den underliggande modellen för ChatGPT, ersättas av en mycket mer kapabel GPT-4, och flera andra företag har liknande tjänster som ännu ej lanserats.
 
-[Några ord om att det krävs kunskaper för att ha omdöme, och omdöme behövs alltid. Att ChatGPT egentligen bara är användbar för sådant vi redan kan, men där vi vill ha hjälp att göra det snabbare, eller mer.]
+**Xågra ord om att det krävs kunskaper för att ha omdöme, och omdöme behövs alltid. Att ChatGPT egentligen bara är användbar för sådant vi redan kan, men där vi vill ha hjälp att göra det snabbare, eller mer.]
 
-Om du vill läsa mer om hur växande AI-teknik kan påverka människans syn på sig själv kan du titta i kapitel [N].
+Om du vill läsa mer om hur växande AI-teknik kan påverka människans syn på sig själv kan du titta i kapitel **X**.
 
 
 ### Flera nivåer att använda omdömet på
