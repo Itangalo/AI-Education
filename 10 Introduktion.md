@@ -10,7 +10,7 @@ Om du är intresserad av AI i allmänhet tar kapitel **X** upp bakgrund till de 
 
 Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har följt AI-utveckling sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson, Daniel Ståhl, Julia Tsygan och Marcus Strömbäck Hjärne.
 
-Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på [URL], där boken också finns att ladda hem i olika format. Den här versionen av boken är nummer **X**, från [2023-XX-XX**.
+Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på (URL), där boken också finns att ladda hem i olika format. Den här versionen av boken är nummer **X**, från (2023-XX-XX**).
 
 
 # Introduktion
@@ -153,6 +153,6 @@ Om du vill läsa mer om hur växande AI-teknik kan påverka människans syn på 
 
 ### Flera nivåer att använda omdömet på
 
-[Betrakta budskap från ChatGPT som från en lärarstudent.]
+((Betrakta budskap från ChatGPT som från en lärarstudent.))
 
-[Exempel på felaktiga påståenden från ChatGPT kommer att finnas i den här boken, för att påminna om att vi alltid måste använda vårt omdöme och ha det som ett filter mellan ChatGPT och elever – särskilt elever som ännu inte är vuxna.]
+((Exempel på felaktiga påståenden från ChatGPT kommer att finnas i den här boken, för att påminna om att vi alltid måste använda vårt omdöme och ha det som ett filter mellan ChatGPT och elever – särskilt elever som ännu inte är vuxna.))
