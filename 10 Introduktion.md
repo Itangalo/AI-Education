@@ -1,4 +1,74 @@
-i modelljärnvägens historia och för många är nära nog synonymt med modelljärnväg.
+# AI och skolan
+
+ChatGPT lanserades i slutet av 2022 och har spridits som en löpeld. Det är en webbtjänst där man chattar med en artificiell intelligens (AI) som är kunnig inom massor av områden, är vänlig och tydlig, anpassar sig efter hur konversationen fortlöper, och aldrig tröttnar på att svara på frågor och hjälpa till. Det är troligt att ChatGPT och tjänster som liknar den kommer att påverka vardag och samhälle på en rad olika sätt.
+
+Den här boken handlar om hur du som lärare kan använda ChatGPT för att underlätta ditt arbete. Boken handlar också om hur man *inte* bör använda ChatGPT i sin undervisning. Ett centralt tema i boken är omdöme, vilket är särskilt angeläget med kraftfulla verktyg som inte har testats i undervisning på ett systematiskt sätt.
+
+Kapitel ((**X–X**)) tar upp praktiska exempel på hur du kan använda ChatGPT för att underlätta ditt arbete, och är förmodligen de du kommer att ha mest nytta av. Bläddra gärna fritt i dem och få inspiration, men hoppa inte över kapitel ((**X**)) som tar upp sådant som du *inte* ska göra med ChatGPT. Om du inte har använt ChatGPT förut berättar kapitel ((**X**)) hur du kommer igång, och slutet av kapitlet innehåller också några tips som kanske är bra även för den som använt ChatGPT ett tag. Kapitel ((**X**)) tar upp frågan om ChatGPT och fusk.
+
+Om du är intresserad av AI i allmänhet tar kapitel ((**X**)) upp bakgrund till de senaste årens AI-utveckling, inklusive mer information om ChatGPT och företaget OpenAI som skapade tjänsten. Kanske är du också intresserad av kapitel ((**X**)) och ((**X**)), som dels tar upp bredare frågor om AI och människan, dels mer spekulativa tankar om hur AI kan komma att påverka skola i framtiden.
+
+Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har följt AI-utveckling sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson, Daniel Ståhl, Julia Tsygan och Marcus Strömbäck Hjärne.
+
+Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på [github.com/Itangalo/AI-och-skolan](https://github.com/Itangalo/AI-och-skolan), där boken också finns att ladda hem i olika format. Den här versionen av boken är nummer ((**X**)), från ((**2023-XX-XX**)).
+
+
+{pagebreak}
+
+# Introduktion
+
+
+## Vad är ChatGPT?
+
+Till det yttre är ChatGPT ett chattfönster där man skriver meddelanden till en chatbot, som svarar. Det finns dock flera saker som gör ChatGPT speciell. Det första är att den skriver på ett mänskligt sätt – den följer konversationen, skriver vettiga saker och är dessutom allmänt trevlig. Det andra som gör ChatGPT speciell är att den har massor med kunskaper även om detaljområden: Du kan fråga om modelljärnvägens historia, vad som krävs för att odla potatis på ett effektivt sätt eller vad som utmärker schottis som dans, och ChatGPT kommer att svara på ett tydligt och trovärdigt sätt – men inte alltid korrekt.
+
+ChatGPT drivs av en så kallad AI-modell som har blivit tränad på massor av text. Det är mer text än en människa hinner läsa i hela sitt liv – faktiskt så mycket text att det skulle kräva 57 miljarder människoåldrar att läsa igenom hela textmassan. Den texten är utgångspunkten för de svar som ChatGPT ger, men svaren slås inte upp från befintlig text. I stället har textmassan använts för att destillera fram mönster för hur text och ord brukar hänga samman, och utifrån det gör ChatGPT gissningar på vilka ord som vore bra att skriva. Den typen av AI-modell kallas för large language model eller stor språkmodell, som i sin tur använder en mer generell princip som heter artificiella neurala nätverk – inspirerad av hur nervceller i våra hjärnor fungerar. Du kan hitta mer information om ChatGPT i kapitel ((**X**)).
+
+I den här boken finns många utdrag från konversationer med ChatGPT. De är alltid ordagrant återgivna – det du läser är hur konversationen med ChatGPT sett ut. Den fetstilade texten är prompt från användaren, det övriga är svaret.
+
+
+A> **Vad vet du om modelljärnvägens historia?**
+A> 
+A> Modelljärnvägar är en populär hobby där människor bygger och kör miniatyrmodeller av järnvägar och tåg. Historien bakom modelljärnvägar sträcker sig tillbaka till det tidiga 1800-talet, då järnvägar blev allt vanligare i Europa och Nordamerika. På den tiden byggde människor modeller av järnvägar med hjälp av trä och metall, men det var inte förrän sent 1800-tal och tidigt 1900-tal som modelljärnvägar blev en vanlig hobby.
+A> 
+A> Under 1920- och 30-talet blev modelljärnvägar mer avancerade och det började dyka upp företag som specialiserade sig på att tillverka modelltåg och -järnvägar. I USA var Lionel och American Flyer två av de mest kända företagen inom modelljärnväg, medan Hornby i Storbritannien var en ledande tillverkare i Europa.
+A> 
+A> Sedan dess har modelljärnvägar utvecklats mycket, med mer detaljerade modeller och avancerad teknologi, som digital styrenhet och ljud- och ljuseffekter. Idag finns det många olika klubbar och organisationer runt om i världen som ägnar sig åt modelljärnvägar, och det finns också många olika typer av modeller att välja mellan, inklusive skala H0, N och G.
+A> 
+A> **En helt annan sak: Vet du vad som krävs för att odla potatis på ett effektivt sätt?**
+A> 
+A> För att odla potatis på ett effektivt sätt är det viktigt att välja rätt sorts potatis och jordtyp, samt att skapa rätt förhållanden för växten att växa i. Här är några viktiga faktorer att tänka på:
+A> 
+A> 1. Välj rätt sorts potatis: Det finns många olika sorter av potatis, och vissa passar bättre för odling i vissa klimat och jordar. Det är viktigt att välja en sort som är lämplig för ditt område och dina förhållanden.
+A> 2. Jordblandning: Potatis trivs bäst i en jord med högt humusinnehåll, som är väldränerad och har en pH-nivå på mellan 4,8 och 5,5.
+A> 3. Sådd: Potatisen sås ofta i rader med ca 50 cm mellanrad och 30cm mellan plantorna.
+A> 4. Gödsling: Potatis behöver gödselmedel med höga nivåer av kväve, fosfor och kalium för att växa och bilda skörd.
+A> 5. Vattning: Potatis behöver regelbunden vattning under sin växtperiod, särskilt under torkperioder.
+A> 6. Skötsel: Potatis kräver också regelbunden skötsel för att hålla ogräs och sjukdomar borta.
+A> 7. Skörd: Potatis skördas vanligtvis när bladen på plantan börjar att gulna och torka. Det är viktigt att inte skörda för tidigt eftersom potatisen inte har utvecklat sig fullt ut ännu.
+A> 8. Lagring: Skördad potatis lagras bäst i en mörk, sval och torr miljö.
+A> 
+A> **Tack! En sak till, förresten: Vad utmärker schottis som dans?**
+A> 
+A> Schottis är en traditionell folkdans från Skottland som ofta dansas till fiol- och accordeonmusik. Den är känd för sina snabba och livliga steg och är vanligtvis dansad i par.
+A> 
+A> Några av de viktigaste kännetecknen för schottis är:
+A> 
+A> * Dansen är ofta i 4/4-takt och har en snabb och livlig rytm.
+A> * Schottis är ofta dansad i par, med en ledande och en följande dansare.
+A> * Schottis är känd för sina snabba, livliga steg och skärnings- och skuttsteg.
+A> * Dansen innehåller ofta en serie med hopar och skottsteg, som är kännetecknande för schottis.
+A> * Schottis dansas ofta på folkmusikfester och -evenemang i Skottland, men är också vanlig på folkdansläger och -festivals runt om i världen.
+A> 
+A> Det finns många olika varianter av schottis, och dansen kan variera beroende på region och tradition. Men oavsett var och hur den dansas, är schottis känd för sin livliga och energiska karaktär.
+
+### ChatGPT gör fel ibland
+
+Något som är viktigt att lägga märke till redan nu är att ChatGPT begår misstag. Om du läste igenom konversationen la du förmodligen märke till att översättningar och ordval ibland blir konstiga (exempelvis “gödselmedel” i stället för “gödsel” och “accordeonmusik” i stället för “dragspelsmusik”). Sådana misstag är betydligt ovanligare på engelska, som är ChatGPT:s modersmål.
+
+Något som är svårare att lägga märke till är sakfelen – dels eftersom de kräver förhållandevis goda kunskaper hos läsaren, dels för att de är insvepta i en tydlig text som är lätt att ta till sig och tro på. Till exempel kan den som läser på om schottis på Wikipedia konstatera att den troligtvis uppstod i Böhmen – inte Skottland. (Nationalencyklopedin å sin sida säger att schottis “presenterades” i Paris.)
+
+Ett par andra misstag – om man ska kalla dem för misstag – är ännu svårare att upptäcka. Wikipedias artikel om schottis säger att det är “lugnt tempo”, inte “snabb och livlig rytm” som ChatGPT säger. Schottis i andra delar av världen verkar i regel ha ett högre tempo. Har ChatGPT fel som säger att det är snabb rytm? Egentligen inte. Däremot beskriver den schottis utifrån ett perspektiv som kanske inte stämmer i Sverige. Ett annat kanske-misstag är att beskrivningen av modelljärnvägens historia inte nämner tillverkaren Märklin (men däremot några andra tillverkare), trots att Märklin både spelar en roll i modelljärnvägens historia och för många är nära nog synonymt med modelljärnväg.
 
 I den här boken kallas sådana kanske-misstag för *vinklingar*. De är inte fel, men den avspeglar en särskild del av sanningen, eller får saker att uppfattas på ett visst sätt eller ur ett visst perspektiv. De är svåra att upptäcka, särskilt för någon som inte är insatt, och riskerar att knuffa mottagaren in i en specifik världsbild utan att vara medveten om det.
 
