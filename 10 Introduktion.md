@@ -93,25 +93,13 @@ Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg,
 
 ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com](https://beta.openai.com/)). Konto är gratis, och än så länge är det också gratis att använda ChatGPT. Användarvillkoren för OpenAI-konton säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com](https://chat.openai.com/) och börja använda ChatGPT.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
+![Gränssnittet för ChatGPT, med de viktigaste elementen markerade 1–3.](https://user-images.githubusercontent.com/262940/212463937-050069cb-ad3a-4e64-a212-a266b4d973b1.png "Det grafiska gränssnittet för ChatGPT, innan konversation startat")
 
 De viktigaste delarna av chattfönstret är (1) fönstret för att skriva input till ChatGPT – ofta kallat en “prompt”, (2) historik över tidigare chattar, och (3) knappen för att starta nya chattrådar. Om den valda chattråden är tom, som på bilden ovan, visas en sammanfattning av några av de viktigaste egenskaperna för ChatGPT.
 
 När du skriver något till ChatGPT dyker konversationen upp i huvuddelen av fönstret. Svaret från ChatGPT växer fram ord för ord, och om tjänsten är tungt belastad kan det ta några sekunder innan texten dyker upp. Chatten sparas i vänsterspalten och får automatiskt en rubrik baserat på innehållet.
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
+![Gränssnittet för ChatGPT, så som det ser ut när en konversation är igång.](https://user-images.githubusercontent.com/262940/212463940-7cf40758-8d33-4520-8b8e-8b3cd80134c7.png "Grafiska gränssnittet för ChatGPT, när en konversation är igång")
 
 Håller du pekaren på ditt meddelande till ChatGPT syns en ikon för att redigera frågeställningen, vilket ger ett nytt svar. Invid varje svar finns knappar som kan användas att ge återkoppling på om svaret var bra eller dåligt, vilket också ger en chans att ange vad man tycker är ett bra svar. Återkopplingen används för att förbättra hur ChatGPT fungerar.
 
