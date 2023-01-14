@@ -10,9 +10,10 @@ Om du är intresserad av AI i allmänhet tar kapitel **X** upp bakgrund till de 
 
 Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har följt AI-utveckling sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson, Daniel Ståhl, Julia Tsygan och Marcus Strömbäck Hjärne.
 
-Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på (URL), där boken också finns att ladda hem i olika format. Den här versionen av boken är nummer **X**, från (2023-XX-XX**).
+Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på (URL), där boken också finns att ladda hem i olika format. Den här versionen av boken är nummer **X**, från ((2023-XX-XX)).
 
 
+{pagebreak}
 # Introduktion
 
 
@@ -82,13 +83,11 @@ Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg,
 
 ### Övningar
 
-
-
 1. Vad utmärker språkfel, sakfel och vinklingar? Överlappar kategorierna?
 2. Kan du komma på ytterligare kategorier av misstag?
 3. Kolla igenom konversationen igen och fundera över var det kan finnas sakfel och vinklingar, utöver de som nämnts.
 
-
+{pagebreak}
 ## Så kommer du igång med ChatGPT
 
 ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com](https://beta.openai.com/)). Konto är gratis, och än så länge är det också gratis att använda ChatGPT. Användarvillkoren för OpenAI-konton säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com](https://chat.openai.com/) och börja använda ChatGPT.
@@ -110,8 +109,6 @@ Det finns inget inbyggt sätt att exportera text från konversationerna. Det van
 
 Att chatta med ChatGPT är på många sätt naturligt – du skriver som du skulle göra till en människa. De vanligaste sätten är förmodligen att ställa korta frågor eller att uppmana ChatGPT att skriva något särskilt, och att följa upp det med ytterligare frågor, uppmaningar eller justeringar. Några metoder och knep som kanske är mindre naturliga kan också vara bra att känna till:
 
-
-
 * Om du trycker enter i chattrutan skickas meddelandet till ChatGPT. Med shift + enter har du möjlighet att skapa radbrytningar utan att meddelandet skickas.
 * Om du vill variera eller återanvända en längre frågeställning är det praktiskt att ha prompten i en textredigerare eller ordbehandlare, där den enklare kan redigeras och kopieras.
 * Om du vill ge långa texter till ChatGPT kan du till exempel skriva “Kan du sammanfatta artikeln nedan?” och klistra in artikeln innan du skickar meddelandet, eller “Nedanför är en text jag skrivit som jag vill att du ger feedback på så att jag kan förbättra den.”
@@ -128,12 +125,10 @@ På nätet finns samlingar med prompter som folk funnit särskilt användbara. D
 
 ### Övningar
 
-
-
 1. Skapa ett konto på OpenAI, om du går med på deras användarvilkor (och inte redan har ett konto).
 2. Ställ frågor till ChatGPT. Ha minst tre chattar, där du ställer uppföljningsfrågor i minst en. Minst en av chattarna ska handla om skola eller undervisning. Testa att skriva både på svenska och engelska.
 
-
+{pagebreak}
 ## Övergripande frågor om ChatGPT, utbildning och skola
 
 _Om du inte använt ChatGPT förut rekommenderas att du testar en stund innan du läser vidare._
@@ -146,7 +141,7 @@ Det är för tidigt för att säga något säkert om hur vår syn på kunskap ko
 
 Något som gör det extra svårt att säga vad ChatGPT och liknande verktyg innebär för vår syn på kunskap är att tekniken fortfarande accelererar. Den AI-teknik vi ser idag är miltals bättre än [den som fanns 2019](https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction) – och redan då väckte både uppmärksamhet, frågor och oro. Under våren 2023 förväntas GPT-3.5, som är den underliggande modellen för ChatGPT, ersättas av en mycket mer kapabel GPT-4, och flera andra företag har liknande tjänster som ännu ej lanserats.
 
-**Xågra ord om att det krävs kunskaper för att ha omdöme, och omdöme behövs alltid. Att ChatGPT egentligen bara är användbar för sådant vi redan kan, men där vi vill ha hjälp att göra det snabbare, eller mer.]
+((Några ord om att det krävs kunskaper för att ha omdöme, och omdöme behövs alltid. Att ChatGPT egentligen bara är användbar för sådant vi redan kan, men där vi vill ha hjälp att göra det snabbare, eller mer.))
 
 Om du vill läsa mer om hur växande AI-teknik kan påverka människans syn på sig själv kan du titta i kapitel **X**.
 
