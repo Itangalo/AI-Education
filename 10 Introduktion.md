@@ -15,7 +15,7 @@ Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå
 # Del 1: Introduktion
 
 
-## Vad är ChatGPT?
+## 1: Vad är ChatGPT?
 
 Till det yttre är ChatGPT ett chattfönster där man skriver meddelanden till en chatbot, som svarar. Det finns dock flera saker som gör ChatGPT speciell. Det första är att den skriver på ett mänskligt sätt – den följer konversationen, skriver vettiga saker och är dessutom allmänt trevlig. Det andra som gör ChatGPT speciell är att den har massor med kunskaper även om detaljområden: Du kan fråga om modelljärnvägens historia, vad som krävs för att odla potatis på ett effektivt sätt eller vad som utmärker schottis som dans, och ChatGPT kommer att svara på ett tydligt och trovärdigt sätt – men inte alltid korrekt.
 
@@ -86,7 +86,7 @@ Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg,
 2. Kan du komma på ytterligare kategorier av misstag?
 3. Kolla igenom konversationen igen och fundera över var det kan finnas sakfel och vinklingar, utöver de som nämnts.
 
-## Så kommer du igång med ChatGPT
+## 2: Så kommer du igång med ChatGPT
 
 ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com][2]). Konto är gratis, och än så länge är det också gratis att använda ChatGPT. Användarvillkoren för OpenAI-konton säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com][3] och börja använda ChatGPT.
 
@@ -126,7 +126,7 @@ På nätet finns samlingar med prompter som folk funnit särskilt användbara. D
 1. Skapa ett konto på OpenAI, om du går med på deras användarvilkor (och inte redan har ett konto).
 2. Ställ frågor till ChatGPT. Ha minst tre chattar, där du ställer uppföljningsfrågor i minst en. Minst en av chattarna ska handla om skola eller undervisning. Testa att skriva både på svenska och engelska.
 
-## Övergripande frågor om ChatGPT, utbildning och skola
+## 3: Några tankar som ChatGPT väcker
 
 *Om du inte använt ChatGPT förut rekommenderas att du testar en stund innan du läser vidare.*
 

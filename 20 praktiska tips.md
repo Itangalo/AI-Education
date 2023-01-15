@@ -1,6 +1,6 @@
 # Del 2: Använda ChatGPT i praktiken
 
-## Saker du inte ska göra med ChatGPT
+## 4: Saker du inte ska göra med ChatGPT
 
 
 ### Lämna inte ut personuppgifter eller andra känsliga uppgifter
@@ -43,7 +43,7 @@ En elev som lämnas att lära sig av ChatGPT kan råka ut för alla möjliga dum
 
 Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men ChatGPT kan kasta ur sig mycket mer dolda misstag som blir till fällor för eleverna. ChatGPT är *inte* en lärare eller instruktör.
 
-## Lär eleverna om ChatGPT och liknande verktyg
+## 5: Undervisa om ChatGPT
 
 * Diskutera värderingar och andra icke-explicita budskap. Dessutom: Vad händer när en eller ett fåtal avsändare får så stort inflytande över budskap till många personer? Skiljer det sig från hur Google eller ett fåtal sociala plattformar har inflytande? (Hur/varför?)
 * Träna på att granska information. Även försöka ordna referenser till studier – och vad betyder det?
