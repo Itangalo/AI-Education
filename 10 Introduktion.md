@@ -142,13 +142,6 @@ Något som gör det extra svårt att säga vad ChatGPT och liknande verktyg inne
 
 Om du vill läsa mer om hur växande AI-teknik kan påverka människans syn på sig själv kan du titta i kapitel ((**X**)).
 
-
-### Flera nivåer att använda omdömet på
-
-((Betrakta budskap från ChatGPT som från en lärarstudent.))
-
-((Exempel på felaktiga påståenden från ChatGPT kommer att finnas i den här boken, för att påminna om att vi alltid måste använda vårt omdöme och ha det som ett filter mellan ChatGPT och elever – särskilt elever som ännu inte är vuxna.))
-
 [1]:	https://github.com/Itangalo/AI-och-skolan
 [2]:	https://beta.openai.com/
 [3]:	https://chat.openai.com/
