@@ -1,18 +1,3 @@
-# AI och skolan
-
-ChatGPT lanserades i slutet av 2022 och har spridits som en löpeld. Det är en webbtjänst där man chattar med en artificiell intelligens (AI) som är kunnig inom förbluffande många områden, lyssnar på önskemål, är vänlig och tydlig, anpassar sig efter hur konversationen fortlöper, och aldrig tröttnar på att svara på frågor och hjälpa till. Användare har tagit nytta av ChatGPT för allt ifrån matlagning till programmering, från att skriva artiklar till att skapa interaktiva spel. ChatGPT och framtida tjänster som liknar den kommer sannolikt att påverka samhället och vardagen på en rad olika sätt.
-
-Den här boken handlar om hur du som lärare kan använda ChatGPT för att underlätta ditt arbete. Boken handlar också om hur man *inte* bör använda ChatGPT i sin undervisning. Ett centralt tema i boken är omdöme, vilket är särskilt angeläget med kraftfulla verktyg som inte har testats i undervisning på ett systematiskt sätt.
-
-Del 1 i boken ger en introduktion till vad ChatGPT är och hur man kommer igång med att använda tjänsten. Slutet av kapitel ((X)) innehåller några tips som kanske är bra även för den som använt ChatGPT ett tag. Kapitel ((**X**)) är kanske det viktigaste i hela boken: Det beskriver fyra olika typer av AI-dumheter som man behöver vara vaksam på.
-
-Del 2 har fokus på praktisk användning. Kapitel ((**X–X**)) innehåller exempel på hur du kan använda ChatGPT för att underlätta ditt arbete, och är förmodligen de du kommer att ha mest nytta av. Bläddra gärna fritt i dem och få inspiration, men hoppa inte över kapitel ((**X**)) som tar upp sådant som du *inte* ska göra med ChatGPT. Kapitel ((**X**)) tar upp frågan om ChatGPT och fusk.
-
-Del 3 är främst till för den som vill veta lite mer om AI som fenomen. Kapitel ((**X**)) tar upp bakgrund till de senaste årens AI-utveckling, inklusive mer information om ChatGPT och företaget OpenAI som skapade tjänsten. Kapitel ((**X**)) och ((**X**)) tar upp mer spekulativa tankar om hur AI kan komma att påverka skola i framtiden, respektive bredare frågor om AI och människan.
-
-Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har följt AI-utveckling sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson, Daniel Ståhl, Julia Tsygan och Marcus Strömbäck Hjärne.
-
-Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på [github.com/Itangalo/AI-och-skolan][1], där boken också finns att ladda hem i olika format. Den här versionen av boken är nummer ((**X**)), från ((**2023-XX-XX**)).
 
 # Del 1: Introduktion
 
@@ -90,7 +75,7 @@ Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg,
 
 ## 2: Så kommer du igång med ChatGPT
 
-ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com][2]). Konto är gratis, och än så länge är det också gratis att använda ChatGPT. Användarvillkoren för OpenAI-konton säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com][3] och börja använda ChatGPT.
+ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com][1]). Konto är gratis, och än så länge är det också gratis att använda ChatGPT. Användarvillkoren för OpenAI-konton säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com][2] och börja använda ChatGPT.
 
 ![Gränssnittet för ChatGPT, med de viktigaste elementen markerade 1–3.][image-1]
 
@@ -138,16 +123,15 @@ Vad betyder teknik som denna för vår syn på kunskap?
 
 Det är för tidigt för att säga något säkert om hur vår syn på kunskap kommer att ändras, inte minst för att det precis har börjat. Men det är rimligt att tro att delar av det vi idag tycker är viktiga kunskaper kommer att stöpas om, och vissa saker kommer vi inte längre tycka vara viktiga. När miniräknare gjorde intåg förutspåddes att vi skulle bli sämre på att räkna för hand och med huvudräkning. Det har kanske i viss mån också blivit så, men det är tydligt att vi fortfarande tycker att grundläggande räknefärdigheter är mycket viktiga. Samtidigt anser vi det närmast meningslöst med saker som att räkna ut kvadratrötter eller multiplicera stora tal för hand. En viktig iakttagelse är också att användning av miniräknare – och mer avancerade verktyg – nu är en del av kunskaper man förväntas ha i samband med matematik.
 
-Något som gör det extra svårt att säga vad ChatGPT och liknande verktyg innebär för vår syn på kunskap är att tekniken fortfarande accelererar. Den AI-teknik vi ser idag är miltals bättre än [den som fanns 2019][4] – och redan då väckte både uppmärksamhet, frågor och oro. Under våren 2023 förväntas GPT-3.5, som är den underliggande modellen för ChatGPT, ersättas av en mycket mer kapabel GPT-4, och flera andra företag har liknande tjänster som ännu ej lanserats.
+Något som gör det extra svårt att säga vad ChatGPT och liknande verktyg innebär för vår syn på kunskap är att tekniken fortfarande accelererar. Den AI-teknik vi ser idag är miltals bättre än [den som fanns 2019][3] – och redan då väckte både uppmärksamhet, frågor och oro. Under våren 2023 förväntas GPT-3.5, som är den underliggande modellen för ChatGPT, ersättas av en mycket mer kapabel GPT-4, och flera andra företag har liknande tjänster som ännu ej lanserats.
 
 ((Några ord om att det krävs kunskaper för att ha omdöme, och omdöme behövs alltid. Att ChatGPT egentligen bara är användbar för sådant vi redan kan, men där vi vill ha hjälp att göra det snabbare, eller mer.))
 
 Om du vill läsa mer om hur växande AI-teknik kan påverka människans syn på sig själv kan du titta i kapitel ((**X**)).
 
-[1]:	https://github.com/Itangalo/AI-och-skolan
-[2]:	https://beta.openai.com/
-[3]:	https://chat.openai.com/
-[4]:	https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction
+[1]:	https://beta.openai.com/
+[2]:	https://chat.openai.com/
+[3]:	https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction
 
 [image-1]:	https://user-images.githubusercontent.com/262940/212463937-050069cb-ad3a-4e64-a212-a266b4d973b1.png
 [image-2]:	https://user-images.githubusercontent.com/262940/212463940-7cf40758-8d33-4520-8b8e-8b3cd80134c7.png
