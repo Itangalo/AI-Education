@@ -4,11 +4,11 @@
 
 ## 1: Vad är ChatGPT?
 
-Till det yttre är ChatGPT ett chattfönster där man skriver meddelanden till en chatbot, som svarar. Det finns dock flera saker som gör ChatGPT speciell. Det första är att den skriver på ett mänskligt sätt – den följer konversationen, skriver vettiga saker och är dessutom allmänt trevlig. Det andra som gör ChatGPT speciell är att den har massor med kunskaper även om detaljområden: Du kan fråga om modelljärnvägens historia, vad som krävs för att odla potatis på ett effektivt sätt eller vad som utmärker schottis som dans, och ChatGPT kommer att svara på ett tydligt och trovärdigt sätt – men inte alltid korrekt.
+Till det yttre är ChatGPT ett chattfönster där man skriver meddelanden till en chatbot, som svarar. Det finns dock flera saker som gör ChatGPT speciell. Det första är att den skriver på ett mänskligt sätt – den följer konversationen, skriver vettiga saker och är dessutom allmänt trevlig. Det andra som gör ChatGPT speciell är att den har massor med kunskaper även om detaljområden: Du kan fråga om modelljärnvägens historia, vad som krävs för att odla potatis på ett effektivt sätt eller vad som utmärker schottis som dans, och ChatGPT kommer att svara på ett tydligt och förtroendeingivande sätt.
 
-ChatGPT drivs av en så kallad AI-modell som har blivit tränad på massor av text. Det är mer text än en människa hinner läsa i hela sitt liv – faktiskt så mycket text att det skulle kräva 57 miljarder människoåldrar att läsa igenom hela textmassan. Den texten är utgångspunkten för de svar som ChatGPT ger, men svaren slås inte upp från befintlig text. I stället har textmassan använts för att destillera fram mönster för hur text och ord brukar hänga samman, och utifrån det gör ChatGPT gissningar på vilka ord som vore bra att skriva. Den typen av AI-modell kallas för large language model eller stor språkmodell, som i sin tur använder en mer generell princip som heter artificiella neurala nätverk – inspirerad av hur nervceller i våra hjärnor fungerar. Du kan hitta mer information om ChatGPT i kapitel ((**X**)).
+ChatGPT drivs av en så kallad AI-modell som har blivit tränad på enorma mängder av text. Det är mer text än en människa hinner läsa i hela sitt liv – faktiskt så mycket att det skulle kräva 57 miljarder människoåldrar att läsa igenom hela textmassan. Den texten är utgångspunkten för de svar som ChatGPT ger, men svaren slås inte upp i eller kopieras från befintlig text. I stället har textmassan använts för att destillera fram mönster för hur text och ord brukar hänga samman, och utifrån det gör ChatGPT gissningar på vilka ord som passar bra att skriva. Den typen av AI-modell kallas för _large language model_ (LLM) eller stor språkmodell, som i sin tur använder en mer generell princip som heter artificiella neurala nätverk – en teknik som är inspirerad av hur nervceller i våra hjärnor fungerar. Du kan hitta mer information om ChatGPT i kapitel ((**X**)).
 
-I den här boken finns många utdrag från konversationer med ChatGPT. De är ordagrant återgivna – det du läser är hur konversationen med ChatGPT sett ut. Den fetstilade texten är frågan från användaren, det övriga är svaret. I vissa fall är dock delar av en lång fråga till ChatGPT bortklippt. I de fallen står en beskrivning av vad som klippts bort inom hakparenteser.
+I den här boken finns många utdrag från konversationer med ChatGPT. De är ordagrant återgivna – det du läser är hur konversationen med ChatGPT sett ut. Den fetstilade texten är frågan (”prompten”) från användaren, det övriga är svaret från AI:n. Om frågan innehåller stora mängder inklistrad text är den dock inte återgiven i boken; i stället står en kort beskrivning inom hakparenteser.
 
 ---- 
 
@@ -19,7 +19,7 @@ I den här boken finns många utdrag från konversationer med ChatGPT. De är or
 > Under 1920- och 30-talet blev modelljärnvägar mer avancerade och det började dyka upp företag som specialiserade sig på att tillverka modelltåg och -järnvägar. I USA var Lionel och American Flyer två av de mest kända företagen inom modelljärnväg, medan Hornby i Storbritannien var en ledande tillverkare i Europa.
 > 
 > Sedan dess har modelljärnvägar utvecklats mycket, med mer detaljerade modeller och avancerad teknologi, som digital styrenhet och ljud- och ljuseffekter. Idag finns det många olika klubbar och organisationer runt om i världen som ägnar sig åt modelljärnvägar, och det finns också många olika typer av modeller att välja mellan, inklusive skala H0, N och G.
-
+> 
 > **En helt annan sak: Vet du vad som krävs för att odla potatis på ett effektivt sätt?**
 > 
 > För att odla potatis på ett effektivt sätt är det viktigt att välja rätt sorts potatis och jordtyp, samt att skapa rätt förhållanden för växten att växa i. Här är några viktiga faktorer att tänka på:
@@ -32,7 +32,7 @@ I den här boken finns många utdrag från konversationer med ChatGPT. De är or
 > 6. Skötsel: Potatis kräver också regelbunden skötsel för att hålla ogräs och sjukdomar borta.
 > 7. Skörd: Potatis skördas vanligtvis när bladen på plantan börjar att gulna och torka. Det är viktigt att inte skörda för tidigt eftersom potatisen inte har utvecklat sig fullt ut ännu.
 > 8. Lagring: Skördad potatis lagras bäst i en mörk, sval och torr miljö.
-
+> 
 > **Tack! En sak till, förresten: Vad utmärker schottis som dans?**
 > 
 > Schottis är en traditionell folkdans från Skottland som ofta dansas till fiol- och accordeonmusik. Den är känd för sina snabba och livliga steg och är vanligtvis dansad i par.
@@ -47,18 +47,27 @@ I den här boken finns många utdrag från konversationer med ChatGPT. De är or
 > 
 > Det finns många olika varianter av schottis, och dansen kan variera beroende på region och tradition. Men oavsett var och hur den dansas, är schottis känd för sin livliga och energiska karaktär.
 
-### ChatGPT gör fel ibland
+Att börja använda ChatGPT kan vara överväldigande eller till och med omvälvande. Oavsett om du ställer frågor om cellbiologi, August Strindberg eller buddhismens historia har den svar, som levereras sakligt och tydligt. Den kan sammanfatta texter, skriva dikter, skapa datorprogram, hitta på berättelser, ge återkoppling på och ge förbättringsförslag på textutkast, och utveckla sina resonemang i en konversation med en människa. I kapitel ((**X**)) kan du läsa mer om hur verktyg som ChatGPT kan påverka vår syn på kunskap, och på oss själva.
 
-Något som är viktigt att lägga märke till redan nu är att ChatGPT begår misstag. Om du läste igenom konversationen la du förmodligen märke till att översättningar och ordval ibland blir konstiga (exempelvis “gödselmedel” i stället för “gödsel” och “accordeonmusik” i stället för “dragspelsmusik”). Sådana misstag är betydligt ovanligare på engelska, som är ChatGPT:s modersmål.
+## 2: Fyra typer av dumheter
+Något som är viktigt att lägga märke till redan nu är att ChatGPT begår misstag. Om du läste igenom konversationen ovan la du förmodligen märke till att översättningar och ordval ibland blir konstiga (exempelvis “gödselmedel” i stället för “gödsel” och “accordeonmusik” i stället för “dragspelsmusik”). Sådana misstag är betydligt ovanligare på engelska, eftersom den största delen av texten ChatGPT tränats på är på engelska.
 
-Något som är svårare att lägga märke till är sakfelen – dels eftersom de kräver förhållandevis goda kunskaper hos läsaren, dels för att de är insvepta i en tydlig text som är lätt att ta till sig och tro på. Till exempel kan den som läser på om schottis på Wikipedia konstatera att den troligtvis uppstod i Böhmen – inte Skottland. (Nationalencyklopedin å sin sida säger att schottis “presenterades” i Paris.)
+Något som är svårare att lägga märke till är sakfelen – dels eftersom de kräver förhållandevis goda kunskaper hos läsaren, dels för att de är insvepta i en tydlig text som är lätt att ta till sig och tro på. Till exempel kan den som läser på om schottis på Wikipedia konstatera att den troligtvis uppstod i Böhmen – inte Skottland, som ChatGPT skrev. (Nationalencyklopedin å sin sida säger att schottis “presenterades” i Paris utan att nämna var dansen uppstod.)
 
-Ett par andra misstag – om man ska kalla dem för misstag – är ännu svårare att upptäcka. Wikipedias artikel om schottis säger att det är “lugnt tempo”, inte “snabb och livlig rytm” som ChatGPT säger. Schottis i andra delar av världen verkar i regel ha ett högre tempo. Har ChatGPT fel som säger att det är snabb rytm? Egentligen inte. Däremot beskriver den schottis utifrån ett perspektiv som kanske inte stämmer i Sverige. Ett annat kanske-misstag är att beskrivningen av modelljärnvägens historia inte nämner tillverkaren Märklin (men däremot några andra tillverkare), trots att Märklin både spelar en roll i modelljärnvägens historia och för många är nära nog synonymt med modelljärnväg.
+Ett par andra misstag – om man ska kalla dem för misstag – är ännu svårare att upptäcka. Wikipedias artikel om schottis säger att det är “lugnt tempo”, inte “snabb och livlig rytm” som ChatGPT säger. Schottis i andra delar av världen verkar i regel ha ett högre tempo än schottis i Sverige. Har ChatGPT fel som säger att det är snabb rytm? Egentligen inte. Däremot beskriver den schottis utifrån ett perspektiv som kanske inte stämmer i Sverige – vilket är det land där jag bor. Ett annat kanske-misstag är att beskrivningen av modelljärnvägens historia inte nämner tillverkaren Märklin (men däremot några andra tillverkare), trots att Märklin både spelar en roll i modelljärnvägens historia och för många är nära nog synonymt med modelljärnväg.
 
-I den här boken kallas sådana kanske-misstag för *vinklingar*. De är inte fel, men den avspeglar en särskild del av sanningen, eller får saker att uppfattas på ett visst sätt eller ur ett visst perspektiv. De är svåra att upptäcka, särskilt för någon som inte är insatt, och riskerar att knuffa mottagaren in i en specifik världsbild utan att vara medveten om det.
+Sådana kanske-misstag är inte fel, men de avspeglar en särskild del av sanningen, eller får saker att uppfattas på ett visst sätt eller ur ett visst perspektiv. De är svåra att upptäcka, särskilt för någon som inte är insatt, och riskerar att knuffa mottagaren in i en specifik världsbild utan att vara medveten om det.
 
-ChatGPT:s imponerande förmåga att skapa sakliga, tydliga och korrekta budskap gör det lätt att glömma bort att det ibland (eller ofta) dyker upp sakfel och vinklingar. I den här boken kommer exempel på sådana vara inlagda för att göra det lättare att komma ihåg att ChatGPT måste användas med omdöme.
+En sista typ av misstag handlar inte om vad ChatGPT svarar, utan vad man förväntar sig. Att ChatGPT ger dig tio välformulerade quiz-frågor om upplysningstiden behöver inte betyda att det är bra pedagogik att använda frågorna – kanske lär sig eleverna bättre av helt andra typer av aktiviteter, eller för den delen quiz-frågor valda utifrån vad du som lärare vet är vanliga missuppfattningar eller vad som är särskilt viktigt att kunna. Mer allvarliga pedagogiska dumheter är att låta ChatGPT skapa provuppgifter eller bedöma uppsatser från elever, utan att vara _mycket_ noga med att det ChatGPT levererar stämmer med vad man vill ha (och då kan man fråga sig hur mycket hjälp man egentligen fått från verktyget). Det är naturligt och nyttigt att utforska olika sätt att använda nya verktyg, och allt man testar behöver inte fungera bra. Men det är lätt hänt att kraftfulla verktyg överanvänds och att utgångspunkten blir verktyget, snarare än det man vill använda det till.
 
+ChatGPT:s mångsidighet och imponerande förmåga att skapa sakliga, tydliga och korrekta budskap gör det lätt att glömma bort att det dyker upp olika typer av AI-dumheter. I den här boken delas de in i fyra kategorier:
+
+1. **Språkmässiga dumheter**, så som stavfel och felaktiga ordval. Dessa är förhållandevis lätta att upptäcka. Största risken med språkmässiga dumheter är förmodligen att elever kan bli förvirrade över terminologi.
+2. **Faktamässiga dumheter**, vilket också kan omfatta logiska motsägelser. De här dumheterna kräver en del fackkunskaper för att upptäcka, inte minst som ChatGPT formulerar sig på så förtroendeingivande sätt.
+3. **Värderings- och perspektivdumehter**, där sätten svar från AI:n kanske utgår från förhållanden i USA, befäster stereotypa könsroller eller inte tar hänsyn till vissa grupper i samhället. Att upptäcka de här dumheterna kräver en del eftertanke.
+4. **Pedagogiska dumheter**, som betyder att svar från ChatGPT används utan att reflektera över om de faktiskt leder till det lärande som man är ute efter.
+
+De här typerna av dumheter är inte unika för ChatGPT, utan kan förstås uppstå även helt utan teknikens hjälp. Och ingen ska känna krav att aldrig begå sådana misstag. Men den som har de fyra typerna av dumheter i bakhuvudet blir det lättare att använda ChatGPT med omdöme.
 
 ### Olämpliga budskap
 
@@ -66,14 +75,15 @@ ChatGPT har spärrar för vissa typer av budskap. Om du försöker få ChatGPT a
 
 Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg, men spärrarna är inte hundraprocentiga. Det betyder att svar inom olämpliga områden kan gå igenom spärrarna, och även att envetna användare kan hitta sätt konsekvent gå runt dem. (Det finns, inte helt oväntat, tips om detta att hitta på nätet.)
 
+De allra flesta tips och idéer i den här boken utgår från att det är läraren som använder ChatGPT, inte eleven. Det kan förstås ändå hända att elever använder ChatGPT, och då är det bra att känna till att det kan dyka upp olämpliga budskap.
 
 ### Övningar
 
-1. Vad utmärker språkfel, sakfel och vinklingar? Överlappar kategorierna?
-2. Kan du komma på ytterligare kategorier av misstag?
-3. Kolla igenom konversationen igen och fundera över var det kan finnas sakfel och vinklingar, utöver de som nämnts.
+1. Vilka är de fyra typerna av AI-dumheter, och vad utmärker dem?
+2. Kan du komma på ytterligare kategorier av misstag eller dumheter?
+3. Kolla igenom konversationen i kapitel 1 igen och fundera över var det kan AI-dumheter, utöver de som nämnts.
 
-## 2: Så kommer du igång med ChatGPT
+## 3: Så kommer du igång med ChatGPT
 
 ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com][1]). Konto är gratis, och än så länge är det också gratis att använda ChatGPT. Användarvillkoren för OpenAI-konton säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com][2] och börja använda ChatGPT.
 
@@ -110,28 +120,11 @@ På nätet finns samlingar med prompter som folk funnit särskilt användbara. D
 
 ### Övningar
 
-1. Skapa ett konto på OpenAI, om du går med på deras användarvilkor (och inte redan har ett konto).
-2. Ställ frågor till ChatGPT. Ha minst tre chattar, där du ställer uppföljningsfrågor i minst en. Minst en av chattarna ska handla om skola eller undervisning. Testa att skriva både på svenska och engelska.
-
-## 3: Några tankar som ChatGPT väcker
-
-*Om du inte använt ChatGPT förut rekommenderas att du testar en stund innan du läser vidare.*
-
-Att börja använda ChatGPT kan vara överväldigande eller till och med omvälvande. Oavsett om du ställer frågor om cellbiologi, August Strindberg eller buddhismens historia har den svar, som levereras sakligt och tydligt. Den kan sammanfatta texter, skriva dikter, skapa datorprogram, hitta på berättelser, ge återkoppling på och ge förbättringsförslag på textutkast, och utveckla sina resonemang i en konversation med en människa. Ja, det finns tydliga hål i ChatGPT:s kunskaper, och den beter sig självsäkert även när den har fel, men vad AI:n klarar av överstiger vad de allra flesta förväntar sig.
-
-Vad betyder teknik som denna för vår syn på kunskap?
-
-Det är för tidigt för att säga något säkert om hur vår syn på kunskap kommer att ändras, inte minst för att det precis har börjat. Men det är rimligt att tro att delar av det vi idag tycker är viktiga kunskaper kommer att stöpas om, och vissa saker kommer vi inte längre tycka vara viktiga. När miniräknare gjorde intåg förutspåddes att vi skulle bli sämre på att räkna för hand och med huvudräkning. Det har kanske i viss mån också blivit så, men det är tydligt att vi fortfarande tycker att grundläggande räknefärdigheter är mycket viktiga. Samtidigt anser vi det närmast meningslöst med saker som att räkna ut kvadratrötter eller multiplicera stora tal för hand. En viktig iakttagelse är också att användning av miniräknare – och mer avancerade verktyg – nu är en del av kunskaper man förväntas ha i samband med matematik.
-
-Något som gör det extra svårt att säga vad ChatGPT och liknande verktyg innebär för vår syn på kunskap är att tekniken fortfarande accelererar. Den AI-teknik vi ser idag är miltals bättre än [den som fanns 2019][3] – och redan då väckte både uppmärksamhet, frågor och oro. Under våren 2023 förväntas GPT-3.5, som är den underliggande modellen för ChatGPT, ersättas av en mycket mer kapabel GPT-4, och flera andra företag har liknande tjänster som ännu ej lanserats.
-
-((Några ord om att det krävs kunskaper för att ha omdöme, och omdöme behövs alltid. Att ChatGPT egentligen bara är användbar för sådant vi redan kan, men där vi vill ha hjälp att göra det snabbare, eller mer.))
-
-Om du vill läsa mer om hur växande AI-teknik kan påverka människans syn på sig själv kan du titta i kapitel ((**X**)).
+1. Om du inte redan har ett konto hos OpenAI, skapa ett – förutsatt att du går med på deras användarvilkor.
+2. Testa att ställa frågor till ChatGPT eller be ChatGPT skapa vissa typer av texter. Ha minst tre konversationer, där du ställer uppföljningsfrågor i minst en. Minst en av chattarna ska handla om skola eller undervisning. Testa att skriva både på svenska och engelska.
 
 [1]:	https://beta.openai.com/
 [2]:	https://chat.openai.com/
-[3]:	https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction
 
 [image-1]:	https://user-images.githubusercontent.com/262940/212463937-050069cb-ad3a-4e64-a212-a266b4d973b1.png
 [image-2]:	https://user-images.githubusercontent.com/262940/212463940-7cf40758-8d33-4520-8b8e-8b3cd80134c7.png

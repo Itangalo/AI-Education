@@ -1,9 +1,12 @@
 # Del 2: Använda ChatGPT i praktiken
-Som beskrivits i del 1 av boken finns all anledning att använda omdöme för att avgöra om det ChatGPT skriver är lämpligt att använda, och i så fall i vilka delar. Text på svenska innehåller ganska ofta språkfel, men de allvarligare och mer svårupptäckta problemen handlar om sakfel och vinklingar av budskap.
+Som beskrivits i del 1 av boken finns all anledning att använda omdöme för att avgöra om det ChatGPT skriver är lämpligt att använda, och i så fall i vilka delar.  Var vaksam på de fyra typerna av AI-dumheter:
 
-Utöver det finns förstås en mycket viktig fråga att ställa: Är det här innehållet användbart för det jag vill göra? Att ChatGPT kan leverera tolv lagom svåra quiz-frågor inom ett visst område behöver inte betyda att frågorna ringar in sådana kunskaper som är meningsfulla för din undervisning.
+1. Språkmässiga dumheter.
+2. Faktamässiga dumheter.
+3. Värderings- och perspektivdumheter.
+4. Pedagogiska dumheter.
 
-I boken finns exempel på budskap från ChatGPT som innehåller fel av olika slag. De är dels till för att avspegla hur svar från ChatGPT ser ut, dels för att göra det lättare att komma ihåg att alltid använda omdömet.
+Alla dessa dumheter finns representerade i exemplen i den här delen av boken – dels för att avspegla hur svar från ChatGPT ser ut, dels för att göra det lättare att komma ihåg att alltid använda ditt omdöme.
 
 ## 4: Saker du inte ska göra med ChatGPT
 
@@ -40,18 +43,18 @@ Det är kanske lite tjatigt, men du behöver alltid granska och värdera texter 
 > 
 > Så sannolikheten att slå par med tre tärningar är 180/216 = 1/6 eller ungefär 0,17.
 
-I konversationen ovan uttrycker sig ChatGPT klart och tydligt, och det den säger är *fel*. (Det är drygt 40 procents chans att slå ett par.) ChatGPT kan till och med motivera sitt svar, på ett sätt som på ytan låter trovärdigt men är inkonsekvent och innehåller felaktiga beräkningar. *Det som ChatGPT är bra på är att låta som en matematiker, inte att vara en matematiker.*
+I konversationen ovan uttrycker sig ChatGPT klart och tydligt, och det den säger är *fel*. (Chansen att slå ett par är drygt 40 procent.) När man ber kan ChatGPT till och med motivera sitt svar, på ett sätt som på ytan låter trovärdigt men är inkonsekvent och innehåller felaktiga beräkningar. *Det som ChatGPT är bra på är att låta som en matematiker, inte att vara en matematiker.* Det i sig är en effekt av att ChatGPT:s bild av världen börjar och slutar med text: Den skapar text som stämmer med hur text brukar se ut – och den behöver inte nödvändigtvis vara vare sig logiskt sammanhängande eller stämma med världen som vi människor lever i.
 
 En elev som lämnas att lära sig av ChatGPT kan råka ut för alla möjliga dumheter. I bästa fall blir eleven förvirrad av dumheterna och frågar läraren. Men det är också fullt möjligt att eleven lär sig felaktigheter, utan att du som lärare ens märker när det händer, och att det skapar svårigheter senare.
 
 Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men ChatGPT kan kasta ur sig mycket mer dolda misstag som blir till fällor för eleverna. ChatGPT är *inte* en lärare eller instruktör.
 
 ## 5: Undervisa om ChatGPT och liknande verktyg
-Verktyg liknande ChatGPT har funnits i flera år och används i olika digitala tjänster. ChatGPT ger bättre svar än tidigare verktyg, men en viktig skillnad är också att gränssnittet gör tekniken tillgänglig för de stora massorna. Allt pekar mot tekniken fortsätter att utvecklas, och att den blir mer och mer tillgänglig. Därmed är det också rimligt att elever får chans att lära sig om vad verktyg som ChatGPT kan göra – och behovet att använda dem med omdöme.
+Verktyg liknande ChatGPT har funnits i flera år och används i olika digitala tjänster. ChatGPT ger bättre svar än tidigare verktyg, men en väsentlig skillnad är också att gränssnittet gör tekniken tillgänglig för de stora massorna. Allt pekar mot tekniken fortsätter att utvecklas, och att den blir mer och mer tillgänglig. Därmed är det också rimligt att elever får chans att lära sig om vad verktyg som ChatGPT kan göra – och behovet att använda dem med omdöme.
 
 ### Diskutera värderingar och andra icke-explicita budskap
 
-Svar från ChatGPT kan vara utmärkta för att låta elever diskutera vilka vinklingar som eventuellt gömmer sig i texten: Vilka antaganden har AI:n gjort? Vilken typ av kultur verkar den utgå från? Finns det aspekter i svaret som utesluter eller förminskar vissa grupper av människor? Vilken typ av värderingar finns dolda under ytan?
+Svar från ChatGPT kan vara utmärkta för att låta elever diskutera vilka värderings- och perspektivdumheter som eventuellt gömmer sig i texten: Vilka antaganden har AI:n gjort? Vilken typ av kultur verkar den utgå från? Finns det aspekter i svaret som utesluter eller förminskar vissa grupper av människor? Vilken typ av värderingar finns dolda under ytan?
 
 Det kan också vara värdefullt att diskutera vad som händer om en eller ett fåtal avsändare får stort inflytande över svar på frågor som människor ställer. Skiljer det sig från hur Google och ett fåtal sociala plattformar dominerar informationsvärlden idag? Hur då, eller varför inte?
 
@@ -113,6 +116,7 @@ I exemplen nedan är de fyra första prompterna avsiktligt parvis identiska.
 > Det är också viktigt att notera att SD har arbetat hårt för att förändra sin image sedan tidigare år, för att bli mer acceptabelt för väljare och för att få ett större stöd från allmänheten.
 
 ### Träna på att granska information
+
 Även försöka ordna referenser till studier – och vad betyder det?
 
 ## Planeringshjälp
