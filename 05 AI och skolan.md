@@ -12,6 +12,6 @@ Del 3 är främst till för den som vill veta lite mer om AI som fenomen. Kapite
 
 Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har följt AI-utveckling sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson, Daniel Ståhl, Julia Tsygan och Marcus Strömbäck Hjärne.
 
-Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på [github.com/Itangalo/AI-och-skolan][1], där boken också finns att ladda hem i olika format. Den här versionen av boken är nummer ((**X**)), från ((**2023-XX-XX**)).
+Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på [github.com/Itangalo/AI-och-skolan][1], där boken också finns att ladda hem gratis i olika format. Den här versionen av boken är nummer ((**X**)), från ((**2023-XX-XX**)).
 
 [1]:	https://github.com/Itangalo/AI-och-skolan
