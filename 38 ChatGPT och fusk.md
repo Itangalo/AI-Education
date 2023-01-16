@@ -1,0 +1,22 @@
+## ChatGPT och fusk
+
+“Fusk” kan betyda många olika saker, och det är värt att komma ihåg att det inte behöver vara fusk att använda ChatGPT i skrivuppgifter – mer än det behöver vara fusk att använda stavningskontroll eller miniräknare. I vissa lägen räknas det som fusk, i andra inte.
+
+Med “fusk” menas i den här boken att medvetet försöka lura eller vilseleda läraren, och det det är tydligt att ChatGPT gör det enklare för elever att fuska inte minst när det gäller skrivuppgifter. ChatGPT kan skapa texter om det mesta som behandlas i skolan, med en kvalitet som både till innehåll och i stil kan uppfattas som att de är skrivna av en människa. Hur kommer man runt ett sånt problem?
+
+Ett sätt att försöka hindra fusk med hjälp av ChatGPT är att blockera webbtjänsten på skolnätverk. Det är en väg som en del skolor tagit, där det i dagsläget mest omtalade fallet är alla skolor i staten New York. En annan möjlighet är att försöka identifiera vilka texter som är skapade med ChatGPT (eller andra liknande verktyg). Ett verktyg med namnet GPT Zero lanserades i början av 2023, för att göra just detta. Det kollar bland annat om ordföljd i en text är “sannolik”, vilket i så fall pekar mot att texten är skriven av en AI av samma typ som ChatGPT – som väljer ord just med utgångspunkt i hur väl ord och ordföljder passar mot texter de tränats på.
+
+Jag är övertygad om att uppfinningsrika elever kommer att hitta förhållandevis enkla sätt att lura AI-kontroller och ta sig runt blockeringar i nätverk: Det behöver inte vara svårare än att göra lätta bearbetningar av en ChatGPT-text, respektive att dela nätverk från sin telefon. Om man som lärare behöver skriftliga alster från elever, och de används som betygsunderlag, tror jag alltså att man behöver genomföra de uppgifterna på ett övervakat sätt – exempelvis inte hemma. Jag tror också att det finns anledning att undersöka hur uppgifter kan utformas så att exempelvis ChatGPT kan användas som ett verktyg i arbetet, i stället för att klassas som fusk. Andra vägar man kan tänka sig är att försöka minska incitamenten för elever att fuska, men med det fokus som finns på betyg är det en svår kamp.
+
+Oavsett hur man arbetar kommer det att finnas fall där man misstänker att elever har fuskat. Ett naturligt med ganska tidskrävande sätt att hantera det är att be elever berätta om det de lämnat in. Om eleven kan göra det på ett sätt som är övertygande, så är det ett trovärdigt sätt att se att eleven har de kunskaper man som lärare är intresserad av. Om eleven inte kan redogöra för det hen lämnat in, så är det ett trovärdigt sätt att se att eleven *inte* har de kunskaperna. Huruvida eleven fuskat eller inte, och med vilka verktyg, blir sekundärt – det är elevens kunskaper som hamnar i fokus.
+
+I vissa ämnen, eller vissa delar av ämnen, är det svårt att arbeta på det viset. Och hur man hanterar frågor om fusk handlar ofta om både personliga förhållningssätt och policyer på skolan.
+
+I korthet tror jag att det är nyttigt att fundera i de här termerna, när det gäller frågan om fusk med ChatGPT.
+
+* Kan incitamenten för elever att fuska minskas? I många fall är det synonymt med frågan om uppgifter behöver användas som betygsunderlag.
+* Kan betygsgrundande uppgifter genomföras på ett övervakat sätt? Det kan handla om salsskrivningar med papper och penna, alternativt dator utan nätuppkoppling, men också exempelvis att frågor ställs muntligt på plats med några elver i taget.
+* Kan uppgifter utformas så att ChatGPT är ett tillåtet verktyg? Det är svårt att uppmuntra elever under 18 år att använda ChatGPT, på grund av användarvillkoren, men om målet för en uppgift är en muntlig redovisning eller en fungerande lösning på ett problem behöver det inte vara fel om elever tar hjälp från olika håll på vägen.
+* Hur kan man arbeta med att följa upp misstänkt fusk?
+
+Vissa menar att möjligheten att fuska på inlämningsuppgifter funnits länge, och regelbundet utnyttjats av en liten men hängiven eller priviligerad grupp elever. ChatGPT bidrar till att ge fler möjligheter att fuska, vilket gör att problemet måste tas mer på allvar – men också att förutsättningarna blir mer rättvisa.
