@@ -18,7 +18,7 @@ Det är kanske lite tjatigt, men du behöver alltid granska och värdera texter 
 > **Vad är sannolikheten att slå par med tre tärningar?**
 > 
 > Sannolikheten att slå par med tre tärningar är 1/6 eller ungefär 0,17. Detta eftersom det finns sex möjliga resultat på en tärning och du vill att två av dem ska vara det samma numret, medan det tredje numret kan vara vilket som helst.
-
+> 
 > **Jag förstår inte riktigt. Kan du förklara närmare hur jag ska tänka?**
 > 
 > Säkerställ att jag förstår din fråga korrekt, du vill veta sannolikheten att slå par med tre tärningar (där två av tärningarna visar samma nummer och den tredje är ett annat nummer) ?

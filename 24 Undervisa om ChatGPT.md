@@ -85,9 +85,12 @@ Nedan syns några förslag på frågeställningar man kan visa för elever och l
 > 
 > Avståndet mellan Stockholm och Göteborg är cirka 570 kilometer.
 
+### Att be ChatGPT om forskning som stödjer påståenden
 Ett lite speciellt sätt att försöka granska påståenden från ChatGPT är att be om referenser. ChatGPT kan inte ge direkta referenser för sina påståenden – den har helt enkelt inte den informationen – men det går att be ChatGPT om hjälp med att hitta studier som stödjer påståenden.
 
 En särskilt viktig fråga i det här sammanhanget är vad det betyder att man kan hitta forskningsstudier som stödjer ett påstående. Att det finns studier som pekar på en viss sak behöver inte betyda att det är ett allmänt accepterat resultat, och den som har frihet att välja vilka studier som lyfts fram kan visa stöd för det mesta. (Hänvisningarna till publicerade artiklar nedan är inte verifierade.)
+
+I de två första exemplen nedan ombeds ChatGPT hitta forskning som stödjer vissa påståenden, medan det tredje exemplet har en mer öppen ingång i frågeställningen.
 
 > **Varför är det viktigt för barn att lära sig använda datorer?**
 >  
@@ -120,3 +123,45 @@ En särskilt viktig fråga i det här sammanhanget är vad det betyder att man k
 > **Du skriver att för mycket skärmtid också påverka barns sömn och hälsa negativt. Kan du ge exempel på forskning som stödjer det?**
 >  
 > Ja, det finns forskning som visar att för mycket skärmtid kan ha negativa effekter på barns sömn och hälsa. En studie från 2015 publicerad i Pediatrics fann att barn som använde elektroniska enheter före sänggåendet hade svårare att somna och hade kortare sömnlängd än barn som inte använde enheter före sänggåendet. En annan studie från 2017 publicerad i JAMA Pediatrics fann att barn som använde elektroniska enheter för mer än 2 timmar per dag hade en högre risk för övervikt och fetma jämfört med barn som använde enheter mindre än 2 timmar per dag. Dessa studier är ett exempel på forskning som visar att för mycket skärmtid kan påverka barns sömn och hälsa negativt. Det är viktigt att notera att det fortfarande är en pågående debatt och forskning om detta ämne och det rekommenderas att man följer uppdateringar och råd från relevanta myndigheter och organisationer.
+
+---- 
+
+> ** Jag skulle vilja lära mig mer om för- och nackdelar när det gäller datorer i skola, i synnerhet när det gäller förskola, förskoleklass och lågstadiet. Har du förslag på forskningsartiklar jag kan läsa?**
+>  
+> Det finns många forskningar som undersöker för- och nackdelar med att använda datorer i skolan, särskilt i förskoleklass och lågstadiet. Här är några exempel på forskningsartiklar som du kan läsa för att lära dig mer:
+>  
+> 1. "The Impact of Digital Technology on Learning in Primary Schools: A Review of the Literature" av Pauline Kneale och Sian Bayne. Den här artikeln ger en översikt över forskningen om hur digital teknologi påverkar lärandet i grundskolan.
+> 2. "Digital Technology and Learning in Early Childhood Education: A Review of the Research" av Christina Ergulec och Kristin Hurdal. Den här artikeln ger en översikt över forskningen om hur digital teknologi påverkar lärandet i förskoleklassen.
+> 3. "The Impact of Technology on Learning in the Early Years: A Review of the Literature" av Sandra Schuck och Kelly Neuman. Den här artikeln ger en översikt över forskningen om hur teknologi påverkar lärandet i förskolan.
+> 4. "The Impact of Technology on Learning in the Primary Years: A Review of the Literature" av Sharon R. Bird och Stephanie L. M. Gee. Den här artikeln ger en översikt över forskningen om hur teknologi påverkar lärandet i lågstadiet.
+> 
+> Det är viktigt att komma ihåg att forskningen inom detta område är fortfarande under utveckling och det finns ingen entydig slutsats om fördelar och nackdelar med att använda datorer i skolan.
+>  
+> Vidare kan det vara bra om du följer forskningen från universitet och forskningsinstitut som är kända för att publicera artiklar på området. Såsom MIT och Stanford University.
+>  
+> ** Varför valde du ut just dessa artiklar?**
+>  
+> Jag valde ut dessa artiklar eftersom de är relevanta för det som du frågade efter och ger en översikt över forskningen om hur digital teknologi påverkar lärandet i förskolan, förskoleklassen och lågstadiet. De är alla välrenommerade och har publicerats i tidsskrifter med hög kvalitet.
+>  
+> "The Impact of Digital Technology on Learning in Primary Schools: A Review of the Literature" av Pauline Kneale och Sian Bayne. ger en översikt över forskningen om hur digital teknologi påverkar lärandet i grundskolan, det ger en bred översikt av området.
+>  
+> "Digital Technology and Learning in Early Childhood Education: A Review of the Research" av Christina Ergulec och Kristin Hurdal. ger en översikt över forskningen om hur digital teknologi påverkar lärandet i förskoleklassen och fokuserar på förskoleklassen.
+>  
+> "The Impact of Technology on Learning in the Early Years: A Review of the Literature" av Sandra Schuck och Kelly Neuman. ger en översikt över forskningen om hur teknologi påverkar lärandet i förskolan och fokuserar på förskolan.
+>  
+> "The Impact of Technology on Learning in the Primary Years: A Review of the Literature" av Sharon R. Bird och Stephanie L. M. Gee. ger en översikt över forskningen om hur teknologi påverkar lärandet i lågstadiet och fokuserar på lågstadiet.
+>  
+> Dessa artiklar är alla välrenommerade och har publicerats i tidsskrifter med hög kvalitet och ger en bra översikt av området och kan hjälpa till att ge dig en mer djupgående förståelse för ämnet.
+>  
+> **Tack! Har du förslag på forskning som gjorts i svenska skolan?**
+>  
+> Ja, det finns forskning som har gjorts om användning av digital teknologi i svenska skolan. Här är några exempel på forskningsartiklar som du kan läsa för att lära dig mer om detta ämne:
+>  
+> 1. "Lärande med digitala verktyg i svenska skolan: En kritisk granskning av litteraturen" av Karin Aronsson och Maria Lindqvist. Den här artikeln ger en översikt över forskningen om användning av digitala verktyg i svenska skolan och diskuterar både fördelar och utmaningar.
+> 2. "Digitala verktyg i svenska skolan: En kvalitativ studie om elevernas perspektiv" av Elin Andersson och Therese Lindahl. Den här artikeln undersöker elevernas perspektiv på användning av digitala verktyg i svenska skolan och diskuterar både fördelar och utmaningar.
+> 3. "Digitalisering i svenska skolan: En kritisk granskning av forskningen" av Åsa Mäkitalo och Ann-Sofie Wennberg. Den här artikeln ger en översikt över forskningen om digitalisering i svenska skolan och diskuterar både fördelar och utmaningar.
+> 4. "Digitala verktyg i svenska skolan: En kvalitativ studie om lärares perspektiv" av Therese Lindahl och Elin Andersson. Den här artikeln undersöker lärares perspektiv på användning av digitala verktyg i svenska skolan och diskuterar både fördelar och utmaningar.
+> 
+> Det är viktigt att notera att forskningen inom detta område är fortfarande under utveckling och det finns ingen entydig slutsats om fördelar och nackdelar med att använda datorer i skolan.
+> 
+> Följ också forskningen från svenska universitet och forskningsinstitut som är kända för att publicera artiklar på området, som exempelvis Linköpings universitet och Umeå universitet.
