@@ -1,12 +1,14 @@
 # AI och skolan
 
-ChatGPT lanserades i slutet av 2022 och har spridits som en löpeld. Det är en webbtjänst där man chattar med en artificiell intelligens (AI) som är kunnig inom massor av områden, är vänlig och tydlig, anpassar sig efter hur konversationen fortlöper, och aldrig tröttnar på att svara på frågor och hjälpa till. Det är troligt att ChatGPT och tjänster som liknar den kommer att påverka vardag och samhälle på en rad olika sätt.
+ChatGPT lanserades i slutet av 2022 och har spridits som en löpeld. Det är en webbtjänst där man chattar med en artificiell intelligens (AI) som är kunnig inom förbluffande många områden, lyssnar på önskemål, är vänlig och tydlig, anpassar sig efter hur konversationen fortlöper, och aldrig tröttnar på att svara på frågor och hjälpa till. Användare har tagit nytta av ChatGPT för allt ifrån matlagning till programmering, från att skriva artiklar till att skapa interaktiva spel. ChatGPT och framtida tjänster som liknar den kommer sannolikt att påverka samhället och vardagen på en rad olika sätt.
 
 Den här boken handlar om hur du som lärare kan använda ChatGPT för att underlätta ditt arbete. Boken handlar också om hur man *inte* bör använda ChatGPT i sin undervisning. Ett centralt tema i boken är omdöme, vilket är särskilt angeläget med kraftfulla verktyg som inte har testats i undervisning på ett systematiskt sätt.
 
-Kapitel ((**X–X**)) tar upp praktiska exempel på hur du kan använda ChatGPT för att underlätta ditt arbete, och är förmodligen de du kommer att ha mest nytta av. Bläddra gärna fritt i dem och få inspiration, men hoppa inte över kapitel ((**X**)) som tar upp sådant som du *inte* ska göra med ChatGPT. Om du inte har använt ChatGPT förut berättar kapitel ((**X**)) hur du kommer igång, och slutet av kapitlet innehåller också några tips som kanske är bra även för den som använt ChatGPT ett tag. Kapitel ((**X**)) tar upp frågan om ChatGPT och fusk.
+Del 1 i boken ger en introduktion till vad ChatGPT är och hur man kommer igång med att använda tjänsten. Slutet av kapitel ((X)) innehåller några tips som kanske är bra även för den som använt ChatGPT ett tag. Kapitel ((**X**)) är kanske det viktigaste i hela boken: Det beskriver fyra olika typer av AI-dumheter som man behöver vara vaksam på.
 
-Om du är intresserad av AI i allmänhet tar kapitel ((**X**)) upp bakgrund till de senaste årens AI-utveckling, inklusive mer information om ChatGPT och företaget OpenAI som skapade tjänsten. Kanske är du också intresserad av kapitel ((**X**)) och ((**X**)), som dels tar upp bredare frågor om AI och människan, dels mer spekulativa tankar om hur AI kan komma att påverka skola i framtiden.
+Del 2 har fokus på praktisk användning. Kapitel ((**X–X**)) innehåller exempel på hur du kan använda ChatGPT för att underlätta ditt arbete, och är förmodligen de du kommer att ha mest nytta av. Bläddra gärna fritt i dem och få inspiration, men hoppa inte över kapitel ((**X**)) som tar upp sådant som du *inte* ska göra med ChatGPT. Kapitel ((**X**)) tar upp frågan om ChatGPT och fusk.
+
+Del 3 är främst till för den som vill veta lite mer om AI som fenomen. Kapitel ((**X**)) tar upp bakgrund till de senaste årens AI-utveckling, inklusive mer information om ChatGPT och företaget OpenAI som skapade tjänsten. Kapitel ((**X**)) och ((**X**)) tar upp mer spekulativa tankar om hur AI kan komma att påverka skola i framtiden, respektive bredare frågor om AI och människan.
 
 Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har följt AI-utveckling sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson, Daniel Ståhl, Julia Tsygan och Marcus Strömbäck Hjärne.
 
@@ -77,7 +79,7 @@ ChatGPT:s imponerande förmåga att skapa sakliga, tydliga och korrekta budskap 
 
 ChatGPT har spärrar för vissa typer av budskap. Om du försöker få ChatGPT att berätta hur man skapar brandbomber, blandar metanfetamin eller om du vill få förslag på hur man kan trakassera, misshandla eller tortera någon kommer ChatGPT svara med att det bryter mot dess policy att svara. Samma sak gäller exempelvis att ge medicinsk rådgivning (vilket förmodligen har att göra med amerikansk lagstiftning).
 
-Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg, men spärrarna är inte 100-procentiga. Det betyder att svar inom olämpliga områden kan gå igenom spärrarna, och även att envetna användare kan hitta sätt konsekvent gå runt dem. (Det finns, inte helt oväntat, tips om detta att hitta på nätet.)
+Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg, men spärrarna är inte hundraprocentiga. Det betyder att svar inom olämpliga områden kan gå igenom spärrarna, och även att envetna användare kan hitta sätt konsekvent gå runt dem. (Det finns, inte helt oväntat, tips om detta att hitta på nätet.)
 
 
 ### Övningar
