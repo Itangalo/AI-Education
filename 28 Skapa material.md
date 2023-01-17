@@ -122,7 +122,7 @@ ChatGPT kan på ett snabbt sätt skapa utkast till quiz-frågor. Som med annat m
 
 ### Anpassa uppgifter efter elevgrupper
 
-Det kan ibland vara svårt att få tag på material som är anpassat för vissa elevgrupper. ChatGPT kan med viss framgång skriva om befintligt material till nya sammanhang. (I exemplet nedan misstolkades ”visa din beräkning och skriv svar” som en instruktion till ChatGPT, när det egentligen var en instruktion till eleven.)
+Det kan ibland vara svårt att få tag på material som är anpassat för vissa elevgrupper. ChatGPT kan med viss framgång skriva om befintligt material till nya sammanhang.
 
 > ** Nedan är ett matteproblem anpassat för årskurs 3. Kan du ändra kontexten för problemet så att det passar för mina vuxna elever, men innehåller samma typ av matematik?**
 > **På lekplatsen är det 17 barn. Efter en stund kommer det 5 barn till. Hur många barn är då på lekplatsen?**
@@ -132,8 +132,9 @@ Det kan ibland vara svårt att få tag på material som är anpassat för vissa 
 > Beräkning: 17 + 5 = 22
 > Svar: 22 anställda.
 
-### Få förslag på hur din egen text kan förbättras
+(I exemplet ovan misstolkades ”visa din beräkning och skriv svar” som en instruktion till ChatGPT, när det egentligen var en instruktion till eleven.)
 
+### Få förslag på hur egna texter kan förbättras
 ChatGPT kan bearbeta rätt stora mängder text och ge (ofta) meningsfull återkoppling på den. Eftersom återkopplingen behöver användas med omdöme rekommenderas att använda AI-återkoppling som lärare – inte att återkoppling lämnas (ofiltrerad) till elever.
 
 Återkopplingen blir ofta mer användbar om man frågar om särskilda aspekter, till exempel hur den kan bli mer lättläst, mer engagerande, eller vilka delar av texten som kan behöva förbättras.
