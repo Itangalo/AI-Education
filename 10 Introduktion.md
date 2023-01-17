@@ -111,7 +111,7 @@ Att chatta med ChatGPT är på många sätt naturligt – du skriver som du skul
 * Utförliga beskrivningar och frågeställningar ger ofta mer användbara svar.
 * En del experimenterar med långa beskrivningar av hur man vill att ChatGPT ska bete sig. Sådana beskrivningar avslutas ofta med något i stil med “bekräfta att detta är uppfattat genom att svara ‘ok’”, och de egentliga frågeställningarna eller uppmaningarna postas i nästa steg i konversationen.
 
-Det är bra att känna till att det finns en gräns för hur långa meddelandena till ChatGPT får vara, på ungefär tre tusen ord eller 10–15 sidor. Om du vill ge ChatGPT längre texter än så kan du testa att dela upp den, och exempelvis ge ChatGPT instruktionen “Jag kommer att ge dig en lång text uppdelad i flera delar. Här kommer del 1. Svara ‘ok’ när du är klar.”
+Det är bra att känna till att det finns en gräns för hur långa meddelandena till ChatGPT får vara, på knappt två tusen ord eller 7–10 sidor. Om du vill ge ChatGPT längre texter än så kan du testa att dela upp den, och exempelvis ge ChatGPT instruktionen “Jag kommer att ge dig en lång text uppdelad i flera delar. Här kommer del 1. Svara ‘ok’ när du är klar.”
 
 ChatGPT lägger som mest en och en halv minut på att ge svar, vilket gör att långa svar kan brytas mitt i. I sådana lägen kan du exempelvis skriva “Kan du fortsätta på förra svaret och avsluta det?”, eller ändra frågan så att ChatGPT kan svara på mindre delar i taget.
 
