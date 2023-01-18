@@ -10,7 +10,7 @@ Del 2 har fokus på praktisk användning. Kapitel ((**X–X**)) innehåller exem
 
 Del 3 är främst till för den som vill veta lite mer om AI som fenomen. Kapitel ((**X**)) tar upp bakgrund till de senaste årens AI-utveckling, inklusive mer information om ChatGPT och företaget OpenAI som skapade tjänsten. Kapitel ((**X**)) och ((**X**)) tar upp mer spekulativa tankar om hur AI kan komma att påverka skola i framtiden, respektive bredare frågor om AI och människan.
 
-Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har följt AI-utveckling sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson, Daniel Ståhl, Julia Tsygan och Marcus Strömbäck Hjärne.
+Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har följt AI-utveckling sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson, Peter Parnes, Julia Tsygan och Marcus Strömbäck Hjärne.
 
 Den här boken uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på [github.com/Itangalo/AI-och-skolan][1], där boken också finns att ladda hem gratis i olika format. Den här versionen av boken är nummer ((**X**)), från ((**2023-XX-XX**)).
 
