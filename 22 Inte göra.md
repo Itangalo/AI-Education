@@ -1,4 +1,4 @@
-## 4: Saker du inte ska göra med ChatGPT
+## 4: Saker du inte ska göra
 
 ### Lämna inte ut personuppgifter eller andra känsliga uppgifter
 

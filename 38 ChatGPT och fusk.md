@@ -1,4 +1,4 @@
-## ChatGPT och fusk
+## 11: ChatGPT och fusk
 “Fusk” kan betyda många olika saker, och det är värt att komma ihåg att det inte behöver vara fusk att använda ChatGPT i skrivuppgifter – mer än det behöver vara fusk att använda stavningskontroll för uppsatser eller miniräknare på matteprov. I vissa lägen räknas det som fusk, i andra inte.
 
 Med “fusk” menas i den här boken att medvetet försöka lura eller vilseleda läraren, och det det är tydligt att ChatGPT gör det enklare för elever att fuska inte minst när det gäller skrivuppgifter som genomförs utanför klassrummet. ChatGPT kan skapa texter om det mesta som behandlas i skolan, med en kvalitet som både till innehåll och i stil kan uppfattas som att de är skrivna av en människa. Hur kommer man runt ett sånt problem?
