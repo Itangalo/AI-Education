@@ -1,7 +1,7 @@
 ## 9: Programmering
 ChatGPT är, på gott och ont, rätt bra på att både förstå och skriva datorprogram. Om din undervisning omfattar programmering finns det därför extra stöd att få från AI:n.
 
-En fördel med just programmeringshjälp är att vissa av AI-dumheterna man kan råka ut för inte blir lika allvarliga. När ChatGPT ger felaktiga tips på kodsnuttar kommer det att märkas mer eller mindre direkt, och frågor som rör perspektiv och värderingar spelar en klart mindre roll så länge man håller sig till enbart programmeringsfrågor (om man inte räknar med olika paradigm inom programmering, vill säga).
+En fördel med just programmeringshjälp är att vissa av fallgroparna man kan råka ut för inte blir lika allvarliga. När ChatGPT ger felaktiga tips på kodsnuttar kommer det att märkas mer eller mindre direkt, och frågor som rör perspektiv och värderingar spelar en klart mindre roll så länge man håller sig till enbart programmeringsfrågor (om man inte räknar med olika paradigm inom programmering, vill säga).
 
 ChatGPT är olika skicklig på att förstå och skapa kod på olika språk. En rimlig utgångspunkt är att ju vanligare programspråket är, desto bättre är ChatGPT på språket.
 
@@ -130,20 +130,20 @@ Att skapa välkommenterad kod gör det lättare att läsa den, både för lärar
 > 	def count_words_on_wikipedia_page(page_name):
 > 	    # Skapa en url för Wikipedia-sidan med det angivna sidnamnet
 > 	    wikipedia_url = f'https://en.wikipedia.org/wiki/{page_name}'
-> 	    
+> 	
 > 	    # Hämta innehållet från Wikipedia-sidan
 > 	    wikipedia_page_content = requests.get(wikipedia_url)
-> 	    
+> 	
 > 	    # Skapa en BeautifulSoup-objekt av innehållet för att enklare kunna hämta ut texten
 > 	    soup = BeautifulSoup(wikipedia_page_content.content, 'html.parser')
-> 	    
+> 	
 > 	    # Hämta all text från sidan
 > 	    text = soup.get_text()
-> 	    
+> 	
 > 	    # Dela upp texten i ord och räkna antalet ord
 > 	    words = text.split()
 > 	    word_count = len(words)
-> 	    
+> 	
 > 	    return word_count
 > 	
 > 	# Fråga användaren efter ett sidnamn på Wikipedia

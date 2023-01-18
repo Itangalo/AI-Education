@@ -3,7 +3,7 @@ Verktyg liknande ChatGPT har funnits i flera år och används i olika digitala t
 
 ### Diskutera värderingar och andra icke-explicita budskap
 
-Svar från ChatGPT kan vara utmärkta för att låta elever diskutera vilka värderings- och perspektivdumheter som eventuellt gömmer sig i texten: Vilka antaganden har AI:n gjort? Vilken typ av kultur verkar den utgå från? Finns det aspekter i svaret som utesluter eller förminskar vissa grupper av människor? Vilken typ av värderingar finns dolda under ytan?
+Svar från ChatGPT kan vara utmärkta för att låta elever diskutera vilka skevheter i värderingar eller perspektiv som eventuellt gömmer sig i texten: Vilka antaganden har AI:n gjort? Vilken typ av kultur verkar den utgå från? Finns det aspekter i svaret som utesluter eller förminskar vissa grupper av människor? Vilken typ av värderingar finns dolda under ytan?
 
 Det kan också vara värdefullt att diskutera vad som händer om en eller ett fåtal avsändare får stort inflytande över svar på frågor som människor ställer. Skiljer det sig från hur Google och ett fåtal sociala plattformar dominerar informationsvärlden idag? Hur då, eller varför inte?
 

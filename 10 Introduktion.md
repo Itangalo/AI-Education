@@ -49,39 +49,41 @@ I den här boken finns många utdrag från konversationer med ChatGPT. De är i 
 
 Att börja använda ChatGPT kan vara överväldigande eller till och med omvälvande. Oavsett om du ställer frågor om cellbiologi, August Strindberg eller buddhismens historia har den svar, som levereras sakligt och tydligt. Den kan sammanfatta texter, skriva dikter, skapa datorprogram, hitta på godnattsagor, ge återkoppling på och ge förbättringsförslag på textutkast, och utveckla sina resonemang i en konversation med en människa. I kapitel 13 kan du läsa mer om hur verktyg som ChatGPT skulle kunna påverka vår syn på kunskap, och på oss själva.
 
-## 2: Fyra typer av dumheter
+## 2: Fyra typer av fallgropar
 Något som är viktigt att lägga märke till redan nu är att ChatGPT begår misstag. Om du läste igenom konversationen ovan la du förmodligen märke till att översättningar och ordval ibland blir konstiga (exempelvis “gödselmedel” i stället för “gödsel” och “accordeonmusik” i stället för “dragspelsmusik”). Sådana misstag är betydligt ovanligare på engelska, eftersom den största delen av texten ChatGPT tränats på är på engelska.
 
-Något som är svårare att lägga märke till är sakfelen – dels eftersom de kräver förhållandevis goda kunskaper hos läsaren, dels för att de är insvepta i en tydlig text som är lätt att ta till sig och tro på. Till exempel kan den som läser om schottis på Wikipedia konstatera att den troligtvis uppstod i Böhmen – inte Skottland, som ChatGPT skrev. (Nationalencyklopedin å sin sida säger att schottis “presenterades” i Paris, utan att nämna var dansen uppstod.)
+Något som är svårare att lägga märke till är sakfelen – dels eftersom de kräver förhållandevis goda kunskaper hos läsaren, dels för att de är insvepta i en tydlig text som är lätt att tro på. Till exempel skriver ChatGPT att schottis uppstod i Skottland, medan den som läser om schottis på Wikipedia kan konstatera att den troligtvis uppstod i Böhmen. (Nationalencyklopedin å sin sida säger att schottis “presenterades” i Paris, utan att nämna var dansen uppstod.)
 
-Ett par andra misstag – om man ska kalla dem för misstag – är ännu svårare att upptäcka. Wikipedias artikel om schottis säger att det är “lugnt tempo”, inte “snabb och livlig rytm” som ChatGPT säger. Schottis i andra delar av världen verkar i regel ha ett högre tempo än schottis i Sverige. Har ChatGPT fel som säger att det är snabb rytm? Egentligen inte. Däremot beskriver den schottis utifrån ett perspektiv som kanske inte stämmer i Sverige – det land där frågan ställdes. Ett annat kanske-misstag är att beskrivningen av modelljärnvägens historia inte nämner tillverkaren Märklin (men däremot några andra tillverkare), trots att Märklin både spelar en roll i modelljärnvägens historia och för många är nära nog synonymt med modelljärnväg.
+Ett par andra misstag – om man ska kalla dem för misstag – är ännu svårare att upptäcka. ChatGPT säger att schottis har ”snabb och livlig rytm”, medan svenska Wikipedias artikel om schottis säger att det är “lugnt tempo”. Schottis i andra delar av världen verkar i regel ha ett högre tempo än schottis i Sverige. Har ChatGPT fel som säger att det är snabb rytm? Egentligen inte. Däremot beskriver den schottis utifrån ett perspektiv som kanske inte stämmer i Sverige – det land där frågan ställdes – vilket gör svaret vilseledande. Ett annat kanske-misstag är att beskrivningen av modelljärnvägens historia inte nämner tillverkaren Märklin (men däremot några andra tillverkare), trots att Märklin både spelar en roll i modelljärnvägens historia och för många är nära nog synonymt med modelljärnväg.
 
-Sådana kanske-misstag är inte fel, men de avspeglar en särskild del av sanningen, eller får saker att uppfattas på ett visst sätt eller ur ett visst perspektiv. De är svåra att upptäcka, särskilt för någon som inte är insatt, och riskerar att knuffa mottagaren in i en specifik världsbild utan att vara medveten om det.
+Sådana kanske-misstag är inte fel, men de avspeglar en särskild del av sanningen, eller får saker att uppfattas på ett visst sätt eller ur ett visst perspektiv. De är svåra att upptäcka, särskilt för någon som inte är vaksam, och riskerar att knuffa mottagaren in i en specifik världsbild utan att vara medveten om det.
 
-En sista typ av misstag handlar inte om vad ChatGPT svarar, utan hur användbart man förväntar sig att det är. Att ChatGPT ger dig tio välformulerade quiz-frågor om upplysningstiden behöver inte betyda att det är bra pedagogik att använda frågorna – kanske lär sig eleverna bättre av helt andra typer av aktiviteter, eller för den delen quiz-frågor valda utifrån vad du som lärare vet är vanliga missuppfattningar eller vad som är särskilt viktigt att kunna. Mer allvarliga pedagogiska dumheter är att låta ChatGPT skapa provuppgifter eller bedöma uppsatser från elever, utan att vara _mycket_ noga med att det ChatGPT levererar stämmer med vad man vill ha (och då kan man fråga sig hur mycket hjälp man egentligen fått från verktyget). Det är naturligt och nyttigt att utforska olika sätt att använda nya verktyg, och allt man testar behöver inte fungera bra. Men det är lätt hänt att kraftfulla verktyg överanvänds och att utgångspunkten blir verktyget, snarare än det man vill använda det till.
+En sista typ av misstag handlar inte om vad ChatGPT svarar, utan hur användbart man förväntar sig att det är. Att ChatGPT ger dig tio välformulerade quiz-frågor om upplysningstiden behöver inte betyda att det är bra pedagogik att använda frågorna: Kanske lär sig eleverna bättre av helt andra typer av aktiviteter, eller för den delen quiz-frågor valda utifrån vad du som lärare vet är vanliga missuppfattningar eller vad som är särskilt viktigt att kunna. Mer allvarliga pedagogiska misstag vore att låta ChatGPT skapa provuppgifter eller bedöma uppsatser från elever, utan att vara _mycket_ noga med att det ChatGPT levererar stämmer med vad man vill ha (och då kan man fråga sig hur mycket hjälp man egentligen fått från verktyget).
 
-ChatGPT:s mångsidighet och imponerande förmåga att skapa sakliga, tydliga och korrekta budskap gör det lätt att glömma bort att det dyker upp olika typer av AI-dumheter. I den här boken delas de in i fyra kategorier:
+Det är naturligt och nyttigt att utforska olika sätt att använda nya verktyg, och allt man testar behöver inte fungera bra. Men det är lätt hänt att kraftfulla verktyg överanvänds, och att utgångspunkten blir verktyget snarare än det man vill använda det till.
 
-1. **Språkmässiga dumheter**, så som stavfel och felaktiga ordval. Dessa är förhållandevis lätta att upptäcka. Största risken med språkmässiga dumheter är förmodligen att elever kan bli förvirrade över terminologi.
-2. **Faktamässiga dumheter**, vilket också kan omfatta logiska motsägelser. De här dumheterna kräver en del fackkunskaper för att upptäcka, inte minst som ChatGPT formulerar sig på så förtroendeingivande sätt.
-3. **Värderings- och perspektivdumehter**, där sätten svar från AI:n kanske utgår från förhållanden i USA, befäster stereotypa könsroller eller inte tar hänsyn till vissa grupper i samhället. Att upptäcka de här dumheterna kräver en del eftertanke.
-4. **Pedagogiska dumheter**, som betyder att svar från ChatGPT används utan att reflektera över om de faktiskt leder till det lärande som man är ute efter.
+ChatGPT:s mångsidighet och imponerande förmåga att skapa sakliga, tydliga och korrekta budskap gör det lätt att glömma bort att det inte bara finns artificiell intelligens utan också AI-skapade dumheter. För att göra det lättare att använda ChatGPT med omdöme kommer de här fyra typerna av fallgropar att nämnas i samband med exempel senare i boken.
 
-De här typerna av dumheter är inte unika för ChatGPT, och kan uppstå även helt utan teknikens hjälp. Och ingen ska känna krav att aldrig begå sådana misstag. Men den som har de fyra typerna av dumheter i bakhuvudet får lättare att använda ChatGPT med omdöme.
+* **Fallgrop 1: Språkfel**, så som stavfel och felaktiga ordval. Dessa är förhållandevis lätta att upptäcka. Största risken med språkfel är förmodligen att elever kan bli förvirrade över terminologi.
+* **Fallgrop 2: Faktafel**, vilket också kan omfatta logiska misstag. Faktafel kräver ämneskunskaper för att upptäcka, inte minst för att ChatGPT formulerar sig på så förtroendeingivande sätt.
+* **Fallgrop 3: Skeva perspektiv eller värderingar**, där svar från AI:n kanske utgår från förhållanden i USA, befäster stereotypa könsroller eller inte tar hänsyn till vissa grupper i samhället. Att upptäcka skeva perspektiv eller värderingar kan kräva både vaksamhet och goda kunskaper.
+* **Fallgrop 4: Oreflekterad pedagogik**, som betyder att det som ChatGPT levererar används utan att reflektera över om det faktiskt leder till det lärande som man är ute efter.
+
+De här typerna av misstag är inte unika för ChatGPT, och kan uppstå även helt utan teknikens hjälp. Och den som aldrig trillat i de här fallgroparna har förmodligen inte undervisat alls – och det måste vara ok att göra fel. Men den som har de här fyra fallgroparna i bakhuvudet har förmodligen lättare att använda ChatGPT med omdöme.
 
 ### Olämpliga budskap
 
-ChatGPT har spärrar för vissa typer av budskap. Om du försöker få ChatGPT att berätta hur man skapar brandbomber, blandar metanfetamin eller om du vill få förslag på hur man kan trakassera, misshandla eller tortera någon kommer ChatGPT svara med att det bryter mot dess policy att svara. Samma sak gäller exempelvis att ge medicinsk rådgivning (vilket förmodligen har att göra med amerikansk lagstiftning).
+ChatGPT har spärrar för vissa typer av budskap. Om du försöker få ChatGPT att berätta hur man skapar bomber, blandar metanfetamin eller om du vill få förslag på hur man kan trakassera, misshandla eller tortera någon kommer ChatGPT svara med att det bryter mot dess policy att svara. Samma sak gäller exempelvis att ge medicinsk rådgivning (vilket förmodligen har att göra med amerikansk lagstiftning).
 
-Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg, men spärrarna är inte hundraprocentiga. Det betyder att svar inom olämpliga områden kan gå igenom spärrarna, och att envetna användare kan hitta sätt konsekvent gå runt dem. (Det finns, inte helt oväntat, tips om detta att hitta på nätet.)
+Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg, men spärrarna är inte hundraprocentiga. Det betyder att ChatGPT ibland kan släppa igenom saker som den borde hålla tyst om, och att envetna användare kan hitta sätt konsekvent gå runt spärrarna. (Det finns, inte helt oväntat, tips på nätet om hur spärrarna kan rundgås.)
 
-De allra flesta tips och idéer i den här boken utgår från att det är läraren som använder ChatGPT, inte eleven. Det kan förstås ändå hända att elever använder ChatGPT, och då är det bra att känna till att det kan dyka upp olämpliga budskap.
+De allra flesta tips och idéer i den här boken utgår från att det är läraren som använder ChatGPT, inte eleven. Det kan förstås ändå hända att elever använder ChatGPT, i eller utanför skolan, och det bra att känna till att det kan dyka upp olämpliga budskap.
 
 ### Övningar
 
-1. Vilka är de fyra typerna av AI-dumheter, och vad utmärker dem?
-2. Kan du komma på ytterligare kategorier av misstag eller dumheter?
-3. Kolla igenom konversationen i kapitel 1 igen och fundera över var det kan AI-dumheter, utöver de som nämnts.
+1. Vilka är de fyra typerna av fallgropar, och vad utmärker dem?
+2. Kan du komma på ytterligare kategorier av fallgropar?
+3. Kolla igenom konversationen i kapitel 1 igen och fundera över var det kan finnas fallgropar, utöver de som nämnts.
 
 ## 3: Så kommer du igång med ChatGPT
 
