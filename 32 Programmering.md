@@ -12,6 +12,10 @@ Det kan också nämnas att ChatGPT matar ut kodblock med färger som markerar sa
 ### Skapa enkla datorprogram
 ChatGPT kan skapa färdiga små program, ofta med förvånansvärt välkommenterad kod och hög flexibilitet.
 
+**När du läser konversationen, fundera på:**
+* Skulle du ha nytta av AI-skapade enkla datorprogram i din undervisning? Hur?
+* Vilka möjligheter och risker finns med att låta elever själva be ChatGPT om enkla datorprogram?
+
 > **Kan du skriva ett Python-program som testar sannolikheten att minst två personer i en grupp på 26 personer har samma födelsedag? Använd Monte Carlo-metoden.**
 >  
 > Ja, det går att skriva ett Python-program som använder Monte Carlo-metoden för att testa sannolikheten att minst två personer i en grupp på 26 personer har samma födelsedag. Nedan finns en lösning på detta problem: 
@@ -39,6 +43,10 @@ ChatGPT kan skapa färdiga små program, ofta med förvånansvärt välkommenter
 ### Felsöka datorprogram
 ChatGPT är också förvånansvärt bra på att hitta och åtgärda buggar i kod, vilket kan vara användbart både för läres och elevers kod.
 
+**När du läser konversationen, fundera på:**
+* Verkar svaret från ChatGPT tydligt?
+* Om du har någon programmering i din undervisning: Vad innebär det för dig eller elever att få AI-hjälp med att hitta, förstå och lösa buggar?
+
 > **Kan du hitta vad som inte fungerar i den här koden?**
 > 	for (var i = 0; i < 5; i++) {
 > 	  setTimeout(() => console.log(i), 1000)
@@ -60,6 +68,9 @@ ChatGPT är också förvånansvärt bra på att hitta och åtgärda buggar i kod
 ### Skapa kod för specifika uppgifter
 För de som inte bara har programmering som en del ämnet, utan ämnet handlar om programmering, kan ChatGPT användas för att skapa kodsnuttar för en rad olika områden.
 
+**När du läser konversationen, fundera på:**
+* Om du undervisar i programmering: Vad är för- och nackdelarna med att be ChatGPT om kodexempel och lösningar, jämfört med att söka på nätet eller skriva kod från grunden? Vilka pedagogiska konsekvenser har det?
+
 > ** Kan du skriva ett Python-program som slår upp en Wikipedia-artikel som användaren anger, och berättar hur många ord som finns på sidan?**
 > Ja, jag kan skriva ett Python-program för att slå upp en Wikipedia-artikel och berätta hur många ord som finns på sidan. Här är ett exempel:
 > 	import requests
@@ -78,7 +89,10 @@ För de som inte bara har programmering som en del ämnet, utan ämnet handlar o
 > 	print(f'The number of words on the page is {word_count}')
 > Notera att detta program bara fungerar för engelska Wikipedia-sidor. För att använda det på en annan språkversion av Wikipedia, ändra URL-adressen i rad 8 till den lämpliga språkversionen.
 ### Hitta undantag som du missat i koden
-Att skapa välkommenterad kod gör det lättare att läsa den, både för lärare och elever.
+ChatGPT kan analysera kod och i många lägen hitta olika sätt som programmet kan  gå sönder på.
+
+**När du läser konversationen, fundera på:**
+* Om du undervisar i programmering: Hur ser du på det pedagogiska värdet i att be ChatGPT hitta undantag jämfört med att du eller elever gör det för hand? Vilka pedagogiska konsekvenser har det? Vilka långsiktiga?
 
 > **Kan du hitta edge cases i koden nedan, som kan få den att sluta fungera?**
 	import requests
@@ -102,6 +116,12 @@ Att skapa välkommenterad kod gör det lättare att läsa den, både för lärar
 > * Om internetanslutningen är nere, kan koden kasta ett undantag när den försöker hämta sidan med hjälp av requests.get(url).
 > * Om Wikipedia-sidan är stor, kan detta orsaka problem med minnet, eftersom all text hämtas och sparas i minnet innan den räknar antalet ord.
 ### Kommentera kod
+Att skapa välkommenterad kod gör det lättare att läsa den, både för lärare och elever.
+
+**När du läser konversationen, fundera på:**
+* Är kommentarerna som ChatGPT föreslår korrekta? Är de meningsfulla?
+* Om du undervisar i programmering: Vad är för- och nackdelarna med att låta ChatGPT skriva kommentarer, jämfört med att söka på nätet eller skriva kod från grunden? Vilka pedagogiska konsekvenser har det?
+
 > **Kan du kommendera koden nedan så att den blir lättare att läsa? Kommendera på svenska, är du snäll.**
 > 	import requests
 > 	from bs4 import BeautifulSoup

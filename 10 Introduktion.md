@@ -108,7 +108,8 @@ Att chatta med ChatGPT är på många sätt naturligt – du skriver som du skul
 
 * Om du trycker enter i chattrutan skickas meddelandet till ChatGPT. Med shift + enter har du möjlighet att skapa radbrytningar utan att meddelandet skickas.
 * Om du vill variera eller återanvända en längre frågeställning är det praktiskt att ha prompten i en textredigerare eller ordbehandlare, där den enklare kan redigeras och kopieras.
-* Om du vill ge långa texter till ChatGPT kan du till exempel skriva “Kan du sammanfatta artikeln nedan?” och klistra in artikeln innan du skickar meddelandet, eller “Nedanför är en text jag skrivit som jag vill att du ger feedback på så att jag kan förbättra den.”
+* Om du vill ge långa texter till ChatGPT kan du till exempel skriva “Vilken är den mest svårlästa delen av den här texten?” och klistra in texten innan du skickar meddelandet, eller “Nedanför är en text jag skrivit som jag vill att du ger feedback på så att jag kan förbättra den.”
+* Om du ger ChatGPT en text utan någon speciell uppmaning eller fråga kommer den att svara med en sammanfattning av texten.
 * ChatGPT är i regel snabbare på att svara om man skriver på engelska, och meddelandena innehåller också färre språkfel.
 * Utförliga beskrivningar och frågeställningar ger ofta mer användbara svar.
 * En del experimenterar med långa beskrivningar av hur man vill att ChatGPT ska bete sig. Sådana beskrivningar avslutas ofta med något i stil med “bekräfta att detta är uppfattat genom att svara ‘ok’”, och de egentliga frågeställningarna eller uppmaningarna postas i nästa steg i konversationen.

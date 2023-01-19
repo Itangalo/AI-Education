@@ -39,4 +39,26 @@ En elev som lämnas att lära sig av ChatGPT kan råka ut för alla möjliga dum
 
 Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men ChatGPT kan kasta ur sig mycket mer dolda misstag som blir till fällor för eleverna. ChatGPT är *inte* en lärare eller instruktör.
 
+### Be inte ChatGPT hitta forskningsartiklar
+Man ska inte lita på att det som ChatGPT svarar är korrekt faktamässigt, men man skulle kunna tro att en AI som läst stora delar av den text som fanns på internet 2021 kan ge förslag på forskningsartiklar att läsa – så att man får hjälp att hitta tillförlitliga källor.
+
+ChatGPT svarar glatt på sådana frågor, men de artiklar som nämns finns i regel inte. Ett bättre alternativ för att hitta forskning är till exempel [Google Scholar][2].
+
+Ingen av de artiklar som ChatGPT nämner nedan har gått att hitta.
+
+> ** Jag skulle vilja lära mig mer om hur jag som lärare kan hjälpa elever som känner oro inför att hålla muntliga presentationer för klassen. Kan du ge förslag på forskningsartiklar jag kan läsa?**
+> 
+> Ja, jag kan ge dig några förslag på forskningsartiklar som kan hjälpa dig att lära dig mer om hur du kan hjälpa elever som känner oro inför att hålla muntliga presentationer:
+> 1. "Preparing Students to Overcome Speech Anxiety: A Review of the Literature" av R. Scott Tannenbaum och Matthew J. Hertenstein. Denna artikel ger en översikt över olika metoder som har visat sig vara effektiva för att hjälpa elever att övervinna talångest.
+> 2. "Self-talk interventions in the classroom: A systematic review" av J. L. McCreary, M. H. Peters, L. L. Perry. Denna artikel undersöker hur lärare kan hjälpa elever att använda positiv självprat för att öka deras självförtroende inför tal.
+> 3. "Speech anxiety in the classroom: A review of the literature" av Scott Tannenbaum och Matthew J. Hertenstein. Denna artikel ger en detaljerad översikt över olika metoder som har visat sig vara effektiva för att hjälpa elever att övervinna talångest i skolmiljö.
+> 
+> Du kan hitta dessa artiklar via akademiska sökmotorer som Google Scholar eller JSTOR.
+
+---- 
+> ** Kan du nämna en forskningsartikel om dyslexi som faktiskt finns, tillsammans med vem som skrivit artikeln? Jag vill alltså inte att du hittar på ett namn på en artikel, utan svarar med en publicerad artikel som faktiskt finns.**
+> 
+> En forskningsartikel om dyslexi som faktiskt finns är "The neural basis of dyslexia: a review of recent research" skriven av F. Paulesu, E. Paulesu, A.F.F. Smith, J.D.E. Raven och L.J. Frith och publicerad i Brain: A Journal of Neurology.
+
 [1]:	https://openai.com/terms/
+[2]:	https://scholar.google.com/

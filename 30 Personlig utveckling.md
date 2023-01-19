@@ -3,31 +3,31 @@
 ### Sammanfatta dokument för att hitta givande läsning
 Genom att klistra in textmassor och be ChatGPT sammanfatta dem är det möjligt att få en uppfattning av texter utan att behöva läsa allt själv. Givetvis förlorar man information i en sådan sammanfattning, och det finns risk att ChatGPT missar eller förvanskar väsentliga aspekter – men det gör det samtidigt möjligt att skumma många fler dokument och välja en eller ett par texter att läsa närmare.
 
-En begränsning är att ChatGPT inte accepterar prompter som är längre än ungefär 3000 ord. Med längre dokument kan man dela upp dem i flera steg (se tipsen sist i kapitel 3), men det kan bli opraktiskt för riktigt långa texter.
+En begränsning är att ChatGPT inte accepterar prompter som är längre än ungefär 2000 ord. Med längre dokument kan man dela upp dem i flera steg (se tipsen sist i kapitel 3), men det kan bli opraktiskt för riktigt långa texter, och det är troligt att ChatGPT tar mindre hänsyn till saker som skrevs långt bak i en chatt-konversation.
+
+**När du läser konversationen, fundera på:**
+* Tycker du att ChatGPT:s sammanfattning nedan är rättvisande?
+* Hur ska man väga att ChatGPT förenklar och kanske förvanskar innehåll mot möjligheten att överblicka innehållet i fler texter?
+* Testa gärna att låta ChatGPT sammanfatta en text du skrivit själv, ett långt mail som du fått (utan känsliga uppgifter) eller en text du nyss läst. Tycker du att den fångar det viktigaste i texten?
+* Vad händer om elever använder ChatGPT eller liknande verktyg för att sammanfatta texter i skolböcker eller andra texter som hör till undervisningen?
 
 > **Kan du sammanfatta texten nedan?**
 > **[Kopia av en text som legat till grund för den här boken.]**
 >  
 > Dokumentet handlar om hur ChatGPT, en AI-modell som är tränad på att generera text och föra en dialog, kan användas i skolundervisning. Det nämner olika sätt att använda ChatGPT i undervisningen, till exempel för att få idéer till lektionsplaneringar eller för att få återkoppling på lektionsupplägg, men också varningar om att information från ChatGPT alltid måste granskas och verifieras. Dokumentet diskuterar också vad information, kunskap och omdöme är och hur AI påverkar lärares och skolans roll. Dokumentet ger också exempel på användning som kan vara olämplig och saker som inte är tillåtna att göra med ChatGPT i skolundervisningen.
 
-### Hitta relevant forskning
-Ett alternativ till att söka efter forskning online (exempelvis genom [Google Scholar][1]) är att be ChatGPT föreslå artiklar att läsa.
-
-> ** Jag skulle vilja lära mig mer om hur jag som lärare kan hjälpa elever som känner oro inför att hålla muntliga presentationer för klassen. Kan du ge förslag på forskningsartiklar jag kan läsa?**
-> 
-> Ja, jag kan ge dig några förslag på forskningsartiklar som kan hjälpa dig att lära dig mer om hur du kan hjälpa elever som känner oro inför att hålla muntliga presentationer:
-> 1. "Preparing Students to Overcome Speech Anxiety: A Review of the Literature" av R. Scott Tannenbaum och Matthew J. Hertenstein. Denna artikel ger en översikt över olika metoder som har visat sig vara effektiva för att hjälpa elever att övervinna talångest.
-> 2. "Self-talk interventions in the classroom: A systematic review" av J. L. McCreary, M. H. Peters, L. L. Perry. Denna artikel undersöker hur lärare kan hjälpa elever att använda positiv självprat för att öka deras självförtroende inför tal.
-> 3. "Speech anxiety in the classroom: A review of the literature" av Scott Tannenbaum och Matthew J. Hertenstein. Denna artikel ger en detaljerad översikt över olika metoder som har visat sig vara effektiva för att hjälpa elever att övervinna talångest i skolmiljö.
-> 
-> Du kan hitta dessa artiklar via akademiska sökmotorer som Google Scholar eller JSTOR.
 ### Få coachning i att utveckla sin skrivförmåga
 ChatGPT kan ge återkoppling på texter, och därmed ge uppslag för hur man kan bli en bättre skribent. Metoden är lämplig för lärare, inte elever, eftersom det kräver att man har kompetens att förhålla sig till de förslag som AI:n ger (då alla förslag inte nödvändigtvis är lyckade, eller värda att lägga mycket möda på).
 
 Notera att den här användningen syftar till att utveckla skrivförmågan – inte primärt att få en välskriven text. Det är alltså återkopplingen, och vilken nytta man har av den, som står i fokus.
 
+**När du läser konversationen, fundera på:**
+* Verkar ChatGPT ge meningsfull återkoppling för att utveckla språket i artikeln?
+* Skulle du själv vilja ha coachning från en AI? Varför, eller varför inte?
+* Finns det andra områden relaterat till ditt arbete där du tror att ChatGPT skulle kunna fungera som coach?
+
 > **Nedan finns en debattartikel. Kan du ge förslag på hur den kan utvecklas, språkligt?**
-> **[Inklistrad text från [https://www.expressen.se/debatt/ai-botten-skriver-battre-an-de-flesta-skolelever/][2]]**
+> **[Inklistrad text från [https://www.expressen.se/debatt/ai-botten-skriver-battre-an-de-flesta-skolelever/][1]]**
 >  
 > Förslag på utveckling av debattartikeln:
 > 1. Utveckla argumenten: Varför tror du att skolan är oförberedd på detta paradigmskifte och varför är detta ett problem? Kan du ge exempel på hur chatbotten kan påverka undervisningen och elevernas lärande negativt?
@@ -47,6 +47,9 @@ Notera att den här användningen syftar till att utveckla skrivförmågan – i
 ### Tips på tekniska verktyg och hur man använder dem
 ChatGPT kan ge förslag på hur knepiga eller ovanliga uppgifter kan utföras, och för välkända program kan den också ge vägledning om hur man navigerar i programmen för att göra det som behövs.
 
+**När du läser konversationerna, fundera på:**
+* Vilka för- och nackdelar finns med att fråga ChatGPT jämfört med att söka på nätet? Jämfört med att fråga en kollega eller it-support?
+
 > ** Har du förslag på program som kan användas för att omvandla handskriven matematisk text till text på dator?**
 > Ja, det finns ett antal program som kan omvandla handskriven matematisk text till text på dator. Ett exempel är MyScript Calculator, som är en app som kan omvandla handskrivna matematiska uttryck till digital text och sedan lösa dem. Du kan också prova Mathpix Snip, som är en skärmdumpningstjänst som kan omvandla skärmdumpar av matematiska uttryck till digital text. Andra alternativ inkluderar Graphical User Interface (GUI) baserade verktyg som Mathematica och Maple, som båda har funktioner för att lösa och visualisera matematiska problem.
 
@@ -57,7 +60,11 @@ ChatGPT kan ge förslag på hur knepiga eller ovanliga uppgifter kan utföras, o
 > Oavsett vilket sätt du väljer att analysera låten på, kommer du att kunna se vilka frekvenser som är vanligast i låten och hur de fördelar sig över låtens olika delar. Du kan också se om det finns några speciella frekvenser eller toner som återkommer under låtens gång. Genom att analysera låten på det här sättet kan du få en djupare förståelse för hur låten är uppbyggd och vilka element som ger den sin karaktär.
 
 ### Ge sig själv uppmuntran och motivation
-Även i läraryrket kan man då och då behöva lite extra uppmuntran och ha motivation som sviktar. ChatGPT kan, i viss mån, hjälpa till även här. (I det andra exemplet är prompten en modifiering av en prompt på samlingssidan [prompts.chat][3].)
+Även i läraryrket kan man då och då behöva lite extra uppmuntran och ha motivation som sviktar. ChatGPT kan, i viss mån, hjälpa till även här. (I det andra exemplet är prompten en modifiering av en prompt på samlingssidan [prompts.chat][2].)
+
+**När du läser konversationerna, fundera på:**
+* Ger ChatGPT meningsfull uppmuntran? Skulle du ha hjälp av liknande uppmuntran?
+* Vad händer om AI blir i närheten av lika bra som medmänniskor på att uppmuntra och skapa motivation?
 
 > ** Jag har mer än 60 prov från mina elever att gå igenom, och jag svårt att hitta motivationen. Kan du skriva en fin text om mig, som gör att jag känner mig uppmuntrad och förstår hur bra jag kommer att känna mig när jag är klar med proven?**
 > Hej! Det låter som en stor och tidskrävande uppgift att gå igenom alla dina elevers prov. Det kan vara svårt att hitta motivationen i en sådan situation, men jag vill uppmuntra dig att fortsätta.
@@ -87,6 +94,5 @@ ChatGPT kan ge förslag på hur knepiga eller ovanliga uppgifter kan utföras, o
 > 7. Lastly, try to focus on the progress you've made so far and remember that every exam you mark is one step closer to completing the task.
 > Remember, motivation and energy can fluctuate, but you have the power to control your thoughts and actions. You can do this!
 
-[1]:	https://scholar.google.com/
-[2]:	https://www.expressen.se/debatt/ai-botten-skriver-battre-an-de-flesta-skolelever/
-[3]:	https://prompts.chat/#act-as-a-motivational-coach
+[1]:	https://www.expressen.se/debatt/ai-botten-skriver-battre-an-de-flesta-skolelever/
+[2]:	https://prompts.chat/#act-as-a-motivational-coach

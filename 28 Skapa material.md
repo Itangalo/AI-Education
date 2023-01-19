@@ -3,6 +3,10 @@
 ### Skapa texter som elever får bygga vidare på
 ChatGPT kan användas för att ge uppslag för skrivuppgifter, eller startpunkter som elever kan bygga vidare på, efter att förslagen granskats och eventuellt justerats.
 
+**När du läser konversationen, fundera på:**
+* Verkar förslagen från ChatGPT engagerande användbara för 15-åringar?
+* Finns det delar av svaren som kan vara olämpliga av en eller annan anledning?
+
 > **Jag ska ha en lektion där eleverna får träna på att skriva argumenterande texter. Kan du skapa tio korta inledningar till argumenterande texter, ett par meningar långa var, som handlar om områden som kan tänkas engagera 15-åringar?**
 >  
 > Säkert! Här är tio förslag på inledningar till argumenterande texter som kan tänkas engagera 15-åringar:
@@ -20,13 +24,22 @@ ChatGPT kan användas för att ge uppslag för skrivuppgifter, eller startpunkte
 ### Skapa fejkade elevexempel att diskutera
 I vissa lägen kan det vara känsligt att lyfta exempel från enskilda elever, och ett alternativ kan i så fall vara att använda texter skapade av ChatGPT. Utdraget nedan skulle till exempel kunna ligga till grund för att diskutera hur texten kan förbättras både till form och innehåll.
 
+**När du läser konversationen, fundera på:**
+* Vad är de pedagogiska för- och nackdelarna med att använda påhittade elevexempel, i stället för faktiska?
+* Stämmer svaret från ChatGPT med vad barn i Sverige förmodligen skulle skriva, eller motsvarar det mer elever i andra länder skulle skriva?
+* Testa gärna att be ChatGPT om andra korta uppsatser på ämnen du väljer, så som elever i olika åldrar hade skrivit dem. Fungerar det att be ChatGPT lägga in vanliga stavfel?
+* Vad händer om du ber ChatGPT skriva som en elev med invandrarbakgrund – och vad betyder det om du får skillnader i svaret?
+
 > **Kan du skriva en kort uppsats (cirka 150 ord) om Astrid Lindgren, så som en 14-åring hade kunnat skriva?**
 >  
 > Astrid Lindgren var en svensk författare som skrev många kända barnböcker. Hon föddes 1907 och dog 2002. Hon är mest känd för böckerna om Pippi Långstrump, Emil i Lönneberga och Karlsson på taket. Astrid Lindgrens böcker är väldigt populära över hela världen och har översatts till många olika språk. Hon vann också priset Hans Christian Andersen-priset för sina böcker. Astrid Lindgrens böcker handlar ofta om barn som är modiga och tar sig an utmaningar. Hennes böcker är både roliga och viktiga eftersom de handlar om att vara snäll mot andra och att alla är olika men lika viktiga.
 
 ### Skapa exempel som elever kan lära av
-
 Den mänskliga hjärnan verkar vara byggd för att lära sig av exempel, men som lärare kan det vara svårt att få hop exempel som täcker en tillräckligt stor bredd. Med hjälp av ChatGPT kan man snabbt skapa många exempel att granska, eventuellt justera, och använda i sin undervisning. Man kan också tänka sig att bedöma ChatGPT-texter utifrån betygskriterier, för att ge elever en bättre bild av vad olika kvaliteter kan innebära. 
+
+**När du läser konversationerna, fundera på:**
+* Är bokrecensionerna tillräckligt olika för att fungera som exempel på olika stilar? Om inte, kan du få ChatGPT att få mer spridning i dem?
+* Finns det områden i din egen undervisning där du skulle vilja ha många olika textexempel att visa elever? Kan du få ChatGPT att skapa sådana?
 
 > ** Mina elever ska träna på att skriva bokrecensioner, och jag skulle behöva ett antal exempel som visar hur bokrecensioner kan se ut. Jag vill att exemplen ska avspegla olika sätt att skriva recensioner, och kommer att be dig om fler och fler exempel. Alla exempel ska utgå från första boken i Harry Potter-serien. Kan du ge mig ett första exempel på en bokrecension på ungefär 150 ord?**
 >  
@@ -51,8 +64,11 @@ Den mänskliga hjärnan verkar vara byggd för att lära sig av exempel, men som
 > "Harry Potter och de vises sten by J.K. Rowling är en okej debutbok. Handlingen är ganska enkel och karaktärerna är inte särskilt djupgående. Skrivstilen är välskriven men det finns inte tillräckligt med handling eller komplexitet för att hålla läsaren engagerad. En ok fantasy debut, men inte mer än så."
 
 ### Skapa påståenden som elever får utvärdera och diskutera
-
 Efter att man arbetat med ett område kan det vara intressant att visa klassen vad ChatGPT har att säga om området, och låta eleverna diskutera eller utvärdera det ChatGPT säger. Finns de viktigaste sakerna med? Är något fel? Finns något med som vi själva inte hade valt att ta upp?
+
+**När du läser konversationerna, fundera på:**
+* Verkar svaret från ChatGPT vara på lagom nivå för gymnasieelever?
+* Har du områden i din undervisning där det är pedagogiskt meningsfullt att be elever diskutera och utvärdera påståenden? Vore det meningsfullt att be elever jämföra olika texter skrivna av ChatGPT? Vore det bättre om texterna är skrivna av dig som lärare, eller kanske elever?
 
 > **Kan du sammanfatta vad operant betingning är på en nivå som är lagom för gymnasieskola?**
 >  
@@ -63,8 +79,11 @@ Efter att man arbetat med ett område kan det vara intressant att visa klassen v
 > Operant betingning är en viktig teori inom beteendepsykologi och har använts för att förklara hur människor och djur lär sig nya beteenden och förändrar sina befintliga beteenden. Teorin har också använts för att utveckla olika metoder för att påverka och forma beteenden, till exempel genom att använda belöningar och straff för att ändra beteende.
 
 ### Skapa instuderingsfrågor eller andra frågor till texter
-
 ChatGPT kan användas för att skapa instuderingsfrågor till texter på olika nivåer.
+
+**När du läser konversationerna, fundera på:**
+* Om du ger elever frågor till texter, är det för att kontrollera att eleverna läst texten eller för att hjälpa dem att fokusera på innehållet i texten? Vilken roll verkar förslagen från ChatGPT fylla?
+* Testa gärna att be ChatGPT skapa instuderingsfrågor till en text som berör din undervisning. (Ett lättillgängligt exempel är text från någon relevant artikel på Wikipedia.) Verkar instuderingsfrågorna pedagogiskt meningsfulla?
 
 > **Nedan är sagan om Pomperipossa, som mina elever i årskurs 1 ska få i läsläxa. Kan du ge förslag på 5 frågor som de ska svara på efteråt, för att säkra att de tagit till sig innehållet i texten?**
 > 
@@ -93,6 +112,11 @@ ChatGPT kan användas för att skapa instuderingsfrågor till texter på olika n
 ### Skapa quiz-frågor
 ChatGPT kan på ett snabbt sätt skapa utkast till quiz-frågor. Som med annat material från AI:n behöver de granskas innan de används.
 
+**När du läser konversationen, fundera på:**
+* När kan quiz vara användbart i din undervisning?
+* Om ChatGPT föreslår en quizfråga om något som du inte tagit upp i undervisningen, skulle du i så fall vilja ta bort den? Varför?
+* Testa gärna att be ChatGPT om quizfrågor för ett område som du undervisat nyligen.
+
 > **Kan du ge 5 quizfrågor till min årskurs 1 på gymnasiet? De ska testa kunskaper om Sveriges grundlagar. Ta med ett korrekt och tre felaktiga svar för varje fråga, och markera det korrekta svaret.**
 >  
 > 1: Vad är Sveriges högsta beslutande församling?
@@ -120,9 +144,26 @@ ChatGPT kan på ett snabbt sätt skapa utkast till quiz-frågor. Som med annat m
 > Tyvärr, jag är en textbaserad modell och inte kapabel att skapa eller formatera filer. Men jag kan ge dig svaren i en enkel tabell-form och du kan formatera det till CSV-fil manuellt.
 > [Tabell som kan kopieras och klistras in i kalkylprogram.]
 
-### Anpassa uppgifter efter elevgrupper
-
+### Anpassa uppgifter eller texter efter elevgrupper
 Det kan ibland vara svårt att få tag på material som är anpassat för vissa elevgrupper. ChatGPT kan med viss framgång skriva om befintligt material till nya sammanhang.
+
+**När du läser konversationerna, fundera på:**
+* Tror du att det är tidsbesparande att använda ChatGPT i exemplen nedan, om man räknar med eventuell tid för att bearbeta svaren från AI:n?
+* Om du behövde göra liknande anpassningar ofta, vad skulle du göra för att det skulle gå fortare att använda ChatGPT?
+* Har du behov av att anpassa uppgifter eller texter? Testa i så fall gärna om ChatGPT kan göra det på ett meningsfullt sätt.
+
+> **Nedan är sagan om Pomperipossa inklistrad, som mina elever ska få i läsläxa. Kan du göra en version av sagan som bara innehåller enkla ord, och som är 500–700 ord lång? Jag vill att du skriver berättelsen med stora bokstäver.**
+> **[Inklistrad saga.]**
+> 
+> EN GÅNG FÖR LÄNGE SEDAN LEVDE EN TROLLPACKA SOM HETTE POMPERIPOSSA. HON VAR MYCKET GAMMAL OCH INTE SNYGG. HON HADE TVÅ RÖDA ÖGON OCH EN STOR MUN MED BARA TRE TÄNDER. HON HADE Också vårtor på händerna och en stor puckel på ryggen. Hennes näsa var en hel aln lång. Pomperipossa var rik och bodde ensam i ett litet hus i skogen. Huset var byggt av korv och skinkor och fönster av sirapsknäck. Ingen ville besöka henne eftersom hon var så elak. Om någon kom till henne, förtrollade hon honom till ett bord eller en kittel eller något annat.
+> 
+> EN DAG GICK PRINS PIPI OCH PRINSESSAN FIFI I SKOGEN MED HOVMARSALKEN. HOVMARSALKEN BLEV VÅT PÅ FÖTTERNA SÅ HAN GICK TILLBAKA FÖR ATT BYTA SKOR. PRINS PIPI OCH PRINSESSAN FIFI GICK VIDARE UTAN HONOM. DE KOM TILL POMPERIPOSSA HUS. FÅGLARNA BÖRJADE KVITTRADE: "GÅ INTE DIT!" MEN PRINS PIPI FÖRSTOD INTE OCH GICK IN I HUSET. POMPERIPOSSA FÖRTOLLADE PRINS PIPI TILL ETT BORD OCH PRINSESSAN FIFI TILL EN KITTEL. HOVMARSALKEN KOM TILLBAKA OCH RÄDDADE PRINS PIPI OCH PRINSESSAN FIFI. POMPERIPOSSA BLEV ARG OCH FÖRTOLLADE HOVMARSALKEN TILL ETT STOL. MEN PRINS PIPI OCH PRINSESSAN FIFI KUNDE RÄDDA HOVMARSALKEN OCH POMPERIPOSSA FÖRSVANN FÖR ALLTID.
+>  
+> **Tack! Kan du ge mig förslag på ett enklare ord för "hovmarskalk"? Det behöver inte betyda exakt samma sak.**
+>  
+> "Hovbetjänt" eller "palatsbetjänt" kan vara enklare ord för "hovmarskalk".
+
+---- 
 
 > ** Nedan är ett matteproblem anpassat för årskurs 3. Kan du ändra kontexten för problemet så att det passar för mina vuxna elever, men innehåller samma typ av matematik?**
 > **På lekplatsen är det 17 barn. Efter en stund kommer det 5 barn till. Hur många barn är då på lekplatsen?**
@@ -134,13 +175,25 @@ Det kan ibland vara svårt att få tag på material som är anpassat för vissa 
 
 (I exemplet ovan misstolkades ”visa din beräkning och skriv svar” som en instruktion till ChatGPT, när det egentligen var en instruktion till eleven.)
 
+---- 
+> **Kan du skapa en lättläst variant av texten nedan? Ta bort alla hänvisningar inom hakparentes.**
+> 
+> **[Inklistrad text från inledningen av [Wikipedias artikel om global uppvärmning][2], knappt 300 ord.] **
+>  
+> Global uppvärmning är den uppvärmning av jordens lägre atmosfär och hav som har observerats sedan 1950-talet och som förutspås fortsätta i framtiden. Den globala genomsnittstemperaturen har stigit med 0,74 ± 0,18 °C under 1900-talet och med 1,09 °C jämfört med perioden 1850-1900. Klimatförändringar orsakas av människans utsläpp av växthusgaser och innefattar förändringar i vädermönster. Människans påverkan på jordens klimatsystem sedan mitten av 1900-talet är oöverträffad. Detta syns tydligt i historiska nivåer av växthusgaser som koldioxid i atmosfären. Den globala uppvärmningen leder till många konsekvenser för klimat och miljö, exempelvis avsmältning av glaciärer och havsis, ökad risk för extremväder, utrotning av arter och påverkan på jordbruk och matförsörjning.
+
 ### Få förslag på hur egna texter kan förbättras
 ChatGPT kan bearbeta rätt stora mängder text och ge (ofta) meningsfull återkoppling på den. Eftersom återkopplingen behöver användas med omdöme rekommenderas att använda AI-återkoppling som lärare – inte att återkoppling lämnas (ofiltrerad) till elever.
 
 Återkopplingen blir ofta mer användbar om man frågar om särskilda aspekter, till exempel hur den kan bli mer lättläst, mer engagerande, eller vilka delar av texten som kan behöva förbättras.
 
+**När du läser konversationen, fundera på:**
+* Vilka för- och nackdelar finns med att be om återkoppling från ChatGPT jämfört med från kollegor?
+* Verkar förslagen från ChatGPT användbara?
+* Testa gärna själv att be om återkoppling på lektionsmaterial eller andra texter du skrivit. Beskriv gärna vilken typ av återkoppling du vill ha, eller i vilka sammanhang texten är tänkt att användas.
+
 > ** Nedan syns en text som är riktad till gymnasieelever och handlar om andragradsekvationer – en introduktion, och sedan presentation av tre olika sätt att lösa andragradsekvationer. Kan du ge förslag på hur texten kan förbättras?**
-> **[Inklistrad text från [Lösa andragradsekvationer: recept][2]]**
+> **[Inklistrad text från [Lösa andragradsekvationer: recept][3]]**
 > 
 > Här är några förslag på hur texten kan förbättras:
 > 1. Lägg till en inledning som ger läsaren en överblick över vad texten handlar om och varför den kan vara användbar.
@@ -152,8 +205,12 @@ ChatGPT kan bearbeta rätt stora mängder text och ge (ofta) meningsfull återko
 > 7. Korrigerar eventuella stavfel och grammatiska fel i texten för att göra den lättare att läsa och förstå.
 
 ### Skapa utkast till veckobrev och liknande
-
 ChatGPT kan spara tid genom att ge utkast till standardmeddelanden som man ändå vill ha trevligt skrivna. För sådana uppgifter kan det vara bra att ha en mall med instruktioner till ChatGPT där man byter ut vissa punkter inför varje meddelande.
+
+**När du läser konversationerna, fundera på:**
+* Vilka för- och nackdelar finns med att låta en AI skriva utskick och liknande texter?
+* Det finns risk att mottagare känner sig vilseledda om de tror att en människa skrivit texter skapade av en AI. Vad tror du reaktionen blir om man i utskicket anger att det är formulerat av en AI utifrån anvisningar från (i det här fallet) pedagoger på förskolan?
+* Vilka återkommande behov har du själv av att skriva texter? Testa gärna att låta ChatGPT skriva en sådan text åt dig och reflektera över resultatet. Kan du få AI:n att använda en språkstil som du gillar?
 
 > **Jag vill att du skriver ett utkast till ett veckobrev till vårdnashavare för barnen på vår förskola, "Ärtan". Brevet ska vara kortfattat och trevligt och berätta om vad vi gjort under veckan.**
 > **Saker att ta med i brevet:**
@@ -176,5 +233,24 @@ ChatGPT kan spara tid genom att ge utkast till standardmeddelanden som man änd�
 > Vänliga hälsningar,
 > Ärtan förskola.
 
+---- 
+
+> **Kan du skriva ett rekommendationsbrev för min elev Maria Andersson, som ska söka till University of Brighton? Jag vill att rekommendationsbrevet ska ta upp att Maria är över lag en skicklig och noggrann student, och är särskilt skicklig när det gäller kemi och att uttrycka sig i text. Skriv på brittisk engelska.**
+> Dear Admissions Committee,
+> 
+> I am writing to highly recommend Maria Andersson for your program at the University of Brighton. As her teacher for the past two years, I can confidently say that Maria is an exceptional student who consistently demonstrates a high level of skill and dedication in her studies.
+> 
+> Maria's greatest strength is her aptitude for chemistry. She consistently produces high-quality work and has a natural curiosity for the subject, often going above and beyond the requirements of the class. She is able to apply her knowledge to solve complex problems and is always willing to share her understanding with her classmates.
+> 
+> In addition to her strong technical skills, Maria is also an excellent communicator. She is able to express herself clearly and effectively in written work, which is a valuable asset in any field. Her ability to convey her thoughts and ideas in a well-structured and logical manner is truly impressive.
+> 
+> Furthermore, Maria is a dedicated and responsible student. She is always willing to go the extra mile to ensure that she fully understands the material and is quick to ask for help if she needs it. Her positive attitude and strong work ethic make her an asset to any academic setting.
+> 
+> I have no doubt that Maria will be an excellent candidate for the University of Brighton, and I wholeheartedly recommend her for your program. Please do not hesitate to contact me if you require any further information.
+> 
+> Sincerely,
+> [Your name]
+
 [1]:	https://en.wikipedia.org/wiki/Organic_acid
-[2]:	https://docs.google.com/document/d/1ZrvnHBrisFHtWOIRVh_fwHEmxvsho1sHZmNzr1l0Vmw/edit?usp=sharing
+[2]:	https://sv.wikipedia.org/wiki/Global_uppv%C3%A4rmning
+[3]:	https://docs.google.com/document/d/1ZrvnHBrisFHtWOIRVh_fwHEmxvsho1sHZmNzr1l0Vmw/edit?usp=sharing
