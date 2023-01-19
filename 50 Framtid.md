@@ -107,62 +107,6 @@ Några andra risker med allt mer AI beskrivs kortfattat nedan.
 * **Resurser och makt kan fördelas än mer ojämlikt.** Även om AI är förhållandevis billigt att använda är det dyrt att framställa och kräver enorma mängder data. De få aktörer som kan ta fram kraftfulla AI kan få stort inflytande – både i termer av ekonomisk produktion och vad gäller påverkan på information som människor tar del av.
 * **Snabba förändringar på arbetsmarknaden.** AI-utveckling kan leda till att arbetsmarknaden krymper eller att de kompetenser som efterfrågas ändras på ett sätt som gör många arbetslösa. Det kan både skapa problem för de drabbade människorna och oroligheter på samhällsnivå.
 
-## 15: AI, skola och framtiden
-I det här sista kapitlet finns spekulativa tankar som utforskar hur skola och utbildning skulle kunna se ut i en framtid där varje elev har en AI-instruktör. Kapitlet ska inte tolkas som att den här framtidsbilden är mer sannolik än någon annan, och inte heller som att den är särskilt önskvärd eller oönskvärd. Det är bara _ett_ sätt att undersöka hur AI, skola och framtid kan se ut. Att undersöka många sådana möjligheter kan vara ett sätt att bli bättre förberedd för ändringar.
-### Föreställ dig en AI-assistent…
-En av de nya sakerna med ChatGPT är förmågan att följa en konversation – AI:n kommer ihåg vad som sagts i samma tråd, och bygger sina svar baserat på det. Föreställ dig en AI-assistent som följer med dig likt en mobiltelefon, och som inte bara följer en konversationstråd, utan allt du gör (medan den är påslagen).
-
-En sådan assistent skulle veta vart du är på väg när du säger ”beställ en taxi åt mig”, och när du säger ”uhm… vad ska jag laga till middag?” vet den vad som finns i ditt kylskåp, vad du gillar att äta, om det behöver gå fort eller om du har gott om tid, vilket humör du är på, och en rad andra saker. Inom science fiction-litteraturen kallas den typen av maskiner ibland för ”e-butlers”, och de tar hand om en rad saker som vi människor tycker är tråkiga administrativa göromål.
-
-### …och föreställ dig en AI-instruktör för elever
-ChatGPT har ett vänligt språk, är pedagogisk, har ett oändligt tålamod och har kunskaper om fler saker än någon människa kan komma i närheten av. Den hade kunnat vara en fantastisk tjänst för att sköta undervisning. Som experiment kan du testa följande sekvens av frågor till ChatGPT (eller välja  något annat som du är intresserad av att lära dig om):
-* Kan du förklara finanskrisen 2008 på ett enkelt sätt?
-* Vad är en kreditkris?
-* Jag tycker om tåg. Jättemycket. Kan du förklara kreditkriser utifrån saker som har med tåg att göra?
-
-Två saker som ChatGPT däremot saknar är en uppfattning om världen vi människor lever i, och en känsla för logik. Det leder till att ChatGPT ibland svarar nonsens, och i värsta fall ger tydliga och lättbegripliga svar som är helt fel. I sin nuvarande form riskerar ChatGPT att sprida vidare vanliga missuppfattningar och orsaka pedagogisk skada, vilket är egenskaper man normalt inte vill ha hos en instruktör.
-
-Föreställ dig att en framtida ChatGPT-liknande AI, med delar som gör att den kan kontrollera fakta, utvärdera logiska resonemang, och även kan bedöma hur säker den är på sina svar. Och föreställ dig att varje elev har en sådan AI-instruktör, som följer med dem i alla skolsammanhang.
-
-En sådan AI-instruktör skulle kunna:
-* förklara begrepp, idéer och metoder utifrån sammanhang som utgår från elevens intressen och övriga liv,
-* väva samman olika ämnen för att ge bredare sammanhang för lärandet,
-* anpassa nivån på förklaringar och exempel efter vad som passar eleven,
-* svara på uppföljningsfrågor, både vad gäller ”jag förstod inte” och ”berätta mer”,
-* ställa kontrollfrågor till eleven för att stärka lärandet,
-* skapa både avskalade övningsuppgifter och breda problem och uppgifter anpassade för att stärka och befästa lärandet,
-* ge återkoppling till eleven när hen arbetar med olika typer av uppgifter, och samtidigt hålla koll på hur eleven utvecklas i sitt lärande,
-* uppmuntra eleven när motivationen verkar tryta,
-* föreslå nya saker som eleven förmodligen skulle tycka vara roligt att lära sig, och
-* hjälpa till att strukturera studierna på liten och stor skala – inklusive att ta paus från pluggande.
-
-### Vad skulle i så fall hända med skolor och lärare?
-Beskrivningen av AI-instruktörer ovan är nästan en pedagogisk utopi (särskilt som några risker utelämnats): varje elev har en egen superkompetent instruktör. Det är nästan som när drottning Kristina blev undervisad av René Descartes någon gång på 1600-talet, men tillgängligt inte bara för statsöverhuvuden utan för alla (och utan den köld som tog kål på Descartes).
-
-Men i beskrivningen ovan undervisas eleverna, precis som drottning Kristina, enskilt. Ett nödvändigt komplement till att utveckla varje elevs enskilda kunskaper, förmågor, kompetenser eller vad man vill kalla det, är att föra samman elever – delvis för att det krävs för att bygga viktiga kompetenser, men ännu mer för att det är viktigt att människor med olika bakgrund, världssyn och erfarenheter möts.
-
-I ett skolsystem med AI-instruktörer skulle skolans roll som mötesplats bli mycket större. De aspekterna finns visserligen redan i dagens läroplaner, men har svårt att få plats i en skolvärld och skoldebatt som ofta domineras av kunskapsresultat och betyg. I den här hypotetiska framtiden skulle skola i förknippas med mångfald, sociala mötesplatser och att förstå skillnader i mycket högre grad än scheman, böcker och prov.
-
-I en sådan värld föreställer jag mig också att lärare i mycket mindre utsträckning skulle arbeta med ämnesundervisning, eftersom det nästan helt sköts av AI-instruktörer. I stället föreställer jag mig att lärare skulle ha två andra huvudsakliga uppgifter. Den första handlar om att ge förutsättningar för (och följa upp) positiv social mångfald. Det betyder att förmåga att hantera människor och grupper skulle bli viktigare än didaktiska förmågor.
-  
-Den andra huvudsakliga uppgiften hänger samman med risker med AI-instruktörer.
-
-### Risker och utmaningar
-Förutom de tekniska utmaningarna med AI-instruktörer, vad finns det för risker och utmaningar?
-
-En kärnfråga är tillit och vad vi kan lita på. Vi kan inte, och borde inte lita fullständigt på AI – och inte på andra saker heller (inklusive sig själv, för den delen). I dagens skolor finns massor av lärare. En del är lysande, andra är inte så lysande, och ingen är perfekt. Brister hos lärare, skolledare eller hela skolor kan ha allvarliga konsekvenser för enskilda elever, hela klasser eller till och med många klasser – i värsta fall på ett sätt som påverkar resten av livet för eleverna.
-
-Men lärare och skolor är _olika_, och har olika brister. I en skola med AI-instruktörer skulle brister kunna påverka en hel generation av elever, och därmed i värsta fall skada hela samhället.
-
-Jag tror inte att svaret på frågan om tillit är ”hur kan vi skapa en AI som går att lita på fullt ut”, utan snarare ”hur kan vi använda AI även om vi inte litar helt på den”. Därmed tror jag också att ett skolsystem med AI-instruktörer kräver att det finns ett sätt att fortlöpande utvärdera och övervaka AI-instruktörerna och vilka effekter de har. Det, föreställer jag mig, är den andra huvudsakliga uppgiften för lärare (om ”lärare” fortfarande är rätt ord att använda).
-
-Det enklaste fallet av utvärdering handlar förmodligen om faktamässiga fel. Jag föreställer mig att dialog mellan AI-instruktörer och elever sällan övervakas direkt, så brister som rör faktafel skulle förmodligen upptäckas genom att elever på gruppnivå skulle uttrycka missuppfattningar.
-
-
-(Spekulativa idéer. Vilket kan behövas en bredd av om vi ska ha funderat över lägen vi hamnar i innan vi är i dem.)
-
-…
-
 [^1]:	”Omdöme” är här ett ganska löst ord. Man kan, hypotetiskt, tänka sig att någon använder ChatGPT för att skapa en bomb, vilket är ganska omdömeslöst. Den som följer ChatGPT:s anvisningar utan att själv ha kunskaper om explosiva material riskerar att skada sig själv eller slösa bort resurser, medan den som har ”omdöme” inom bombtillverkning kan se var anvisningarna är rimliga, var det är fel eller luckor, och kan förhålla sig till nya saker som AI:n föreslår.
 
 [1]:	https://thispersondoesnotexist.com/

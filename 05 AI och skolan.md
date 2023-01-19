@@ -8,7 +8,7 @@ Del 1 i boken ger en introduktion till vad ChatGPT är och hur man kommer igång
 
 Del 2 har fokus på praktisk användning. Kapitel ((**X–X**)) innehåller exempel på hur du kan använda ChatGPT för att underlätta ditt arbete, och är förmodligen de du kommer att ha mest nytta av. Bläddra gärna fritt i dem och få inspiration, men hoppa inte över kapitel ((**X**)) som tar upp sådant som du *inte* ska göra med ChatGPT. Kapitel ((**X**)) tar upp frågan om ChatGPT och fusk.
 
-Del 3 är främst till för den som vill veta lite mer om AI som fenomen. Kapitel ((**X**)) tar upp bakgrund till de senaste årens AI-utveckling, inklusive mer information om ChatGPT och företaget OpenAI som skapade tjänsten. Kapitel ((**X**)) och ((**X**)) tar upp mer spekulativa tankar om hur AI kan komma att påverka skola i framtiden, respektive bredare frågor om AI och människan.
+Del 3 är främst till för den som vill veta lite mer om AI som fenomen. Kapitel ((**X**)) tar upp bakgrund till de senaste årens AI-utveckling, inklusive mer information om ChatGPT och företaget OpenAI som skapade tjänsten. Kapitel ((**X**)) diskuterar hur vår syn på kunskap kan komma att förändras på grund av verktyg som ChatGPT och kapitel ((**X**)) tar upp frågor om risker med AI ur ett bredare perspektiv.
 
 Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har följt AI-utveckling sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson, Peter Parnes, Julia Tsygan och Marcus Strömbäck Hjärne.
 
