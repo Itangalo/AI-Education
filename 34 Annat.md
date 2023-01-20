@@ -1,5 +1,4 @@
-
-## 10: Annat
+# 10: Annat
 I det här kapitlet finns lite mer udda exempel på vad ChatGPT kan användas för i arbetet som lärare.
 
 ### Vänliga och välskrivna kommentarer

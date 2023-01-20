@@ -1,4 +1,4 @@
-## 8: Personlig utveckling relaterad till arbetet
+# 8: Personlig utveckling relaterad till arbetet
 
 ### Sammanfatta dokument för att hitta givande läsning
 Genom att klistra in textmassor och be ChatGPT sammanfatta dem är det möjligt att få en uppfattning av texter utan att behöva läsa allt själv. Givetvis förlorar man information i en sådan sammanfattning, och det finns risk att ChatGPT missar eller förvanskar väsentliga aspekter – men det gör det samtidigt möjligt att skumma många fler dokument och välja en eller ett par texter att läsa närmare.

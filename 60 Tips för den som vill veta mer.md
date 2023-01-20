@@ -1,4 +1,4 @@
-## Appendix: Tips för den som vill veta mer
+# Appendix: Tips för den som vill veta mer
 * EU:s etiska riktlinjer för användning av AI I skolan: [education.ec.europa.eu/news/ethical-guidelines-on-the-use-of-artificial-intelligence-and-data-in-teaching-and-learning-for-educators][1]
 * En välskriven och djupgående artikel om ChatGPT, relaterad AI-teknik och utbildning, från The Decoder (7 januari 2023): [the-decoder.com/ai-in-education-chatgpt-is-just-the-beginning/][2]
 * Facebook-gruppen Ansvarsfull AI i skolan: [facebook.com/groups/816917802719935][3]
