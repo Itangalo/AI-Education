@@ -6,7 +6,7 @@
 
 Till det yttre är ChatGPT ett chattfönster där man skriver meddelanden till en chatbot, som svarar. Det finns dock flera saker som gör ChatGPT speciell. Det första är att den skriver på ett mänskligt sätt – den följer konversationen, skriver vettiga saker och är dessutom allmänt trevlig. Det andra som gör ChatGPT speciell är att den har massor med kunskaper även om detaljområden: Du kan fråga om modelljärnvägens historia, vad som krävs för att odla potatis på ett effektivt sätt eller vad som utmärker schottis som dans, och ChatGPT kommer att svara på ett tydligt och förtroendeingivande sätt.
 
-ChatGPT drivs av en så kallad AI-modell som har blivit tränad på stora delar av den text som fanns tillgänglig på internet fram till 2021. Det är mer text än en människa hinner läsa i hela sitt liv – faktiskt så mycket att det skulle kräva 57 miljarder människoåldrar att läsa igenom alltihop. Texten är utgångspunkt för de svar som ChatGPT ger, men svaren slås inte upp eller kopieras från det som AI-modellen läst. I stället har textmassan använts för att destillera fram mönster för hur text och ord brukar hänga samman. Utifrån det gör ChatGPT gissningar på vilka ord som passar bra att skriva, och samma fråga ger i regel lite olika svar om den ställs flera gånger. (Mer information om ChatGPT finns i kapitel 12.)
+ChatGPT drivs av en så kallad AI-modell som har blivit tränad på stora delar av den text som fanns tillgänglig på internet fram till 2021. Det är mer text än en människa hinner läsa i hela sitt liv – faktiskt så mycket att det skulle kräva 57 miljarder människoåldrar att läsa igenom alltihop[^1]. Texten är utgångspunkt för de svar som ChatGPT ger, men svaren slås inte upp eller kopieras från det som AI-modellen läst. I stället har textmassan använts för att destillera fram mönster för hur text och ord brukar hänga samman. Utifrån det gör ChatGPT gissningar på vilka ord som passar bra att skriva, och samma fråga ger i regel lite olika svar om den ställs flera gånger. (Mer information om ChatGPT finns i kapitel 12.)
 
 I den här boken finns många utdrag från konversationer med ChatGPT. De är i regel ordagrant återgivna – det du läser är hur konversationen med ChatGPT sett ut. Den fetstilade texten är frågan (”prompten”) från användaren, det övriga är svaret från AI:n. I vissa fall är dock texten lätt redigerad för att formatmässigt passa bättre i bokform, och i vissa fall har större mängder inklistrad text i frågan ersatts av en kort beskrivning inom hakparentes.
 
@@ -87,7 +87,7 @@ De allra flesta tips och idéer i den här boken utgår från att det är lärar
 
 ## 3: Så kommer du igång med ChatGPT
 
-ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com][1]). Konto är gratis, och än så länge är det också gratis att använda ChatGPT. Användarvillkoren för OpenAI-konton säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com][2] och börja använda ChatGPT.
+ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com][2]). Konto är gratis, och än så länge är det också gratis att använda ChatGPT. [Användarvillkoren för OpenAI-konton][3] säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com][4] och börja använda ChatGPT.
 
 ![Gränssnittet för ChatGPT, med de viktigaste elementen markerade 1–3.][image-1]
 
@@ -101,9 +101,7 @@ Håller du pekaren på ditt meddelande till ChatGPT syns en ikon för att redige
 
 Det finns inget inbyggt sätt att exportera text från konversationerna. Det vanliga är att antingen markera och kopiera text för hand eller ta skärmbilder, men använder du ChatGPT ofta kan du överväga att installera en plugin i din webbläsare som gör det lättare att kopiera text.
 
-
 ### Några tips när du chattar med ChatGPT
-
 Att chatta med ChatGPT är på många sätt naturligt – du skriver som du skulle göra till en människa. De vanligaste sätten är förmodligen att ställa korta frågor eller att uppmana ChatGPT att skriva något särskilt, och att följa upp det med ytterligare frågor, uppmaningar eller justeringar. Några metoder och knep som kanske är mindre naturliga kan också vara bra att känna till:
 
 * Om du trycker enter i chattrutan skickas meddelandet till ChatGPT. Med shift + enter har du möjlighet att skapa radbrytningar utan att meddelandet skickas.
@@ -115,20 +113,26 @@ Att chatta med ChatGPT är på många sätt naturligt – du skriver som du skul
 * Uppföljningsfrågor är också mycket användbara för att precisera vad man vill få ut av svaren, eller be ChatGPT utveckla delar av svar som är intressanta.
 * En del experimenterar med långa beskrivningar av hur man vill att ChatGPT ska bete sig. Sådana beskrivningar avslutas ofta med något i stil med “bekräfta att detta är uppfattat genom att svara ‘ok’”, och de egentliga frågeställningarna eller uppmaningarna postas i nästa steg i konversationen.
 
-Det är bra att känna till att det finns en gräns för hur långa meddelandena till ChatGPT får vara, på knappt två tusen ord eller 7–10 sidor. Om du vill ge ChatGPT längre texter än så kan du testa att dela upp den, och exempelvis ge ChatGPT instruktionen “Jag kommer att ge dig en lång text uppdelad i flera delar. Här kommer del 1. Svara ‘ok’ när du är klar.”
+Det är bra att känna till att det finns en gräns för hur långa meddelandena till ChatGPT får vara, på knappt två tusen ord eller 7–10 sidor[^2]. Om du vill ge ChatGPT längre texter än så kan du testa att dela upp den, och exempelvis ge ChatGPT instruktionen “Jag kommer att ge dig en lång text uppdelad i flera delar. Här kommer del 1. Svara ‘ok’ när du är klar.”
 
 ChatGPT lägger som mest en och en halv minut på att ge svar, vilket gör att långa svar kan brytas mitt i. I sådana lägen kan du exempelvis skriva “Kan du fortsätta på förra svaret och avsluta det?”, eller ändra frågan så att ChatGPT kan svara på mindre delar i taget.
 
 På nätet finns samlingar med prompter som folk funnit särskilt användbara. Det kan till exempel vara prompter noga utformade för ett visst ändamål (så som att fungera som kokbok eller författare av soloäventyr) eller grupper av prompter som är användbara inom särskilda områden (så som assistent för programmerare). Om du vill utforska sådana samlingar kan du testa att söka på “ChatGPT prompts”.
-
 
 ### Övningar
 
 1. Om du inte redan har ett konto hos OpenAI, skapa ett – förutsatt att du går med på deras användarvilkor.
 2. Testa att ställa frågor till ChatGPT eller be ChatGPT skapa vissa typer av texter. Ha minst tre konversationer, där du ställer uppföljningsfrågor i minst en. Minst en av chattarna ska handla om skola eller undervisning. Testa att skriva både på svenska och engelska.
 
-[1]:	https://beta.openai.com/
-[2]:	https://chat.openai.com/
+[^1]:	BBC Tech Tent, 2022-12-09: [https://www.bbc.co.uk/programmes/w3ct4khv][1]
+
+[^2]:	[https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them][5]
+
+[1]:	https://www.bbc.co.uk/programmes/w3ct4khv
+[2]:	https://beta.openai.com/
+[3]:	https://openai.com/terms/
+[4]:	https://chat.openai.com/
+[5]:	https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them
 
 [image-1]:	https://user-images.githubusercontent.com/262940/212463937-050069cb-ad3a-4e64-a212-a266b4d973b1.png
 [image-2]:	https://user-images.githubusercontent.com/262940/212463940-7cf40758-8d33-4520-8b8e-8b3cd80134c7.png

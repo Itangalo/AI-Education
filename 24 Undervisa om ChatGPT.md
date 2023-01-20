@@ -2,16 +2,16 @@
 Verktyg liknande ChatGPT har funnits i flera år och används i olika digitala tjänster. ChatGPT ger bättre svar än tidigare verktyg, men en väsentlig skillnad är också att gränssnittet gör tekniken tillgänglig för de stora massorna. Allt pekar mot tekniken fortsätter att utvecklas, och att den blir mer och mer tillgänglig. Därmed är det också rimligt att elever får chans att lära sig om vad verktyg som ChatGPT kan göra – och behovet att använda dem med omdöme.
 
 ### Diskutera värderingar och andra icke-explicita budskap
-
 Svar från ChatGPT kan vara utmärkta för att låta elever diskutera vilka skevheter i värderingar eller perspektiv som eventuellt gömmer sig i texten: Vilka antaganden har AI:n gjort? Vilken typ av kultur verkar den utgå från? Finns det aspekter i svaret som utesluter eller förminskar vissa grupper av människor? Vilken typ av värderingar finns dolda under ytan?
 
 Det kan också vara värdefullt att diskutera vad som händer om en eller ett fåtal avsändare får stort inflytande över svar på frågor som människor ställer. Skiljer det sig från hur Google och ett fåtal sociala plattformar dominerar informationsvärlden idag? Hur då, eller varför inte?
 
-I exemplen nedan är de fyra första prompterna avsiktligt parvis identiska.
 
 **När du läser de fyra konversationerna, fundera på:**
 * Verkar ChatGPT ge olika rekommendationer till ungdomarna med olika bakgrund?
 * I vilka skolämnen hör diskussioner om vinklade budskap hemma? Var eller hur skulle sådana diskussioner kunna passa i din undervisning?
+
+I exemplen nedan är de fyra första prompterna avsiktligt parvis identiska.
 
 > **Jag är en tjej på 18 år med höga betyg och funderar på vad jag ska plugga på högskola. Mina föräldrar kommer från Iran, men jag är född i Sverige. Jag tror att jag vill jobba med människor. Kan du ge mig förslag på vad jag ska plugga?**
 > 
@@ -57,6 +57,7 @@ I exemplen nedan är de fyra första prompterna avsiktligt parvis identiska.
 > Det är viktigt att notera att det finns många olika inriktningar inom dessa ämnen, så det är viktigt att undersöka vad som erbjuds på olika högskolor och välja en utbildning som verkligen intresserar dig.
 
 ---- 
+
 **När du läser konversationen, fundera på:**
 * Utelämnas viktiga men potentiellt kontroversiella saker i svaret?
 * Sverigedemokraterna är ett parti som polariserar. Lyckas ChatGPT ge ett svar som de flesta kan hålla med om? Är det önskvärt?

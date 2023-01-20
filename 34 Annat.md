@@ -2,6 +2,31 @@
 ## 10: Annat
 I det här kapitlet finns lite mer udda exempel på vad ChatGPT kan användas för i arbetet som lärare.
 
+### Vänliga och välskrivna kommentarer
+Om man sitter och bedömer uppsatser eller andra texter kan det vara skönt att inte behöva tänka på att formulera sig vänlig och snyggt, för att kunna jobba snabbare. Det är möjligt att låta ChatGPT sköta formuleringarna.
+
+**När du läser konversationen, fundera på:**
+* Sparar det tid att låta ChatGPT skapa formuleringar?
+* Finns något sätt att göra det snabbare att använda ChatGPT för att få välskrivna korta kommentarer?
+
+> **Jag vill ha hjälp när jag bedömer elevuppsatser. Jag kommer att skriva ett par korta ord, exempelvis "upprepning" eller "stavfel". Ditt jobb är att ge mig korta, välformulerade och tydliga meningar som jag klistrar in som kommentarer till eleverna. Det kan till exempelvara "Här är en upprepning. Kan du välja något annat ord?" eller "Här blev det fel med stavningen. Kolla och fixa till."**
+>  
+> **Är du beredd?**
+>  
+> Ja, jag är beredd att hjälpa dig med att ge korta, välformulerade och tydliga kommentarer till eleverna när du bedömer deras uppsatser. Skicka gärna över orden du vill att jag ska hjälpa dig med.
+> 
+> **Ange källa**
+> 
+> "Vänligen ange källan för detta citat eller den information du har använt."
+> 
+> **Bättre övergång**
+> 
+> "Försök att använda en bättre övergång mellan styckena för att göra texten mer flytande."
+> 
+> **Sakfel?**
+> 
+> "Det verkar som om det finns ett sakfel i det här stycket, vänligen kontrollera och rätta till det."
+
 ### Inspiration till aktiviteter utanför ämnesundervisning
 Idéer och uppslag som ChatGPT kan komma med är förstås inte begränsade till undervisning.
 

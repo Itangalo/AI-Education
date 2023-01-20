@@ -1,19 +1,14 @@
 ## 4: Saker du inte ska göra
 
 ### Lämna inte ut personuppgifter eller andra känsliga uppgifter
-
 Den text som skrivs till ChatGPT skickas till servrar i andra länder och hanteras på sätt som du inte har kontroll över. Det innebär att inga personuppgifter för elever eller andra känsliga uppgifter ska lämnas till ChatGPT.
 
-Punkt.
-
 ### Uppmana inte minderåriga elever att skapa konto på OpenAI
-
 Villkoren för att skapa ett konto hos OpenAI, som skapat ChatGPT, omfattar att man ska vara minst 18 år gammal. (Se [openai.com/terms][1].) Att uppmana elever yngre än 18 år att skaffa ett konto är alltså direkt olämpligt. För elever som är 18 år eller äldre behöver man fundera över vad som är lämpligt när det gäller att skaffa konton för onlinetjänster, och det är värt att undersöka om skolan har någon policy.
 
 
 ### Använda inte budskap från ChatGPT utan att granska dem först
-
-Det är kanske lite tjatigt, men du behöver alltid granska och värdera texter från ChatGPT innan de når eleverna. I synnerhet ska du inte använda ChatGPT som en extralärare, som förklarar saker för elever utan att du som lärare ser att det som ChatGPT säger är ok. Exemplet nedan kan göra tydligt varför det är olämpligt.
+Det är kanske lite tjatigt att säga det igen, men du behöver alltid granska och värdera texter från ChatGPT innan de når eleverna. I synnerhet ska du inte använda ChatGPT som en extralärare, som förklarar saker för elever utan att du som lärare ser att det som ChatGPT säger är ok. Exemplet nedan kan göra tydligt varför det är olämpligt.
 
 > **Vad är sannolikheten att slå par med tre tärningar?**
 > 
@@ -37,9 +32,9 @@ I konversationen ovan uttrycker sig ChatGPT klart och tydligt, och det den säge
 
 En elev som lämnas att lära sig av ChatGPT kan råka ut för alla möjliga dumheter. I bästa fall blir eleven förvirrad av dumheterna och frågar läraren. Men det är också fullt möjligt att eleven lär sig felaktigheter, utan att du som lärare ens märker när det händer, och att det skapar svårigheter senare.
 
-Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men ChatGPT kan kasta ur sig mycket mer dolda misstag som blir till fällor för eleverna. ChatGPT är *inte* en lärare eller instruktör.
+Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men ChatGPT kan kasta ur sig mycket mer dolda misstag som kan skada eleverna på olika sätt. ChatGPT är *inte* en lärare eller instruktör.
 
-### Lita inte på ChatGPT:s hänvisning till forskning
+### Tro inte på ChatGPT:s hänvisningar till forskning
 Man ska inte lita på att det som ChatGPT svarar är korrekt faktamässigt, men man skulle kunna tro att en AI som läst stora delar av den text som fanns på internet 2021 kan ge förslag på forskningsartiklar att läsa – så att man får hjälp att hitta tillförlitliga källor.
 
 ChatGPT svarar glatt på sådana frågor, men de artiklar som nämns finns ofta inte. Ett bättre alternativ för att hitta forskning är till exempel [Google Scholar][2].
