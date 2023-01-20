@@ -1,7 +1,7 @@
-# AI-och-skolan
+# AI och skolan
 AI och skolan är en bok för lärare som är intresserade av att använda AI-tjänsten ChatGPT i sitt arbete. Boken innehåller dussintals exempel på hur man kan underlätta arbete, få inspiration och skapa material med hjälp av ChatGPT.
 
-Boken betonar att det är viktigt att använda sitt omdöme i hur och när ChatGPT används, och fyra typer av fallgropar att se upp för tas upp: språkfel, faktafel, skeva perspektiv eller värderingar, samt oreflekterad pedagogik.
+Boken betonar att det är viktigt att använda sitt omdöme i hur och när ChatGPT används, och den beskriver fyra typer av AI-fällor att vara vaksam för: språkfel, faktafel, skeva perspektiv eller värderingar, samt oreflekterad pedagogik.
 
 Den sista delen av boken ger mer perspektiv på AI, skola och framtiden.
 

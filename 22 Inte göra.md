@@ -39,10 +39,10 @@ En elev som lämnas att lära sig av ChatGPT kan råka ut för alla möjliga dum
 
 Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men ChatGPT kan kasta ur sig mycket mer dolda misstag som blir till fällor för eleverna. ChatGPT är *inte* en lärare eller instruktör.
 
-### Be inte ChatGPT hitta forskningsartiklar
+### Lita inte på ChatGPT:s hänvisning till forskning
 Man ska inte lita på att det som ChatGPT svarar är korrekt faktamässigt, men man skulle kunna tro att en AI som läst stora delar av den text som fanns på internet 2021 kan ge förslag på forskningsartiklar att läsa – så att man får hjälp att hitta tillförlitliga källor.
 
-ChatGPT svarar glatt på sådana frågor, men de artiklar som nämns finns i regel inte. Ett bättre alternativ för att hitta forskning är till exempel [Google Scholar][2].
+ChatGPT svarar glatt på sådana frågor, men de artiklar som nämns finns ofta inte. Ett bättre alternativ för att hitta forskning är till exempel [Google Scholar][2].
 
 Ingen av de artiklar som ChatGPT nämner nedan har gått att hitta.
 

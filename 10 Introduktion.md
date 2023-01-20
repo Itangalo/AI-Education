@@ -49,7 +49,7 @@ I den här boken finns många utdrag från konversationer med ChatGPT. De är i 
 
 Att börja använda ChatGPT kan vara överväldigande eller till och med omvälvande. Oavsett om du ställer frågor om cellbiologi, August Strindberg eller buddhismens historia har den svar, som levereras sakligt och tydligt. Den kan sammanfatta texter, skriva dikter, skapa datorprogram, hitta på godnattsagor, ge återkoppling på och ge förbättringsförslag på textutkast, och utveckla sina resonemang i en konversation med en människa. I kapitel 13 kan du läsa mer om hur verktyg som ChatGPT skulle kunna påverka vår syn på kunskap, och på oss själva.
 
-## 2: Fyra typer av fallgropar
+## 2: Fyra typer av AI-fällor
 Något som är viktigt att lägga märke till redan nu är att ChatGPT begår misstag. Om du läste igenom konversationen ovan la du förmodligen märke till att översättningar och ordval ibland blir konstiga (exempelvis “gödselmedel” i stället för “gödsel” och “accordeonmusik” i stället för “dragspelsmusik”). Sådana misstag är betydligt ovanligare på engelska, eftersom den största delen av texten ChatGPT tränats på är på engelska.
 
 Något som är svårare att lägga märke till är sakfelen – dels eftersom de kräver förhållandevis goda kunskaper hos läsaren, dels för att de är insvepta i en tydlig text som är lätt att tro på. Till exempel skriver ChatGPT att schottis uppstod i Skottland, medan den som läser om schottis på Wikipedia kan konstatera att den troligtvis uppstod i Böhmen. (Nationalencyklopedin å sin sida säger att schottis “presenterades” i Paris, utan att nämna var dansen uppstod.)
@@ -62,14 +62,14 @@ En sista typ av misstag handlar inte om vad ChatGPT svarar, utan hur användbart
 
 Det är naturligt och nyttigt att utforska olika sätt att använda nya verktyg, och allt man testar behöver inte fungera bra. Men det är lätt hänt att kraftfulla verktyg överanvänds, och att utgångspunkten blir verktyget snarare än det man vill använda det till.
 
-ChatGPT:s mångsidighet och imponerande förmåga att skapa sakliga, tydliga och korrekta budskap gör det lätt att glömma bort att det inte bara finns artificiell intelligens utan också AI-skapade dumheter. För att göra det lättare att använda ChatGPT med omdöme kommer de här fyra typerna av fallgropar att nämnas i samband med exempel senare i boken.
+ChatGPT:s mångsidighet och imponerande förmåga att skapa sakliga, tydliga och korrekta budskap gör det lätt att glömma bort att det inte bara finns artificiell intelligens utan också AI-assisterade dumheter. För att göra det lättare att använda ChatGPT med omdöme listar den här boken fyra typer av AI-fällor man behöver se upp med.
 
-* **Fallgrop 1: Språkfel**, så som stavfel och felaktiga ordval. Dessa är förhållandevis lätta att upptäcka. Största risken med språkfel är förmodligen att elever kan bli förvirrade över terminologi.
-* **Fallgrop 2: Faktafel**, vilket också kan omfatta logiska misstag. Faktafel kräver ämneskunskaper för att upptäcka, inte minst för att ChatGPT formulerar sig på så förtroendeingivande sätt.
-* **Fallgrop 3: Skeva perspektiv eller värderingar**, där svar från AI:n kanske utgår från förhållanden i USA, befäster stereotypa könsroller eller inte tar hänsyn till vissa grupper i samhället. Att upptäcka skeva perspektiv eller värderingar kan kräva både vaksamhet och goda kunskaper.
-* **Fallgrop 4: Oreflekterad pedagogik**, som betyder att det som ChatGPT levererar används utan att reflektera över om det faktiskt leder till det lärande som man är ute efter.
+* **Språkfällor**, så som stavfel och felaktiga ordval. Dessa är förhållandevis lätta att upptäcka. Största risken med språkfel är förmodligen att elever kan bli förvirrade över terminologi.
+* **Faktafällor**, vilket också kan omfatta logiska misstag. Faktafel kräver ämneskunskaper för att upptäcka, inte minst för att ChatGPT formulerar sig på så förtroendeingivande sätt.
+* **Perspektiv- och värderingsfällor**, där svar från AI:n kanske utgår från förhållanden i USA, befäster stereotypa könsroller eller inte tar hänsyn till vissa grupper i samhället. Att upptäcka skeva perspektiv eller värderingar kan kräva både vaksamhet och goda kunskaper.
+* **Pedagogiska fällor**, som betyder att det som ChatGPT levererar används utan att reflektera över om det faktiskt leder till det lärande som man är ute efter.
 
-De här typerna av misstag är inte unika för ChatGPT, och kan uppstå även helt utan teknikens hjälp. Och den som aldrig trillat i de här fallgroparna har förmodligen inte undervisat alls – och det måste vara ok att göra fel. Men den som har de här fyra fallgroparna i bakhuvudet har förmodligen lättare att använda ChatGPT med omdöme.
+De här typerna av misstag är inte unika för ChatGPT, och kan uppstå även helt utan teknikens hjälp. Och den som aldrig gått i de här fällorna har förmodligen inte undervisat alls – och det måste vara ok att göra fel. Men den som har de fyra AI-fällorna i bakhuvudet har förmodligen lättare att undvika dem.
 
 ### Olämpliga budskap
 
@@ -81,9 +81,9 @@ De allra flesta tips och idéer i den här boken utgår från att det är lärar
 
 ### Övningar
 
-1. Vilka är de fyra typerna av fallgropar, och vad utmärker dem?
-2. Kan du komma på ytterligare kategorier av fallgropar?
-3. Kolla igenom konversationen i kapitel 1 igen och fundera över var det kan finnas fallgropar, utöver de som nämnts.
+1. Vilka är de fyra typerna av AI-fällor, och vad utmärker dem?
+2. Kan du komma på ytterligare kategorier av AI-fällor?
+3. Kolla igenom konversationen i kapitel 1 igen och fundera över var det kan finnas AI-fällor.
 
 ## 3: Så kommer du igång med ChatGPT
 
@@ -112,6 +112,7 @@ Att chatta med ChatGPT är på många sätt naturligt – du skriver som du skul
 * Om du ger ChatGPT en text utan någon speciell uppmaning eller fråga kommer den att svara med en sammanfattning av texten.
 * ChatGPT är i regel snabbare på att svara om man skriver på engelska, och meddelandena innehåller också färre språkfel.
 * Utförliga beskrivningar och frågeställningar ger ofta mer användbara svar.
+* Uppföljningsfrågor är också mycket användbara för att precisera vad man vill få ut av svaren, eller be ChatGPT utveckla delar av svar som är intressanta.
 * En del experimenterar med långa beskrivningar av hur man vill att ChatGPT ska bete sig. Sådana beskrivningar avslutas ofta med något i stil med “bekräfta att detta är uppfattat genom att svara ‘ok’”, och de egentliga frågeställningarna eller uppmaningarna postas i nästa steg i konversationen.
 
 Det är bra att känna till att det finns en gräns för hur långa meddelandena till ChatGPT får vara, på knappt två tusen ord eller 7–10 sidor. Om du vill ge ChatGPT längre texter än så kan du testa att dela upp den, och exempelvis ge ChatGPT instruktionen “Jag kommer att ge dig en lång text uppdelad i flera delar. Här kommer del 1. Svara ‘ok’ när du är klar.”

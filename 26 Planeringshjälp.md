@@ -2,14 +2,14 @@
 En av ChatGPT:s starkaste grenar är att ge idéer och inspiration. Man kan be om tio idéer och välja de som känns värda att gå vidare med, eller be om tio till med en lite annan fråga om inget svar passar bra. Det kan vara en bra tillgång när man planerar lektioner, kurser eller undervisningsområden.
 
 ### Inspiration till upplägg för planeringar
-Om man ber ChatGPT att ge förslag på planeringar är det särskilt viktigt att vara vaksam för fallgropen som rör oreflekterad pedagogik: ChatGPT tar inte utgångspunkt i svenska skolans styrdokument, och känner inte heller till förutsättningarna i din klass eller grupp – om du inte berättar för den. Svaren från ChatGPT kan ge inspiration, även om de inte är fullträffar.
+Om man ber ChatGPT att ge förslag på planeringar är det särskilt viktigt att vara vaksam för pedagogiska fällor: ChatGPT tar inte utgångspunkt i svenska skolans styrdokument, och känner inte heller till förutsättningarna i din klass eller grupp – om du inte berättar för den. Svaren från ChatGPT kan ge inspiration, även om de inte är fullträffar.
 
 **När du läser konversationerna, fundera på:**
 * Skulle du själv vilja ha stöd med utkast till planeringar? Varför, eller varför inte?
 * Verkar förslagen från ChatGPT användbara och pedagogiskt genomtänkta?
 * Vilka antaganden gör ChatGPT om formerna för undervisning? Stämmer det med hur du själv brukar undervisa? Om inte, finns det saker du kan och vill ta till dig?
 * Testa gärna själv att be om utkast till planeringar, för större eller mindre delar av din undervisning. Du får förmodligen bättre svar om du ger utförliga beskrivningar av förutsättningarna eller vilken typ av planering du vill ha.
-	 
+		 
 > **Vi börjar ett nytt område med min årskurs 8 idag: antiken. Jag har bara fyra lektioner för det här området. Kan du ge några förslag på upplägg?**
 >  
 > Hej! Det låter som du har en utmaning på händerna att få med så mycket som möjligt om antiken på bara fyra lektioner. Här är några förslag på hur du kan lägga upp lektionerna:
