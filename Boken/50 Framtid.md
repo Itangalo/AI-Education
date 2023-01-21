@@ -1,19 +1,19 @@
 # Del 3: Mer om AI
 
 # 12: Bakgrunden till ChatGPT
-ChatGPT lanserades som en försöksverksamhet (”beta”) den 30 november 2022 av företaget OpenAI, och fick snabbt mycket uppmärksamhet. På bara fem dagar hade antalet användare vuxit till en miljon, något som normalt tar månader eller år även för framgångsrika tekniktjänster.
+ChatGPT lanserades som en försöksverksamhet (”beta”) den 30 november 2022 av företaget OpenAI, och fick snabbt mycket uppmärksamhet. På bara fem dagar hade antalet användare vuxit till en miljon[^1], något som normalt tar månader eller år även för framgångsrika tekniktjänster[^2].
 
-Tidigare under 2022 hade flera AI-tjänster för bilder också väckt uppmärksamhet. De mest kända av dessa verktygen är DALL-E 2 (också från OpenAI), Midjourney och Stable Diffusion. Även om tidigare AI-tjänster kunnat skapa realistiska bilder (se exempelvis [thispersondoesnotexist][1] från 2019), var det först 2022 som man själv kunde skriva en beskrivning nästan vad som helst och få tillbaka en bild som ser bra ut. Även om alla bilder knappast ligger i världsklass finns det också exempel på AI-skapade bilder som [vinner tävlingar mot bilder skapade av människor][2].
+Tidigare under 2022 hade flera AI-tjänster för bilder också väckt uppmärksamhet. De mest kända av dessa verktygen är DALL-E 2 (också från OpenAI), Midjourney och Stable Diffusion. Även om tidigare AI-tjänster kunnat skapa realistiska bilder (se exempelvis [thispersondoesnotexist][3] från 2019), var det först 2022 som man själv kunde skriva en beskrivning nästan vad som helst och få tillbaka en bild som ser bra ut. Även om alla bilder knappast ligger i världsklass finns det också exempel på AI-skapade bilder som [vinner tävlingar mot bilder skapade av människor][4].
 
 Den AI-modell som ligger bakom ChatGPT kallas GPT-3.5 och är en variant av GPT-3 som lanserades redan 2020. GPT står för ”generative pre-trained transformer” och är en term som OpenAI använder för en serie av sina AI-modeller. De är en typ av modell som kallas _large language model_ (LLM) eller stor språkmodell, som i sin tur använder en mer generell princip som heter artificiellt neuralt nätverk – en teknik som är inspirerad av hur nervceller i våra hjärnor fungerar.
 
-Ofta mäter man kapaciteten i artificiella neurala nätverk i antalet _parametrar_ som de har, vilket ungefär motsvarar de kopplingar som finns mellan nervcellerna i våra hjärnor. Dessa parametrar är värden som ställs in medan AI:n tränas för att ge så bra svar som möjligt. Träning av stora AI-modeller kräver ofantliga mängder data och massor av datorkraft, vilket gör att det i princip bara är stater och stora teknikföretag som kan skapa stora AI-modeller. Ofta behöver delar av datan också bedömas eller etiketteras av människor, vilket gör den ännu dyrare att framställa. En stor skillnad mellan GPT-3 och GPT-3.5 är just att många texter bedömts av människor, för att ChatGPT ska kunna förstå vad som klassas som olämpliga budskap. De färdiga är värdefulla (och stöldbegärliga) tillgångar för företaget. Att använda de färdiga modellerna är däremot mycket mindre resurskrävande, och kan ibland göras på vanliga persondatorer.
+Ofta mäter man kapaciteten i artificiella neurala nätverk i antalet _parametrar_ som de har, vilket ungefär motsvarar de kopplingar som finns mellan nervcellerna i våra hjärnor. Dessa parametrar är värden som ställs in medan AI:n tränas för att ge så bra svar som möjligt. Träning av stora AI-modeller kräver ofantliga mängder data och massor av datorkraft, vilket gör att det i princip bara är stater och stora teknikföretag som kan skapa stora AI-modeller. Ofta behöver delar av datan också bedömas eller etiketteras av människor, vilket gör den ännu dyrare att framställa. En stor skillnad mellan GPT-3 och GPT-3.5 är just att många texter bedömts av människor, för att ChatGPT ska kunna förstå vad som klassas som olämpliga budskap[^3]. De färdiga är värdefulla (och stöldbegärliga) tillgångar för företaget. Att använda de färdiga modellerna är däremot mycket mindre resurskrävande, och kan ibland göras på vanliga persondatorer.
 
-OpenAI är förtegna med information om ChatGPT. I intervjuer har de angett att modellen tränats på en betydande andel av den text som fanns på internet 2021 (och det är tydligt att den inte hämtar ny information från nätet). Det är svårt att hitta information om hur många parametrar GPT-3.5 har, men GPT-3 har 175 miljarder parametrar. Två olika källor antyder att GPT-3.5 (och därmed ChatGPT) endast har en hundradel så många parametrar, omkring 2 miljarder. 
+OpenAI är förtegna med information om ChatGPT. I intervjuer har de angett att modellen tränats på en betydande andel av den text som fanns på internet 2021 (och det är tydligt att den inte hämtar ny information från nätet). Det är svårt att hitta information om hur många parametrar GPT-3.5 har, men GPT-3 har 175 miljarder parametrar.[^4] Två olika källor antyder att GPT-3.5 (och därmed ChatGPT) endast har en hundradel så många parametrar, omkring 2 miljarder, men det har inte gått att bekräfta. 
 
-OpenAI kommer förmodligen att släppa uppföljaren GPT-4 under 2023, och den modellen sägs ha drygt femhundra gånger så många parametrar som GPT-3, vilket bör betyda att den kan ge svar med klart bättre kvalitet än dagens ChatGPT. Enligt German AI Association hade Beijing Academy of AI och Google redan år 2021 olanserade språkmodeller som omfattar omkring hundra gånger så många parametrar som GPT-3.
+OpenAI kommer förmodligen att släppa uppföljaren GPT-4 under 2023. Rykten om hur många parametrar den kommer att ha varierar från lika många som GPT-3 till me än femhundra gånger så många[^5]. Enligt German AI Association hade Beijing Academy of AI och Google redan år 2021 olanserade språkmodeller som omfattar omkring hundra gånger så många parametrar som GPT-3.[^6]
 
-OpenAI började som ett icke vinstdrivande företag, med starkt fokus på AI-säkerhet och att göra AI tillgängligt för många. I samband med att Microsoft gick in i företaget 2019 blev OpenAI vinstdrivande. Försöksversionen av ChatGPT är gratis. Varje ChatGPT-konversation uppges kosta ”några cent” i beräkningar och det finns planer på att ha en betalversion, med exempelvis friare gränser i antal frågor per timme.
+OpenAI började som ett icke vinstdrivande företag, med starkt fokus på att göra AI tillgängligt för många. I samband med att Microsoft gick in i företaget 2019 blev OpenAI vinstdrivande. Försöksversionen av ChatGPT är gratis, och varje ChatGPT-konversation uppges kosta ”några cent” i beräkningar. Det finns planer på att ha en betalversion, med exempelvis friare gränser i antal frågor per timme.[^7]
 
 # 13: Hur påverkas vår syn på kunskap?
 Det finns tydliga hål i ChatGPT:s kunskaper, och den kan vara löjeväckande självsäker även när den har fel. Samtidigt är det också tydligt att många blir förbluffade av vad AI:n klarar av, och att datorer tagit ännu ett steg in på det område som vi trodde var reserverat för människor.
@@ -22,7 +22,7 @@ Vad betyder teknik som denna för vår syn på kunskap?
 
 Det är för tidigt för att kunna ge ett svar på den frågan, inte minst som tekniken fortfarande accelererar. Inte mindre är det en fråga värd att utforska. Det är rimligt att tro att delar av det vi idag tycker är viktiga kunskaper kommer att stöpas om, och vissa saker kommer vi inte längre tycka vara viktiga. Det är också troligt att många saker kommer att vara oförändrade.
 
-En intressant paradox är att ChatGPT, trots sin förmåga att svara på allt möjligt, är så pass otillförlitlig att det är svårt att använda som kunskapskälla för saker som man inte redan kan mycket om eller där man är beredd att lägga ansenlig tid på att dubbelkolla information. Eller: För att använda ChatGPT på ett meningsfullt sätt krävs omdöme, och för det omdömet krävs kunskaper om det man använder ChatGPT till[^1]. En erfaren lärare kan använda ChatGPT som stöd för att göra planeringar, skapa material och få idéer till hur undervisningen kan fungera bättre, men en oerfaren lärare som litar på ChatGPT riskerar att gå i AI-fällor eller slösa bort tid.
+En intressant paradox är att ChatGPT, trots sin förmåga att svara på allt möjligt, är så pass otillförlitlig att det är svårt att använda som kunskapskälla för saker som man inte redan kan mycket om eller där man är beredd att lägga ansenlig tid på att dubbelkolla information. Eller: För att använda ChatGPT på ett meningsfullt sätt krävs omdöme, och för det omdömet krävs kunskaper om det man använder ChatGPT till[^8]. En erfaren lärare kan använda ChatGPT som stöd för att göra planeringar, skapa material och få idéer till hur undervisningen kan fungera bättre, men en oerfaren lärare som litar på ChatGPT riskerar att gå i AI-fällor eller slösa bort tid.
 
 Det finns en parallell till tillgången till information på internet som är lite slående: Det sägs ibland att internet har gjort det onödigt att kunna fakta, eftersom man när som helst kan slå upp det man behöver veta. När det gäller trivial fakta (”Vad heter huvudstaden i Azerbajdzjan?”) stämmer det väl, men för att ha nytta av någon djupare information behöver man förstå sammanhangen, kunna koppla ihop olika begrepp, och även ha en känsla för om information man får exempelvis är uppseendeväckande, tvivelaktig eller fullt normal. För att kunna ha nytta av fakta på nätet behöver man själv ha koll på en del fakta. Och för att kunna använda använda ChatGPT som assistent i ett område behöver man själv ha kompetens inom området.
 
@@ -50,7 +50,7 @@ Punkterna ovan är förstås bara spekulationer, och mer eller mindre direkt öv
 
 Man behöver också komma ihåg att ChatGPT inte bara kan sammanfatta och skriva texter. AI:n är extremt mångsidig, och kan exempelvis skriva datorprogram, analysera stämning i text, generera textbaserade spel, trösta, ge kostrådgivning, översätta texter och hitta på nya avsnitt till en tv-serie. Absolut inte med hundraprocentig kvalitet, men man skulle ändå kunna göra många olika listor liknande den ovan för att utforska vad teknik liknande ChatGPT kan leda till.
 
-En stark begränsning med ChatGPT är hur otillförlitlig den är när det gäller fakta och logik. Man kan tycka att det ”bara” är att lägga till funktioner som låter AI:n kontrollera om det den säger är logiskt sammanhängande eller jämföra sina svar med vad som står i tillförlitliga källor. Men modellen som underbygger ChatGPT utgår _enbart_ från ett universum byggt av ord – det finns inga begrepp om vad som är sant eller inte, bara vad som är mer eller mindre naturliga/sannolika följder av ord. Att lägga till logik eller en uppfattning om vad som är sant skulle sannolikt kräva [annan typ av teknik][3], och är alltså inte ”bara”. Inte desto mindre lär vi få steg i den riktningen under 2023. Den AI-teknik vi ser idag är miltals bättre än [den som fanns 2019][4] – och redan då väckte både uppmärksamhet, frågor och oro. Under våren 2023 förväntas GPT-3.5, som är den underliggande modellen för ChatGPT, ersättas av en mycket mer kapabel GPT-4. [Flera andra företag och organisationer har liknande tjänster som inte lanserats än][5], där några förväntas vara mycket mer kraftfulla och det även finns exempel som kan blanda medier som bilder och text.
+En stark begränsning med ChatGPT är hur otillförlitlig den är när det gäller fakta och logik. Man kan tycka att det ”bara” är att lägga till funktioner som låter AI:n kontrollera om det den säger är logiskt sammanhängande eller jämföra sina svar med vad som står i tillförlitliga källor. Men modellen som underbygger ChatGPT utgår _enbart_ från ett universum byggt av ord – det finns inga begrepp om vad som är sant eller inte, bara vad som är mer eller mindre naturliga/sannolika följder av ord. Att lägga till logik eller en uppfattning om vad som är sant skulle sannolikt kräva [annan typ av teknik][10], och är alltså inte ”bara”. Inte desto mindre lär vi få steg i den riktningen under 2023. Den AI-teknik vi ser idag är miltals bättre än [den som fanns 2019][11] – och redan då väckte både uppmärksamhet, frågor och oro. Under 2023 förväntas GPT-3.5, som är den underliggande modellen för ChatGPT, ersättas av en mycket mer kapabel GPT-4. [Flera andra företag och organisationer har liknande tjänster som inte lanserats än][12], där några förväntas vara mycket mer kraftfulla och det även finns exempel som kan blanda medier som bilder och text.
 
 Det är ett stort steg att ta, men om man föreställer sig att de närmsta årens AI kan göra de flesta saker som inte kräver alltför mycket tankearbete kan vi få den här lätt skrämmande listan.
 1. Vi är oroliga för att vår förmåga att själva göra tankearbete kommer att försämras, så som att sätta sig in i nya saker, resonera och dra slutsatser.
@@ -74,7 +74,7 @@ Riskerna med AI ökar ju mer kompetent AI:n är. Det finns flera typer av risker
 De här riskerna går delvis in i varandra, och det finns risker som faller utanför de här kategorierna.
 
 ### Risk att AI gynnar få och skadar många
-I den här kategorin finns ett antal befintliga AI-tekniker. Ett exempel är övervakningskameror med ansiktsigenkänningsteknik som används i Kina, vilket ökar möjligheten att förebygga och följa upp brott – vilket till exempel även omfattar att demonstrera för demokrati i Hongkong. Ett annat exempel är drönare som används i krigsföring (exempelvis i [Libyen][6]), som själva kan identifiera mål och avgöra om de ska attackeras.
+I den här kategorin finns ett antal befintliga AI-tekniker. Ett exempel är övervakningskameror med ansiktsigenkänningsteknik som används i Kina, vilket ökar möjligheten att förebygga och följa upp brott – vilket till exempel även omfattar att demonstrera för demokrati i Hongkong. Ett annat exempel är drönare som används i krigsföring (exempelvis i [Libyen][13]), som själva kan identifiera mål och avgöra om de ska attackeras.
 
 Ett mycket mer diffust exempel är de AI-system som bestämmer vilket innehåll användare på sociala medier ska se. De är tillräckligt kraftfulla för att skapa vinster för de företag som äger plattformarna, men orsaker samtidigt skada i form av exempelvis psykisk ohälsa, polarisering i samhället och spridning av fake news.
 
@@ -107,11 +107,32 @@ Några andra risker med allt mer AI beskrivs kortfattat nedan.
 * **Resurser och makt kan fördelas än mer ojämlikt.** Även om AI är förhållandevis billigt att använda är det dyrt att framställa och kräver enorma mängder data. De få aktörer som kan ta fram kraftfulla AI kan få stort inflytande – både i termer av ekonomisk produktion och vad gäller påverkan på information som människor tar del av.
 * **Snabba förändringar på arbetsmarknaden.** AI-utveckling kan leda till att arbetsmarknaden krymper eller att de kompetenser som efterfrågas ändras på ett sätt som gör många arbetslösa. Det kan både skapa problem för de drabbade människorna och oroligheter på samhällsnivå.
 
-[^1]:	”Omdöme” är här ett ganska löst ord. Man kan, hypotetiskt, tänka sig att någon använder ChatGPT för att skapa en bomb, vilket är ganska omdömeslöst. Den som följer ChatGPT:s anvisningar utan att själv ha kunskaper om explosiva material riskerar att skada sig själv eller slösa bort resurser, medan den som har ”omdöme” inom bombtillverkning kan se var anvisningarna är rimliga, var det är fel eller luckor, och kan förhålla sig till nya saker som AI:n föreslår.
+[^1]:	[https://twitter.com/gdb/status/1599683104142430208?lang=en][1]
 
-[1]:	https://thispersondoesnotexist.com/
-[2]:	https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
-[3]:	https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/
-[4]:	https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction
-[5]:	https://anita.beehiiv.com/p/chatgpt-alternatives
-[6]:	https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/
+[^2]:	[https://indianexpress.com/article/technology/chatgpt-hit-1-million-users-5-days-vs-netflix-facebook-instagram-spotify-mark-8394119/][2]
+
+[^3]:	OpenAI har fått kritik för hur de som gjort dessa bedömningar behandlats, se [https://time.com/6247678/openai-chatgpt-kenya-workers/][5]
+
+[^4]:	Se exempelvis [https://www.datacamp.com/blog/what-we-know-gpt4][6]
+
+[^5]:	[https://www.datacamp.com/blog/what-we-know-gpt4][7]
+
+[^6]:	Återgivet I artikel på [https://the-decoder.com/ai-in-education-chatgpt-is-just-the-beginning/][8]
+
+[^7]:	Se exempelvis [https://uk.pcmag.com/news/144860/openai-explores-offering-a-paid-version-of-chatgpt][9]
+
+[^8]:	”Omdöme” är här ett ganska löst ord. Man kan, hypotetiskt, tänka sig att någon använder ChatGPT för att skapa en bomb, vilket är ganska omdömeslöst. Den som följer ChatGPT:s anvisningar utan att själv ha kunskaper om explosiva material riskerar att skada sig själv eller slösa bort resurser, medan den som har ”omdöme” inom bombtillverkning kan se var anvisningarna är rimliga, var det är fel eller luckor, och kan förhålla sig till nya saker som AI:n föreslår.
+
+[1]:	https://twitter.com/gdb/status/1599683104142430208?lang=en
+[2]:	https://indianexpress.com/article/technology/chatgpt-hit-1-million-users-5-days-vs-netflix-facebook-instagram-spotify-mark-8394119/
+[3]:	https://thispersondoesnotexist.com/
+[4]:	https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
+[5]:	https://time.com/6247678/openai-chatgpt-kenya-workers/
+[6]:	https://www.datacamp.com/blog/what-we-know-gpt4
+[7]:	https://www.datacamp.com/blog/what-we-know-gpt4
+[8]:	https://the-decoder.com/ai-in-education-chatgpt-is-just-the-beginning/
+[9]:	https://uk.pcmag.com/news/144860/openai-explores-offering-a-paid-version-of-chatgpt
+[10]:	https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/
+[11]:	https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction
+[12]:	https://anita.beehiiv.com/p/chatgpt-alternatives
+[13]:	https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/

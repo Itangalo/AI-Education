@@ -50,7 +50,7 @@ ChatGPT kan ge förslag på hur knepiga eller ovanliga uppgifter kan utföras, o
 **När du läser konversationerna, fundera på:**
 * Vilka för- och nackdelar finns med att fråga ChatGPT jämfört med att söka på nätet? Jämfört med att fråga en kollega eller it-support?
 
-> ** Har du förslag på program som kan användas för att omvandla handskriven matematisk text till text på dator?**
+> **Har du förslag på program som kan användas för att omvandla handskriven matematisk text till text på dator?**
 > Ja, det finns ett antal program som kan omvandla handskriven matematisk text till text på dator. Ett exempel är MyScript Calculator, som är en app som kan omvandla handskrivna matematiska uttryck till digital text och sedan lösa dem. Du kan också prova Mathpix Snip, som är en skärmdumpningstjänst som kan omvandla skärmdumpar av matematiska uttryck till digital text. Andra alternativ inkluderar Graphical User Interface (GUI) baserade verktyg som Mathematica och Maple, som båda har funktioner för att lösa och visualisera matematiska problem.
 
 ---- 
