@@ -64,11 +64,16 @@ Den mänskliga hjärnan verkar vara byggd för att lära sig av exempel, men som
 > "Harry Potter och de vises sten by J.K. Rowling är en okej debutbok. Handlingen är ganska enkel och karaktärerna är inte särskilt djupgående. Skrivstilen är välskriven men det finns inte tillräckligt med handling eller komplexitet för att hålla läsaren engagerad. En ok fantasy debut, men inte mer än så."
 
 ## Skapa påståenden som elever får utvärdera och diskutera
-Efter att man arbetat med ett område kan det vara intressant att visa klassen vad ChatGPT har att säga om området, och låta eleverna diskutera eller utvärdera det ChatGPT säger. Finns de viktigaste sakerna med? Är något fel? Finns något med som vi själva inte hade valt att ta upp?
+Efter att man arbetat med ett område kan det vara intressant att visa klassen vad ChatGPT har att säga om området, och låta eleverna diskutera eller utvärdera det ChatGPT säger. Finns de viktigaste sakerna med? Är något fel? Finns något med som vi själva inte hade valt att ta upp? Man kan också be ChatGPT att skapa avsiktligt knapphändiga texter.
 
 **När du läser konversationerna, fundera på:**
-* Verkar svaret från ChatGPT vara på lagom nivå för gymnasieelever?
 * Har du områden i din undervisning där det är pedagogiskt meningsfullt att be elever diskutera och utvärdera påståenden? Vore det meningsfullt att be elever jämföra olika texter skrivna av ChatGPT? Vore det bättre om texterna är skrivna av dig som lärare, eller kanske elever?
+
+> **Kan du beskriva vattnets kretslopp, så som en 9-åring skulle kunnat beskriva det? Lägg in ett antal stavfel. Skriv med stora bokstäver.**
+> 
+> Vattnet på jorden rör sig i ett kretslopp som kallas Vattnets kretslopp. Det börjar med att solen Värmer upp vattnet i havet och sjöarna. När vattnet blir varmt så börjar det ånga upp och bli till moln. Sedan kan det bli regn eller snö som faller ner på marken. När det regnar eller snöar så hamnar vattnet i floder och sjöar igen eller det kan hamna på marken och bli till grundvatten. Sedan kan vattnet i floder och sjöar rinna tillbaka till havet igen och hela processen börjar om.
+
+---- 
 
 > **Kan du sammanfatta vad operant betingning är på en nivå som är lagom för gymnasieskola?**
 >  
