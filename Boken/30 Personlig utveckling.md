@@ -1,4 +1,4 @@
-# 8: Personlig utveckling relaterad till arbetet
+# 8: Fortbildning och personlig utveckling
 
 ### Sammanfatta dokument för att hitta givande läsning
 Genom att klistra in textmassor och be ChatGPT sammanfatta dem är det möjligt att få en uppfattning av texter utan att behöva läsa allt själv. Givetvis förlorar man information i en sådan sammanfattning, och det finns risk att ChatGPT missar eller förvanskar väsentliga aspekter – men det gör det samtidigt möjligt att skumma många fler dokument och välja en eller ett par texter att läsa närmare.
@@ -15,6 +15,35 @@ En begränsning är att ChatGPT inte accepterar prompter som är längre än ung
 > **[Kopia av en text som legat till grund för den här boken.]**
 >  
 > Dokumentet handlar om hur ChatGPT, en AI-modell som är tränad på att generera text och föra en dialog, kan användas i skolundervisning. Det nämner olika sätt att använda ChatGPT i undervisningen, till exempel för att få idéer till lektionsplaneringar eller för att få återkoppling på lektionsupplägg, men också varningar om att information från ChatGPT alltid måste granskas och verifieras. Dokumentet diskuterar också vad information, kunskap och omdöme är och hur AI påverkar lärares och skolans roll. Dokumentet ger också exempel på användning som kan vara olämplig och saker som inte är tillåtna att göra med ChatGPT i skolundervisningen.
+
+### Utveckla samarbetsformer för kollegialt lärande
+Även om ChatGPT kan ge inspiration för undervisning är det ofta mer givande att diskutera undervisning med människor av kött och blod. ChatGPT kan ge förslag på hur det kan gå till.
+
+**När du läser konversationerna, fundera på:**
+* Kan förslagen vara användbara på din skola?
+* Vilka uppföljningsfrågor skulle du vilja ställa, med detaljer om förutsättningarna på just din skola?
+
+> **Kan du ge fem förslag på hur kollegiet på min lågstadieskola kan få rutiner för att diskutera och dela exempel på hur vi undervisar, så att vi kan utveckla vårt arbete?**
+> 
+> 1. Skapa en fast tid varje vecka där lärarna träffas för att diskutera undervisningen och dela exempel på vad som fungerat och inte fungerat i klassrummet.
+> 2. Organisera en mentorprogram där erfarna lärare fungerar som mentorer för nya lärare och hjälper till att dela kunskap och erfarenheter.
+> 3. Använd ett gemensamt digitalt verktyg, till exempel en wikisida, där lärarna kan dela material och idéer med varandra.
+> 4. Arrangera regelbundna "lesson study" där lärarna tillsammans planerar, genomför och reflekterar över en lektion.
+> 5. Anordna utbildningar och workshops där lärarna kan lära sig om nya metoder och tekniker för att förbättra undervisningen.
+
+---- 
+
+> **Kan du ge förslag på hur lärare och skolledning på min skola kan skapa gemensamma mål för undervisningen, som vi på riktigt kan arbeta mot? Det är en högstadieskola med ca 50 lärare, en rektor och en biträdande rektor. Lärare har upplevt att skolledningen inte är engagerade i att kvaliteten i undervisningen förbättras.**
+> 
+> Det finns flera sätt att skapa gemensamma mål för undervisningen på en skola. Här är några förslag:
+> 1. Skapa en gemensam vision och mål för skolan. Detta bör involvera både lärare, skolledning och elever. Målen bör vara tydliga, mätbara och relevanta.
+> 2. Utveckla en gemensam undervisningsplan. Detta bör inkludera ett gemensamt ramverk för bedömning och en gemensam kursplan.
+> 3. Involvera lärarna i utvecklingen av gemensamma mål. Lärare bör ges möjlighet att delta i olika arbetsgrupper för att utveckla gemensamma mål och strategier.
+> 4. Skapa en kultur för kontinuerlig förbättring. Skolan bör ha regelbundna utvärderingar och återkopplingar för att följa upp framstegen mot gemensamma mål.
+> 5. Skapa en kommunikationskanal för lärare och skolledning att samarbeta och utbyta idéer och erfarenheter.
+> 6. Skapa också ett gemensamt mål för eleverna och arbeta tillsammans för att nå det.
+> 
+> Det är viktigt att skolledningen tar ett aktivt ansvar för att skapa en kultur för kvalitetsförbättring och involvera alla lärare i processen. Skolledningen bör också vara öppna och lyhörda för lärarnas åsikter och förslag.
 
 ### Få coachning i att utveckla sin skrivförmåga
 ChatGPT kan ge återkoppling på texter, och därmed ge uppslag för hur man kan bli en bättre skribent. Metoden är lämplig för lärare, inte elever, eftersom det kräver att man har kompetens att förhålla sig till de förslag som AI:n ger (då alla förslag inte nödvändigtvis är lyckade, eller värda att lägga mycket möda på).
