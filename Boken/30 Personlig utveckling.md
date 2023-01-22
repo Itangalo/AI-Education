@@ -16,6 +16,30 @@ En begränsning är att ChatGPT inte accepterar prompter som är längre än ung
 >  
 > Dokumentet handlar om hur ChatGPT, en AI-modell som är tränad på att generera text och föra en dialog, kan användas i skolundervisning. Det nämner olika sätt att använda ChatGPT i undervisningen, till exempel för att få idéer till lektionsplaneringar eller för att få återkoppling på lektionsupplägg, men också varningar om att information från ChatGPT alltid måste granskas och verifieras. Dokumentet diskuterar också vad information, kunskap och omdöme är och hur AI påverkar lärares och skolans roll. Dokumentet ger också exempel på användning som kan vara olämplig och saker som inte är tillåtna att göra med ChatGPT i skolundervisningen.
 
+## Underlag för utvärderingar
+Man behöver inte använda ChatGPT för att få svar, utan kan också använda AI:n för att få bra frågor – eller åtminstone inspiration till bra frågor.
+
+**När du läser konversationen, fundera på:**
+* Tror du att frågorna skulle fungera för att få användbar återkoppling från dina egna elever?
+* I vilken mån tror du att det är tidsbesparande att få AI-skapade utkast till frågor, jämfört med att skriva dem från grunden själv?
+* Hur kan man balansera eller kombinera AI-skapade utvärderingar med frågor som tar upp specifika saker du/ni gjort i undervisningen?
+
+> **Jag är på väg att avsluta undervisningen i en klass jag haft i historia och vill genomföra en enkät eller liknande för att höra vad de tycker fungerat bra eller mindre bra i undervisningen. Kan du ge förslag på ett antal frågor som eleverna inte kommer att svara bara "bra" eller "vet inte" på, och som hjälper mig att förbättra undervisningen till nästa läsår? Det gäller en årskurs 8.**
+>  
+> Här är några förslag på frågor som kan hjälpa dig att få mer specifik feedback från eleverna och förbättra undervisningen till nästa läsår:
+> 1. Vilken del av historiaämnet tyckte du var mest intressant och varför?
+> 2. Vilken del av historiaämnet tyckte du var svårast och varför?
+> 3. Hur tyckte du att jag förklarade historiska händelser och begrepp? Var det lätt att förstå eller fanns det något som du hade svårt att förstå?
+> 4. Vilka metoder för lärande tyckte du fungerade bäst för dig (t.ex. diskussioner, grupparbeten, föreläsningar)?
+> 5. Var det någon speciell uppgift eller aktivitet som du tyckte var särskilt givande?
+> 6. Finns det något som jag kunde göra annorlunda för att göra undervisningen mer intressant eller givande för dig?
+> 7. Var det någon speciell tid under lektionen då du kände dig mest engagerad och närvarande?
+> 8. Kan du ge någon specifik feedback på min undervisning och förklaringar?
+> 9. Var det någon historisk händelse eller person som du skulle vilja lära dig mer om?
+> 10. Var det något annat som du skulle vilja lägga till eller ta bort från undervisningen?
+> 
+> Det är viktigt att komma ihåg att eleverna kan ha olika åsikter och preferenser, så det kan vara bra att samla in feedback från flera olika källor och använda det för att skapa en mer balanserad och anpassad undervisning.
+
 ## Utveckla samarbetsformer för kollegialt lärande
 Även om ChatGPT kan ge inspiration för undervisning är det ofta mer givande att diskutera undervisning med människor av kött och blod. ChatGPT kan ge förslag på hur det kan gå till.
 

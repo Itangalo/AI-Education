@@ -34,6 +34,20 @@ Om man ber ChatGPT att ge förslag på planeringar är det särskilt viktigt att
 > Det finns många olika sätt att göra undervisningen om antiken mer praktisk och handfast. Kombinera gärna olika aktiviteter för att hålla eleverna engagerade och ge dem olika sätt att lära sig på. Glöm inte att ge eleverna tydliga instruktioner och vägledning, och se till att aktiviteterna är anpassade till elevernas ålder och förmågor.
 
 ---- 
+
+> **Jag ska få ta över en årskurs 6-klass. Kan du ge förslag på aktiviteter vi kan genomföra för att jag och klassen ska lära känna varandra på ett enkelt sätt?**
+> 
+> Här är några förslag på aktiviteter ni kan genomföra för att lära känna varandra:
+> 1. Icebreaker-spel: Det finns många olika typer av icebreaker-spel som kan hjälpa eleverna att lära känna varandra. T ex "Two Truths and a Lie", där eleverna delar två sanningar och en lögn om sig själva och sedan gissar varandra vilken som är lögnen.
+> 2. Intressen-presentationer: Be eleverna att presentera sina favoritintressen för klassen. Det kan vara allt från sport till musik eller böcker.
+> 3. Grupparbeten: Sätt eleverna i grupper och ge dem en uppgift att arbeta tillsammans på. Det kan vara en kreativ uppgift, ett problemlösningsspel eller en presentation av en bok de läst.
+> 4. Klass-middag: Bjud in eleverna till en klass-middag där ni kan umgås och prata i en mer avslappnad miljö.
+> 5. Fråge-rundan: Be eleverna att ställa frågor till varandra för att lära känna varandra bättre.
+> 
+> Kom ihåg att det är viktigt att skapa en trygg och positiv miljö för eleverna att öppna upp i.
+
+---- 
+
 > ** Jag ska undervisa om linjära ekvationssystem för elever på samhällsvetenskapsprogrammet. Jag har totalt tre lektioner för området, med 60 minuter per lektion. Efteråt vill jag att de ska kunna använda linjära ekvationssystem för att beskriva realistiska situationer och ha en hygglig säkerhet i att kunna lösa linjära ekvationssystem (gärna med mer än en metod). En kännbar del av klassen är osäkra när det gäller algebra och räkning, och flera elever tycker att matte är tråkigt. Det är därför viktigt att eleverna får känna att de lär sig saker och lyckas, och jag vill att undervisningen ska vara engagerande. Har du förslag på upplägg för de tre lektionerna?**
 >  
 > För att eleverna ska känna att de lär sig saker och lyckas, och för att undervisningen ska vara engagerande, kan följande upplägg för de tre lektionerna vara lämpligt:
