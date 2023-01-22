@@ -1,6 +1,6 @@
 # AI och skolan
 
-ChatGPT lanserades i slutet av 2022 och har spridits som en löpeld. Det är en webbtjänst där man chattar med en artificiell intelligens (AI) som är kunnig inom förbluffande många områden, lyssnar på önskemål, är vänlig och tydlig, anpassar sig efter dina önskemål, och aldrig tröttnar på att svara på frågor och hjälpa till. Användare har tagit nytta av ChatGPT för allt ifrån matlagning till programmering, från att skriva artiklar till att skapa interaktiva spel. ChatGPT och framtida tjänster som liknar den kommer sannolikt att påverka samhället och vardagen på en rad olika sätt.
+ChatGPT lanserades i slutet av 2022 och har spridits som en löpeld. Det är en webbtjänst där man chattar med en artificiell intelligens (AI) som är kunnig inom förbluffande många områden, är vänlig och tydlig, anpassar sig efter dina önskemål, och aldrig tröttnar på att svara på frågor och hjälpa till. Användare har tagit nytta av ChatGPT för allt ifrån matlagning till programmering, från att skriva artiklar till att skapa interaktiva spel. ChatGPT och framtida tjänster som liknar den kommer sannolikt att påverka samhället och vardagen på en rad olika sätt.
 
 Den här boken handlar om hur du som lärare kan använda ChatGPT för att underlätta ditt arbete. Boken handlar också om hur man *inte* bör använda ChatGPT i sin undervisning. Ett centralt tema i boken är omdöme, vilket är särskilt angeläget med kraftfulla verktyg som inte har testats i undervisning på ett systematiskt sätt.
 
