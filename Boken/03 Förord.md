@@ -1,5 +1,5 @@
 # Förord
-_Av Anette Jahnke, doktor i professionspraxis vid Göteborgs universitet och processledare vid Ifous_
+_Av Anette Jahnke, lektor i pedagogik vid Göteborgs universitet och processledare vid Ifous._
 
 Är "AI-dumheter" en bra eller dålig term? Finns en bättre? Frågorna ställdes på Facebook av Johan Falk under hans arbete med att färdigställa första versionen av ”AI och skola”. Boken handlar om, beskrev Johan i inlägget på FB, ”hur lärare kan ha praktisk nytta av ChatGPT, och använda verktyget med omdöme”. Ord som ”dumhet”, ”term”, ”AI”, ”praktisk nytta” och ”omdöme” väckte en teoretisk och praktisk nyfikenhet hos mig. Jag följde med intresse det innehåll som spanns i inläggets tråd genom de för- och motargument och alternativ som förmedlades av de som, precis som jag, blivit nyfikna.
 
