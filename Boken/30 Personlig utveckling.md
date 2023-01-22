@@ -79,6 +79,44 @@ ChatGPT kan ge förslag på hur knepiga eller ovanliga uppgifter kan utföras, o
 **När du läser konversationerna, fundera på:**
 * Vilka för- och nackdelar finns med att fråga ChatGPT jämfört med att söka på nätet? Jämfört med att fråga en kollega eller it-support?
 
+> **Har du tips på program eller appar jag kan använda för att ge återkoppling på uppsatser på ett tidsbesparande sätt? (Även tips som inte omfattar program eller appar är ok.)**
+> Det finns flera program och appar som kan hjälpa dig att ge återkoppling på uppsatser på ett tidsbesparande sätt. Här är några förslag:
+> 1. Grammarly: Det här är ett online verktyg som kan hjälpa dig att identifiera grammatiska fel, stavfel och styckestrukturproblem. Det går även att använda för att kontrollera tonen i texten.
+> 2. Hemingway: Det här verktyget hjälper dig att göra texten lättläst genom att identifiera svåra ord, långa meningar och komplexa styckestrukturer.
+> 3. Turnitin: Det här programmet kan hjälpa dig att kontrollera om det finns några likheter mellan uppsatsen och andra tidigare publicerade texter.
+> 4. Google Docs: Det här verktyget gör det enkelt att samarbeta med andra och att ge återkoppling på uppsatser i realtid.
+> 5. Feedback Studio från Turnitin: Enkel att använda, ger möjlighet att lägga till kommentarer, rita, skapa rubriker, märka och kommentera i texten och på bilder.
+> 6. Om det inte finns något program eller appar som passar dig, kan du också ge återkoppling på traditionellt sätt, skriva ner det på ett papper eller skriva ner det i ett vanligt ordbehandlingsprogram.
+
+---- 
+
+> **Jag och kollegor arbetar tillsammans med ett antal dokument, som vi mailar till varandra när vi gjort uppdateringar. Det blir svårt att veta vilken den senaste versionen är och vi har flera gånger råkat tappa bort ändringar som någon gjort. Kan du ge förslag någon annan metod för att samarbeta om dokument?**
+>  
+> Ett bra sätt att samarbeta om dokument är att använda en molntjänst för dokumenthantering och samarbete. Tjänster som Google Docs, Microsoft Office 365 och Dropbox Paper ger möjlighet att skapa, redigera och dela dokument i realtid med flera användare. Dessa tjänster sparar automatiskt alla ändringar och gör det enkelt att se tidigare versioner av ett dokument och återställa tidigare ändringar om det behövs. Dessa tjänster har också funktioner för kommentarer, markeringar och revisionshantering, som gör det lättare att samarbeta och hålla koll på ändringar.
+>  
+> **Vi får inte använda några molntjänster på min skola. Har du några andra tips?**
+>  
+> Utan tillgång till molntjänster finns det fortfarande ett antal sätt att samarbeta om dokument:
+> 1. Dela dokumentet via e-post: Detta kan göras genom att bifoga dokumentet i ett e-postmeddelande och skicka det till de som ska samarbeta. Detta är dock inte den mest effektiva metoden eftersom det kan vara svårt att hålla koll på vilken version som är den senaste.
+> 2. Använd en gemensam mapp på skolans nätverk: Detta gör det möjligt för alla i gruppen att spara och hämta dokumentet från samma plats. Detta kräver dock att alla har tillgång till nätverket.
+> 3. Använd versionshanteringsprogramvara som Git: Detta är ett verktyg för att hålla koll på ändringar i kod, men det kan också användas för att hålla koll på ändringar i vanliga dokument. Detta kräver dock viss teknisk kompetens.
+> 4. Använd ett gemensamt redigeringsverktyg: det finns en rad av verktyg som erbjuder realtidsredigering av dokument med flera användare, exempel på det är Etherpad, OnlyOffice.
+> 5. Använd ett gemensamt kalenderverktyg: Det finns en rad av verktyg som erbjuder möjlighet att skapa och dela kalender med flera användare. Detta gör det möjligt för alla i gruppen att se när ett dokument ska vara färdigt och vem som ansvarar för vad.
+
+---- 
+
+> **Hur gör jag för att dela min Outlook-kalender med någon utanför vår skola?**
+> 
+> För att dela din Outlook-kalender med någon utanför din skola kan du följa dessa steg:
+> 1. Öppna Outlook och klicka på "Kalender" i navigationen längst ner.
+> 2. Klicka på fliken "Delade kalendrar" och välj "Lägg till kalender" och välj sedan "från internet"
+> 3. Ange den e-postadress som personen du vill dela din kalender med använder, och klicka på "OK".
+> 4. En inbjudan kommer att skickas till personen att acceptera din kalender. När de har accepterat kommer de att kunna se din kalender.
+> 
+> Observera att det finns olika inställningar för delning av kalender som kan variera beroende på din organisation, så det kan finnas fler steg eller alternativet kan saknas. Kontakta din IT-avdelning för mer information om hur du delar din kalender.
+
+---- 
+
 > **Har du förslag på program som kan användas för att omvandla handskriven matematisk text till text på dator?**
 > Ja, det finns ett antal program som kan omvandla handskriven matematisk text till text på dator. Ett exempel är MyScript Calculator, som är en app som kan omvandla handskrivna matematiska uttryck till digital text och sedan lösa dem. Du kan också prova Mathpix Snip, som är en skärmdumpningstjänst som kan omvandla skärmdumpar av matematiska uttryck till digital text. Andra alternativ inkluderar Graphical User Interface (GUI) baserade verktyg som Mathematica och Maple, som båda har funktioner för att lösa och visualisera matematiska problem.
 
