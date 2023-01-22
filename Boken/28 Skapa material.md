@@ -109,6 +109,31 @@ ChatGPT kan användas för att skapa instuderingsfrågor till texter på olika n
 > 6. Varför är organiska syror vanligtvis svagare än mineral syror?
 > 7. Vilken typ av användning har organiska syror i matbevarande och vilken effekt har de på bakterier?
 
+### Skapa ordlistor
+Att använda ChatGPT kan vara ett effektivt sätt att skapa ordlistor för nya begrepp, om sådana inte redan finns färdiga.
+
+**När du läser konversationen, fundera på:**
+* Verkar informationen från ChatGPT korrekt?
+* Behöver texten justeras innan den kan lämnas till elever?
+
+> **Kan du göra en ordlista med korta förklaringar till de här orden? Det är till min biologiklass på gymnasiet.**
+> 
+> **DNA, RNA, cellvägg, cellkärna lysosom, mitokondrier, golgiapparaten**
+> 
+> DNA (deoxiribonukleinsyra) - är det genetiska materialet som finns i alla levande organismer och som bär information om hur organismen ska utvecklas och fungera.
+> 
+> RNA (ribonukleinsyra) - är ett nukleinsyra som är viktigt för proteinsyntesen och är involverat i genetisk informationens överföring från DNA till ribosomerna.
+> 
+> Cellvägg - är en yttre skikt som omger många bakterie- och växtceller och ger stöd och skydd till cellen.
+> 
+> Cellkärna - är en central del av en cell där cellens genetiska material, DNA, är beläget. Det är också platsen där cellens arvsmassa regleras och kontrolleras.
+> 
+> Lysosom - är en liten organell inuti en cell som är ansvarig för att bryta ner och ta bort avfall och förorenade material.
+> 
+> Mitokondrier - är organeller inuti cellen som är ansvariga för att producera energi för cellen genom processen kallad cellular respiration.
+> 
+> Golgiapparaten - är en organell inuti cellen som är ansvarig för att hantera, sortera och distribuera proteiner och andra molekyler inom cellen.
+
 ### Skapa quiz-frågor
 ChatGPT kan på ett snabbt sätt skapa utkast till quiz-frågor. Som med annat material från AI:n behöver de granskas innan de används.
 
