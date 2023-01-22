@@ -110,7 +110,7 @@ ChatGPT kan användas för att skapa instuderingsfrågor till texter på olika n
 > 7. Vilken typ av användning har organiska syror i matbevarande och vilken effekt har de på bakterier?
 
 ### Skapa ordlistor
-Att använda ChatGPT kan vara ett effektivt sätt att skapa ordlistor för nya begrepp, om sådana inte redan finns färdiga.
+Att använda ChatGPT kan vara ett effektivt sätt att skapa ordlistor för begrepp i ett arbetsområde, om sådana inte redan finns färdiga.
 
 **När du läser konversationen, fundera på:**
 * Verkar informationen från ChatGPT korrekt?
