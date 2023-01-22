@@ -1,6 +1,6 @@
 # 7: Skapa material
 
-### Skapa texter som elever får bygga vidare på
+## Skapa texter som elever får bygga vidare på
 ChatGPT kan användas för att ge uppslag för skrivuppgifter, eller startpunkter som elever kan bygga vidare på, efter att förslagen granskats och eventuellt justerats.
 
 **När du läser konversationen, fundera på:**
@@ -21,7 +21,7 @@ ChatGPT kan användas för att ge uppslag för skrivuppgifter, eller startpunkte
 > 8. "Vegetariskt och veganskt är populärt, men det finns även många motargument. Ska vi överväga att ändra vår kosthållning för att minska vår miljöpåverkan och förbättra vår hälsa?"
 > 9. "Online-shopping är bekvämt och [Här tog svaret från ChatGPT slut.]
 
-### Skapa fejkade elevexempel att diskutera
+## Skapa fejkade elevexempel att diskutera
 I vissa lägen kan det vara känsligt att lyfta exempel från enskilda elever, och ett alternativ kan i så fall vara att använda texter skapade av ChatGPT. Utdraget nedan skulle till exempel kunna ligga till grund för att diskutera hur texten kan förbättras både till form och innehåll.
 
 **När du läser konversationen, fundera på:**
@@ -34,7 +34,7 @@ I vissa lägen kan det vara känsligt att lyfta exempel från enskilda elever, o
 >  
 > Astrid Lindgren var en svensk författare som skrev många kända barnböcker. Hon föddes 1907 och dog 2002. Hon är mest känd för böckerna om Pippi Långstrump, Emil i Lönneberga och Karlsson på taket. Astrid Lindgrens böcker är väldigt populära över hela världen och har översatts till många olika språk. Hon vann också priset Hans Christian Andersen-priset för sina böcker. Astrid Lindgrens böcker handlar ofta om barn som är modiga och tar sig an utmaningar. Hennes böcker är både roliga och viktiga eftersom de handlar om att vara snäll mot andra och att alla är olika men lika viktiga.
 
-### Skapa exempel som elever kan lära av
+## Skapa exempel som elever kan lära av
 Den mänskliga hjärnan verkar vara byggd för att lära sig av exempel, men som lärare kan det vara svårt att få hop exempel som täcker en tillräckligt stor bredd. Med hjälp av ChatGPT kan man snabbt skapa många exempel att granska, eventuellt justera, och använda i sin undervisning. Man kan också tänka sig att bedöma ChatGPT-texter utifrån betygskriterier, för att ge elever en bättre bild av vad olika kvaliteter kan innebära. 
 
 **När du läser konversationerna, fundera på:**
@@ -63,7 +63,7 @@ Den mänskliga hjärnan verkar vara byggd för att lära sig av exempel, men som
 >  
 > "Harry Potter och de vises sten by J.K. Rowling är en okej debutbok. Handlingen är ganska enkel och karaktärerna är inte särskilt djupgående. Skrivstilen är välskriven men det finns inte tillräckligt med handling eller komplexitet för att hålla läsaren engagerad. En ok fantasy debut, men inte mer än så."
 
-### Skapa påståenden som elever får utvärdera och diskutera
+## Skapa påståenden som elever får utvärdera och diskutera
 Efter att man arbetat med ett område kan det vara intressant att visa klassen vad ChatGPT har att säga om området, och låta eleverna diskutera eller utvärdera det ChatGPT säger. Finns de viktigaste sakerna med? Är något fel? Finns något med som vi själva inte hade valt att ta upp?
 
 **När du läser konversationerna, fundera på:**
@@ -78,7 +78,7 @@ Efter att man arbetat med ett område kan det vara intressant att visa klassen v
 >  
 > Operant betingning är en viktig teori inom beteendepsykologi och har använts för att förklara hur människor och djur lär sig nya beteenden och förändrar sina befintliga beteenden. Teorin har också använts för att utveckla olika metoder för att påverka och forma beteenden, till exempel genom att använda belöningar och straff för att ändra beteende.
 
-### Skapa instuderingsfrågor eller andra frågor till texter
+## Skapa instuderingsfrågor eller andra frågor till texter
 ChatGPT kan användas för att skapa instuderingsfrågor till texter på olika nivåer.
 
 **När du läser konversationerna, fundera på:**
@@ -109,7 +109,7 @@ ChatGPT kan användas för att skapa instuderingsfrågor till texter på olika n
 > 6. Varför är organiska syror vanligtvis svagare än mineral syror?
 > 7. Vilken typ av användning har organiska syror i matbevarande och vilken effekt har de på bakterier?
 
-### Skapa ordlistor
+## Skapa ordlistor
 Att använda ChatGPT kan vara ett effektivt sätt att skapa ordlistor för begrepp i ett arbetsområde, om sådana inte redan finns färdiga.
 
 **När du läser konversationen, fundera på:**
@@ -134,7 +134,7 @@ Att använda ChatGPT kan vara ett effektivt sätt att skapa ordlistor för begre
 > 
 > Golgiapparaten - är en organell inuti cellen som är ansvarig för att hantera, sortera och distribuera proteiner och andra molekyler inom cellen.
 
-### Skapa quiz-frågor
+## Skapa quiz-frågor
 ChatGPT kan på ett snabbt sätt skapa utkast till quiz-frågor. Som med annat material från AI:n behöver de granskas innan de används.
 
 **När du läser konversationen, fundera på:**
@@ -169,7 +169,7 @@ ChatGPT kan på ett snabbt sätt skapa utkast till quiz-frågor. Som med annat m
 > Tyvärr, jag är en textbaserad modell och inte kapabel att skapa eller formatera filer. Men jag kan ge dig svaren i en enkel tabell-form och du kan formatera det till CSV-fil manuellt.
 > [Tabell som kan kopieras och klistras in i kalkylprogram.]
 
-### Anpassa uppgifter eller texter efter elevgrupper
+## Anpassa uppgifter eller texter efter elevgrupper
 Det kan ibland vara svårt att få tag på material som är anpassat för vissa elevgrupper. ChatGPT kan med viss framgång skriva om befintligt material till nya sammanhang.
 
 **När du läser konversationerna, fundera på:**
@@ -207,7 +207,7 @@ Det kan ibland vara svårt att få tag på material som är anpassat för vissa 
 >  
 > Global uppvärmning är den uppvärmning av jordens lägre atmosfär och hav som har observerats sedan 1950-talet och som förutspås fortsätta i framtiden. Den globala genomsnittstemperaturen har stigit med 0,74 ± 0,18 °C under 1900-talet och med 1,09 °C jämfört med perioden 1850-1900. Klimatförändringar orsakas av människans utsläpp av växthusgaser och innefattar förändringar i vädermönster. Människans påverkan på jordens klimatsystem sedan mitten av 1900-talet är oöverträffad. Detta syns tydligt i historiska nivåer av växthusgaser som koldioxid i atmosfären. Den globala uppvärmningen leder till många konsekvenser för klimat och miljö, exempelvis avsmältning av glaciärer och havsis, ökad risk för extremväder, utrotning av arter och påverkan på jordbruk och matförsörjning.
 
-### Få förslag på hur egna texter kan förbättras
+## Få förslag på hur egna texter kan förbättras
 ChatGPT kan bearbeta rätt stora mängder text och ge (ofta) meningsfull återkoppling på den. Eftersom återkopplingen behöver användas med omdöme rekommenderas att använda AI-återkoppling som lärare – inte att återkoppling lämnas (ofiltrerad) till elever.
 
 Återkopplingen blir ofta mer användbar om man frågar om särskilda aspekter, till exempel hur den kan bli mer lättläst, mer engagerande, eller vilka delar av texten som kan behöva förbättras.
@@ -229,7 +229,7 @@ ChatGPT kan bearbeta rätt stora mängder text och ge (ofta) meningsfull återko
 > 6. Lägg till länkar till ytterligare resurser för läsaren som vill lära sig mer om ämnet.
 > 7. Korrigerar eventuella stavfel och grammatiska fel i texten för att göra den lättare att läsa och förstå.
 
-### Skapa utkast till veckobrev och liknande
+## Skapa utkast till veckobrev och liknande
 ChatGPT kan spara tid genom att ge utkast till standardmeddelanden som man ändå vill ha trevligt skrivna. För sådana uppgifter kan det vara bra att ha en mall med instruktioner till ChatGPT där man byter ut vissa punkter inför varje meddelande.
 
 **När du läser konversationerna, fundera på:**

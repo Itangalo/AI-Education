@@ -9,7 +9,7 @@ På nätet finns många exempel på hur ChatGPT kan användas för programmering
 
 Det kan också nämnas att ChatGPT matar ut kodblock med färger som markerar satser och funktioner, medan det inte finns några färger i den här boken.
 
-### Skapa enkla datorprogram
+## Skapa enkla datorprogram
 ChatGPT kan skapa färdiga små program, ofta med förvånansvärt välkommenterad kod och hög flexibilitet.
 
 **När du läser konversationen, fundera på:**
@@ -40,7 +40,7 @@ ChatGPT kan skapa färdiga små program, ofta med förvånansvärt välkommenter
 > Detta program använder en slumptalsgenerator för att skapa födelsedagar för personerna i gruppen, och räknar sedan antalet gånger då minst två personer har samma födelsedag. Sannolikheten för att detta ska hända räknas ut genom att dividera antalet träffar med antalet testade grupper.
 > Observera att resultatet kan variera beroende på hur många testgrupper som används, så det kan vara bra att öka antalet testgrupper för att få ett mer exakt resultat.
 
-### Felsöka datorprogram
+## Felsöka datorprogram
 ChatGPT är också förvånansvärt bra på att hitta och åtgärda buggar i kod, vilket kan vara användbart både för läres och elevers kod.
 
 **När du läser konversationen, fundera på:**
@@ -65,7 +65,7 @@ ChatGPT är också förvånansvärt bra på att hitta och åtgärda buggar i kod
 > 	}
 > Med dessa ändringar bör du få ut den förväntade utskriften med en logg för varje iteration i loopen med rätt värde på i.
 
-### Skapa kod för specifika uppgifter
+## Skapa kod för specifika uppgifter
 För de som inte bara har programmering som en del ämnet, utan ämnet handlar om programmering, kan ChatGPT användas för att skapa kodsnuttar för en rad olika områden.
 
 **När du läser konversationen, fundera på:**
@@ -88,7 +88,7 @@ För de som inte bara har programmering som en del ämnet, utan ämnet handlar o
 > 	word_count = count_words_on_wikipedia_page(page_name)
 > 	print(f'The number of words on the page is {word_count}')
 > Notera att detta program bara fungerar för engelska Wikipedia-sidor. För att använda det på en annan språkversion av Wikipedia, ändra URL-adressen i rad 8 till den lämpliga språkversionen.
-### Hitta undantag som du missat i koden
+## Hitta undantag som du missat i koden
 ChatGPT kan analysera kod och i många lägen hitta olika sätt som programmet kan  gå sönder på.
 
 **När du läser konversationen, fundera på:**
@@ -115,7 +115,7 @@ ChatGPT kan analysera kod och i många lägen hitta olika sätt som programmet k
 > * Om Wikipedia-sidan inte är i HTML-format, kan detta orsaka problem med BeautifulSoup, eftersom det förväntar sig HTML.
 > * Om internetanslutningen är nere, kan koden kasta ett undantag när den försöker hämta sidan med hjälp av requests.get(url).
 > * Om Wikipedia-sidan är stor, kan detta orsaka problem med minnet, eftersom all text hämtas och sparas i minnet innan den räknar antalet ord.
-### Kommentera kod
+## Kommentera kod
 Att skapa välkommenterad kod gör det lättare att läsa den, både för lärare och elever.
 
 **När du läser konversationen, fundera på:**

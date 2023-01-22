@@ -71,7 +71,7 @@ ChatGPT:s mångsidighet och imponerande förmåga att skapa sakliga, tydliga och
 
 De här typerna av misstag är inte unika för ChatGPT, och kan uppstå även helt utan teknikens hjälp. Och den som aldrig gått i de här fällorna har förmodligen inte undervisat alls – och det måste vara ok att göra fel. Men den som har de fyra AI-fällorna i bakhuvudet har förmodligen lättare att undvika dem.
 
-### Olämpliga budskap
+## Olämpliga budskap
 
 ChatGPT har spärrar för vissa typer av budskap. Om du försöker få ChatGPT att berätta hur man skapar bomber, blandar metanfetamin eller om du vill få förslag på hur man kan trakassera, misshandla eller tortera någon kommer ChatGPT svara med att det bryter mot dess policy att svara. Samma sak gäller exempelvis att ge medicinsk rådgivning (vilket förmodligen har att göra med amerikansk lagstiftning).
 
@@ -79,7 +79,7 @@ Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg,
 
 De allra flesta tips och idéer i den här boken utgår från att det är läraren som använder ChatGPT, inte eleven. Det kan förstås ändå hända att elever använder ChatGPT, i eller utanför skolan, och det bra att känna till att det kan dyka upp olämpliga budskap.
 
-### Övningar
+## Övningar
 
 1. Vilka är de fyra typerna av AI-fällor, och vad utmärker dem?
 2. Kan du komma på ytterligare kategorier av AI-fällor?
@@ -101,7 +101,7 @@ Håller du pekaren på ditt meddelande till ChatGPT syns en ikon för att redige
 
 Det finns inget inbyggt sätt att exportera text från konversationerna. Det vanliga är att antingen markera och kopiera text för hand eller ta skärmbilder, men använder du ChatGPT ofta kan du överväga att installera en plugin i din webbläsare som gör det lättare att kopiera text.
 
-### Några tips när du chattar med ChatGPT
+## Några tips när du chattar med ChatGPT
 Att chatta med ChatGPT är på många sätt naturligt – du skriver som du skulle göra till en människa. De vanligaste sätten är förmodligen att ställa korta frågor eller att uppmana ChatGPT att skriva något särskilt, och att följa upp det med ytterligare frågor, uppmaningar eller justeringar. Några metoder och knep som kanske är mindre naturliga kan också vara bra att känna till:
 
 * Om du trycker enter i chattrutan skickas meddelandet till ChatGPT. Med shift + enter har du möjlighet att skapa radbrytningar utan att meddelandet skickas.
@@ -121,7 +121,7 @@ ChatGPT lägger som mest en och en halv minut på att ge svar, vilket gör att l
 
 På nätet finns samlingar med prompter som folk funnit särskilt användbara. Det kan till exempel vara prompter noga utformade för ett visst ändamål (så som att fungera som kokbok eller författare av soloäventyr) eller grupper av prompter som är användbara inom särskilda områden (så som assistent för programmerare). Om du vill utforska sådana samlingar kan du testa att söka på “ChatGPT prompts”.
 
-### Övningar
+## Övningar
 
 1. Om du inte redan har ett konto hos OpenAI, skapa ett – förutsatt att du går med på deras användarvilkor.
 2. Testa att ställa frågor till ChatGPT eller be ChatGPT skapa vissa typer av texter. Ha minst tre konversationer, där du ställer uppföljningsfrågor i minst en. Minst en av chattarna ska handla om skola eller undervisning. Testa att skriva både på svenska och engelska.

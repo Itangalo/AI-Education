@@ -1,7 +1,7 @@
 # 10: Annat
 I det här kapitlet finns lite mer udda exempel på vad ChatGPT kan användas för i arbetet som lärare.
 
-### Vänliga och välskrivna kommentarer
+## Vänliga och välskrivna kommentarer
 Om man sitter och bedömer uppsatser eller andra texter kan det vara skönt att inte behöva tänka på att formulera sig vänlig och snyggt, för att kunna jobba snabbare. Det är möjligt att låta ChatGPT sköta formuleringarna.
 
 **När du läser konversationen, fundera på:**
@@ -26,7 +26,7 @@ Om man sitter och bedömer uppsatser eller andra texter kan det vara skönt att 
 > 
 > "Det verkar som om det finns ett sakfel i det här stycket, vänligen kontrollera och rätta till det."
 
-### Inspiration till aktiviteter utanför ämnesundervisning
+## Inspiration till aktiviteter utanför ämnesundervisning
 Idéer och uppslag som ChatGPT kan komma med är förstås inte begränsade till undervisning.
 
 **När du läser konversationen, fundera på:**
@@ -44,7 +44,7 @@ Idéer och uppslag som ChatGPT kan komma med är förstås inte begränsade till
 > 
 > Oavsett vilken aktivitet ni väljer, se till att ge eleverna möjlighet att samarbeta och ha roligt tillsammans. Lycka till med julavslutningen!
 
-### Liva upp lektionen med poesi baserat på dagens undervisning
+## Liva upp lektionen med poesi baserat på dagens undervisning
 Ett sätt att utnyttja ChatGPT:s språkliga färdigheter är att be den skriva exempelvis sånger eller dikter om området som undervisas. Även om det inte leder till bättre resultat på prov kan det liva upp och skapa engagemang på meningsfulla sätt – inte minst en fredag eftermiddag.
 
 **När du läser konversationerna, fundera på:**

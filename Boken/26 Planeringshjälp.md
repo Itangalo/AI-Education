@@ -1,7 +1,7 @@
 # 6: Inspiration till planering
 En av ChatGPT:s starkaste grenar är att ge idéer och inspiration. Man kan be om tio idéer och välja de som känns värda att gå vidare med, eller be om tio till med en lite annan fråga om inget svar passar bra. Det kan vara en bra tillgång när man planerar lektioner, kurser eller undervisningsområden.
 
-### Inspiration till upplägg för planeringar
+## Inspiration till upplägg för planeringar
 Om man ber ChatGPT att ge förslag på planeringar är det särskilt viktigt att vara vaksam för pedagogiska fällor: ChatGPT tar inte utgångspunkt i svenska skolans styrdokument, och känner inte heller till förutsättningarna i din klass eller grupp – om du inte berättar för den. Svaren från ChatGPT kan ge inspiration, även om de inte är fullträffar.
 
 **När du läser konversationerna, fundera på:**
@@ -9,7 +9,7 @@ Om man ber ChatGPT att ge förslag på planeringar är det särskilt viktigt att
 * Verkar förslagen från ChatGPT användbara och pedagogiskt genomtänkta?
 * Vilka antaganden gör ChatGPT om formerna för undervisning? Stämmer det med hur du själv brukar undervisa? Om inte, finns det saker du kan och vill ta till dig?
 * Testa gärna själv att be om utkast till planeringar, för större eller mindre delar av din undervisning. Du får förmodligen bättre svar om du ger utförliga beskrivningar av förutsättningarna eller vilken typ av planering du vill ha.
-			 
+
 > **Vi börjar ett nytt område med min årskurs 8 idag: antiken. Jag har bara fyra lektioner för det här området. Kan du ge några förslag på upplägg?**
 >  
 > Hej! Det låter som du har en utmaning på händerna att få med så mycket som möjligt om antiken på bara fyra lektioner. Här är några förslag på hur du kan lägga upp lektionerna:
@@ -56,7 +56,7 @@ Om man ber ChatGPT att ge förslag på planeringar är det särskilt viktigt att
 > 
 > Dessa är bara några exempel på hur linjära ekvationssystem används i olika samhällsvetenskapliga områden, men det finns många fler. Det är bra att använda verkliga exempel från olika områden för att göra undervisningen mer relaterbar och engagerande för eleverna.
 
-### Återkoppling på planeringar
+## Återkoppling på planeringar
 ChatGPT kan ge återkoppling som ibland är träffsäker och ofta åtminstone hjälper till att hitta nya tankar och infallsvinklar på lektionsupplägg och planeringar.
 
 **När du läser konversationen, fundera på:**
@@ -101,7 +101,7 @@ ChatGPT kan ge återkoppling som ibland är träffsäker och ofta åtminstone hj
 > 2. Hur ritar du upp två räta linjer i ett koordinatsystem och hur hittar du deras skärningspunkt?
 > 3. Ge ett exempel på ett verklighetsnära problem som kan lösas genom att använda ett linjärt ekvationssystem.
 
-### Uppslag för hur man kan beskriva eller förklara områden
+## Uppslag för hur man kan beskriva eller förklara områden
 
 I och med att budskap från ChatGPT ibland innehåller felaktigheter (eller ofta för vissa områden) är det olämpligt att direkt låta ChatGPT förklara saker för elever. Däremot kan ChatGPT ge bra uppslag som du som lärare kan bedöma och sedan antingen använda själv eller lämna vidare till elev (efter eventuella justeringar). Det ger även möjlighet att ta hänsyn till särskilda omständigheter för grupper eller enskilda elever.
 
@@ -122,7 +122,7 @@ I och med att budskap från ChatGPT ibland innehåller felaktigheter (eller ofta
 >  
 > Ekonomer använder olika metoder för att hålla inflationen i schack, precis som innebandytränare använder olika metoder för att hjälpa sitt lag att vinna matcher. Båda kräver strategi och planering för att nå sina mål.
 
-### Idéer för gymnasiearbeten, temaarbeten, med mera
+## Idéer för gymnasiearbeten, temaarbeten, med mera
 
 ChatGPT:s bredd av information kan vara bra för att generera hela listor med idéer där man själv kanske har svårt att komma på så mycket. Ur listorna kan man välja ut det som känns genomförbart och pedagogiskt lyckat.
 
@@ -177,7 +177,7 @@ ChatGPT:s bredd av information kan vara bra för att generera hela listor med id
 >  
 > Dessa förslag skulle ge möjlighet för eleverna att utveckla sina kunskaper inom genetik, samt använda sina förmågor i kritiskt tänkande, logiskt resonemang, problemlösning och systematiska iakttagelser. Dessutom skulle det ge eleverna möjlighet att utveckla en förmåga att värdera olika typer av källor och kunna skilja på påståenden som bygger på vetenskaplig respektive icke-vetenskaplig grund.
 
-### Skapa gruppindelningar
+## Skapa gruppindelningar
 
 ChatGPT kan skapa gruppindelningar med särskilda villkor.
 

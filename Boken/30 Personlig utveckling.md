@@ -1,6 +1,6 @@
 # 8: Fortbildning och personlig utveckling
 
-### Sammanfatta dokument för att hitta givande läsning
+## Sammanfatta dokument för att hitta givande läsning
 Genom att klistra in textmassor och be ChatGPT sammanfatta dem är det möjligt att få en uppfattning av texter utan att behöva läsa allt själv. Givetvis förlorar man information i en sådan sammanfattning, och det finns risk att ChatGPT missar eller förvanskar väsentliga aspekter – men det gör det samtidigt möjligt att skumma många fler dokument och välja en eller ett par texter att läsa närmare.
 
 En begränsning är att ChatGPT inte accepterar prompter som är längre än ungefär 2000 ord. Med längre dokument kan man dela upp dem i flera steg (se tipsen sist i kapitel 3), men det kan bli opraktiskt för riktigt långa texter, och det är troligt att ChatGPT tar mindre hänsyn till saker som skrevs långt bak i en chatt-konversation.
@@ -16,7 +16,7 @@ En begränsning är att ChatGPT inte accepterar prompter som är längre än ung
 >  
 > Dokumentet handlar om hur ChatGPT, en AI-modell som är tränad på att generera text och föra en dialog, kan användas i skolundervisning. Det nämner olika sätt att använda ChatGPT i undervisningen, till exempel för att få idéer till lektionsplaneringar eller för att få återkoppling på lektionsupplägg, men också varningar om att information från ChatGPT alltid måste granskas och verifieras. Dokumentet diskuterar också vad information, kunskap och omdöme är och hur AI påverkar lärares och skolans roll. Dokumentet ger också exempel på användning som kan vara olämplig och saker som inte är tillåtna att göra med ChatGPT i skolundervisningen.
 
-### Utveckla samarbetsformer för kollegialt lärande
+## Utveckla samarbetsformer för kollegialt lärande
 Även om ChatGPT kan ge inspiration för undervisning är det ofta mer givande att diskutera undervisning med människor av kött och blod. ChatGPT kan ge förslag på hur det kan gå till.
 
 **När du läser konversationerna, fundera på:**
@@ -45,7 +45,7 @@ En begränsning är att ChatGPT inte accepterar prompter som är längre än ung
 > 
 > Det är viktigt att skolledningen tar ett aktivt ansvar för att skapa en kultur för kvalitetsförbättring och involvera alla lärare i processen. Skolledningen bör också vara öppna och lyhörda för lärarnas åsikter och förslag.
 
-### Få coachning i att utveckla sin skrivförmåga
+## Få coachning i att utveckla sin skrivförmåga
 ChatGPT kan ge återkoppling på texter, och därmed ge uppslag för hur man kan bli en bättre skribent. Metoden är lämplig för lärare, inte elever, eftersom det kräver att man har kompetens att förhålla sig till de förslag som AI:n ger (då alla förslag inte nödvändigtvis är lyckade, eller värda att lägga mycket möda på).
 
 Notera att den här användningen syftar till att utveckla skrivförmågan – inte primärt att få en välskriven text. Det är alltså återkopplingen, och vilken nytta man har av den, som står i fokus.
@@ -73,7 +73,7 @@ Notera att den här användningen syftar till att utveckla skrivförmågan – i
 > 4. Variera längden på styckena: Försök att variera längden på styckena för att göra texten mer intressant och lättläst. Långa stycken kan vara svåra att följa med i, så försök att undvika att skriva för långa stycken.
 > 5. Använd styckeindelningar för att markera viktig information: Genom att dela upp stycket i olika avsnitt kan du markera viktig information och göra det lättare för läsaren att hitta de viktigaste poängerna i texten.
 
-### Tips på tekniska verktyg och hur man använder dem
+## Tips på tekniska verktyg och hur man använder dem
 ChatGPT kan ge förslag på hur knepiga eller ovanliga uppgifter kan utföras, och för välkända program kan den också ge vägledning om hur man navigerar i programmen för att göra det som behövs.
 
 **När du läser konversationerna, fundera på:**
@@ -88,7 +88,7 @@ ChatGPT kan ge förslag på hur knepiga eller ovanliga uppgifter kan utföras, o
 > Ett annat sätt att analysera en MP3-fil för att hitta de vanligaste frekvenserna är att använda en analysator för ljudfrequenser. Dessa analysatorer är elektroniska enheter som kan mäta och analysera olika ljudfrequenser i realtid. Du kan ansluta en analysator till datorn och spela upp låten genom den, så kan analysatorn mäta och visa de olika frekvenserna i låten. Analysatorer för ljudfrequenser finns att köpa i olika prisklasser och med olika funktioner och precision.
 > Oavsett vilket sätt du väljer att analysera låten på, kommer du att kunna se vilka frekvenser som är vanligast i låten och hur de fördelar sig över låtens olika delar. Du kan också se om det finns några speciella frekvenser eller toner som återkommer under låtens gång. Genom att analysera låten på det här sättet kan du få en djupare förståelse för hur låten är uppbyggd och vilka element som ger den sin karaktär.
 
-### Ge sig själv uppmuntran och motivation
+## Ge sig själv uppmuntran och motivation
 Även i läraryrket kan man då och då behöva lite extra uppmuntran och ha motivation som sviktar. ChatGPT kan, i viss mån, hjälpa till även här. (I det andra exemplet är prompten en modifiering av en prompt på samlingssidan [prompts.chat][2].)
 
 **När du läser konversationerna, fundera på:**
