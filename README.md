@@ -9,6 +9,14 @@ Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenska
 
 ![QR-kod med länk till projektsidan för boken.][image-1]
 
+Tack till följande personer som bidragit till boken:
+
+* Rustan Håkansson (idéer och inspiration)
+* Peter Parnes (korrekturläsning)
+* Idéer för användningsområden och ställen att läsa mer: Marcus Strömbäck Hjärne, Julia Tsygan, Malin Frykman, Patricia Diaz, Jalal Nouri
+
+Alla dessa har hjälpt till att göra boken bättre, och ingen skugga ska falla på dem för de missar som finns kvar.
+
 [1]:	https://github.com/Itangalo/AI-och-skolan
 
 [image-1]:	https://user-images.githubusercontent.com/262940/212624798-54e824c6-545c-4aea-a586-c0a86e87e63d.png
