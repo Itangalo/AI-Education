@@ -112,6 +112,7 @@ Att chatta med ChatGPT är på många sätt naturligt – du skriver som du skul
 * Utförliga beskrivningar och frågeställningar ger ofta mer användbara svar.
 * Uppföljningsfrågor är också mycket användbara för att precisera vad man vill få ut av svaren, eller be ChatGPT utveckla delar av svar som är intressanta.
 * En del experimenterar med långa beskrivningar av hur man vill att ChatGPT ska bete sig. Sådana beskrivningar avslutas ofta med något i stil med “bekräfta att detta är uppfattat genom att svara ‘ok’”, och de egentliga frågeställningarna eller uppmaningarna postas i nästa steg i konversationen.
+* Om du vill ha svar i något särskilt format, så som punktlista, tabell, eller en kommaseparerad lista – be ChatGPT svara i den formen. ChatGPT kan ibland också svara i format som går att importera direkt till vissa program. Du kan också be ChatGPT skriva om svar som den redan lämnat till en ny form.
 * Om du upplever att ChatGPT är långsamt eller begränsande kan du testa att växla till OpenAI Playground på [beta.openai.com/playground][5]. Där kan du använda ett mer flexibelt (men också mer komplext) gränssnitt för att generera AI-texter.
 
 Det är bra att känna till att det finns en gräns för hur långa meddelandena till ChatGPT får vara, på knappt två tusen ord eller 7–10 sidor[^2]. Om du vill ge ChatGPT längre texter än så kan du testa att dela upp texten, och exempelvis ge ChatGPT instruktionen “Jag kommer att ge dig en lång text uppdelad i flera delar. Här kommer del 1. Svara ‘ok’ när du är klar.”
