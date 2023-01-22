@@ -1,5 +1,5 @@
 # 10: Annat
-I det här kapitlet finns lite mer udda exempel på vad ChatGPT kan användas för i arbetet som lärare.
+I det här kapitlet finns lite mer specifika eller udda exempel på vad ChatGPT kan användas för i arbetet som lärare.
 
 ## Vänliga och välskrivna kommentarer
 Om man sitter och bedömer uppsatser eller andra texter kan det vara skönt att inte behöva tänka på att formulera sig vänlig och snyggt, för att kunna jobba snabbare. Det är möjligt att låta ChatGPT sköta formuleringarna.
@@ -25,6 +25,40 @@ Om man sitter och bedömer uppsatser eller andra texter kan det vara skönt att 
 > **Sakfel?**
 > 
 > "Det verkar som om det finns ett sakfel i det här stycket, vänligen kontrollera och rätta till det."
+
+## Tips på studieteknik för specifika saker
+ChatGPT kan ge uppslag för specifika uppgifter att träna på, för att bli bättre på något som en eller en grupp elever ska jobba med. Det kan vara praktiskt för att ge elever hjälp att förbättra det som just de behöver.
+
+**När du läser konversationerna, fundera på:**
+* Tror du att listorna skulle vara användbara för eleverna? Vad skulle du vilja ändra eller komplettera?
+* Skulle språket fungera för att lämna direkt till eleverna?
+* Hur stora är de pedagogiska vinsterna med att ge enskilda eller mindre grupper av elever anvisningar för saker att jobba med? Hur stora är tidsvinsterna med att få utkast från ChatGPT?
+
+> ** Kan du skriva en lista över specifika och konkreta steg som en elev kan följa för att förbättra sin förmåga att skriva laboratorierapporter?**
+>  
+> Ja, jag kan ge dig en lista med steg som en elev kan följa för att förbättra sin förmåga att skriva laboratorierapporter:
+> 
+> 1. Läs igenom laboratoriehandboken och se till att du förstår instruktionerna och syftet med experimentet.
+> 2. Gör en plan för din rapport innan du börjar skriva, inklusive vilka delar som ska ingå och vilken ordning de ska vara i.
+> 3. Gör omfattande anteckningar under experimentet, inklusive mätvärden, observationer och slutsatser.
+> 4. Använd korrekt vetenskaplig terminologi och formatering i din rapport.
+> 5. Läs igenom din rapport noga efter att du har skrivit klart och se till att den är lätt att förstå och följer instruktionerna.
+> 6. Få feedback från läraren eller en kamrat innan du lämnar in din rapport för att få reda på eventuella förbättringar.
+> 7. Förbättra din rapport baserat på feedbacken innan du lämnar in den.
+> 8. Repetera processen för varje ny laboratorierapport.
+
+---- 
+
+> **Kan du ge mig en lista som elever kan använda för att bedöma sina egna uppsatser? Det gäller en uppsats om hälsa, kost och träning. Gymnasiet.**
+>  
+> Så här kan eleverna kunna bedöma sin egen uppsats om hälsa, kost och träning:
+> 
+> 1. Ämnesval: Har eleverna valt ett lämpligt ämne och är det relevant för ämnet hälsa, kost och träning?
+> 2. Innehåll: Är innehållet intressant och lärorikt? Är det väl strukturerat och går det att följa tankegången?
+> 3. Källhänvisningar: Har eleverna använt tillräckligt många källor och är de relevanta för ämnet? Är källhänvisningarna korrekt gjorda?
+> 4. Språk: Är språket lättläst och förståeligt? Är det rätt stavat och formaterat?
+> 5. Slutsats: Är slutsatsen logisk och stärker den elevernas argument?
+> 6. Övergripande bedömning: Gör uppsatsen ett bra jobb att belysa ämnet hälsa, kost och träning och är det bra och intressant att läsa?
 
 ## Inspiration till aktiviteter utanför ämnesundervisning
 Idéer och uppslag som ChatGPT kan komma med är förstås inte begränsade till undervisning.
