@@ -7,7 +7,7 @@ Den text som skrivs till ChatGPT skickas till servrar i andra länder och hanter
 Villkoren för att skapa ett konto hos OpenAI, som skapat ChatGPT, omfattar att man ska vara minst 18 år gammal. (Se [openai.com/terms][1].) Att uppmana elever yngre än 18 år att skaffa ett konto är alltså direkt olämpligt. För elever som är 18 år eller äldre behöver man fundera över vad som är lämpligt när det gäller att skaffa konton för onlinetjänster, och det är värt att undersöka om skolan har någon policy.
 
 
-### Använda inte budskap från ChatGPT utan att granska dem först
+### Använd inte budskap från ChatGPT utan att granska dem först
 Det är kanske lite tjatigt att säga det igen, men du behöver alltid granska och värdera texter från ChatGPT innan de når eleverna. I synnerhet ska du inte använda ChatGPT som en extralärare, som förklarar saker för elever utan att du som lärare ser att det som ChatGPT säger är ok. Exemplet nedan kan göra tydligt varför det är olämpligt.
 
 > **Vad är sannolikheten att slå par med tre tärningar?**
@@ -34,7 +34,7 @@ En elev som lämnas att lära sig av ChatGPT kan råka ut för alla möjliga dum
 
 Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men ChatGPT kan kasta ur sig mycket mer dolda misstag som kan skada eleverna på olika sätt. ChatGPT är *inte* en lärare eller instruktör.
 
-### Tro inte på ChatGPT:s hänvisningar till forskning
+### Lita inte på ChatGPT:s hänvisningar till forskning
 Man ska inte lita på att det som ChatGPT svarar är korrekt faktamässigt, men man skulle kunna tro att en AI som läst stora delar av den text som fanns på internet 2021 kan ge förslag på forskningsartiklar att läsa – så att man får hjälp att hitta tillförlitliga källor.
 
 ChatGPT svarar glatt på sådana frågor, men de artiklar som nämns finns ofta inte. Ett bättre alternativ för att hitta forskning är till exempel [Google Scholar][2].
@@ -51,7 +51,7 @@ Ingen av de artiklar som ChatGPT nämner nedan har gått att hitta.
 > Du kan hitta dessa artiklar via akademiska sökmotorer som Google Scholar eller JSTOR.
 
 ---- 
-> ** Kan du nämna en forskningsartikel om dyslexi som faktiskt finns, tillsammans med vem som skrivit artikeln? Jag vill alltså inte att du hittar på ett namn på en artikel, utan svarar med en publicerad artikel som faktiskt finns.**
+> **Kan du nämna en forskningsartikel om dyslexi som faktiskt finns, tillsammans med vem som skrivit artikeln? Jag vill alltså inte att du hittar på ett namn på en artikel, utan svarar med en publicerad artikel som faktiskt finns.**
 > 
 > En forskningsartikel om dyslexi som faktiskt finns är "The neural basis of dyslexia: a review of recent research" skriven av F. Paulesu, E. Paulesu, A.F.F. Smith, J.D.E. Raven och L.J. Frith och publicerad i Brain: A Journal of Neurology.
 
