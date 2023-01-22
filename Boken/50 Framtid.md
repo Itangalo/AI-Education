@@ -78,7 +78,7 @@ I den här kategorin finns ett antal befintliga AI-tekniker. Ett exempel är öv
 
 Ett mycket mer diffust exempel är de AI-system som bestämmer vilket innehåll användare på sociala medier ska se. De är tillräckligt kraftfulla för att skapa vinster för de företag som äger plattformarna, men orsaker samtidigt skada i form av exempelvis psykisk ohälsa, polarisering i samhället och spridning av fake news.
 
-Det finns en särskild risk med högkompetent AI, i och med att det är en så pass billig och tillgänglig teknik att använda. Medan saker som kärnvapen är svåra att skapa eller köpa för terroristorganisationer, så är priset för beväpnade AI-drönare så pass lågt att de skulle kunna köpas i tusentals. Någon som vill göra mycket skada skulle också kunna ta AI som normalt används för att hitta potentiella läkemedel för att skapa kemiska stridsmedel. Medan det är dyrt att skapa AI-modeller är det billigt att använda dem, och demokratisering av teknik som kan användas för massförstörelse för med sig stora risker.
+Det finns en särskild risk med högkompetent AI, i och med att det är en så pass billig och tillgänglig teknik att använda. Medan saker som kärnvapen är svåra att skapa eller köpa för terroristorganisationer, så är priset för beväpnade AI-drönare så pass lågt att de skulle kunna köpas i tusentals. Någon som vill göra mycket skada skulle också kunna ta AI som normalt används för att hitta potentiella läkemedel för att skapa kemiska stridsmedel.[^9] Medan det är dyrt att skapa AI-modeller är det billigt att använda dem, och demokratisering av teknik som kan användas för massförstörelse för med sig stora risker.
 ### Risk för oförutsedda och skadliga konsekvenser
 Även om högkompetent AI sitter i händer på folk som vill väl finns det risk för dåliga konsekvenser. I stor utsträckning hänger det samman med att AI kan leda till att ett fåtal uttalade mål eftersträvas så effektivt att andra saker blir lidande – saker som vi inte tänkte på och kanske inte hade chans att förutse när vi formulerade målen för AI:n.
 
@@ -104,7 +104,7 @@ Några andra risker med allt mer AI beskrivs kortfattat nedan.
 
 * **Skeva maktstrukturer kan befästas.** Eftersom AI-teknik i stor utsträckning utgår från träning på befintlig data finns en tydlig risk att skeva maktstrukturer lever vidare i AI-beslut. Om en AI ska rekommendera lämpliga kandidater till en chefstjänst finns det risk att vita medelålders män får omotiverade fördelar.
 * **Mänskligt innehåll kan dränks av AI-innehåll.** Om GPT-3.5 tränats på text motsvarande 57 miljarder människoliv av läsning kan man konstatera att den mesta texten på internet _inte_ skapats av människor. Med allt skickligare AI kommer det bli svårare att hitta text som faktiskt skrivits av en människa, och svårare att veta när man hittat det.
-* **Resurser och makt kan fördelas än mer ojämlikt.** Även om AI är förhållandevis billigt att använda är det dyrt att framställa och kräver enorma mängder data. De få aktörer som kan ta fram kraftfulla AI kan få stort inflytande – både i termer av ekonomisk produktion och vad gäller påverkan på information som människor tar del av.
+* **Resurser och makt kan fördelas än mer ojämlikt.** Även om AI är förhållandevis billigt att använda är det dyrt att framställa och kräver enorma mängder data. De få aktörer som kan ta fram kraftfulla AI kan få stort inflytande – både i termer av ekonomisk produktion och vad gäller påverkan på information som människor tar del av. De generativa AI-modeller som finns tillgängliga idag kommer från bara sex aktörer.[^10]
 * **Snabba förändringar på arbetsmarknaden.** AI-utveckling kan leda till att arbetsmarknaden krymper eller att de kompetenser som efterfrågas ändras på ett sätt som gör många arbetslösa. Det kan både skapa problem för de drabbade människorna och oroligheter på samhällsnivå.
 
 [^1]:	[https://twitter.com/gdb/status/1599683104142430208?lang=en][1]
@@ -123,6 +123,10 @@ Några andra risker med allt mer AI beskrivs kortfattat nedan.
 
 [^8]:	”Omdöme” är här ett ganska löst ord. Man kan, hypotetiskt, tänka sig att någon använder ChatGPT för att skapa en bomb, vilket är ganska omdömeslöst. Den som följer ChatGPT:s anvisningar utan att själv ha kunskaper om explosiva material riskerar att skada sig själv eller slösa bort resurser, medan den som har ”omdöme” inom bombtillverkning kan se var anvisningarna är rimliga, var det är fel eller luckor, och kan förhålla sig till nya saker som AI:n föreslår.
 
+[^9]:	[https://futureoflife.org/podcast/sean-ekins-on-regulating-ai-drug-discovery/][14]
+
+[^10]:	[https://arxiv.org/abs/2301.04655][15]
+
 [1]:	https://twitter.com/gdb/status/1599683104142430208?lang=en
 [2]:	https://indianexpress.com/article/technology/chatgpt-hit-1-million-users-5-days-vs-netflix-facebook-instagram-spotify-mark-8394119/
 [3]:	https://thispersondoesnotexist.com/
@@ -136,3 +140,5 @@ Några andra risker med allt mer AI beskrivs kortfattat nedan.
 [11]:	https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction
 [12]:	https://anita.beehiiv.com/p/chatgpt-alternatives
 [13]:	https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/
+[14]:	https://futureoflife.org/podcast/sean-ekins-on-regulating-ai-drug-discovery/
+[15]:	https://arxiv.org/abs/2301.04655

@@ -112,10 +112,11 @@ Att chatta med ChatGPT är på många sätt naturligt – du skriver som du skul
 * Utförliga beskrivningar och frågeställningar ger ofta mer användbara svar.
 * Uppföljningsfrågor är också mycket användbara för att precisera vad man vill få ut av svaren, eller be ChatGPT utveckla delar av svar som är intressanta.
 * En del experimenterar med långa beskrivningar av hur man vill att ChatGPT ska bete sig. Sådana beskrivningar avslutas ofta med något i stil med “bekräfta att detta är uppfattat genom att svara ‘ok’”, och de egentliga frågeställningarna eller uppmaningarna postas i nästa steg i konversationen.
+* Om du upplever att ChatGPT är långsamt eller begränsande kan du testa att växla till OpenAI Playground på [beta.openai.com/playground][5]. Där kan du använda ett mer flexibelt (men också mer komplext) gränssnitt för att generera AI-texter.
 
-Det är bra att känna till att det finns en gräns för hur långa meddelandena till ChatGPT får vara, på knappt två tusen ord eller 7–10 sidor[^2]. Om du vill ge ChatGPT längre texter än så kan du testa att dela upp den, och exempelvis ge ChatGPT instruktionen “Jag kommer att ge dig en lång text uppdelad i flera delar. Här kommer del 1. Svara ‘ok’ när du är klar.”
+Det är bra att känna till att det finns en gräns för hur långa meddelandena till ChatGPT får vara, på knappt två tusen ord eller 7–10 sidor[^2]. Om du vill ge ChatGPT längre texter än så kan du testa att dela upp texten, och exempelvis ge ChatGPT instruktionen “Jag kommer att ge dig en lång text uppdelad i flera delar. Här kommer del 1. Svara ‘ok’ när du är klar.”
 
-ChatGPT lägger som mest en och en halv minut på att ge svar, vilket gör att långa svar kan brytas mitt i. I sådana lägen kan du exempelvis skriva “Kan du fortsätta på förra svaret och avsluta det?”, eller ändra frågan så att ChatGPT kan svara på mindre delar i taget.
+ChatGPT lägger som mest en och en halv minut på att ge svar, vilket gör att långa svar kan brytas mitt i. I sådana lägen kan du exempelvis skriva “Kan du fortsätta på förra svaret och avsluta det?” eller bara ”fortsätt”, eller ändra frågan så att ChatGPT kan svara på mindre delar i taget.
 
 På nätet finns samlingar med prompter som folk funnit särskilt användbara. Det kan till exempel vara prompter noga utformade för ett visst ändamål (så som att fungera som kokbok eller författare av soloäventyr) eller grupper av prompter som är användbara inom särskilda områden (så som assistent för programmerare). Om du vill utforska sådana samlingar kan du testa att söka på “ChatGPT prompts”.
 
@@ -126,13 +127,14 @@ På nätet finns samlingar med prompter som folk funnit särskilt användbara. D
 
 [^1]:	BBC Tech Tent, 2022-12-09: [https://www.bbc.co.uk/programmes/w3ct4khv][1]
 
-[^2]:	[https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them][5]
+[^2]:	[https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them][6]
 
 [1]:	https://www.bbc.co.uk/programmes/w3ct4khv
 [2]:	https://beta.openai.com/
 [3]:	https://openai.com/terms/
 [4]:	https://chat.openai.com/
-[5]:	https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them
+[5]:	https://beta.openai.com/playground
+[6]:	https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them
 
 [image-1]:	https://user-images.githubusercontent.com/262940/212463937-050069cb-ad3a-4e64-a212-a266b4d973b1.png
 [image-2]:	https://user-images.githubusercontent.com/262940/212463940-7cf40758-8d33-4520-8b8e-8b3cd80134c7.png

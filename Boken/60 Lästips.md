@@ -10,7 +10,12 @@
 * En serie inlägg om ChatGPT och utbildning av Christer Holger: [linkedin.com/pulse/ai-education-transformation-towards-human-christer-holger/][9]
 * Teknik i akademi: Videopodd från Linnéuniversitetet med flera avsnitt om ChatGPT och högre utbildning: [youtube.com/watch?v=Wi5wkT3LrLs&list=PL70wNv4dBdJwUGH8yefxeyy0casWtKDLA][10]
 * AI Sweden: Nationellt centrum för AI, med vissa saker som berör utbildning: [ai.se][11]
-* [Life 3.0][12]: Bok av svensk-amerikanen Max Tegmark som diskuterar frågor om vad AI betyder för samhället, framtiden och synen på oss själva. Finns även på svenska. Från 2018.
+* MIT AI Literacy Units: Lärresurser om AI från MIT: [raise.mit.edu/resources.html][12]
+* Genomgång och kategorisering av befintliga generativa AI-modeller som är tillgängliga för allmänhet: [arxiv.org/abs/2301.04655][13]
+* Rapport om hur AI syns i läroplaner i Kanada och Sydkorea: [asiapacific.ca/publication/ai-education-k-12-canada-and-south-korea][14]
+* [Life 3.0][15]: Bok av svensk-amerikanen Max Tegmark som diskuterar frågor om vad AI betyder för samhället, framtiden och synen på oss själva. Finns även på svenska. Från 2018.
+* 80,000 hours podcast: Podcast där AI och framtiden tas upp regelbundet: [80000hours.org/podcast/episodes/][16]
+* Future och Life Institute podcast: Podcast där AI och framtiden tas upp regelbundet: [futureoflife.org/project/future-of-life-institute-podcast/][17]
 
 [1]:	https://education.ec.europa.eu/news/ethical-guidelines-on-the-use-of-artificial-intelligence-and-data-in-teaching-and-learning-for-educators
 [2]:	https://the-decoder.com/ai-in-education-chatgpt-is-just-the-beginning/
@@ -23,4 +28,9 @@
 [9]:	https://www.linkedin.com/pulse/ai-education-transformation-towards-human-christer-holger/
 [10]:	https://www.youtube.com/watch?v=Wi5wkT3LrLs&list=PL70wNv4dBdJwUGH8yefxeyy0casWtKDLA
 [11]:	https://www.ai.se/en
-[12]:	https://en.wikipedia.org/wiki/Life_3.0
+[12]:	https://raise.mit.edu/resources.html
+[13]:	https://arxiv.org/abs/2301.04655
+[14]:	https://www.asiapacific.ca/publication/ai-education-k-12-canada-and-south-korea
+[15]:	https://en.wikipedia.org/wiki/Life_3.0
+[16]:	https://80000hours.org/podcast/episodes/
+[17]:	https://futureoflife.org/project/future-of-life-institute-podcast/
