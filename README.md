@@ -13,6 +13,7 @@ Tack till följande personer som bidragit till boken:
 
 * Rustan Håkansson (idéer och inspiration)
 * Peter Parnes (korrekturläsning)
+* Anette Jahnke (förord)
 * Idéer för användningsområden och ställen att läsa mer: Marcus Strömbäck Hjärne, Julia Tsygan, Malin Frykman, Patricia Diaz, Jalal Nouri
 
 Alla dessa har hjälpt till att göra boken bättre, och ingen skugga ska falla på dem för de missar som finns kvar.
