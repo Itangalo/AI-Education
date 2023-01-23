@@ -11,6 +11,7 @@ Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenska
 
 * Epub (zippad): [AI och skolan 2023-01-23 (10.18).epub.zip](https://github.com/Itangalo/AI-och-skolan/files/10478297/AI.och.skolan.2023-01-23.10.18.epub.zip)
 * Pdf: [AI och skolan 2023-01-23 (10.22).pdf](https://github.com/Itangalo/AI-och-skolan/files/10478334/AI.och.skolan.2023-01-23.10.22.pdf)
+* Word/docx (kan finnas problem med fonter): [AI och skolan 2023-01-23 (10.22).docx](https://github.com/Itangalo/AI-och-skolan/files/10478464/AI.och.skolan.2023-01-23.10.22.docx)
 
 ![Omslagsbild](https://user-images.githubusercontent.com/262940/213993430-e9175a69-bf5e-421c-b365-a7c4f906b854.png)
 
