@@ -52,7 +52,7 @@ Punkterna ovan är förstås bara spekulationer, och mer eller mindre direkt öv
 
 Man behöver också komma ihåg att ChatGPT inte bara kan sammanfatta och skriva texter. AI:n är extremt mångsidig, och kan exempelvis skriva datorprogram, analysera stämning i text, generera textbaserade spel, trösta, ge kostrådgivning, översätta texter och hitta på nya avsnitt till en tv-serie. Absolut inte med hundraprocentig kvalitet, men man skulle ändå kunna göra många olika listor liknande den ovan för att utforska vad teknik liknande ChatGPT kan leda till.
 
-En stark begränsning med ChatGPT är hur otillförlitlig den är när det gäller fakta och logik. Man kan tycka att det ”bara” är att lägga till funktioner som låter AI:n kontrollera om det den säger är logiskt sammanhängande eller jämföra sina svar med vad som står i tillförlitliga källor. Men modellen som underbygger ChatGPT utgår _enbart_ från ett universum byggt av ord – det finns inga begrepp om vad som är sant eller inte, bara vad som är mer eller mindre naturliga/sannolika följder av ord. Att lägga till logik eller en uppfattning om vad som är sant skulle sannolikt kräva [annan typ av teknik][12], och är alltså inte ”bara”. Inte desto mindre lär vi få steg i den riktningen under 2023. Den AI-teknik vi ser idag är miltals bättre än [den som fanns 2019][13] – och redan då väckte både uppmärksamhet, frågor och oro. Under 2023 förväntas GPT-3.5, som är den underliggande modellen för ChatGPT, ersättas av en mycket mer kapabel GPT-4. [Flera andra företag och organisationer har liknande tjänster som inte lanserats än][14], där några förväntas vara mycket mer kraftfulla och det även finns exempel som kan blanda medier som bilder och text.
+En stark begränsning med ChatGPT är hur otillförlitlig den är när det gäller fakta och logik. Man kan tycka att det ”bara” är att lägga till funktioner som låter AI:n kontrollera om det den säger är logiskt sammanhängande eller jämföra sina svar med vad som står i tillförlitliga källor. Men modellen som underbygger ChatGPT utgår _enbart_ från ett universum byggt av ord – det finns inga begrepp om vad som är sant eller inte, bara vad som är mer eller mindre naturliga/sannolika följder av ord. Att lägga till logik eller en uppfattning om vad som är sant skulle sannolikt kräva [annan typ av teknik][6], och är alltså inte ”bara”. Inte desto mindre lär vi få steg i den riktningen under 2023. Den AI-teknik vi ser idag är miltals bättre än [den som fanns 2019][7] – och redan då väckte både uppmärksamhet, frågor och oro. Under 2023 förväntas GPT-3.5, som är den underliggande modellen för ChatGPT, ersättas av en mycket mer kapabel GPT-4. [Flera andra företag och organisationer har liknande tjänster som inte lanserats än][8], där några förväntas vara mycket mer kraftfulla och det även finns exempel som kan blanda medier som bilder och text.
 
 Det är ett stort steg att ta, men om man föreställer sig att de närmsta årens AI kan göra de flesta saker som inte kräver alltför mycket tankearbete kan vi få den här lätt skrämmande listan.
 1. Vi är oroliga för att vår förmåga att själva göra tankearbete kommer att försämras, så som att sätta sig in i nya saker, resonera och dra slutsatser.
@@ -76,7 +76,7 @@ Riskerna med AI ökar ju mer kompetent AI:n är. Det finns flera typer av risker
 De här riskerna går delvis in i varandra, och det finns risker som faller utanför de här kategorierna.
 
 ## Risk att AI gynnar få och skadar många
-I den här kategorin finns ett antal befintliga AI-tekniker. Ett exempel är övervakningskameror med ansiktsigenkänningsteknik som används i Kina, vilket ökar möjligheten att förebygga och följa upp brott – vilket till exempel även omfattar att demonstrera för demokrati i Hongkong. Ett annat exempel är drönare som används i krigsföring (exempelvis i [Libyen][15]), som själva kan identifiera mål och avgöra om de ska attackeras.
+I den här kategorin finns ett antal befintliga AI-tekniker. Ett exempel är övervakningskameror med ansiktsigenkänningsteknik som används i Kina, vilket ökar möjligheten att förebygga och följa upp brott – vilket till exempel även omfattar att demonstrera för demokrati i Hongkong. Ett annat exempel är drönare som används i krigsföring (exempelvis i [Libyen][9]), som själva kan identifiera mål och avgöra om de ska attackeras.
 
 Ett mycket mer diffust exempel är de AI-system som bestämmer vilket innehåll användare på sociala medier ska se. De är tillräckligt kraftfulla för att skapa vinster för de företag som äger plattformarna, men orsaker samtidigt skada i form av exempelvis psykisk ohälsa, polarisering i samhället och spridning av fake news.
 
@@ -113,38 +113,30 @@ Några andra risker med allt mer AI beskrivs kortfattat nedan.
 
 [^2]:	[https://indianexpress.com/article/technology/chatgpt-hit-1-million-users-5-days-vs-netflix-facebook-instagram-spotify-mark-8394119/][2]
 
-[^3]:	[https://arxiv.org/abs/2212.08073][6]
+[^3]:	https://arxiv.org/abs/2212.08073
 
-[^4]:	OpenAI har fått kritik för hur de som gjort dessa bedömningar behandlats, se [https://time.com/6247678/openai-chatgpt-kenya-workers/][7]
+[^4]:	OpenAI har fått kritik för hur de som gjort dessa bedömningar behandlats, se https://time.com/6247678/openai-chatgpt-kenya-workers/
 
-[^5]:	Se exempelvis [https://www.datacamp.com/blog/what-we-know-gpt4][8]
+[^5]:	Se exempelvis https://www.datacamp.com/blog/what-we-know-gpt4
 
-[^6]:	[https://www.datacamp.com/blog/what-we-know-gpt4][9]
+[^6]:	https://www.datacamp.com/blog/what-we-know-gpt4
 
-[^7]:	Återgivet I artikel på [https://the-decoder.com/ai-in-education-chatgpt-is-just-the-beginning/][10]
+[^7]:	Återgivet I artikel på https://the-decoder.com/ai-in-education-chatgpt-is-just-the-beginning/
 
-[^8]:	Se exempelvis [https://uk.pcmag.com/news/144860/openai-explores-offering-a-paid-version-of-chatgpt][11]
+[^8]:	Se exempelvis https://uk.pcmag.com/news/144860/openai-explores-offering-a-paid-version-of-chatgpt
 
 [^9]:	”Omdöme” är här ett ganska löst ord. Man kan, hypotetiskt, tänka sig att någon använder ChatGPT för att skapa en bomb, vilket är ganska omdömeslöst. Den som följer ChatGPT:s anvisningar utan att själv ha kunskaper om explosiva material riskerar att skada sig själv eller slösa bort resurser, medan den som har ”omdöme” inom bombtillverkning kan se var anvisningarna är rimliga, var det är fel eller luckor, och kan förhålla sig till nya saker som AI:n föreslår.
 
-[^10]:	[https://futureoflife.org/podcast/sean-ekins-on-regulating-ai-drug-discovery/][16]
+[^10]:	https://futureoflife.org/podcast/sean-ekins-on-regulating-ai-drug-discovery/
 
-[^11]:	[https://arxiv.org/abs/2301.04655][17]
+[^11]:	https://arxiv.org/abs/2301.04655
 
 [1]:	https://twitter.com/gdb/status/1599683104142430208
 [2]:	https://indianexpress.com/article/technology/chatgpt-hit-1-million-users-5-days-vs-netflix-facebook-instagram-spotify-mark-8394119/
 [3]:	https://thispersondoesnotexist.com/
 [4]:	https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
 [5]:	https://theresanaiforthat.com/
-[6]:	https://arxiv.org/abs/2212.08073
-[7]:	https://time.com/6247678/openai-chatgpt-kenya-workers/
-[8]:	https://www.datacamp.com/blog/what-we-know-gpt4
-[9]:	https://www.datacamp.com/blog/what-we-know-gpt4
-[10]:	https://the-decoder.com/ai-in-education-chatgpt-is-just-the-beginning/
-[11]:	https://uk.pcmag.com/news/144860/openai-explores-offering-a-paid-version-of-chatgpt
-[12]:	https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/
-[13]:	https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction
-[14]:	https://anita.beehiiv.com/p/chatgpt-alternatives
-[15]:	https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/
-[16]:	https://futureoflife.org/podcast/sean-ekins-on-regulating-ai-drug-discovery/
-[17]:	https://arxiv.org/abs/2301.04655
+[6]:	https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/
+[7]:	https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction
+[8]:	https://anita.beehiiv.com/p/chatgpt-alternatives
+[9]:	https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/

@@ -1,4 +1,4 @@
-Version 1.0, publicerad 2023-01-23.
+Version 1.1, publicerad 2023-01-23.
 
 Boken är tillgänglig under CC BY-SA 4.0: [creativecommons.org/licenses/by-sa/4.0/][1]. Det betyder att du får använda och anpassa innehållet för de ändamål du vill, men måste ange varifrån materialet kommer och sprida det vidare under samma villkor.
 
