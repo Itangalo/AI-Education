@@ -11,11 +11,11 @@ Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenska
 
 Skicka ett mail till [aiochskolan@falk.one](mailto:aiochskolan@falk.one?Subject=Meddela%20vid%20nya%20versioner%20av%20AI%20och%20skolan&Body=Jag%20vill%20veta%20n%C3%A4r%20det%20kommer%20nya%20versioner%20av%20boken.). Mailet går direkt till författaren, som inte kommer att använda adressen för spam.
 
-## Ladda hem boken här (v. 1.2)
+## Ladda hem boken här (v. 1.3)
 
-* Epub (zippad): [AI och skolan 2023-01-23 (14.30).epub.zip](https://github.com/Itangalo/AI-och-skolan/files/10480159/AI.och.skolan.2023-01-23.14.30.epub.zip)
-* Pdf: [AI och skolan 2023-01-23 (14.29).pdf](https://github.com/Itangalo/AI-och-skolan/files/10480157/AI.och.skolan.2023-01-23.14.29.pdf)
-* Word/docx (utan omslagsbild, kan finnas problem med fonter): [AI och skolan 2023-01-23 (14.29).docx](https://github.com/Itangalo/AI-och-skolan/files/10480156/AI.och.skolan.2023-01-23.14.29.docx)
+* Epub (zippad): [AI och skolan 2023-01-23 (20.08).epub.zip](https://github.com/Itangalo/AI-och-skolan/files/10482915/AI.och.skolan.2023-01-23.20.08.epub.zip)
+* Pdf: [AI och skolan 2023-01-23 (20.08).pdf](https://github.com/Itangalo/AI-och-skolan/files/10482916/AI.och.skolan.2023-01-23.20.08.pdf)
+* Word/docx (utan omslagsbild, kan finnas problem med fonter): [AI och skolan 2023-01-23 (20.08).docx](https://github.com/Itangalo/AI-och-skolan/files/10482913/AI.och.skolan.2023-01-23.20.08.docx)
 
 [ISBN 9798215304334](https://isbnsearch.org/isbn/9798215304334)
 
