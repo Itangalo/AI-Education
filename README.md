@@ -13,6 +13,8 @@ Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenska
 * Pdf (utan innehållsförteckning): [AI och skolan (1.0) - Johan Falk.pdf](https://github.com/Itangalo/AI-och-skolan/files/10477486/AI.och.skolan.1.0.-.Johan.Falk.pdf)
 * Pdf (innehållsförteckning pålagd i eftehand): [AI och skolan (1.0) - Johan Falk (med ToC).pdf](https://github.com/Itangalo/AI-och-skolan/files/10477488/AI.och.skolan.1.0.-.Johan.Falk.med.ToC.pdf)
 
+![Omslagsbild](https://user-images.githubusercontent.com/262940/213993430-e9175a69-bf5e-421c-b365-a7c4f906b854.png)
+
 ![QR-kod med länk till projektsidan för boken.][image-1]
 
 Tack till följande personer som bidragit till boken:
