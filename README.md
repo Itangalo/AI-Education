@@ -7,11 +7,13 @@ Den sista delen av boken ger mer perspektiv på AI, skola och framtiden.
 
 Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. _AI och skolan_ är en e-bok som uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg här på [github.com/Itangalo/AI-och-skolan][1].
 
-## Ladda hem boken här (v. 1.1)
+## Ladda hem boken här (v. 1.2)
 
-* Epub (zippad): [AI och skolan 2023-01-23 (10.18).epub.zip](https://github.com/Itangalo/AI-och-skolan/files/10478297/AI.och.skolan.2023-01-23.10.18.epub.zip)
-* Pdf: [AI och skolan 2023-01-23 (10.22).pdf](https://github.com/Itangalo/AI-och-skolan/files/10478334/AI.och.skolan.2023-01-23.10.22.pdf)
-* Word/docx (utan framsida, kan finnas problem med fonter): [AI och skolan 2023-01-23 (10.22).docx](https://github.com/Itangalo/AI-och-skolan/files/10478464/AI.och.skolan.2023-01-23.10.22.docx)
+* Epub (zippad): [AI och skolan 2023-01-23 (14.30).epub.zip](https://github.com/Itangalo/AI-och-skolan/files/10480159/AI.och.skolan.2023-01-23.14.30.epub.zip)
+* Pdf: [AI och skolan 2023-01-23 (14.29).pdf](https://github.com/Itangalo/AI-och-skolan/files/10480157/AI.och.skolan.2023-01-23.14.29.pdf)
+* Word/docx (utan omslagsbild, kan finnas problem med fonter): [AI och skolan 2023-01-23 (14.29).docx](https://github.com/Itangalo/AI-och-skolan/files/10480156/AI.och.skolan.2023-01-23.14.29.docx)
+
+[ISBN 9798215304334](https://isbnsearch.org/isbn/9798215304334)
 
 ## Ladda hem från e-bokhandel (v. 1.0)
 
