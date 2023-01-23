@@ -5,7 +5,13 @@ Boken betonar att det är viktigt att använda sitt omdöme i hur och när ChatG
 
 Den sista delen av boken ger mer perspektiv på AI, skola och framtiden.
 
-Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. _AI och skolan_ är en e-bok som uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg på [github.com/Itangalo/AI-och-skolan][1], där boken också finns att ladda hem gratis i olika format.
+Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. _AI och skolan_ är en e-bok som uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg här på [github.com/Itangalo/AI-och-skolan][1].
+
+## Ladda hem boken
+
+* Epub (zippad): [AI och skolan 2023-01-23 (08.02).epub.zip](https://github.com/Itangalo/AI-och-skolan/files/10477480/AI.och.skolan.2023-01-23.08.02.epub.zip)
+* Pdf (utan innehållsförteckning): [AI och skolan (1.0) - Johan Falk.pdf](https://github.com/Itangalo/AI-och-skolan/files/10477486/AI.och.skolan.1.0.-.Johan.Falk.pdf)
+* Pdf (innehållsförteckning pålagd i eftehand): [AI och skolan (1.0) - Johan Falk (med ToC).pdf](https://github.com/Itangalo/AI-och-skolan/files/10477488/AI.och.skolan.1.0.-.Johan.Falk.med.ToC.pdf)
 
 ![QR-kod med länk till projektsidan för boken.][image-1]
 
