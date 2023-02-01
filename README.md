@@ -24,6 +24,7 @@ Skicka ett mail till [aiochskolan@falk.one](mailto:aiochskolan@falk.one?Subject=
 Betygsätt gärna skriv en recension!
 
 * Från [Apple Books](https://books.apple.com/us/book/id6445495939)
+* Från [Google Play](https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1) (version 1.3!)
 * Från [kobo.com](https://www.kobo.com/se/sv/ebook/ai-och-skolan)
 * Från [smashwords.com](https://www.smashwords.com/books/view/1325975)
 
