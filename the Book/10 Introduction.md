@@ -74,3 +74,57 @@ Most of the tips and ideas in this book assume that it is the teacher who is usi
 2. Can you come up with additional categories of AI pitfalls?
 3. Review the conversation in chapter 1 again and consider where there may be AI pitfalls.
 
+# 3: Getting started with ChatGPT
+
+ChatGPT was created and is operated by the company OpenAI. To use ChatGPT, you need an account on OpenAI, which you can arrange through the OpenAI website (e.g., [beta.openai.com][2]). The account is free, and for now, it is also free to use ChatGPT. [OpenAI account terms of use][3] state that you must be at least 18 years old. The email address you provide must be confirmed through an email sent to that address, and then you are ready to go to [chat.openai.com][4] and start using ChatGPT.
+
+![ChatGPT interface, with key elements marked 1-3.][image-1]
+
+The key parts of the chat window are (1) the input window for ChatGPT - often called a "prompt", (2) history of previous chats, and (3) the button to start new chat threads. If the selected chat thread is empty, as in the image above, a summary of some of the key features of ChatGPT is displayed.
+
+When you type something to ChatGPT, the conversation appears in the main part of the window. The response from ChatGPT grows word by word, and if the service is heavily loaded, it may take a few seconds for the text to appear. The chat is saved in the left column and automatically gets a header based on its contents.
+
+![ChatGPT interface as it looks when a conversation is in progress.][image-2]
+
+If you hover over your message to ChatGPT, an icon to edit the question appears, giving a new answer. Next to each answer are buttons that can be used to provide feedback on whether the answer was good or bad, which also gives a chance to indicate what one thinks is a good answer. Feedback is used to improve how ChatGPT works.
+
+There is no built-in way to export text from conversations. It's common to either manually mark and copy text or take screenshots, but if you use ChatGPT frequently, you may want to consider installing a plugin in your web browser that makes it easier to copy text.
+
+## Some tips when chatting with ChatGPT
+Chatting with ChatGPT is natural in many ways - you write as you would to a person. The most common ways are probably to ask short questions or to prompt ChatGPT to write something specific, and follow it up with further questions, prompts or adjustments. Some methods and tricks that may be less natural may also be good to know:
+
+* If you press enter in the chat box, the message will be sent to ChatGPT. With shift + enter, you have the ability to create line breaks without sending the message.
+* If you want to vary or reuse a longer question, it is practical to have the prompt in a text editor or word processor, where it can be edited and copied more easily.
+* If you want to give long texts to ChatGPT, for example, you can write "What is the most difficult part of this text?" and paste the text before sending the message, or "Below is a text I have written that I want you to give feedback on so I can improve it."
+* If you give ChatGPT a text without any special prompt or question, it will respond with a summary of the text.
+* ChatGPT is generally faster in answering if written in English, and the messages also contain fewer language errors.
+* Detailed descriptions and questions often give more useful answers.
+* Follow-up questions are also very useful for clarifying what you want to get out of the answers, or asking ChatGPT to develop parts of the answers that are interesting.
+* Some experiment with long descriptions of how they want ChatGPT to behave. Such descriptions are often ended with something like "confirm that this has been understood by answering 'ok'", and the actual questions or prompts are posted in the next step in the conversation.
+* If you want answers in a specific format, such as a bullet point list, table, or a comma-separated list - ask ChatGPT to answer in that format. ChatGPT can sometimes also answer in a format that can be imported directly into certain programs. You can also ask ChatGPT to rewrite answers it has already given in a new form.
+* If you find that ChatGPT is slow or limiting, you can try switching to OpenAI Playground at [beta.openai.com/playground][5]. There, you can use a more flexible (but also more complex) interface to generate AI texts.
+
+It is good to know that there is a limit to the length of messages to ChatGPT, at about two thousand words or 7-10 pages [^2]. If you want to give ChatGPT longer texts than that, you can try dividing the text, and for example, giving ChatGPT the instruction "I will give you a long text divided into several parts. Here is part 1. Respond 'ok' when you're done."
+
+ChatGPT takes up to a maximum of one and a half minutes to answer, which can result in long answers being cut off in the middle. In such cases, you can, for example, write "Can you continue from the last answer and finish it?" or simply "continue", or change the question so that ChatGPT can answer in smaller parts.
+
+Online, there are collections of prompts that people have found particularly useful. These may include prompts designed specifically for a particular purpose (such as serving as a cookbook or writer of solo adventures) or groups of prompts that are useful in specific areas (such as being a programmer's assistant). If you want to explore such collections, you can try searching for "ChatGPT prompts".
+
+## Exercises
+
+1. If you do not already have an account with OpenAI, create one – provided you agree to their user terms.
+2. Try asking questions to ChatGPT or ask ChatGPT to create certain types of texts. Have at least three conversations, where you ask follow-up questions in at least one. At least one of the chats should be about school or education. Try writing in both Swedish and English.
+
+[^1]:	BBC Tech Tent, 2022-12-09: [https://www.bbc.co.uk/programmes/w3ct4khv][1]
+
+[^2]:	[https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them][6]
+
+[1]:	https://www.bbc.co.uk/programmes/w3ct4khv
+[2]:	https://beta.openai.com/
+[3]:	https://openai.com/terms/
+[4]:	https://chat.openai.com/
+[5]:	https://beta.openai.com/playground
+[6]:	https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them
+
+[image-1]:	https://user-images.githubusercontent.com/262940/212463937-050069cb-ad3a-4e64-a212-a266b4d973b1.png
+[image-2]:	https://user-images.githubusercontent.com/262940/212463940-7cf40758-8d33-4520-8b8e-8b3cd80134c7.png
