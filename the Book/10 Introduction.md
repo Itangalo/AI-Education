@@ -8,3 +8,69 @@ ChatGPT is powered by an AI model that has been trained on large parts of the te
 
 This book contains many excerpts from conversations with ChatGPT. They are usually word-for-word representations - what you are reading is what the conversation with ChatGPT looked like. The bold text is the question (the "prompt") from the user, the rest is the AI's response. In some cases, the text has been lightly edited for better formatting in book form, and in some cases, larger amounts of text in the question have been replaced by a short description within square brackets.
 
+----
+
+> **What do you know about the history of model railways?**
+> 
+> Model railways are a popular hobby where people build and operate miniature models of railways and trains. The history of model railways dates back to the early 1800s, when railways became more common in Europe and North America. At that time, people built models of railways using wood and metal, but it was not until the late 1800s and early 1900s that model railways became a common hobby.
+> 
+> During the 1920s and 30s, model railways became more advanced and companies specializing in the manufacture of model trains and railways started to appear. In the US, Lionel and American Flyer were two of the most well-known companies in the model railway industry, while Hornby in the UK was a leading manufacturer in Europe.
+> 
+> Since then, model railways have developed a lot, with more detailed models and advanced technology such as digital control and sound and light effects. Today, there are many clubs and organizations around the world that are dedicated to model railways, and there are also many different types of models to choose from, including scales H0, N and G.
+> 
+> **Completely different thing: Do you know what is required to grow potatoes effectively?**
+> 
+> To grow potatoes effectively, it is important to choose the right variety of potatoes and soil type, and to create the right conditions for the plant to grow in. Here are some important factors to consider:
+> 
+> 1. Choose the right variety of potatoes: There are many different varieties of potatoes, and some are better suited for growing in certain climates and soils. It is important to choose a variety that is suitable for your area and conditions.
+> 2. Soil mixture: Potatoes thrive in soil with high humus content, which is well-drained and has a pH level between 4.8 and 5.5.
+> 3. Sowing: Potatoes are often sown in rows with about 50 cm between rows and 30 cm between plants.
+> 4. Fertilization: Potatoes need fertilizer with high levels of nitrogen, phosphorus, and potassium to grow and produce a harvest.
+> 5. Watering: Potatoes also need regular watering during their growing period, especially during dry periods.
+> 6. Care: Potatoes also require regular care to keep weeds and diseases away.
+> 7. Harvest: Potatoes are usually harvested when the leaves on the plant begin to yellow and dry. It is important not to harvest too early as the potatoes have not fully developed yet.
+> 8. Storage: Harvested potatoes are best stored in a dark, cool, and dry environment.
+> 
+> **Thanks! One more thing, by the way: What distinguishes schottis as a dance?**
+>
+>
+> The Schottis is a traditional folk dance from Scotland often danced to violin and accordion music. It is known for its fast and lively steps and is usually danced in pairs.
+>
+> Some of the key characteristics of the Schottis are:
+>
+> * The dance is often in 4/4 time and has a fast and lively rhythm.
+> * The Schottis is often danced in pairs, with a leading and a following dancer.
+> * The Schottis is known for its fast, lively steps and cuts and jumps.
+> * The dance often contains a series of hops and stomping steps, which are characteristic of the Schottis.
+> * The Schottis is often danced at folk music festivals and events in Scotland, but is also common at folk dance camps and festivals around the world.
+> 
+> There are many different variations of the Schottis, and the dance can vary depending on region and tradition. But regardless of where and how it is danced, the Schottis is known for its lively and energetic character.
+
+Using ChatGPT can be overwhelming or even revolutionary. Whether you ask questions about cell biology, August Strindberg, or the history of Buddhism, it has answers that are delivered objectively and clearly. It can summarize texts, write poems, create computer programs, invent bedtime stories, provide feedback and suggestions on draft texts, and develop arguments in a conversation with a human. In Chapter 13, you can read more about how tools like ChatGPT could impact our view of knowledge, and of ourselves.
+
+# 2: Four Types of AI Traps
+
+Something that's important to keep in mind right now is that ChatGPT makes mistakes. If you read through the conversation above, you probably noticed that translations and word choices sometimes become strange (for example, "manure" instead of "fertilizer" and "accordion music" instead of "accordeon music"). Such mistakes are significantly less common in English, because the majority of the text that ChatGPT has been trained on is in English.
+
+Something that's harder to notice are factual errors – partly because they require relatively good knowledge on the part of the reader, and partly because they are wrapped in a clear text that is easy to believe. For example, ChatGPT writes that the schottis originated in Scotland, while a reader of schottis on Wikipedia can establish that it probably originated in Bohemia. (The National Encyclopedia, on the other hand, says that the schottis was "presented" in Paris, without mentioning where the dance originated.)
+
+A couple of other mistakes – if they can be called mistakes – are even harder to discover. ChatGPT says that schottis has a "fast and lively rhythm," while the Swedish Wikipedia article on schottis says it has a "calm tempo." Schottis in other parts of the world seems to have a higher tempo than schottis in Sweden. Does ChatGPT have it wrong in saying it's a fast rhythm? Actually not. However, it describes schottis from a perspective that may not be true in Sweden – the country where the question was asked – which makes the answer misleading. Another perhaps-mistake is that the description of the history of model railways does not mention the manufacturer Märklin (but mentions other manufacturers), despite the fact that Märklin plays a role in the history of model railways and for many is almost synonymous with model railways.
+
+Such perhaps-mistakes are not wrong, but they reflect a particular aspect of the truth, or cause things to be perceived in a certain way or from a certain perspective. They are difficult to discover, especially for someone who is not vigilant, and risk pushing the recipient into a specific worldview without being aware of it.
+
+The last type of mistake does not deal with what ChatGPT answers, but how useful one expects it to be. The fact that ChatGPT gives you ten well-formulated quiz questions about the Enlightenment does not necessarily mean that it is good pedagogy to use the questions: Perhaps the students will learn better from completely different types of activities, or for that matter quiz questions chosen based on what you as a teacher know are common misconceptions or what is particularly important to know. More serious pedagogical mistakes would be to let ChatGPT create test questions...
+
+## Inappropriate messages
+
+ChatGPT has barriers for certain types of messages. If you try to get ChatGPT to tell you how to make bombs, mix methamphetamine, or if you want suggestions on how to harass, abuse or torture someone, ChatGPT will respond by saying that it violates its policy to answer. The same applies, for example, to giving medical advice (which probably has to do with US legislation).
+
+The fact that there are such barriers makes ChatGPT a much safer tool, but the barriers are not 100%. This means that ChatGPT can sometimes let things through that it should keep quiet about, and that persistent users can find ways to consistently bypass the barriers. (There are, not surprisingly, tips on the Internet on how to bypass the barriers.)
+
+Most of the tips and ideas in this book assume that it is the teacher who is using ChatGPT, not the student. Of course, it can still happen that students use ChatGPT, in or outside of school, and it's good to know that inappropriate messages can pop up.
+
+## Exercises
+
+1. What are the four types of AI pitfalls, and what distinguishes them?
+2. Can you come up with additional categories of AI pitfalls?
+3. Review the conversation in chapter 1 again and consider where there may be AI pitfalls.
+
