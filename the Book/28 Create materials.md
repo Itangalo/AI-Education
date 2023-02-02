@@ -139,3 +139,175 @@ Using ChatGPT can be an effective way to create glossaries for concepts in a wor
 > Mitochondria - are organelles within the cell that are responsible for producing energy for the cell through the process known as cellular respiration.
 > 
 > Golgi apparatus - is an organelle within the cell that is responsible for managing, sorting, and distributing proteins and other molecules within the cell.
+
+## Creating Quiz Questions
+ChatGPT can quickly create draft quiz questions. Like other AI material, they need to be reviewed before they are used.
+
+**When reading the conversation, consider:**
+* When can a quiz be useful in your teaching?
+* If ChatGPT suggests a quiz question about something you haven't covered in your lesson, would you remove it? Why?
+* Feel free to ask ChatGPT for quiz questions on an area you recently taught.
+
+> **Can you create 5 quiz questions on the industrial revolution suitable for 17-year-olds? Include three incorrect and one correct answer for each question, and mark the correct answer with an arrow: <--**
+>
+> Sure! Here you go:
+>
+> What was the main source of energy during the Industrial Revolution?
+> A) Wind power
+> B) Coal <--
+> C) Solar power
+> D) Hydro power
+> 
+> Where did the Industrial Revolution begin?
+> A) France
+> B) Germany
+> C) England <--
+> D) United States
+> 
+> What was the main factor that led to the development of the spinning jenny?
+> A) Increase in demand for cloth
+> B) Availability of cheap labor
+> C) Technological advancements <--
+> D) Abundance of raw materials
+> 
+> Who is known as the "Father of the Industrial Revolution"?
+> A) James Watt <--
+> B) Richard Arkwright
+> C) Samuel Slater
+> D) Eli Whitney
+> 
+> Which invention revolutionized transportation during the Industrial Revolution?
+> A) The steam engine <--
+> B) The internal combustion engine
+> C) The electric motor
+> D) The bicycle.
+>
+> **Thanks! Can you create a CSV from the questions and answers, so I can import them to my quiz tool?**
+>
+> Certainly! Here is the CSV format of the questions and answers:
+>
+> Question,Answer 1,Answer 2,Answer 3,Answer 4,Correct Answer
+> \[The questions and answers above, separated by commas.\]
+
+## Customize Assignments or Texts for Student Groups
+It can be difficult to find material that is tailored to certain student groups. ChatGPT can, to some extent, write existing material in new contexts.
+
+**As you read the conversations, consider:**
+* Do you think it's time-saving to use ChatGPT in the examples below, taking into account any time spent processing AI answers?
+* If you needed to make similar customizations often, what would you do to make it faster to use ChatGPT?
+* Do you have a need to customize assignments or texts? Try to see if ChatGPT can do it in a meaningful way.
+
+(The story in first example contains 529 words, shortened from 1442 words.)
+
+> **Below is the story Little Red Riding Hood, which I will give my pupils to read as home assignment. Can you create a version of the story that is 500–700 words and doesn't contain any difficult words? Also, I want you to write the story with upper-case letters only.**
+> \[Full story pasted.\]
+>
+> ONCE UPON A TIME, THERE WAS A LITTLE GIRL NAMED LITTLE RED RIDING HOOD. SHE LIVED WITH HER MOTHER AND HER GRANDMOTHER WHO LOVED HER VERY MUCH. ONE DAY, LITTLE RED RIDING HOOD'S MOTHER GAVE HER A LITTLE CAP OF RED VELVET TO WEAR. LITTLE RED RIDING HOOD LOVED THIS CAP SO MUCH THAT SHE WORE IT EVERYDAY.
+>
+> LITTLE RED RIDING HOOD'S MOTHER TOLD HER TO GO TO HER GRANDMOTHER'S HOUSE WITH A PIECE OF CAKE AND A BOTTLE OF WINE. LITTLE RED RIDING HOOD PROMISED TO BE CAREFUL ON HER WAY TO HER GRANDMOTHER'S HOUSE.
+> 
+> AS LITTLE RED RIDING HOOD ENTERED THE WOOD, A WOLF MET HER. LITTLE RED RIDING HOOD DID NOT KNOW THAT THIS WOLF WAS DANGEROUS AND WAS NOT AFRAID OF HIM. THE WOLF ASKED LITTLE RED RIDING HOOD WHERE SHE WAS GOING. LITTLE RED RIDING HOOD TOLD THE WOLF THAT SHE WAS GOING TO HER GRANDMOTHER'S HOUSE TO BRING HER CAKE AND WINE. THE WOLF THOUGHT THAT LITTLE RED RIDING HOOD WOULD BE A BETTER MEAL THAN HER GRANDMOTHER, SO HE DECIDED TO TRICK HER.
+> 
+> THE WOLF TOLD LITTLE RED RIDING HOOD THAT THE FLOWERS IN THE WOOD WERE PRETTY AND THE BIRDS WERE SINGING BEAUTIFULLY. LITTLE RED RIDING HOOD BECAME INTERESTED AND DECIDED TO PICK FLOWERS FOR HER GRANDMOTHER. THE WOLF THEN RAN TO GRANDMOTHER'S HOUSE AND KNOCKED ON THE DOOR. WHEN GRANDMOTHER ASKED WHO WAS THERE, THE WOLF SAID IT WAS LITTLE RED RIDING HOOD WITH CAKE AND WINE. GRANDMOTHER TOLD THE WOLF TO LIFT THE LATCH AND THE WOLF WENT STRAIGHT TO THE BED AND ATE GRANDMOTHER.
+> 
+> MEANWHILE, LITTLE RED RIDING HOOD HAD BEEN PICKING FLOWERS AND FORGOT ALL ABOUT TIME. WHEN SHE FINALLY REMEMBERED HER GRANDMOTHER, SHE WENT TO HER HOUSE. WHEN LITTLE RED RIDING HOOD ENTERED THE ROOM, SHE HAD A STRANGE FEELING. SHE CALLED OUT "GOOD MORNING" BUT RECEIVED NO ANSWER. WHEN SHE DREW BACK THE CURTAINS, SHE SAW HER GRANDMOTHER IN BED. HER GRANDMOTHER HAD BIG EARS, BIG EYES, BIG HANDS, AND A BIG MOUTH. THE GRANDMOTHER TOLD LITTLE RED RIDING HOOD THAT SHE HAD BIG EARS TO HEAR BETTER, BIG EYES TO SEE BETTER, BIG HANDS TO HUG BETTER, AND A BIG MOUTH TO EAT BETTER. THEN THE WOLF SWALLOWED LITTLE RED RIDING HOOD.
+> 
+> THE WOLF THEN WENT TO
+> 
+> **Please continue.**
+> 
+> THE HUNTSMAN HEARD THE SNORING AND THOUGHT TO HIMSELF, "WHAT CAN BE MAKING SUCH A NOISE?" HE DECIDED TO INVESTIGATE AND CAME UPON THE GRANNY'S HOUSE. HE NOTICED THE DOOR WAS AJAR AND WALKED IN. HE SAW THE WOLF ASLEEP IN THE BED AND REALIZED THAT HE HAD EATEN LITTLE RED RIDING HOOD. HE DREW OUT HIS KNIFE AND WITH ONE STROKE CUT OPEN THE WOLF'S BELLY. HE SAW LITTLE RED RIDING HOOD AND GRANNY, ALIVE AND UNHURT. HE PULLED THEM OUT AND TOOK THEM HOME TO THEIR MOTHER.
+>
+> FROM THAT DAY FORWARD, LITTLE RED RIDING HOOD WAS NEVER AGAIN ALLOWED TO WANDER OFF THE PATH WHEN SHE WENT TO VISIT HER GRANNY. SHE LEARNED THAT IT WAS IMPORTANT TO BE CAREFUL AND TO LISTEN TO THE ADVICE OF HER MOTHER AND OTHERS. AND GRANNY LIVED TO BE A HAPPY OLD LADY FOR MANY YEARS AFTER THAT.
+
+----
+
+> **Below is a math problem adjusted for third grade. Can you change the context of the problem so that it fits for my adult students, but still contains the same type of math?**
+> **On the playground, there are 17 children. After a while, 5 more children arrive. How many children are there on the playground then?**
+> **Show your calculation and write the answer.**
+> 
+> In a company, there are 17 employees. After the recruitment, there will be 5 more employees. How many employees will there be in the company after the recruitment?
+> Calculation: 17 + 5 = 22
+> Answer: 22 employees.
+
+----
+
+> **Can you create an easy-to-read version of the text below? Remove all references in brackets.**
+> 
+> **[Inlined text from the beginning of [Wikipedia's article on global warming][2], about 460 words.]**
+>
+> Climate change is the ongoing increase in global average temperature caused by humans burning fossil fuels. This leads to increased levels of greenhouse gases such as carbon dioxide and methane, which trap more heat in the Earth's atmosphere and cause global warming. The effects of climate change include expanding deserts, more frequent heat waves and wildfires, melting permafrost, and intense storms. Climate change also threatens people with food and water scarcity, increased flooding, and more disease. Poorer countries, which have the least ability to adapt, are the most vulnerable to the effects of climate change. To limit warming to 1.5°C, emissions must be reduced by halving them by 2030 and achieving net-zero emissions by 2050. This requires generating electricity from low-carbon sources and removing carbon from the atmosphere.
+
+## Improving Own Texts - Suggestions
+ChatGPT can process large amounts of text and provide (often) meaningful feedback on it. Since feedback should be used judiciously, it is recommended to use AI feedback as a teacher, not as feedback given directly to students.
+
+Feedback is often more useful when asking about specific aspects, such as making it more readable, more engaging, or what parts of the text need improvement.
+
+**When reading the conversation, consider:**
+* What are the advantages and disadvantages of asking for feedback from ChatGPT compared to from colleagues?
+* Do the suggestions from ChatGPT seem useful?
+* Feel free to test asking for feedback on lesson materials or other texts you have written. Please describe what type of feedback you want, or in what context the text is intended to be used.
+
+> **Below is a text aimed at high school students and dealing with quadratic equations - an introduction and then presentation of three different ways to solve quadratic equations. Can you suggest how the text can be improved?**
+> **[Embedded text from [Solving Quadratic Equations: A Recipe (in Swedish)][3]]**
+> 
+> Here are some suggestions on how the text can be improved:
+> 1. Add an introduction that gives the reader an overview of what the text is about and why it can be useful.
+> 2. Be more specific in your definition of quadratic equations and provide examples of such equations.
+> 3. Provide more examples of quadratic equations and how to solve them, so that the reader gets a better understanding of how to solve different types of equations.
+> 4. Make the text more readable by using clear and simple terms and explain any more advanced concepts when they appear.
+> 5. Add a conclusion or summary of the text so that the reader can have an overview of what has been learned and what will be needed to solve quadratic equations.
+> 6. Add links to additional resources for the reader who wants to learn more about the subject.
+> 7. Correct any spelling and grammar errors in the text to make it easier to read and understand.
+
+## Create Drafts for Weekly Newsletter and the Like
+ChatGPT can save time by providing drafts of well-written standard messages that you still want to send. For such tasks, it may be useful to have a template for ChatGPT with instructions where you replace certain points for each message.
+
+**When reading the conversations, consider:**
+* What are the advantages and disadvantages of having an AI write messages and texts?
+* There is a risk that recipients may feel misled if they believe that a person wrote texts created by an AI. What do you think the reaction will be if the message states that it is formulated by an AI based on instructions from (in this case) teachers at the preschool?
+* What recurring needs do you have for writing texts? Try letting ChatGPT write such a text for you and reflect on the results. Can you get the AI to use a language style that you like?
+
+> **I would like you to write a draft of a weekly newsletter for the caretakers of the children at our preschool, "Pea." The letter should be brief and friendly and tell what we have done during the week.**
+> **Things to include in the letter:**
+> * **Welcome back after the holiday break**
+> * **A new child from the Partridge class has joined us**
+> * **We are going ice skating on Tuesday**
+> * **We have continued working on the seasonal tree**
+> * **The children have been playing with magnetic blocks a lot**
+> * **Next Monday, the preschool will close at 3:45 PM due to staff training**
+> * **Shorten, summarize or make texts more engaging**
+> 
+> Hello friends,
+> Welcome back after a lovely holiday break! We hope you have had a wonderful time with your family. We at Pea are now ready to welcome your children back and continue our exciting journey together.
+> We also want to welcome a new child from the Partridge class to our preschool. We look forward to getting to know him and having him as a part of our Pea family.
+> During the week, we have planned a fun outing to the ice rink where we will be ice skating on Tuesday. The children are really looking forward to this and we hope the weather will be on our side.
+> We have also continued working on our seasonal tree and the children have had a lot of fun creating their own creations with it. We have also noticed that the children have been playing with magnetic blocks a lot and we see their creativity growing with each day.
+> As a reminder, next Monday the preschool will close at 3:45 PM due to staff training. Please keep this in mind when planning your day.
+> We look forward to having a wonderful week with you and your children.
+> 
+> Best regards,
+> Pea Preschool.
+
+----
+
+> **Can you write a letter of recommendation for my student Maria Andersson, who is applying to the University of Brighton? I want the letter of recommendation to mention that Maria is overall a competent and meticulous student, and is particularly skilled in chemistry and expressing herself in writing. Write in British English.**
+>
+> Dear Admissions Committee,
+> 
+> I am writing to highly recommend Maria Andersson for your program at the University of Brighton. As her teacher for the past two years, I can confidently say that Maria is an exceptional student who consistently demonstrates a high level of skill and dedication in her studies.
+> 
+> Maria's greatest strength is her aptitude for chemistry. She consistently produces high-quality work and has a natural curiosity for the subject, often going above and beyond the requirements of the class. She is able to apply her knowledge to solve complex problems and is always willing to share her understanding with her classmates.
+> 
+> In addition to her strong technical skills, Maria is also an excellent communicator. She is able to express herself clearly and effectively in written work, which is a valuable asset in any field. Her ability to convey her thoughts and ideas in a well-structured and logical manner is truly impressive.
+> 
+> Furthermore, Maria is a dedicated and responsible student. She is always willing to go the extra mile to ensure that she fully understands the material and is quick to ask for help if she needs it. Her positive attitude and strong work ethic make her an asset to any academic setting.
+> 
+> I have no doubt that Maria will be an excellent candidate for the University of Brighton, and I wholeheartedly recommend her for your program. Please do not hesitate to contact me if you require any further information.
+> 
+> Sincerely,
+> [Your name]
+
+[1]:	https://en.wikipedia.org/wiki/Organic_acid
+[2]:	https://en.wikipedia.org/wiki/Climate_change
+[3]:	https://docs.google.com/document/d/1ZrvnHBrisFHtWOIRVh_fwHEmxvsho1sHZmNzr1l0Vmw/edit?usp=sharing
