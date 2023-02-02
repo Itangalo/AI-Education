@@ -8,7 +8,7 @@ ChatGPT is powered by an AI model that has been trained on large parts of the te
 
 This book contains many excerpts from conversations with ChatGPT. They are usually word-for-word representations - what you are reading is what the conversation with ChatGPT looked like. The bold text is the question (the "prompt") from the user, the rest is the AI's response. In some cases, the text has been lightly edited for better formatting in book form, and in some cases, larger amounts of text in the question have been replaced by a short description within square brackets.
 
-----
+---- 
 
 > **What do you know about the history of model railways?**
 > 
@@ -32,12 +32,12 @@ This book contains many excerpts from conversations with ChatGPT. They are usual
 > 8. Storage: Harvested potatoes are best stored in a dark, cool, and dry environment.
 > 
 > **Thanks! One more thing, by the way: What distinguishes schottis as a dance?**
->
->
+> 
+> 
 > The Schottis is a traditional folk dance from Scotland often danced to violin and accordion music. It is known for its fast and lively steps and is usually danced in pairs.
->
+> 
 > Some of the key characteristics of the Schottis are:
->
+> 
 > * The dance is often in 4/4 time and has a fast and lively rhythm.
 > * The Schottis is often danced in pairs, with a leading and a following dancer.
 > * The Schottis is known for its fast, lively steps and cuts and jumps.
@@ -46,9 +46,9 @@ This book contains many excerpts from conversations with ChatGPT. They are usual
 > 
 > There are many different variations of the Schottis, and the dance can vary depending on region and tradition. But regardless of where and how it is danced, the Schottis is known for its lively and energetic character.
 
-Using ChatGPT can be overwhelming or even revolutionary. Whether you ask questions about cell biology, August Strindberg, or the history of Buddhism, it has answers that are delivered objectively and clearly. It can summarize texts, write poems, create computer programs, invent bedtime stories, provide feedback and suggestions on draft texts, and develop arguments in a conversation with a human. In Chapter 13, you can read more about how tools like ChatGPT could impact our view of knowledge, and of ourselves.
+Using ChatGPT can be overwhelming or even revolutionary. Whether you ask questions about cell biology, James Joyce, or the history of Buddhism, it has answers that are delivered objectively and clearly. It can summarize texts, write poems, create computer programs, invent bedtime stories, provide feedback and suggestions on draft texts, and develop arguments in a conversation with a human. In Chapter 13, you can read more about how tools like ChatGPT could impact our view of knowledge, and of ourselves.
 
-# 2: Four Types of AI Traps
+# 2: Four Types of AI Pitfalls
 
 Something that's important to keep in mind right now is that ChatGPT makes mistakes. If you read through the conversation above, you probably noticed that translations and word choices sometimes become strange (for example, "manure" instead of "fertilizer" and "accordion music" instead of "accordeon music"). Such mistakes are significantly less common in English, because the majority of the text that ChatGPT has been trained on is in English.
 

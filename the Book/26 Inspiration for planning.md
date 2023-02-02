@@ -33,7 +33,7 @@ When asking ChatGPT for planning suggestions, it is particularly important to be
 > 
 > There are many different ways to make teaching about ancient times more practical and hands-on. Feel free to combine different activities to keep the students engaged and to give them different ways to learn. Don't forget to give the students clear instructions and guidance, and make sure the activities are appropriate for their age and abilities.
 
-----
+---- 
 
 > **I will be taking over a 6th grade class. Can you suggest some activities we can do to get to know each other in an easy way?**
 > 
@@ -46,28 +46,28 @@ When asking ChatGPT for planning suggestions, it is particularly important to be
 > 
 > Remember that it is important to create a safe and positive environment for students to open up in.
 
-----
+---- 
 
 > **I'm going to teach about linear equation systems for students in the social sciences program. I have a total of three lessons for the area, with 60 minutes per lesson. Afterwards, I want them to be able to use linear equation systems to describe realistic situations and have a reasonable confidence in solving linear equation systems (preferably with more than one method). A noticeable part of the class is uncertain when it comes to algebra and counting, and several students think that math is boring. It is therefore important that the students feel that they are learning things and succeeding, and I want the teaching to be engaging. Do you have suggestions for the setup of the three lessons?**
->
+> 
 > For the students to feel that they are learning things and succeeding, and for the teaching to be engaging, the following setup for the three lessons may be appropriate:
->
+> 
 > Lesson 1: Introduction to linear equation systems and graphical solution. Start by giving the students an overall understanding of what linear equation systems are and why they are useful. Then present graphical solution as a simple method for solving linear equation systems. Give the students an opportunity to try solving some simple equation systems graphically and give positive feedback for their efforts.
->
+> 
 > Lesson 2: Algebraic solution of linear equation systems. Focus on teaching the students how to solve linear equation systems using algebraic methods, such as substitution and elimination. Use examples from real-life situations to make it more relatable and engaging for the students. Give the students an opportunity to try solving equation systems using algebraic methods and give positive feedback for their efforts.
->
+> 
 > Lesson 3: Summary and practice. Go over important concepts and methods presented during the previous lessons. Give the students an opportunity to practice solving linear equation systems using both graphical and algebraic methods. Give positive feedback for the students' efforts and give the opportunity for the students to ask questions and get help with any difficulties.
->
+> 
 > **Thank you! Can you suggest real-life situations where linear equations systems are useful, especially relevant to students in social sciences programs?**
->
+> 
 > Yes, there are many real-life situations where linear equation systems are useful and particularly relevant to students in social science programs. Here are a few examples:
->
+> 
 > 1. Economics: Economists often use linear equation systems to model related variables, such as related prices or income and expenses.
 > 2. Demography: Demographers often use linear equation systems to describe population growth and changes over time.
 > 3. Sociology: Sociologists often use linear equation systems to describe relationships between different social phenomena, such as the relationship between education and income.
 > 4. Marketing: Marketers often use linear equation systems to describe relationships between different marketing variables, such as the relationship between advertising costs and sales.
 > 5. Geography: Geographers often use linear equation systems to describe relationships between different geographical variables, such as the relationship between distance and time.
->
+> 
 > These are just a few examples of how linear equation systems are used in different social science fields, but there are many more. It's good to use real-life examples from different areas to make teaching more relatable and engaging for students.
 
 ## Feedback on Lesson Plans
@@ -106,7 +106,7 @@ ChatGPT can provide feedback that is sometimes accurate and often at least helps
 > 3. Use different methods to explain concepts and ideas: It may be beneficial to use different methods to explain concepts and ideas, such as demonstrations, examples, analogies, and visual aids. This can help students get a deeper understanding and remember concepts longer.
 > 4. Give students opportunities to ask questions and participate in discussions: By giving students opportunities to ask questions and participate in discussions, you can increase their understanding and engagement in the lesson.
 > 5. Use different types of exercises and tasks: Using different types of exercises and tasks, such as problem-solving tasks, group exercises, and individual exercises, can help students explore different aspects of the concept in a more hands-on way.
->
+> 
 > **Can you suggest three short questions to use as exit tickets when the lesson is over?**
 > 
 > Exit tickets are a good tool for quickly getting an idea of students' understanding and can be used to identify any areas that may need extra support. Here are three suggestions for short questions that you can use as exit tickets after the lesson on linear equation systems:
@@ -125,29 +125,29 @@ As ChatGPT's messages sometimes contain inaccuracies (or often for certain areas
 * Feel free to ask ChatGPT to describe one or more concepts that are in your teaching and consider factual errors and biases or perspectives. Also feel free to try asking ChatGPT to explain based on specific interests of one or more of your students.
 
 > **Can you explain the mechanisms of inflation on a level suitable for a 15 year old student?**
->
+> 
 > Inflation is a rise in prices of goods and services over time. It means that the same amount of money can buy you fewer goods and services.
->
+> 
 > Think of it like a balloon. As you blow air into the balloon, it gets bigger and takes up more space. In the same way, as more money is added to an economy, the value of each unit of money (like a dollar) decreases and prices for goods and services go up.
->
+> 
 > The main drivers of inflation are:
->
+> 
 > 1. Increase in demand for goods and services: When people have more money to spend, they buy more, which can cause prices to go up.
 > 2. Increase in production costs: When it costs more for businesses to produce goods and services, they may raise their prices to make up for the extra cost.
 > 3. Decrease in the supply of money: When there is less money in circulation, each unit of money is worth more and can buy more goods and services, leading to lower inflation.
->
+> 
 > Overall, inflation is a normal part of a healthy economy, but too much inflation can cause problems. The central bank (like the Federal Reserve in the U.S.) tries to control inflation by adjusting the supply of money in the economy.
->
-> **I have a student who is really into basketball. Can you explain inflation in a way that is engaging for someone who likes baskeball?**
->
+> 
+> **I have a student who is really into basketball. Can you explain inflation in a way that is engaging for someone who likes basketball?**
+> 
 > Sure! Let's use basketball to explain inflation.
->
+> 
 > Imagine you're playing a game of one-on-one basketball and you have a dollar. This dollar can buy you one drink from the concession stand before the game. However, as the game goes on and more people show up to watch, the demand for drinks increases. The concession stand raises their prices to make up for the extra demand. Now, your dollar can only buy you half of a drink.
->
+> 
 > This is similar to what happens in the economy with inflation. As the demand for goods and services goes up, prices go up too, which means your money can buy you less.
->
+> 
 > Just like in basketball, there are different factors that can cause inflation. For example, if the cost of ingredients for the drinks at the concession stand goes up, the concession stand may have to raise their prices. This is like when a key player on your team gets injured and you have to find a replacement. This can lead to increased costs for the team, which could lead to higher ticket prices for fans.
->
+> 
 > The central bank (like the Federal Reserve in the U.S.) works like a coach in this situation. Just like a coach would make adjustments to the team during the game, the central bank adjusts the supply of money in the economy to help control inflation and keep prices stable.
 
 
@@ -171,7 +171,7 @@ ChatGPT's breadth of information can be useful for generating whole lists of ide
 > 
 > All of these games are suitable for elementary school children and offer a fun and interactive opportunity to practice counting.
 
-----
+---- 
 
 > **I would like to have a theme work where my students can combine geography with either craft, art, music, or home economics. Can you give ten ideas for such theme works? It is for high school, and we have a total of four lessons for the theme work.**
 > 
@@ -190,13 +190,13 @@ ChatGPT's breadth of information can be useful for generating whole lists of ide
 > 
 > Note that these are just ideas and can be adapted to your students' abilities and knowledge level.
 
-----
+---- 
 
 > **I have a student in biology who is especially interested in genetics. She would like to do a high school thesis in biology. Can you give some suggestions for questions she could use for a high school thesis?**
 >  
 > **Below are the graduation requirements for the natural science program, which the student is studying. There, the requirements for the high school thesis are described.**
 >  
-> **\[Graduation requirements for the natural science program.\]**
+> **[Graduation requirements for the natural science program.]**
 >  
 > A suggestion for a question for a high school thesis in genetics that would fit into the natural science program could be: "How are gene expressions affected by different environmental factors? A comparison between indoor and outdoor environments of a certain organism."
 >  
@@ -206,7 +206,7 @@ ChatGPT's breadth of information can be useful for generating whole lists of ide
 >  
 > These suggestions would provide an opportunity for students to develop their knowledge in genetics, as well as to use their skills in critical thinking, logical reasoning, problem-solving, and systematic observations. Additionally, it would give students the opportunity to develop the ability to evaluate different types of sources and to differentiate between claims that are based on scientific and non-scientific foundations.
 
-----
+---- 
 
 ## Create Group Assignments
 
@@ -217,7 +217,7 @@ ChatGPT can create group assignments with specific conditions.
 
 > **Can you divide these 24 students into groups of 3-4 per group? I want Alice and Bob to be in different groups, and Isak and Jakob to be in the same group. Also, Lena + Viktor, Zara + Felix, and Emma + Malte should be in the same group.**
 >  
-> **\[List of 24 made-up names.\]**
+> **[List of 24 made-up names.]**
 >  
 > Here's a proposal for dividing the students into groups:
 >  

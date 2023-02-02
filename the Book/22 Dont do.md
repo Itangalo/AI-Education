@@ -24,12 +24,12 @@ It may be a bit tedious to say it again, but you always need to review and evalu
 > So the number of possible outcomes that lead to the desired result (two of the dice show the same number and the third is a different number) is 6 \* 5 \* 6 = 180.
 > 
 > The total number of possible outcomes is 6 \* 6 \* 6 = 216 (because there are 6 possible numbers for each die).
->
+> 
 > So the probability of rolling a pair with three dice is 180/216 = 1/6 or roughly 0.17.
 
 In the conversation above, ChatGPT expresses itself clearly and succinctly, and what it says is *incorrect*. (The chance of rolling a pair is over 40 percent.) When asked, ChatGPT can even justify its answer in a way that appears credible but is inconsistent and contains incorrect calculations. *What ChatGPT is good at is sounding like a mathematician, not being a mathematician.* This is an effect of ChatGPT's view of the world beginning and ending with text: It creates text that is consistent with how text typically looks -- and it doesn't have to be either logically consistent or accurate to the world we humans live in.
 
-A student left to learn from ChatGPT could fall into all sorts of foolishness. At best, the student will be confused by the foolishness and ask the teacher. But it is also fully possible that the student will learn inaccuracies, without you as a teacher even noticing when it happens, and that it will create difficulties later.
+A student left to learn from ChatGPT could encounter all sorts of foolishness. At best, the student will be confused by the foolishness and ask the teacher. But it is also fully possible that the student will build misconceptions, without you as a teacher even noticing when it happens, which will lead to later difficulties.
 
 This example concerns factual errors that are relatively easy to detect, but ChatGPT can throw much more hidden mistakes that can harm students in various ways. ChatGPT is *not* a teacher or instructor.
 
