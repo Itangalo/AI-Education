@@ -1,6 +1,6 @@
 # AI och skolan
 
-(For English, scrool down.)
+(For English, scroll down.)
 
 AI och skolan är en bok för lärare som är intresserade av att använda AI-tjänsten ChatGPT i sitt arbete. Boken innehåller dussintals exempel på hur man kan underlätta arbete, få inspiration och skapa material med hjälp av ChatGPT.
 
