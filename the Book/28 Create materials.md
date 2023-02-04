@@ -302,18 +302,20 @@ ChatGPT can save time by providing drafts of well-written standard messages that
 > 
 > Dear Admissions Committee,
 > 
-> I am writing to highly recommend Maria Andersson for your program at the University of Brighton. As her teacher for the past two years, I can confidently say that Maria is an exceptional student who consistently demonstrates a high level of skill and dedication in her studies.
+> I am writing to wholeheartedly recommend Maria Andersson for admission to the University of Brighton. I have had the privilege of teaching Maria for two years and can attest to her exceptional academic abilities and overall character.
 > 
-> Maria's greatest strength is her aptitude for chemistry. She consistently produces high-quality work and has a natural curiosity for the subject, often going above and beyond the requirements of the class. She is able to apply her knowledge to solve complex problems and is always willing to share her understanding with her classmates.
+> Maria is an extremely competent and meticulous student who consistently demonstrates a strong work ethic and dedication to her studies. She consistently produces high-quality work and is not afraid to take on challenging assignments. In particular, she excels in chemistry, displaying a deep understanding of complex concepts and the ability to apply this knowledge to practical situations.
 > 
-> In addition to her strong technical skills, Maria is also an excellent communicator. She is able to express herself clearly and effectively in written work, which is a valuable asset in any field. Her ability to convey her thoughts and ideas in a well-structured and logical manner is truly impressive.
+> In addition to her technical skills, Maria also possesses excellent writing abilities. She has a talent for expressing herself clearly and succinctly, making her arguments easy to understand and follow. Her written assignments are always well-structured, thoughtful, and insightful.
 > 
-> Furthermore, Maria is a dedicated and responsible student. She is always willing to go the extra mile to ensure that she fully understands the material and is quick to ask for help if she needs it. Her positive attitude and strong work ethic make her an asset to any academic setting.
+> Maria is also a respectful and responsible member of the classroom community. She actively participates in discussions, offering valuable contributions and always listens attentively to her peers. She has a positive attitude, is always willing to help others, and has made a lasting impact on her classmates and teachers.
 > 
-> I have no doubt that Maria will be an excellent candidate for the University of Brighton, and I wholeheartedly recommend her for your program. Please do not hesitate to contact me if you require any further information.
+> In conclusion, I strongly believe that Maria would be an asset to the University of Brighton and would make the most of the opportunities available to her. She has the potential to excel academically and contribute positively to the university community. I wholeheartedly recommend her for admission.
+> 
+> Please do not hesitate to contact me if you require any further information.
 > 
 > Sincerely,
-> [Your name]
+> [Your Name]
 
 [1]:	https://en.wikipedia.org/wiki/Organic_acid
 [2]:	https://en.wikipedia.org/wiki/Climate_change
