@@ -67,7 +67,7 @@ It's a big leap, but if we imagine that AI in the near future can do most things
 
 Expressed in prose: We will generally become worse at "by hand" understanding new things, do logical reasoning and draw conclusions when AI can do it for us, despite these things still being emphasized in education. On the other hand, most people will learn to use AI when complex reasoning is required or when learning new things. This will give more people the opportunity to feel that they understand many different topics – even if many cannot explain the reasoning and conclusions that their sense of understanding is based on, and also have a limited understanding of what it means that conclusions are well supported. When applied in large scale, AI technology can be used to reason and draw conclusions about many more things than a human can do in their lifetime, giving us new types of insights and knowledge areas to explore.
 
-# 14: AI and Security
+# 14: AI and Safety
 A book about AI should address risks of AI. Concerns that AI could seriously harm society, the world order, or even humanity are well-founded enough that many serious thinkers, researchers, and lobbyists are working to understand and reduce those risks.
 
 The risks of AI increase as AI becomes more competent. There are several types of risks, but three broad categories are:
