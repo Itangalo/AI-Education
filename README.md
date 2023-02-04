@@ -1,4 +1,7 @@
 # AI och skolan
+
+(For English, scrool down.)
+
 AI och skolan är en bok för lärare som är intresserade av att använda AI-tjänsten ChatGPT i sitt arbete. Boken innehåller dussintals exempel på hur man kan underlätta arbete, få inspiration och skapa material med hjälp av ChatGPT.
 
 Boken betonar att det är viktigt att använda sitt omdöme i hur och när ChatGPT används, och den beskriver fyra typer av AI-fällor att vara vaksam för: språkfel, faktafel, skeva perspektiv eller värderingar, samt oreflekterad pedagogik.
@@ -11,13 +14,11 @@ Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenska
 
 Skicka ett mail till [aiochskolan@falk.one](mailto:aiochskolan@falk.one?Subject=Meddela%20vid%20nya%20versioner%20av%20AI%20och%20skolan&Body=Jag%20vill%20veta%20n%C3%A4r%20det%20kommer%20nya%20versioner%20av%20boken.). Mailet går direkt till författaren, som inte kommer att använda adressen för spam.
 
-## Ladda hem boken här (v. 1.3)
+## Ladda hem boken här (v. 1.4)
 
-* Epub (zippad): [AI och skolan 2023-01-23 (20.08).epub.zip](https://github.com/Itangalo/AI-och-skolan/files/10482915/AI.och.skolan.2023-01-23.20.08.epub.zip)
-* Pdf: [AI och skolan 2023-01-23 (20.08).pdf](https://github.com/Itangalo/AI-och-skolan/files/10482916/AI.och.skolan.2023-01-23.20.08.pdf)
-* Word/docx (utan omslagsbild, kan finnas problem med fonter): [AI och skolan 2023-01-23 (20.08).docx](https://github.com/Itangalo/AI-och-skolan/files/10482913/AI.och.skolan.2023-01-23.20.08.docx)
-
-[ISBN 9798215304334](https://isbnsearch.org/isbn/9798215304334)
+* Epub (zippad): [AI och skolan (2023-02-04).epub.zip](https://github.com/Itangalo/AI-och-skolan/files/10609124/AI.och.skolan.2023-02-04.epub.zip)
+* Pdf: [AI och skolan (2023-02-04).pdf](https://github.com/Itangalo/AI-och-skolan/files/10609125/AI.och.skolan.2023-02-04.pdf)
+* Word/docx (utan omslagsbild, kan finnas problem med fonter): [AI och skolan (2023-02-04).docx](https://github.com/Itangalo/AI-och-skolan/files/10609123/AI.och.skolan.2023-02-04.docx)
 
 ## Ladda hem från e-bokhandel (v. 1.0)
 
@@ -35,8 +36,20 @@ Tack till Jonatan Tensetti som ordnat med AI-inläsning av boken! Boken är uppd
 * [AI och skola (AI-inläst, del 1).mp3.zip](https://github.com/Itangalo/AI-och-skolan/files/10581329/AI.och.skola.AI-inlast.del.1.mp3.zip)
 * [AI och skola (AI-inläst, del 2).mp3.zip](https://github.com/Itangalo/AI-och-skolan/files/10581330/AI.och.skola.AI-inlast.del.2.mp3.zip)
 
+# AI-Powered Productivity in Education: Harnessing the Potential of ChatGPT
 
-![Omslagsbild](https://user-images.githubusercontent.com/262940/213993430-e9175a69-bf5e-421c-b365-a7c4f906b854.png)
+*AI-Powered Productivity in Education* is a book for teachers interested in using the AI service ChatGPT to save time and improve quality of teaching. The book contains dozens of examples on how to simplify various tasks, get inspiration and create material using ChatGPT.
+
+The book underlines the importance of applying judgement in when and how to use ChatGPT. It describes four types of AI pitfalls to be wary of: language mistakes, factual errors, skewed perspectives and values, and unreflected pedagogics.
+
+The last part of the book gives some perspectives on AI, education and the future.
+
+Johan Falk works with education on a national level in Sweden. He is a former science journalist, web developer and teacher. *AI-Powered Productivity in Education* is updated regularly. You are welcome to suggest improvements and additions at the GitHub project page.
+
+
+![Omslagsbild](https://user-images.githubusercontent.com/262940/216779469-372d204b-7b41-4bed-aef3-1adc0dc607bf.png)
+![Cover image](https://user-images.githubusercontent.com/262940/216779472-acb302bb-7107-4d4e-8b36-7a8b8cee61e6.png)
+
 
 ![QR-kod med länk till projektsidan för boken.][image-1]
 
