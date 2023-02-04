@@ -37,7 +37,7 @@ Det här exemplet rör sakfel som är förhållandevis lätta att upptäcka, men
 ### Lita inte på ChatGPT:s hänvisningar till forskning
 Man ska inte lita på att det som ChatGPT svarar är korrekt faktamässigt, men man skulle kunna tro att en AI som läst stora delar av den text som fanns på internet 2021 kan ge förslag på forskningsartiklar att läsa – så att man får hjälp att hitta tillförlitliga källor.
 
-ChatGPT svarar glatt på sådana frågor, men de artiklar som nämns finns ofta inte. Ett bättre alternativ för att hitta forskning är till exempel [Google Scholar][2].
+ChatGPT svarar glatt på sådana frågor, men de artiklar som nämns finns ofta inte. Ett bättre alternativ för att hitta forskning är till exempel [Google Scholar][2]. (Det kan också vara värt att testa AI-tjänsten [typeset.io][3]!)
 
 Ingen av de artiklar som ChatGPT nämner nedan har gått att hitta.
 
@@ -57,3 +57,4 @@ Ingen av de artiklar som ChatGPT nämner nedan har gått att hitta.
 
 [1]:	https://openai.com/terms/
 [2]:	https://scholar.google.com/
+[3]:	https://typeset.io/

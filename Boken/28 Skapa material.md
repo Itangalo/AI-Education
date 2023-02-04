@@ -250,7 +250,6 @@ ChatGPT kan spara tid genom att ge utkast till standardmeddelanden som man änd�
 > * **Vi har arbetat vidare med årstidsträdet**
 > * **Barnen har lekt mycket med magnetbrickorna**
 > * **Nästa måndag stänger förskolan 15.45 på grund av APT**
-> * **Korta ner, sammanfatta eller göra texter mer engagerande**
 > 
 > Hej vänner,
 > Välkomna tillbaka efter en härlig julledighet! Vi hoppas att ni har haft en skön tid tillsammans med er familj. Vi på Ärtan är nu redo att ta emot er barn igen och fortsätta vår spännande resa tillsammans.
