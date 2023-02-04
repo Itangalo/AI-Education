@@ -36,11 +36,11 @@ You can’t rely on the accuracy of the information ChatGPT provides, but you mi
 
 ChatGPT cheerfully points to research articles, but the articles mentioned often do not exist. A better option for finding research is, for example, [Google Scholar][2]. (You might also want to try the AI service [typeset.io][3]!)
 
-None of the articles mentioned by ChatGPT below could be found.
+None of the articles mentioned by ChatGPT below could be found online.
 
-> **I would like to learn more about how I as a teacher can help students who feel anxious about giving oral presentations in front of the class. Can you suggest any research articles I can read?**
+> **I would like to learn more about how I as a teacher can help students who experience speech anxiety. Can you suggest any research articles I can read?**
 > 
-> Yes, I can give you some suggestions for research articles that can help you learn more about how to help students who feel anxious about giving oral presentations:
+> Yes, I can give you some suggestions for research articles that can help you learn more about how to help students who experience speech anxiety:
 > 1. "Preparing Students to Overcome Speech Anxiety: A Review of the Literature" by R. Scott Tannenbaum and Matthew J. Hertenstein. This article provides an overview of various methods that have been shown to be effective in helping students overcome speech anxiety.
 > 2. "Self-talk interventions in the classroom: A systematic review" by J. L. McCreary, M. H. Peters, L. L. Perry. This article investigates how teachers can help students use positive self-talk to increase their confidence in speaking.
 > 3. "Speech anxiety in the classroom: A review of the literature" by Scott Tannenbaum and Matthew J. Hertenstein. This article provides a detailed overview of various methods that have been shown to be effective in helping students overcome speech anxiety in the school environment.
