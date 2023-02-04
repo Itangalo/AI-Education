@@ -34,7 +34,7 @@ Repeat after me: _ChatGPT is not a teacher or instructor_.
 ### Don't Trust ChatGPT's References to Research
 You can’t rely on the accuracy of the information ChatGPT provides, but you might think that an AI that has read a large portion of the text on the internet in 2021 could suggest research articles to read — so that you yourself can read reliable sources.
 
-ChatGPT cheerfully points to research articles, but the articles mentioned often do not exist. A better option for finding research is, for example, [Google Scholar][2].
+ChatGPT cheerfully points to research articles, but the articles mentioned often do not exist. A better option for finding research is, for example, [Google Scholar][2]. (You might also want to try the AI service [typeset.io][3]!)
 
 None of the articles mentioned by ChatGPT below could be found.
 
@@ -55,3 +55,4 @@ None of the articles mentioned by ChatGPT below could be found.
 
 [1]:	https://openai.com/terms/
 [2]:	https://scholar.google.com/
+[3]:	https://typeset.io/
