@@ -46,6 +46,9 @@ The last part of the book gives some perspectives on AI, education and the futur
 
 Johan Falk works with education on a national level in Sweden. He is a former science journalist, web developer and teacher. *AI-Powered Productivity in Education* is updated regularly. You are welcome to suggest improvements and additions at the GitHub project page.
 
+* Download v. 1.4-beta as pdf: [AI-Powered Productivity in Education (2023-02-04 18.25).pdf](https://github.com/Itangalo/AI-och-skolan/files/10609240/AI-Powered.Productivity.in.Education.2023-02-04.18.25.pdf)
+* Download v. 1.4-beta as epub: [AI-Powered Productivity in Education (2023-02-04 18.25).epub.zip](https://github.com/Itangalo/AI-och-skolan/files/10609239/AI-Powered.Productivity.in.Education.2023-02-04.18.25.epub.zip)
+
 
 ![Omslagsbild](https://user-images.githubusercontent.com/262940/216779469-372d204b-7b41-4bed-aef3-1adc0dc607bf.png)
 ![Cover image](https://user-images.githubusercontent.com/262940/216779472-acb302bb-7107-4d4e-8b36-7a8b8cee61e6.png)
