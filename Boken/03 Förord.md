@@ -19,4 +19,4 @@ Johan skrev: ”Jag tror att det blir ’fallgropar’ för version 1.0. Men bok
 
 Med en tidskänsla av unikhet och dramatik önskar jag läsaren stimulerande tankar och dialoger utifrån bokens nuvarande innehåll.
 
-_Anette Jahnke, Göteborg 22-01-23_
+_Anette Jahnke, Göteborg 2023-01-22_
