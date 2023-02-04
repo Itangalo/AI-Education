@@ -1,102 +1,125 @@
 # 8: Professional Development and Personal Growth
 
 ## Summarize documents to find meaningful reading
-By pasting text masses and asking ChatGPT to summarize them, it is possible to get an idea of texts without having to read everything oneself. Of course, information is lost in such a summary, and there is a risk that ChatGPT misses or distorts essential aspects - but it also makes it possible to skim many more documents and choose one or a few texts to read in more detail.
+By pasting text masses and asking ChatGPT to summarize them, it is possible to get an idea of texts without having to read everything oneself. Of course, information is lost in such a summary, and there is a risk that ChatGPT misses or distorts essential aspects – but it also makes it possible to skim many more documents and choose one or a few texts to read in more detail.
 
-A limitation is that ChatGPT does not accept prompts that are longer than approximately 2000 words. With longer documents, they can be divided into several steps (see the tips at the end of chapter 3), but it can become impractical for really long texts, and it is likely that ChatGPT takes less account of things written far back in a chat conversation.
+A limitation is that ChatGPT does not accept prompts that are longer than approximately 2000 words. Longer documents can be divided into several steps (see the tips at the end of chapter 3), but it can become impractical for really long texts, and it appears likely that ChatGPT takes less account of things written far back in a chat conversation.
 
 **When reading the conversation, consider:**
 * Do you think ChatGPT's summary below is fair?
 * How should one weigh that ChatGPT simplifies and perhaps distorts content against the possibility of overviewing the content of more texts?
 * Feel free to let ChatGPT summarize a text you wrote yourself, a long email you received (without sensitive information), or a text you recently read. Do you think it captures the most important part of the text?
-* What happens if students use ChatGPT or similar tools to summarize texts in textbooks or other texts that belong to the teaching?
+* What would happen if students use ChatGPT or similar tools to summarize texts in textbooks or other texts that belong to the teaching?
 
 > **Can you summarize the text below?**
 > **[Copy of a text that served as the basis for this book.]**
 >  
-> The document is about how ChatGPT, an AI model trained to generate text and carry out a dialogue, can be used in school education. It mentions different ways to use ChatGPT in teaching, such as to get ideas for lesson planning or to get feedback on lesson plans, but also warnings that information from ChatGPT must always be reviewed and verified. The document also discusses what information, knowledge, and judgment are and how AI affects the role of teachers and schools. The document also provides examples of use that may be inappropriate and things that are not allowed to be done with ChatGPT in school education.
+> The document describes how ChatGPT, an AI model trained to generate text and carry out a dialogue, can be used in school education. It mentions different ways to use ChatGPT in teaching, such as to get ideas for lesson planning or to get feedback on lesson plans, but also warnings that information from ChatGPT must always be reviewed and verified. The document also discusses what information, knowledge, and judgment are and how AI affects the role of teachers and schools. The document also provides examples of use that may be inappropriate and things that are not allowed to be done with ChatGPT in school education.
 
-## Basis for Evaluations
-You don't have to use ChatGPT to get answers, but you can also use the AI to get good questions - or at least inspiration for good questions.
+## Drafts for Evaluations
+Instead of using ChatGPT to get answers, you can try using it for getting good questions – or at least inspiration for good questions.
 
 **When you read the conversation, consider:**
 * Do you think the questions would work for getting useful feedback from your own students?
-* To what extent do you think it is time-saving to get AI-created question drafts, compared to writing them from scratch yourself?
+* To what extent do you think it is time-saving to get AI-created drafts for evaluations, compared to writing them from scratch yourself?
 * How can you balance or combine AI-created evaluations with questions that address specific things you have done in the teaching?
 
-> **I am about to finish teaching a history class and I want to conduct a survey or similar to hear what they think worked well or less well in the teaching. Can you give suggestions for a number of questions that the students will not answer with just "good" or "don't know," and that will help me improve the teaching for next school year? This is for an 8th-grade class.**
->
-> Here are some suggestions for questions that can help you get more specific feedback from the students and improve the teaching for next school year:
-> 1. What part of the history subject did you find most interesting and why?
-> 2. What part of the history subject did you find most difficult and why?
-> 3. How did you feel I explained historical events and concepts? Was it easy to understand or was there anything you found difficult to understand?
-> 4. What methods of learning did you find worked best for you (e.g. discussions, group work, lectures)?
-> 5. Was there a specific task or activity that you felt was particularly valuable?
-> 6. Is there anything I could have done differently to make the teaching more interesting or valuable for you?
-> 7. Was there a specific time during the lesson when you felt most engaged and present?
-> 8. Can you give specific feedback on my teaching and explanations?
-> 9. Was there a historical event or person that you would like to learn more about?
-> 10. Was there anything else you would like to add or remove from the teaching?
->
-> It's important to remember that students can have different opinions and preferences, so it may be good to gather feedback from multiple sources and use it to create a more balanced and tailored teaching.
+> **I am about to finish teaching a history class and I want to conduct a survey to hear what they think worked well or less well in my teaching. Can you give suggestions for a number of questions that the students won’t answer with just "good" or "don't know," and that will help me improve the teaching for next school year? This is for an 8th-grade class.**
+> 
+> Sure! Here are some questions that may help you gather useful feedback:
+> 
+> 1. What topics were your favorite to learn about in this class and why?
+> 2. Was the pace of the class too fast or too slow? Why?
+> 3. What methods of teaching helped you understand the material best (e.g. lectures, discussions, group projects, etc.)?
+> 4. Was there anything that you struggled to understand? Can you give an example?
+> 5. Were the class assignments and assessments helpful in reinforcing what you learned? Why or why not?
+> 6. How could the class be improved for next year?
+> 7. Were there any aspects of the class that you found particularly engaging or interesting?
+> 8. Was there anything you would have liked to learn more about in this class?
+> 9. Were the class materials (textbook, videos, etc.) helpful in understanding the subject matter?
+> 10. Are there any suggestions you have for making the class more interactive or hands-on?
+> 
+> Note that it's important to let the students know that their feedback is valued and that their answers will be kept confidential. This may encourage them to be more honest and thoughtful in their responses.
 
-## Develop Collaborative Learning Forms
-Even though ChatGPT can provide inspiration for teaching, it is often more rewarding to discuss teaching with flesh-and-blood people. ChatGPT can suggest how it can be done.
+## Develop Forms for Collaborative Learning
+Even though ChatGPT can provide inspiration for teaching, it is often more rewarding to discuss teaching with people in meat space. ChatGPT can provide suggestions for this, too.
 
 **When reading the conversations, consider:**
-* Can the suggestions be useful at your school?
+* Could the suggestions be useful at your school?
 * What follow-up questions would you like to ask, with details about the conditions at your school?
 
 > **Can you give five suggestions on how the faculty at my elementary school can establish routines for discussing and sharing examples of how we teach, so that we can develop our work?**
 > 
-> 1. Create a regular weekly meeting where teachers come together to discuss teaching and share examples of what has worked and what hasn't in the classroom.
-> 2. Organize a mentorship program where experienced teachers act as mentors for new teachers and help to share knowledge and experiences.
-> 3. Use a common digital tool, such as a wiki page, where teachers can share materials and ideas with each other.
-> 4. Arrange regular "lesson studies" where teachers together plan, implement, and reflect on a lesson.
-> 5. Organize training and workshops where teachers can learn about new methods and techniques for improving teaching.
+> 1. Schedule regular meetings: Establish a regular meeting schedule for faculty to come together and discuss teaching strategies, best practices, and share examples.
+> 2. Create a discussion forum: Encourage the use of online discussion forums or groups where faculty can share and exchange ideas, resources and best practices with each other.
+> 3. Foster a culture of collaboration: Encourage teachers to work together on projects and assignments, allowing them to share their teaching methods and learn from one another.
+> 4. Use technology: Utilize technology such as videoconferencing, screen sharing and collaborative documents to facilitate discussions and share examples of teaching practices.
+> 5. Encourage reflection: Encourage faculty to reflect on their teaching practices and engage in regular self-assessment. Provide opportunities for teachers to observe one another's classrooms and give feedback, promoting a culture of continuous learning and improvement.
 
-----
+---- 
 
-> **Can you suggest how teachers and school management at my school can create common goals for teaching, which we can really work towards? It is a high school with approximately 50 teachers, a principal, and an assistant principal. Teachers have experienced that school management is not engaged in improving the quality of teaching.**
->
-> There are several ways to create common goals for teaching at a school. Here are some suggestions:
-> 1. Create a common vision and goal for the school. This should involve both teachers, school management and students. The goals should be clear, measurable and relevant.
-> 2. Develop a common teaching plan. This should include a common framework for assessment and a common curriculum plan.
-> 3. Involve teachers in the development of common goals. Teachers should be given the opportunity to participate in various working groups to develop common goals and strategies.
-> 4. Create a culture of continuous improvement. The school should have regular evaluations and feedback to monitor progress towards common goals.
-> 5. Create a communication channel for teachers and school management to collaborate and exchange ideas and experiences.
-> 6. Create a common goal for students as well and work together to achieve it.
->
-> It is important for school management to take an active role in creating a culture of quality improvement and to involve all teachers in the process. School management should also be open and responsive to teachers' opinions and suggestions.
+> **Can you suggest ideas on how teachers and school management at my school can create common goals for teaching, which we actually can work towards? It is a high school with approximately 50 teachers, a principal, and an assistant principal. Teachers feel that school management is not engaged in improving the quality of teaching.**
+> 
+> Sure, here are some ideas that can help create common goals for teaching at your high school:
+> 
+> 1. Conduct a survey: Ask teachers and school management to identify areas where they feel the school needs improvement.
+> 2. Hold focus groups: Gather teachers and school management to discuss their thoughts and ideas on common goals.
+> 3. Set clear and realistic goals: Make sure the goals are specific, measurable, achievable, relevant, and time-bound (SMART) so everyone can work towards them.
+> 4. Encourage collaboration: Foster a culture of teamwork and open communication between teachers and school management.
+> 5. Establish regular check-ins: Schedule regular meetings to assess progress towards the common goals and make necessary adjustments.
+> 6. Reward progress: Recognize and reward progress towards the common goals, which can encourage continued effort.
+> 7. Foster a culture of continuous improvement: Encourage teachers and school management to continuously strive for better outcomes and to be open to constructive feedback.
+> 8. Involve the whole school community: Encourage students, parents, and other stakeholders to participate in the goal-setting process and engage with the common goals.
+> 9. Keep the goals aligned with the school's mission and vision: Make sure that the common goals align with the overall purpose of the school and support the school's mission and vision.
 
-## Develop Writing Skills with Coaching
-ChatGPT can provide feedback on texts, thereby giving ideas on how to become a better writer. This method is suitable for teachers, not students, as it requires competence in reacting to the suggestions given by AI (as not all suggestions are necessarily successful or worth putting much effort into).
+## ChatGPT as Writing Coach
+ChatGPT can provide feedback on texts, thereby giving ideas on how to become a better writer. This method is primarily suitable for teachers, not students, as it requires assessing the suggestions given by AI (as not all suggestions are necessarily successful or worth putting much effort into).
 
-Note that this usage aims to develop writing skills, not primarily to get a well-written text. The focus is therefore on the feedback and its usefulness.
+Note that this example for using ChatGPT aims to develop writing skills, not primarily to get a well-written text. The focus is therefore on the feedback and its usefulness.
 
 **When reading the conversation, consider:**
 * Does ChatGPT provide meaningful feedback to develop the language in the article?
 * Would you like to have coaching from an AI yourself? Why or why not?
 * Are there other areas related to your work that you think ChatGPT could serve as a coach?
 
-> **Below is a debate article. Can you suggest how it can be developed, language-wise?**
-> **\[Embedded text from [https://www.expressen.se/debatt/ai-botten-skriver-battre-an-de-flesta-skolelever/][1] (news article in Swedish)\]**
+> **Below is a text I’ve written on the background of ChatGPT. Can you give me suggestions on how I can improve my writing style?**
+> **[Embedded text from chapter 12.]**
 >  
-> Suggestions for developing the debate article:
-> 1. Develop the arguments: Why do you think the school is unprepared for this paradigm shift and why is this a problem? Can you provide examples of how the chatbot could negatively impact teaching and student learning?
-> 2. Explore counterarguments: What do others say about the chatbot and its capabilities? Can it never replace a human writer? How can the school use the chatbot positively in teaching?
-> 3. Provide solutions: What do you think should be done to handle this problem? Can the school and other stakeholders prepare for the chatbot and other technological challenges in any way?
-> 4. Develop the paragraph structure: Try to create a clear structure in the paragraph by using different sections and paragraph divisions. It may also be helpful to use different types of transitions between different ideas and arguments.
-> 5. Improve the language: Try to vary your word choice and use different constructions to make the paragraph more readable and interesting. Avoid repetition and aim to avoid clichés and banal expressions.
+> Here are some suggestions to improve your writing style:
 > 
-> **Thank you. Can you provide some concrete suggestions regarding suggestion four?**
->
-> To develop the structure of the section and make it more readable and interesting, you can try using different types of paragraph breaks and sections. Here are some suggestions for different paragraph breaks and transitions that you can use:
-> 1. Use different paragraph breaks: Try to divide the section into different sections that focus on different aspects of the subject. This makes it easier for the reader to follow the text and get a good overview of your various arguments.
-> 2. Use transitions: Transitions help to connect different paragraphs and sections and can make the text more fluid and readable. Examples of transitions are "also," "in connection with this," "in contrast to," and "besides."
-> 3. Use headings and subheadings: Headings and subheadings help to give an overview of the text and make it easier for the reader to navigate the text. They can also contribute to making the text more visually appealing.
-> 4. Vary the length of the paragraphs: Try to vary the length of the paragraphs to make the text more interesting and readable. Long paragraphs can be difficult to follow, so try to avoid writing too long paragraphs.
-> 5. Use paragraph breaks to highlight important information: By dividing the section into different sections, you can highlight important information and make it easier for the reader to find the most important points in the text.
+> Strengths:
+> 
+> * You provide a clear explanation of the background of ChatGPT and its AI model, GPT-3.5.
+> * You mention relevant details such as the number of users, the development of AI for images, and the comparison of ChatGPT with other AI services.
+> * You give a sense of the value of large AI models, their development process, and the companies involved.
+> 
+> Weaknesses:
+> 
+> * Your writing is often repetitive and lacks variety in sentence structure.
+> * The language can be dense and technical, making it difficult for the reader to follow.
+> * You include several parenthetical statements, which can be disruptive to the flow of the text.
+> * You could benefit from providing more context or background information on terms and concepts that are not commonly known to the reader.
+> 
+> General suggestions:
+> 
+> * Consider using shorter, simpler sentences to make the information more accessible.
+> * Try to use descriptive language and avoid excessive use of technical terms.
+> * Use subheadings, bullet points, or other formatting elements to break up the text and make it easier to follow.
+> * Consider rearranging the information to build a more cohesive narrative.
+> * Use concrete examples to illustrate key concepts, making them more memorable and easier to understand.
+> 
+> ** Thanks! (I think.) Do you have any suggestions for how I can become better at using a more varied sentence structure?**
+> 
+> Certainly! Here are some tips to help you use a more varied sentence structure:
+> 
+> 1. Mix short and long sentences: Alternate between short, simple sentences and longer, more complex ones to maintain reader engagement and interest.
+> 2. Use different sentence starters: Start sentences with different words and phrases, such as clauses, prepositional phrases, and gerunds, to add variety and interest.
+> 3. Vary sentence length: Avoid using only one type of sentence length. Experiment with varying the length of your sentences to add rhythm and interest.
+> 4. Use active voice: Write in the active voice rather than passive voice, as it makes sentences livelier and more engaging.
+> 5. Experiment with sentence structures: Play with sentence structures, such as compound, complex, and compound-complex sentences, to add variety and interest.
+> 6. Read widely: Read different types of writing to become familiar with different sentence structures and techniques.
+> 7. Practice writing: Practice writing in different styles, using a variety of sentence structures, to help you develop your own style and become more confident with using a varied sentence structure.
+> 8. Get feedback: Share your writing with others and seek feedback on how to improve your sentence structure. This can help you identify areas for improvement and develop your skills over time.
 
 ## Technical Tools and How to Use Them
 ChatGPT can provide suggestions on how to perform tricky or uncommon tasks and can also provide guidance on navigating well-known programs to get the job done.
@@ -113,7 +136,7 @@ ChatGPT can provide suggestions on how to perform tricky or uncommon tasks and c
 > 5. Feedback Studio from Turnitin: Easy to use, provides the ability to add comments, draw, create headings, mark and comment on text and images.
 > 6. If there is no program or app that suits you, you can also provide feedback the traditional way, write it down on paper or write it down in a regular word processing program.
 
-----
+---- 
 
 > **Me and my colleagues work together on a number of documents, which we email to each other when we make updates. It becomes difficult to know which is the latest version and we have several times lost changes that someone has made. Can you suggest any other method for collaborating on documents?**
 >  
@@ -128,7 +151,7 @@ ChatGPT can provide suggestions on how to perform tricky or uncommon tasks and c
 > 4. Use a shared editing tool: There are a number of tools that offer real-time editing of documents with multiple users, such as Etherpad, OnlyOffice.
 > 5. Use a shared calendar tool: There are a number of tools that offer the ability to create and share calendars with multiple users. This makes it possible for everyone in the group to see when a document is due and who is responsible for what.
 
-----
+---- 
 
 > **How do I share my Outlook calendar with someone outside of our school?**
 > 
@@ -140,12 +163,12 @@ ChatGPT can provide suggestions on how to perform tricky or uncommon tasks and c
 > 
 > Note that there may be different calendar sharing settings, depending on your organization, so there may be additional steps or the option may not be available. Contact your IT department for more information on how to share your calendar.
 
-----
+---- 
 
 > **Do you have suggestions for programs that can be used to convert handwritten mathematical text to computer text?**
 > Yes, there are a number of programs that can convert handwritten mathematical text to computer text. One example is MyScript Calculator, which is an app that can convert handwritten mathematical expressions to digital text and then solve them. You can also try Mathpix Snip, which is a screenshot service that can convert screenshots of mathematical expressions to digital text. Other options include Graphical User Interface (GUI) based tools like Mathematica and Maple, both of which have features for solving and visualizing mathematical problems.
 
-----
+---- 
 
 > **How can I analyze an mp3 file with music to find the most common frequencies in the song?**
 > There are different ways to analyze an MP3 file to find the most common frequencies in the song. One way to do this is to use a computer software that is specifically designed to analyze sound files. Many such programs can be downloaded for free from the internet, and most of them provide a visual representation of the sound spectrum in the form of a color-coded diagram or a spectrum diagram. You can also use a sound editing program such as Audacity to analyze the sound file. In Audacity, you can use the "Analyze \> Plot Spectrum" tool to get a visualization of the frequency distribution in the song.
@@ -153,7 +176,7 @@ ChatGPT can provide suggestions on how to perform tricky or uncommon tasks and c
 > Regardless of which way you choose to analyze the song, you will be able to see which frequencies are most common in the song and how they are distributed over the different parts of the song. You can also see if there are any special frequencies or tones that recur throughout the song. By analyzing the song in this way, you can get a deeper understanding of how the song is built and what elements give it its character.
 
 ## Encourage and Motivate Yourself
-Even in teaching, one may occasionally need some extra encouragement and motivation that wavers. ChatGPT can, to some extent, help here as well. (In the second example, the prompt is a modification of a prompt on the prompts.chat [prompts.chat][2] page.)
+Even in teaching, one may occasionally need some extra encouragement and motivation that wavers. ChatGPT can, to some extent, help here as well. (In the second example, the prompt is a modification of a prompt on the prompts.chat [prompts.chat][1] page.)
 
 **As you read the conversations, consider:**
 * Does ChatGPT provide meaningful encouragement? Would you benefit from similar encouragement?
@@ -187,5 +210,4 @@ Even in teaching, one may occasionally need some extra encouragement and motivat
 > 7. Lastly, try to focus on the progress you've made so far and remember that every exam you mark is one step closer to completing the task.
 > Remember, motivation and energy can fluctuate, but you have the power to control your thoughts and actions. You can do this!
 
-[1]:	https://www.expressen.se/debatt/ai-botten-skriver-battre-an-de-flesta-skolelever/
-[2]:	https://prompts.chat/#act-as-a-motivational-coach
+[1]:	https://prompts.chat/#act-as-a-motivational-coach
