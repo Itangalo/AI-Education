@@ -87,13 +87,13 @@ De allra flesta tips och idéer i den här boken utgår från att det är lärar
 
 # 3: Så kommer du igång med ChatGPT
 
-ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com][2]). Konto är gratis, och än så länge är det också gratis att använda ChatGPT. [Användarvillkoren för OpenAI-konton][3] säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com][4] och börja använda ChatGPT.
+ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com][2]). Konto är gratis, och än så länge är det också gratis att använda ChatGPT. (Den 1 februari introducerades en betalversion i USA, men gratisversionen är fortsatt tillgänglig.[^2]) [Användarvillkoren för OpenAI-konton][4] säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com][5] och börja använda ChatGPT.
 
 ![Gränssnittet för ChatGPT, med de viktigaste elementen markerade 1–3.][image-1]
 
 De viktigaste delarna av chattfönstret är (1) fönstret för att skriva input till ChatGPT – ofta kallat en “prompt”, (2) historik över tidigare chattar, och (3) knappen för att starta nya chattrådar. Om den valda chattråden är tom, som på bilden ovan, visas en sammanfattning av några av de viktigaste egenskaperna för ChatGPT.
 
-När du skriver något till ChatGPT dyker konversationen upp i huvuddelen av fönstret. Svaret från ChatGPT växer fram ord för ord, och om tjänsten är tungt belastad kan det ta några sekunder innan texten dyker upp. Chatten sparas i vänsterspalten och får automatiskt en rubrik baserat på innehållet.
+När du skriver något till ChatGPT dyker konversationen upp i huvuddelen av fönstret. Svaret från ChatGPT växer fram ord för ord, och om tjänsten är tungt belastad kan det ta några sekunder innan texten dyker upp. (Vid riktigt hög belastning kan du få ett felmeddelande – i de lägena kan du ladda om sidan och försöka igen.) Chatten sparas i vänsterspalten och får automatiskt en rubrik baserat på innehållet.
 
 ![Gränssnittet för ChatGPT, så som det ser ut när en konversation är igång.][image-2]
 
@@ -113,9 +113,9 @@ Att chatta med ChatGPT är på många sätt naturligt – du skriver som du skul
 * Uppföljningsfrågor är också mycket användbara för att precisera vad man vill få ut av svaren, eller be ChatGPT utveckla delar av svar som är intressanta.
 * En del experimenterar med långa beskrivningar av hur man vill att ChatGPT ska bete sig. Sådana beskrivningar avslutas ofta med något i stil med “bekräfta att detta är uppfattat genom att svara ‘ok’”, och de egentliga frågeställningarna eller uppmaningarna postas i nästa steg i konversationen.
 * Om du vill ha svar i något särskilt format, så som punktlista, tabell, eller en kommaseparerad lista – be ChatGPT svara i den formen. ChatGPT kan ibland också svara i format som går att importera direkt till vissa program. Du kan också be ChatGPT skriva om svar som den redan lämnat till en ny form.
-* Om du upplever att ChatGPT är långsamt eller begränsande kan du testa att växla till OpenAI Playground på [beta.openai.com/playground][5]. Där kan du använda ett mer flexibelt (men också mer komplext) gränssnitt för att generera AI-texter.
+* Om du upplever att ChatGPT är långsamt eller begränsande kan du testa att växla till OpenAI Playground på [beta.openai.com/playground][6]. Där kan du använda ett mer flexibelt (men också mer komplext) gränssnitt för att generera AI-texter.
 
-Det är bra att känna till att det finns en gräns för hur långa meddelandena till ChatGPT får vara, på knappt två tusen ord eller 7–10 sidor[^2]. Om du vill ge ChatGPT längre texter än så kan du testa att dela upp texten, och exempelvis ge ChatGPT instruktionen “Jag kommer att ge dig en lång text uppdelad i flera delar. Här kommer del 1. Svara ‘ok’ när du är klar.”
+Det är bra att känna till att det finns en gräns för hur långa meddelandena till ChatGPT får vara, på knappt två tusen ord eller 7–10 sidor[^3]. Om du vill ge ChatGPT längre texter än så kan du testa att dela upp texten, och exempelvis ge ChatGPT instruktionen “Jag kommer att ge dig en lång text uppdelad i flera delar. Här kommer del 1. Svara ‘ok’ när du är klar.”
 
 ChatGPT lägger som mest en och en halv minut på att ge svar, vilket gör att långa svar kan brytas mitt i. I sådana lägen kan du exempelvis skriva “Kan du fortsätta på förra svaret och avsluta det?” eller bara ”fortsätt”, eller ändra frågan så att ChatGPT kan svara på mindre delar i taget.
 
@@ -128,14 +128,17 @@ På nätet finns samlingar med prompter som folk funnit särskilt användbara. D
 
 [^1]:	BBC Tech Tent, 2022-12-09: [https://www.bbc.co.uk/programmes/w3ct4khv][1]
 
-[^2]:	[https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them][6]
+[^2]:	[https://openai.com/blog/chatgpt-plus/][3]
+
+[^3]:	[https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them][7]
 
 [1]:	https://www.bbc.co.uk/programmes/w3ct4khv
 [2]:	https://beta.openai.com/
-[3]:	https://openai.com/terms/
-[4]:	https://chat.openai.com/
-[5]:	https://beta.openai.com/playground
-[6]:	https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them
+[3]:	https://openai.com/blog/chatgpt-plus/
+[4]:	https://openai.com/terms/
+[5]:	https://chat.openai.com/
+[6]:	https://beta.openai.com/playground
+[7]:	https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them
 
 [image-1]:	https://user-images.githubusercontent.com/262940/212463937-050069cb-ad3a-4e64-a212-a266b4d973b1.png
 [image-2]:	https://user-images.githubusercontent.com/262940/212463940-7cf40758-8d33-4520-8b8e-8b3cd80134c7.png
