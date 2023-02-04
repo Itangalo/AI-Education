@@ -209,7 +209,7 @@ ChatGPT's breadth of information can be useful for generating whole lists of ide
 
 ---- 
 
-## Create Randomized Group
+## Create Randomized Groups
 
 ChatGPT can create (somewhat) randomized groups fulfilling specific requirements.
 

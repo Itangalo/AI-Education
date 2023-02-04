@@ -1,7 +1,7 @@
 # 10: Miscellaneous
 In this chapter, there are some more specific or unusual examples of what ChatGPT can be used for by a teacher.
 
-## Friendly and well-written comments
+## Friendly and Well-Written Comments
 When grading essays or other texts, it can be helpful to not have to think about phrasing things kindly and neatly, in order to work faster. It's possible to let ChatGPT worry about selecting the right words.
 
 **When reading the conversation, consider:**

@@ -1,12 +1,12 @@
 # 4: Things You Should Not Do
 
-### Do not disclose personal information or other sensitive information
+### Do not Disclose Personal Information or other Sensitive Information
 The text written to ChatGPT is sent to servers elsewhere and handled in ways that you do not have control over. This means that no personal information for students or other sensitive information should be given to ChatGPT.
 
-### Do not tell minors to create an OpenAI account
+### Do not Tell Minors to Create an OpenAI Account
 The terms for creating an account with OpenAI, which owns ChatGPT, require that you are at least 18 years old. (See [openai.com/terms][1]). Encouraging students under 18 years of age to obtain an account is therefore inappropriate. For students who are 18 years of age or older, you need to consider what is appropriate when it comes to creating accounts for online services, and it is worth checking if your school has any policy on this.
 
-### Do not use messages from ChatGPT without first reviewing them
+### Do not Use Messages from ChatGPT without First Reviewing Them
 It sounds a bit repetitive, but you always need to review and evaluate texts from ChatGPT before they reach your students. In particular, you should not use ChatGPT as an extra teacher, explaining things to students without you as the teacher verifying that what ChatGPT says is okay. The example below can make it clear why this is inappropriate.
 
 > ** What is the probability of rolling a pair with three dice?**

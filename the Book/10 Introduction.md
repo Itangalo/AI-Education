@@ -6,7 +6,7 @@ At first glance, ChatGPT is a chat window where you type messages to a chatbot, 
 
 ChatGPT is powered by an AI model that has been trained on large parts of the text that was available on the internet until 2021. It's more text than a human could read in a lifetime – actually so much that it would require 57 billion human lifetimes to read through it all.[^1] The text is the starting point for the answers that ChatGPT provides, but the answers are not looked up or copied from what the AI model has read. Instead, the text mass has been used to distill patterns for how text and words tend to be related. Based on this, ChatGPT makes guesses on which words would fit well together, and the same question will often result in slightly different answers if asked multiple times. (More information about ChatGPT can be found in Chapter 12.)
 
-This book contains many excerpts from conversations with ChatGPT. Most of them were originally in Swedish and have been translated to English, but still show what conversations with ChatGPT look like. The bold text is the question (the "prompt") from the user, the rest is the AI's response. In some cases, the text has been lightly edited for better formatting in book form, and in some cases, larger amounts of text in the question have been replaced by a short description within square brackets.
+This book contains many excerpts from conversations with ChatGPT. A few of them were originally in Swedish and have been translated to English, but still show what conversations with ChatGPT look like. The rest are direct quotes from ChatGPT conversations. The bold text is the question (the "prompt") from the user, the rest is the AI's response. In some cases, the text has been lightly edited for better formatting in book form, and in some cases, larger amounts of text in the question have been replaced by a short description within square brackets.
 
 ---- 
 
@@ -71,7 +71,7 @@ ChatGPT's versatility and impressive ability to create objective-sounding, clear
 
 These types of mistakes are not unique to ChatGPT, and can occur even without the help of technology. And a teacher who has never fallen into these pitfalls probably has not taught at all – and it must be okay to make mistakes. But those who keep the four AI pitfalls in mind will probably find it easier to avoid them.
 
-## Inappropriate messages
+## Inappropriate Messages
 
 ChatGPT has filters for certain types of messages and language. If you try to get ChatGPT to tell you how to make bombs, mix methamphetamine, or if you want suggestions on how to harass, abuse or torture someone, ChatGPT will respond by saying that it violates its policy to answer. The same applies, for example, to giving medical advice.
 
@@ -85,7 +85,7 @@ Most of the tips and ideas in this book assume that it is the teacher who is usi
 2. Can you come up with additional categories of AI pitfalls?
 3. Review the conversation in chapter 1 again and consider where there may be AI pitfalls.
 
-# 3: Getting started with ChatGPT
+# 3: Getting Started with ChatGPT
 
 ChatGPT was created and is operated by the company OpenAI. To use ChatGPT, you need an account on OpenAI, which you can arrange through the OpenAI website (e.g., [beta.openai.com][2]). The account is free, and while a paid service recently became available in the US [^2], there are also a free service available. [OpenAI account terms of use][4] state that you must be at least 18 years old. The email address you provide must be confirmed through an email sent to that address, and then you are ready to go to [chat.openai.com][5] and start using ChatGPT.
 
@@ -101,7 +101,7 @@ If you hover over your message to ChatGPT, an icon to edit the question appears,
 
 There is no built-in way to export text from conversations. It's common to either manually mark and copy text or take screenshots, but if you use ChatGPT frequently, you may want to consider installing a plugin in your web browser that makes it easier to copy text.
 
-## Some tips when chatting with ChatGPT
+## Some Tips when Chatting with ChatGPT
 Chatting with ChatGPT is natural in many ways - you write as you would to a person. The most common ways are probably to ask short questions or to prompt ChatGPT to write something specific, and follow it up with further questions, prompts or adjustments. Some methods and tricks that may be less natural may also be good to know:
 
 * If you press enter in the chat box, the message will be sent to ChatGPT. With shift + enter, you have the ability to create line breaks without sending the message.

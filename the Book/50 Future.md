@@ -17,7 +17,7 @@ OpenAI is likely to release its follow-up, GPT-4, in 2023. Rumors about how many
 
 OpenAI started as a non-profit company, with a strong focus on making AI accessible to many. When Microsoft entered the company in 2019, OpenAI became for-profit. The trial version of ChatGPT is free, and each ChatGPT conversation is said to cost ”single-digit cents" in calculations[^9]. On February 1st [ChatGPT Plus][8] was introduced for the US market – a paid subscription that gives faster and more reliable response times, as well as priority access to new features and improvements.
 
-# 13: How does this affect our view of knowledge?
+# 13: How Does this Affect Our Ciew of Knowledge?
 There are clear gaps in ChatGPT's knowledge, and it can be amusingly confident even when it's wrong. At the same time, it's also clear that many are amazed by what the AI can do, and that computers have taken yet another step into the area that we thought was reserved for humans.
 
 What does technology like this mean for our view of knowledge?

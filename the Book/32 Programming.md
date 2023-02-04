@@ -65,7 +65,7 @@ ChatGPT is also surprisingly good at finding and fixing bugs in code, which can 
 > 	}
 > With these changes, you should get the expected output with one log for each iteration in the loop with the correct value of `i`.
 
-## Create code for specific tasks
+## Create Code for Specific Tasks
 If programming isn’t just a part of your subjects, but you actually teach programming as a subject of its own, ChatGPT can be used to create code snippets for a range of different areas.
 
 **When reading the conversation, consider:**
@@ -89,7 +89,7 @@ If programming isn’t just a part of your subjects, but you actually teach prog
 > 	print(f'The number of words on the page is {word_count}')
 > Note that this program only works for English Wikipedia pages. To use it on another language version of Wikipedia, change the URL address in line 8 to the appropriate language version.
 
-## Find exceptions you missed in the code
+## Find Exceptions You Missed in the Code
 ChatGPT can analyze code and in many cases find different ways that the program can break.
 
 **When reading the conversation, think about:**
@@ -152,7 +152,7 @@ Creating well-commented code makes it easier to read, both for teachers and stud
 	def count_words_on_wikipedia_page(page_name):
 	  # Create the URL for the Wikipedia page by combining the base URL and the page name
 	  url = f'https://en.wikipedia.org/wiki/{page_name}'
-	  
+	
 	  # Make an HTTP GET request to the URL and store the response in a variable
 	  page = requests.get(url)
 	
@@ -176,4 +176,4 @@ Creating well-commented code makes it easier to read, both for teachers and stud
 	
 	# Print the result
 	print(f'The number of words on the page is {word_count}')
-	
+

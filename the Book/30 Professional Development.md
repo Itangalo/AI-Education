@@ -1,6 +1,6 @@
 # 8: Professional Development and Personal Growth
 
-## Summarize documents to find meaningful reading
+## Summarize Documents to Prioritize Reading
 By pasting text masses and asking ChatGPT to summarize them, it is possible to get an idea of texts without having to read everything oneself. Of course, information is lost in such a summary, and there is a risk that ChatGPT misses or distorts essential aspects – but it also makes it possible to skim many more documents and choose one or a few texts to read in more detail.
 
 A limitation is that ChatGPT does not accept prompts that are longer than approximately 2000 words. Longer documents can be divided into several steps (see the tips at the end of chapter 3), but it can become impractical for really long texts, and it appears likely that ChatGPT takes less account of things written far back in a chat conversation.
@@ -217,6 +217,7 @@ Even in teaching, one may occasionally need some extra encouragement. ChatGPT ca
 > You've got this! Keep up the fantastic work."
 
 ---- 
+
 > **I want you to act as a motivational coach. I will provide you with some information about someone’s goals and challenges, and it will be your job to come up with strategies that can help this person achieve their goals. This could involve providing positive affirmations, giving helpful advice or suggesting activities they can do to reach their end goal. My first request is “I need help motivating myself to stay disciplined while marking a large number of exams”.**
 > 
 > Here are some strategies that may help you stay motivated and disciplined while marking a large number of exams:
