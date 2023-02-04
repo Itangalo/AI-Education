@@ -79,23 +79,25 @@ Notera att den här användningen syftar till att utveckla skrivförmågan – i
 * Skulle du själv vilja ha coachning från en AI? Varför, eller varför inte?
 * Finns det andra områden relaterat till ditt arbete där du tror att ChatGPT skulle kunna fungera som coach?
 
-> **Nedan finns en debattartikel. Kan du ge förslag på hur den kan utvecklas, språkligt?**
-> **[Inklistrad text från [https://www.expressen.se/debatt/ai-botten-skriver-battre-an-de-flesta-skolelever/][1]]**
+> ** Nedan är en text jag skrivit som ger en bakgrund till ChatGPT. Kan du ge förslag på hur jag kan utveckla min skrivförmåga? Jag vill veta generella styrkor och svagheter i mitt sätt att skriva, inte hur jag kan förbättra just den här texten.**
+> **[Inklistrad text från kapitel 12.]**
 >  
-> Förslag på utveckling av debattartikeln:
-> 1. Utveckla argumenten: Varför tror du att skolan är oförberedd på detta paradigmskifte och varför är detta ett problem? Kan du ge exempel på hur chatbotten kan påverka undervisningen och elevernas lärande negativt?
-> 2. Utforska motargumenten: Vad säger andra om chatbotten och dess förmågor? Kan den verkligen aldrig ersätta en mänsklig skribent? Hur kan skolan använda chatbotten på ett positivt sätt i undervisningen?
-> 3. Ge förslag på lösningar: Vad tror du ska göras för att hantera detta problem? Kan skolan och andra aktörer förbereda sig på chatbotten och andra teknologiska utmaningar på något sätt?
-> 4. Utveckla styckets struktur: Försök att skapa en tydlig struktur i stycket genom att använda olika avsnitt och styckeindelningar. Det kan också vara bra att använda olika typer av övergångar mellan olika idéer och argument.
-> 5. Förbättra språket: Försök att variera ordvalet och använd olika konstruktioner för att göra stycket mer lättläst och intressant. Tänk på att undvika upprepningar och försök att undvika klichéer och banala uttryck.
+> Generellt sett har du en bra förståelse för ämnet och har presenterat informationen på ett organiserat och sammanhängande sätt. Följande är några saker du kan fokusera på för att utveckla din skrivförmåga:
+> 1. Korta och koncisa meningar: Försök att undvika långa, komplexa meningar och förenkla ditt språk så mycket som möjligt.
+> 2. Var försiktig med fotnoter: Fotnoter kan bli förvirrande för läsaren och bryta flyten i texten. Försök att inkludera all information direkt i texten istället.
+> 3. Förtydliga facktermer: Om du använder facktermer, se till att förklara vad de betyder så att även en oinvigd läsare förstår.
+> 4. Förbättra övergångarna: Förbättra övergångarna mellan avsnitten för att hålla samman texten och hjälpa läsaren att följa med i din tänkte.
+> 5. Utforska ditt ämne: Du har en bra förståelse för ChatGPT och AI, men det kan vara bra att fördjupa din kunskap ytterligare för att förstå ämnet ännu bättre och kunna skriva mer utförligt och detaljerat.
 > 
-> **Tack. Kan du ge några konkreta förslag vad gäller förslag fyra?**
-> För att utveckla styckets struktur och göra det mer lättläst och intressant kan du försöka använda olika typer av styckeindelningar och avsnitt. Här är några förslag på olika styckeindelningar och övergångar som du kan använda:
-> 1. Använd olika styckeindelningar: Försök att dela upp stycket i olika avsnitt som fokuserar på olika aspekter av ämnet. Detta gör det lättare för läsaren att följa med i texten och få en bra överblick över dina olika argument.
-> 2. Använd övergångar: Övergångar hjälper till att koppla samman olika stycken och avsnitt och kan göra texten mer flytande och lättläst. Exempel på övergångar är "dessutom", "i samband med detta", "till skillnad från" och "förutom".
-> 3. Använd rubriker och underrubriker: Rubriker och underrubriker hjälper till att ge en överblick över texten och gör det lättare för läsaren att navigera i texten. De kan också bidra till att göra texten mer visuellt tilltalande.
-> 4. Variera längden på styckena: Försök att variera längden på styckena för att göra texten mer intressant och lättläst. Långa stycken kan vara svåra att följa med i, så försök att undvika att skriva för långa stycken.
-> 5. Använd styckeindelningar för att markera viktig information: Genom att dela upp stycket i olika avsnitt kan du markera viktig information och göra det lättare för läsaren att hitta de viktigaste poängerna i texten.
+> ** Tack! Har du tips på hur jag kan tänka för att bli bättre på att undvika krångliga meningar och förenkla mitt språk?**
+> 
+> Ja, här är några tips för att förenkla språket:
+> 1. Fokusera på budskapet: Fundera på vad du vill få fram och se till att budskapet är tydligt.
+> 2. Använd enkel och lättförståelig terminologi: Undvik fackspråk och föredra vanligt talat språk.
+> 3. Var kortfattad: Skriv så kortfattat som möjligt utan att förlora viktig information.
+> 4. Använd aktiv form: Formulera meningar i aktiv form för att göra dem kortare och mer lättförståeliga.
+> 5. Undvik onödiga ord och förkortningar: Var noga med att inte använda onödiga ord eller förkortningar som kan göra texten svår för läsaren att förstå.
+> 6. Läs igenom texten: När du har skrivit klart, läs igenom texten och försök att förstå den från en läsares perspektiv. Om du inte förstår något, försök att förenkla det.
 
 ## Tips på tekniska verktyg och hur man använder dem
 ChatGPT kan ge förslag på hur knepiga eller ovanliga uppgifter kan utföras, och för välkända program kan den också ge vägledning om hur man navigerar i programmen för att göra det som behövs.
@@ -151,7 +153,7 @@ ChatGPT kan ge förslag på hur knepiga eller ovanliga uppgifter kan utföras, o
 > Oavsett vilket sätt du väljer att analysera låten på, kommer du att kunna se vilka frekvenser som är vanligast i låten och hur de fördelar sig över låtens olika delar. Du kan också se om det finns några speciella frekvenser eller toner som återkommer under låtens gång. Genom att analysera låten på det här sättet kan du få en djupare förståelse för hur låten är uppbyggd och vilka element som ger den sin karaktär.
 
 ## Ge sig själv uppmuntran och motivation
-Även i läraryrket kan man då och då behöva lite extra uppmuntran och ha motivation som sviktar. ChatGPT kan, i viss mån, hjälpa till även här. (I det andra exemplet är prompten en modifiering av en prompt på samlingssidan [prompts.chat][2].)
+Även i läraryrket kan man då och då behöva lite extra uppmuntran och ha motivation som sviktar. ChatGPT kan, i viss mån, hjälpa till även här. (I det andra exemplet är prompten en modifiering av en prompt på samlingssidan [prompts.chat][1].)
 
 **När du läser konversationerna, fundera på:**
 * Ger ChatGPT meningsfull uppmuntran? Skulle du ha hjälp av liknande uppmuntran?
@@ -185,5 +187,4 @@ ChatGPT kan ge förslag på hur knepiga eller ovanliga uppgifter kan utföras, o
 > 7. Lastly, try to focus on the progress you've made so far and remember that every exam you mark is one step closer to completing the task.
 > Remember, motivation and energy can fluctuate, but you have the power to control your thoughts and actions. You can do this!
 
-[1]:	https://www.expressen.se/debatt/ai-botten-skriver-battre-an-de-flesta-skolelever/
-[2]:	https://prompts.chat/#act-as-a-motivational-coach
+[1]:	https://prompts.chat/#act-as-a-motivational-coach
