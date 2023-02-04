@@ -73,7 +73,7 @@ De här typerna av misstag är inte unika för ChatGPT, och kan uppstå även he
 
 ## Olämpliga budskap
 
-ChatGPT har spärrar för vissa typer av budskap. Om du försöker få ChatGPT att berätta hur man skapar bomber, blandar metanfetamin eller om du vill få förslag på hur man kan trakassera, misshandla eller tortera någon kommer ChatGPT svara med att det bryter mot dess policy att svara. Samma sak gäller exempelvis att ge medicinsk rådgivning (vilket förmodligen har att göra med amerikansk lagstiftning).
+ChatGPT har spärrar för vissa typer av budskap. Om du försöker få ChatGPT att berätta hur man skapar bomber, blandar metamfetamin eller om du vill få förslag på hur man kan trakassera, misshandla eller tortera någon kommer ChatGPT svara med att det bryter mot dess policy att svara. Samma sak gäller exempelvis att ge medicinsk rådgivning (vilket förmodligen har att göra med amerikansk lagstiftning).
 
 Att det finns sådana spärrar gör ChatGPT till ett betydligt tryggare verktyg, men spärrarna är inte hundraprocentiga. Det betyder att ChatGPT ibland kan släppa igenom saker som den borde hålla tyst om, och att envetna användare kan hitta sätt konsekvent gå runt spärrarna. (Det finns, inte helt oväntat, tips på nätet om hur spärrarna kan rundgås.)
 
