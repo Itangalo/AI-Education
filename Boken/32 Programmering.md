@@ -5,7 +5,7 @@ En fördel med just programmeringshjälp är att vissa av AI-fällorna man kan r
 
 ChatGPT är olika skicklig på att förstå och skapa kod på olika språk. En rimlig utgångspunkt är att ju vanligare programspråket är, desto bättre är ChatGPT på språket.
 
-På nätet finns många exempel på hur ChatGPT kan användas för programmering. I den här boken finns några urval, men mer hängivna programmerare kan till exempel också använda ChatGPT för att skriva tester, skapa trovärdigt dummy-innehåll, skapa sub-kod för hela applikationer eller få förslag på arkitektur.
+På nätet finns många exempel på hur ChatGPT kan användas för programmering. I den här boken finns några urval, men mer hängivna programmerare kan till exempel också använda ChatGPT för att skriva tester, skapa trovärdigt dummy-innehåll, skapa stub-kod för hela applikationer eller få förslag på arkitektur.
 
 Det kan också nämnas att ChatGPT matar ut kodblock med färger som markerar satser och funktioner, medan det inte finns några färger i den här boken.
 
@@ -120,7 +120,7 @@ Att skapa välkommenterad kod gör det lättare att läsa den, både för lärar
 
 **När du läser konversationen, fundera på:**
 * Är kommentarerna som ChatGPT föreslår korrekta? Är de meningsfulla?
-* Om du undervisar i programmering: Vad är för- och nackdelarna med att låta ChatGPT skriva kommentarer, jämfört med att söka på nätet eller skriva kod från grunden? Vilka pedagogiska konsekvenser har det?
+* Om du undervisar i programmering: Vad är för- och nackdelarna med att låta ChatGPT skriva kommentarer, jämfört med att låta elever själva skriva kommentarer? Vilka pedagogiska konsekvenser har det?
 
 > **Kan du kommendera koden nedan så att den blir lättare att läsa? Kommendera på svenska, är du snäll.**
 > 	import requests
