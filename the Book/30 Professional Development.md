@@ -121,75 +121,104 @@ Note that this example for using ChatGPT aims to develop writing skills, not pri
 > 7. Practice writing: Practice writing in different styles, using a variety of sentence structures, to help you develop your own style and become more confident with using a varied sentence structure.
 > 8. Get feedback: Share your writing with others and seek feedback on how to improve your sentence structure. This can help you identify areas for improvement and develop your skills over time.
 
-## Technical Tools and How to Use Them
-ChatGPT can provide suggestions on how to perform tricky or uncommon tasks and can also provide guidance on navigating well-known programs to get the job done.
+## Ideas for Technical Tools and How to Use Them
+ChatGPT can provide suggestions on how to perform tricky or uncommon tasks, and can also provide guidance on navigating some well-known programs to get the job done.
 
 **When reading the conversations, consider:**
 * What are the pros and cons of asking ChatGPT compared to searching the internet? Compared to asking a colleague or IT support?
 
-> **Do you have tips on programs or apps that I can use to provide feedback on essays in a time-saving manner? (Tips that don't involve programs or apps are also okay.)**
-> There are several programs and apps that can help you provide feedback on essays in a time-saving manner. Here are some suggestions:
-> 1. Grammarly: This is an online tool that can help you identify grammar mistakes, spelling errors and sentence structure issues. It can also be used to check the tone of the text.
-> 2. Hemingway: This tool helps you make text easier to read by identifying difficult words, long sentences, and complex sentence structures.
-> 3. Turnitin: This program can help you check for similarities between the essay and other previously published texts.
-> 4. Google Docs: This tool makes it easy to collaborate with others and provide feedback on essays in real-time.
-> 5. Feedback Studio from Turnitin: Easy to use, provides the ability to add comments, draw, create headings, mark and comment on text and images.
-> 6. If there is no program or app that suits you, you can also provide feedback the traditional way, write it down on paper or write it down in a regular word processing program.
+> **Do you have ideas for programs or apps that I can use to save time when providing feedback on student essays? (Ideas that don't involve programs or apps are also okay.)**
+> 
+> Here are a few suggestions:
+> 1. Grammarly: This app can help you identify grammatical errors and suggest improvements in writing. It can save time in the editing process, allowing you to focus on more in-depth feedback.
+> 2. Google Docs: This online word processing program allows you to provide comments and suggestions in real-time, making it easy to collaborate with others and give quick feedback to students.
+> 3. Rubric-based grading: Develop a set of criteria for grading essays and use a rubric to quickly and consistently evaluate student work. This will also help students understand what they need to do to improve their writing.
+> 4. Audio or video feedback: Consider using audio or video feedback to provide more personal and engaging feedback to students. This can be done using tools like Flipgrid or Explain Everything.
+> 5. Highlighting and commenting tools: Utilize the highlighting and commenting tools in word processing software, such as Microsoft Word or Google Docs, to quickly and efficiently provide feedback on specific areas of an essay.
+> 
+> Note that these are just a few examples and the best tool for you will depend on your specific needs and preferences.
 
 ---- 
 
 > **Me and my colleagues work together on a number of documents, which we email to each other when we make updates. It becomes difficult to know which is the latest version and we have several times lost changes that someone has made. Can you suggest any other method for collaborating on documents?**
 >  
-> A good way to collaborate on documents is to use a cloud-based document management and collaboration service. Services like Google Docs, Microsoft Office 365, and Dropbox Paper provide the ability to create, edit, and share documents in real-time with multiple users. These services automatically save all changes and make it easy to view previous versions of a document and restore previous changes if needed. These services also have features for comments, markings, and revision management, making it easier to collaborate and keep track of changes.
+> Yes, there are several alternatives to emailing updated documents that can make collaboration easier and prevent the loss of changes. Some options are:
+> 1. Cloud-based document collaboration tools: Services like Google Docs, Microsoft OneDrive, and Dropbox allow multiple users to access and edit the same document in real-time, with the ability to track changes and revert to earlier versions.
+> 2. Project management software: Tools such as Asana, Trello, and Monday.com offer document collaboration features as part of their project management suite, allowing teams to share and track the progress of their work.
+> 3. Version control systems: For software development teams, version control systems such as Git provide a way to manage changes to source code and track the progress of a project.
+> 
+> You can choose the option that best fits your needs and start collaborating more effectively on your documents.
 >  
 > **We are not allowed to use any cloud services at my school. Do you have any other tips?**
 >  
-> Without access to cloud services, there are still a number of ways to collaborate on documents:
-> 1. Share the document via email: This can be done by attaching the document to an email message and sending it to those who will collaborate. This is not the most efficient method, however, as it can be difficult to keep track of which version is the latest.
-> 2. Use a shared folder on the school network: This makes it possible for everyone in the group to save and retrieve the document from the same place. This does require that everyone has access to the network.
-> 3. Use version control software like Git: This is a tool for keeping track of changes in code, but it can also be used to keep track of changes in regular documents. This does require some technical competence.
-> 4. Use a shared editing tool: There are a number of tools that offer real-time editing of documents with multiple users, such as Etherpad, OnlyOffice.
-> 5. Use a shared calendar tool: There are a number of tools that offer the ability to create and share calendars with multiple users. This makes it possible for everyone in the group to see when a document is due and who is responsible for what.
+> Yes, here are some alternatives to cloud services that you can use at your school:
+> 1. Network shared drive: You can create a shared network drive where all team members have access to the latest version of the document. This eliminates the need to email the document back and forth.
+> 2. File synchronization software: Tools like BitTorrent Sync, Resilio Sync, and Syncthing allow you to synchronize files between multiple devices without the need for a central server.
+> 3. Local version control systems: If you're working on text-based files, you can use a local version control system such as Git to track changes and revert to earlier versions if needed.
+> 4. USB drives: You can also use physical storage like USB drives to transfer the latest version of the document between team members.
+> 
+> By using one of these options, you can collaborate on documents more effectively and avoid losing changes.
 
 ---- 
 
 > **How do I share my Outlook calendar with someone outside of our school?**
 > 
-> To share your Outlook calendar with someone outside of your school, follow these steps:
-> 1. Open Outlook and click on "Calendar" in the navigation bar at the bottom.
-> 2. Click on the "Shared calendars" tab and select "Add calendar," then select "from the Internet."
-> 3. Enter the email address of the person you want to share your calendar with and click "OK."
-> 4. An invitation will be sent to the person to accept your calendar. Once they have accepted, they will be able to see your calendar.
+> To share your Outlook calendar with someone outside of your school, you can use the following steps:
+> 1. Open Microsoft Outlook and go to your calendar.
+> 2. Right-click on the calendar you want to share and select "Share Calendar."
+> 3. In the "Share Calendar" window, enter the email address of the person you want to share the calendar with.
+> 4. Select the level of detail you want to share (e.g. availability only, full details).
+> 5. Optionally, you can add a message to accompany the calendar invitation.
+> 6. Click "Send."
 > 
-> Note that there may be different calendar sharing settings, depending on your organization, so there may be additional steps or the option may not be available. Contact your IT department for more information on how to share your calendar.
+> The recipient will receive an email with a link to your calendar. They will be able to view it in their own Outlook calendar or in a web browser if they don't have Outlook. Note that the recipient will only be able to see updates to the calendar if you continue to share it with them.
 
 ---- 
 
 > **Do you have suggestions for programs that can be used to convert handwritten mathematical text to computer text?**
-> Yes, there are a number of programs that can convert handwritten mathematical text to computer text. One example is MyScript Calculator, which is an app that can convert handwritten mathematical expressions to digital text and then solve them. You can also try Mathpix Snip, which is a screenshot service that can convert screenshots of mathematical expressions to digital text. Other options include Graphical User Interface (GUI) based tools like Mathematica and Maple, both of which have features for solving and visualizing mathematical problems.
+> There are a few options for converting handwritten mathematical text to computer text:
+> 1. MyScript Calculator - a handwriting recognition software that can recognize mathematical equations and convert them into digital text.
+> 2. Mathpix Snip - a tool that uses OCR technology to recognize mathematical equations and convert them into LaTeX, a typesetting language for mathematics.
+> 3. Microsoft OneNote - a note-taking program that has handwriting recognition features that can convert handwritten equations into editable text.
+> 4. Ink2Text - a free web-based tool that can convert handwritten equations into digital text using OCR technology.
+> 
+> Note that the accuracy of these tools may vary and some post-processing may be required to get the desired output.
 
 ---- 
 
 > **How can I analyze an mp3 file with music to find the most common frequencies in the song?**
-> There are different ways to analyze an MP3 file to find the most common frequencies in the song. One way to do this is to use a computer software that is specifically designed to analyze sound files. Many such programs can be downloaded for free from the internet, and most of them provide a visual representation of the sound spectrum in the form of a color-coded diagram or a spectrum diagram. You can also use a sound editing program such as Audacity to analyze the sound file. In Audacity, you can use the "Analyze \> Plot Spectrum" tool to get a visualization of the frequency distribution in the song.
-> Another way to analyze an MP3 file to find the most common frequencies is to use a sound frequency analyzer. These analyzers are electronic devices that can measure and analyze different sound frequencies in real-time. You can connect an analyzer to your computer and play the song through it, and then the analyzer will measure and display the various frequencies in the song. Sound frequency analyzers are available to purchase in different price ranges and with different functions and precision.
-> Regardless of which way you choose to analyze the song, you will be able to see which frequencies are most common in the song and how they are distributed over the different parts of the song. You can also see if there are any special frequencies or tones that recur throughout the song. By analyzing the song in this way, you can get a deeper understanding of how the song is built and what elements give it its character.
+> 
+> To analyze an MP3 file to find the most common frequencies in a song, you can do the following steps:
+> 1. Convert the MP3 file to a WAV file: MP3 is a lossy compression format and may not contain the full frequency range of the original audio. Converting the MP3 file to WAV will ensure that the audio information is preserved.
+> 2. Perform a Fast Fourier Transform (FFT) on the WAV file: FFT is a mathematical operation that transforms a time-domain signal into a frequency-domain signal, which represents the different frequencies present in the audio.
+> 3. Plot the frequency spectrum: The result of the FFT can be plotted as a frequency spectrum, where the vertical axis represents the magnitude of each frequency component, and the horizontal axis represents the frequency. The frequency components with the highest magnitudes will represent the most common frequencies in the song.
+> 
+> There are many software tools that can perform these steps, such as Audacity, MATLAB, or Python libraries like Numpy and Matplotlib. You can use any of these tools to perform the analysis and visualize the frequency spectrum.
 
 ## Encourage and Motivate Yourself
-Even in teaching, one may occasionally need some extra encouragement and motivation that wavers. ChatGPT can, to some extent, help here as well. (In the second example, the prompt is a modification of a prompt on the prompts.chat [prompts.chat][1] page.)
+Even in teaching, one may occasionally need some extra encouragement. ChatGPT can, to some extent, help here as well. (In the second example, the prompt is a modification of a prompt on the prompts.chat [prompts.chat][1] page.)
 
 **As you read the conversations, consider:**
 * Does ChatGPT provide meaningful encouragement? Would you benefit from similar encouragement?
 * What happens if AI becomes nearly as good as people in encouraging and creating motivation?
 
-> ** I have more than 60 tests from my students to go through, and I find it difficult to find motivation. Can you write a nice text about me, so that I feel encouraged and understand how good I will feel when I'm done with the tests?**
-> Hello! Going through all of your students' tests sounds like a big and time-consuming task. It can be difficult to find motivation in such a situation, but I want to encourage you to keep going.
-> Think about all of the students you will help by giving feedback on their tests. You will contribute to their learning and help them improve. It's an important and meaningful task that you have taken on.
-> When you are done with the tests, you will feel proud of having completed this task and done your best for your students. You will also feel a great sense of satisfaction when you see how much you have contributed to their learning.
-> So keep going, continue to take it one step at a time, and remember that what you are doing is important and meaningful. You will feel proud and satisfied when you are done!
+> **I have more than 60 tests from my students to mark, and I find it difficult to find motivation. Can you write a nice text about me, so that I feel encouraged and understand how good I will feel when I'm done with the tests?**
+> 
+> Of course! Here you go:
+> 
+> "Dear [Your Name],
+> 
+> You are a true shining star in the field of education. Your dedication to your students and their learning is truly inspiring. It takes a special kind of person to pour so much time and effort into grading 60+ tests, but you are more than up to the task.
+> 
+> The feeling of accomplishment that you will experience once you've completed marking all of these tests will be immense. You will have taken an important step in helping your students grow and succeed, and that is something to be truly proud of.
+> 
+> So take a deep breath, focus on the task at hand, and remember that you are making a difference in the lives of your students. The hard work that you are putting in today will pay off in ways you can't even imagine, and you will feel a sense of satisfaction like no other.
+> 
+> You've got this! Keep up the fantastic work."
 
 ---- 
-> ** I want you to act as a motivational coach. I will provide you with some information about someone’s goals and challenges, and it will be your job to come up with strategies that can help this person achieve their goals. This could involve providing positive affirmations, giving helpful advice or suggesting activities they can do to reach their end goal. My first request is “I need help motivating myself to stay disciplined while marking a large number of exams”.**
+> **I want you to act as a motivational coach. I will provide you with some information about someone’s goals and challenges, and it will be your job to come up with strategies that can help this person achieve their goals. This could involve providing positive affirmations, giving helpful advice or suggesting activities they can do to reach their end goal. My first request is “I need help motivating myself to stay disciplined while marking a large number of exams”.**
+> 
 > Here are some strategies that may help you stay motivated and disciplined while marking a large number of exams:
 > 1. Break up the task into smaller, manageable chunks. Instead of thinking about marking all the exams at once, focus on completing a set number of exams each day.
 > 2. Set specific, measurable goals for yourself. For example, "I will mark 50 exams by the end of the week."
@@ -199,7 +228,9 @@ Even in teaching, one may occasionally need some extra encouragement and motivat
 > 6. Create a conducive environment for working, free from distractions and comfortable.
 > 7. Take breaks in between, move around, and stretch your body to avoid burnout.
 > 8. Lastly, keep in mind that discipline and motivation are skills that can be developed over time. The more you practice, the more natural it will become.
-> ** I have now marked seven exams and feel like doing something else. Can you cheer me up so I get the energy to do seven more?**
+> 
+> **I have now marked seven exams and feel like doing something else. Can you cheer me up so I get the energy to do seven more?**
+> 
 > Of course! Here are some ways you can boost your motivation and energy to keep going:
 > 1. Remind yourself of your goals and why they are important to you.
 > 2. Take a short break and do something you enjoy, like listening to your favorite music or taking a quick walk outside.
@@ -208,6 +239,7 @@ Even in teaching, one may occasionally need some extra encouragement and motivat
 > 5. Positive affirmations can also be helpful in this situation, try saying something like "I am capable and strong, I can do this."
 > 6. If you are feeling low on energy, try drinking some water or eating a healthy snack to boost your energy levels.
 > 7. Lastly, try to focus on the progress you've made so far and remember that every exam you mark is one step closer to completing the task.
+> 
 > Remember, motivation and energy can fluctuate, but you have the power to control your thoughts and actions. You can do this!
 
 [1]:	https://prompts.chat/#act-as-a-motivational-coach
