@@ -41,7 +41,7 @@ Tack till Jonatan Tensetti som ordnat med AI-inläsning av boken! Boken är uppd
 Om du vill hänvisa till boken kan du utgå från följande:
 
 * Titel: AI och skolan, version 1.x (ange vilken version du hänvisar till)
-* Utgivningsdatum: Se [sidan med versioner](/releases) (2023-01-23 för version 1.0–1.3, 2023-02-06 för 1.4)
+* Utgivningsdatum: Se [sidan med versioner](https://github.com/Itangalo/AI-Education/releases) (2023-01-23 för version 1.0–1.3, 2023-02-06 för 1.4)
 * Författare: Johan Falk
 * ISBN: 9798215304334 (endast för version 1.0)
 * Förlag: Draft2Digital
