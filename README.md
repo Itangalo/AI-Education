@@ -36,6 +36,19 @@ Tack till Jonatan Tensetti som ordnat med AI-inläsning av boken! Boken är uppd
 * [AI och skola (AI-inläst, del 1).mp3.zip](https://github.com/Itangalo/AI-och-skolan/files/10581329/AI.och.skola.AI-inlast.del.1.mp3.zip)
 * [AI och skola (AI-inläst, del 2).mp3.zip](https://github.com/Itangalo/AI-och-skolan/files/10581330/AI.och.skola.AI-inlast.del.2.mp3.zip)
 
+# Hänvisa till boken
+
+Om du vill hänvisa till boken kan du utgå från följande:
+
+* Titel: AI och skolan, version 1.x (ange vilken version du hänvisar till)
+* Utgivningsdatum: Se [sidan med versioner](/releases) (2023-01-23 för version 1.0–1.3, 2023-02-06 för 1.4)
+* Författare: Johan Falk
+* ISBN: 9798215304334 (endast för version 1.0)
+* Förlag: Draft2Digital
+
+En APA-referens kan alltså se ut så här: Falk, J. (2023). *AI och skolan, version 1.4*. Draft2Digital.
+
+
 # AI-Powered Productivity in Education: Harnessing the Potential of ChatGPT
 
 *AI-Powered Productivity in Education* is a book for teachers interested in using the AI service ChatGPT to save time and improve quality of teaching. The book contains dozens of examples on how to simplify various tasks, get inspiration and create material using ChatGPT.
