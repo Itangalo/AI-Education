@@ -11,5 +11,6 @@ Part 3 is primarily for those who want to know a bit more about AI itself. Chapt
 
 The author of the book is Johan Falk, who is a former science journalist, web developer and teacher. I've been following AI development since 2018 and been interested in school issues since high school. Since 2015, I've been working for education at a national level. The book is written and signed by myself, but several ideas and improvements come from other people. Special thanks to Rustan Håkansson and Peter Parnes.
 
-This book is regularly updated. Those who want to are welcome to suggest improvements and additions at [github.com/Itangalo/AI-och-skolan]().
+This book is regularly updated. Those who want to are welcome to suggest improvements and additions at [github.com/Itangalo/AI-Education][1].
 
+[1]:	https://github.com/Itangalo/AI-Education
