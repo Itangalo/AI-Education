@@ -55,15 +55,17 @@ Betygsätt gärna skriv en recension!
 * Från [kobo.com](https://www.kobo.com/se/sv/ebook/ai-och-skolan)
 * Från [smashwords.com](https://www.smashwords.com/books/view/1325975)
 
-### AIinläsning av boken (v. 1.4)
+### AI-inläsning av boken (v. 1.4)
 
 Tack till Jonatan Tensetti som ordnat med AI-inläsning av boken!
 
-- [Inledning.zip](https://github.com/Itangalo/AI-Education/files/10677927/Inledning.zip)
-- [Del 1.zip](https://github.com/Itangalo/AI-Education/files/10677922/Del.1.zip)
-- [Del 2.zip](https://github.com/Itangalo/AI-Education/files/10677924/Del.2.zip)
-- [Del 3.zip](https://github.com/Itangalo/AI-Education/files/10677926/Del.3.zip)
-- [Appendix.mp3.zip](https://github.com/Itangalo/AI-Education/files/10677921/Appendix.mp3.zip)
+* [Hela boken](https://drive.google.com/file/d/1vcxGcdf3HL0lksZSX44xdalugAAvaMln/view?usp=share_link)
+* [Inledning](https://drive.google.com/file/d/1eY6rzpt_wget4SQFGhnLK0Dvh2NgU0Gu/view?usp=share_link)
+* [Del 1](https://drive.google.com/file/d/1EwkdXqQMl4DRMi2_FAyqwaw25kyxB8IX/view?usp=share_link)
+* [Del 2](https://drive.google.com/file/d/1Dg0vdVllufdd58CLnbps_INbzeZpTq_i/view?usp=share_link)
+* [Del 3](https://drive.google.com/file/d/10DnMuunhd6oSoaDfJ_DhcRuOxQqKJ2Zk/view?usp=share_link)
+* [Appendix](https://drive.google.com/file/d/1KgV5W0H1kJostl9eVELoN6JNoyXVH2i9/view?usp=share_link)
+
 
 ### Hänvisa till boken
 
