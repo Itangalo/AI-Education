@@ -55,12 +55,15 @@ Betygsätt gärna skriv en recension!
 * Från [kobo.com](https://www.kobo.com/se/sv/ebook/ai-och-skolan)
 * Från [smashwords.com](https://www.smashwords.com/books/view/1325975)
 
-### Experimentell inläsning av boken (v. 1.3)
+### AIinläsning av boken (v. 1.4)
 
-Tack till Jonatan Tensetti som ordnat med AI-inläsning av boken! Boken är uppdelad i två halvor i inläsningen. ("Del 1" och "del 2" är alltså inte samma delar som i boken.) När jag hinner ordna en variant bättre anpassad till inläsning kommer mer lättlyssnade filer att läggas upp.
+Tack till Jonatan Tensetti som ordnat med AI-inläsning av boken!
 
-* [AI och skola (AI-inläst, del 1).mp3.zip](https://github.com/Itangalo/AI-och-skolan/files/10581329/AI.och.skola.AI-inlast.del.1.mp3.zip)
-* [AI och skola (AI-inläst, del 2).mp3.zip](https://github.com/Itangalo/AI-och-skolan/files/10581330/AI.och.skola.AI-inlast.del.2.mp3.zip)
+- [Inledning.zip](https://github.com/Itangalo/AI-Education/files/10677927/Inledning.zip)
+- [Del 1.zip](https://github.com/Itangalo/AI-Education/files/10677922/Del.1.zip)
+- [Del 2.zip](https://github.com/Itangalo/AI-Education/files/10677924/Del.2.zip)
+- [Del 3.zip](https://github.com/Itangalo/AI-Education/files/10677926/Del.3.zip)
+- [Appendix.mp3.zip](https://github.com/Itangalo/AI-Education/files/10677921/Appendix.mp3.zip)
 
 ### Hänvisa till boken
 
