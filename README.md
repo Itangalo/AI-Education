@@ -1,6 +1,6 @@
 <p float="left" align="middle">
-  <a href="https://github.com/Itangalo/AI-och-skolan/files/10609240/AI-Powered.Productivity.in.Education.2023-02-04.18.25.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217659192-4c67b258-b29d-42ea-90de-1a3715bb3929.png" height="20%" width="20%" /></a>
-  <a href="https://github.com/Itangalo/AI-och-skolan/files/10609239/AI-Powered.Productivity.in.Education.2023-02-04.18.25.epub.zip" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217659188-0586a4b4-4fe2-4f4e-b06e-8e76994f835b.png" height="20%" width="20%" /></a>
+  <a href="https://github.com/Itangalo/AI-Education/files/10609240/AI-Powered.Productivity.in.Education.2023-02-04.18.25.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217659192-4c67b258-b29d-42ea-90de-1a3715bb3929.png" height="20%" width="20%" /></a>
+  <a href="https://github.com/Itangalo/AI-Education/files/10609239/AI-Powered.Productivity.in.Education.2023-02-04.18.25.epub.zip" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217659188-0586a4b4-4fe2-4f4e-b06e-8e76994f835b.png" height="20%" width="20%" /></a>
   <a href="https://books.apple.com/us/book/id6445495939" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" height="20%" width="20%" /></a>
   <a href="https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217657515-b3688f48-3f51-4fdb-a7b1-0c5fb4235337.png" height="20%" width="20%" /></a>
 </p>
@@ -24,8 +24,8 @@ Johan Falk is an experienced educator, working at a national level in Sweden. Wi
 
 ### Download pre-release version
 
-* Download v. 1.4-beta as pdf: [AI-Powered Productivity in Education (2023-02-04).pdf](https://github.com/Itangalo/AI-och-skolan/files/10609240/AI-Powered.Productivity.in.Education.2023-02-04.18.25.pdf)
-* Download v. 1.4-beta as epub: [AI-Powered Productivity in Education (2023-02-04).epub.zip](https://github.com/Itangalo/AI-och-skolan/files/10609239/AI-Powered.Productivity.in.Education.2023-02-04.18.25.epub.zip)
+* Download v. 1.4-beta as pdf: [AI-Powered Productivity in Education (2023-02-04).pdf](https://github.com/Itangalo/AI-Education/files/10609240/AI-Powered.Productivity.in.Education.2023-02-04.18.25.pdf)
+* Download v. 1.4-beta as epub: [AI-Powered Productivity in Education (2023-02-04).epub.zip](https://github.com/Itangalo/AI-Education/files/10609239/AI-Powered.Productivity.in.Education.2023-02-04.18.25.epub.zip)
 
 ### Get updates
 
@@ -41,7 +41,7 @@ Boken betonar att det är viktigt att använda sitt omdöme i hur och när ChatG
 
 Den sista delen av boken ger mer perspektiv på AI, skola och framtiden.
 
-Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. _AI och skolan_ är en e-bok som uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg här på [github.com/Itangalo/AI-och-skolan][1].
+Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. _AI och skolan_ är en e-bok som uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg här på [github.com/Itangalo/AI-Education][1].
 
 ### Få reda på när nya versioner kommer
 
@@ -49,9 +49,9 @@ Skicka ett mail till [aiochskolan@falk.one](mailto:aiochskolan@falk.one?Subject=
 
 ### Ladda hem boken här (v. 1.4)
 
-* Epub (zippad): [AI och skolan (2023-02-04).epub.zip](https://github.com/Itangalo/AI-och-skolan/files/10609124/AI.och.skolan.2023-02-04.epub.zip)
-* Pdf: [AI och skolan (2023-02-04).pdf](https://github.com/Itangalo/AI-och-skolan/files/10609125/AI.och.skolan.2023-02-04.pdf)
-* Word/docx (utan omslagsbild, kan finnas problem med fonter): [AI och skolan (2023-02-04).docx](https://github.com/Itangalo/AI-och-skolan/files/10609123/AI.och.skolan.2023-02-04.docx)
+* Epub (zippad): [AI och skolan (2023-02-04).epub.zip](https://github.com/Itangalo/AI-Education/files/10609124/AI.och.skolan.2023-02-04.epub.zip)
+* Pdf: [AI och skolan (2023-02-04).pdf](https://github.com/Itangalo/AI-Education/files/10609125/AI.och.skolan.2023-02-04.pdf)
+* Word/docx (utan omslagsbild, kan finnas problem med fonter): [AI och skolan (2023-02-04).docx](https://github.com/Itangalo/AI-Education/files/10609123/AI.och.skolan.2023-02-04.docx)
 
 ### Ladda hem från e-bokhandel (v. 1.0)
 
@@ -100,6 +100,6 @@ Tack till följande personer som bidragit till boken:
 
 Alla dessa har hjälpt till att göra boken bättre, och ingen skugga ska falla på dem för de missar som finns kvar.
 
-[1]:	https://github.com/Itangalo/AI-och-skolan
+[1]:	https://github.com/Itangalo/AI-Education
 
 [image-1]:	https://user-images.githubusercontent.com/262940/212624798-54e824c6-545c-4aea-a586-c0a86e87e63d.png
