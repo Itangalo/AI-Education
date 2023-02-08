@@ -10,6 +10,8 @@
   <img src="https://user-images.githubusercontent.com/262940/216779472-acb302bb-7107-4d4e-8b36-7a8b8cee61e6.png" title="Omslagsbild" width="40%" height="40%" />
 </p>
 
+----
+
 ## AI-Powered Productivity in Education: Harnessing the Potential of ChatGPT
 
 *AI-Powered Productivity in Education* is a comprehensive guide for teachers interested in using the AI service ChatGPT to save time and enhance the quality of their teaching. The book provides a wealth of practical examples and case studies to illustrate how ChatGPT can simplify various tasks, inspire new ideas, and create material for use in the classroom.
@@ -29,7 +31,7 @@ Johan Falk is an experienced educator, working at a national level in Sweden. Wi
 
 Send an email to [ai-education@falk.one](mailto:ai-education@falk.one?Subject=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book&Body=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book). The email is sent to the author, who will not share your email address with others.
 
-
+----
 
 ## AI och skolan – hur du som lärare kan använda ChatGPT med omdöme och undvika fyra typer av AI-fällor
 
