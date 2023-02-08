@@ -1,6 +1,6 @@
 <p float="left" align="middle">
-  <a href="https://books.apple.com/us/book/id6445495939" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" /></a>
-  <a href="https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656619-f6d82617-c57f-434b-bc78-b9d60afd66a5.png" /></a>
+  <a href="https://books.apple.com/us/book/id6445495939" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" height="25%" width="25%" /></a>
+  <a href="https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217657515-b3688f48-3f51-4fdb-a7b1-0c5fb4235337.png" height="25%" width="25%" /></a>
 </p>
 
 (För svenska, bläddra förbi omslagsbilderna.)
