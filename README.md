@@ -5,7 +5,10 @@
   <a href="https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217657515-b3688f48-3f51-4fdb-a7b1-0c5fb4235337.png" height="20%" width="20%" /></a>
 </p>
 
-(För svenska, bläddra förbi omslagsbilderna.)
+<p float="left" align="middle">
+  <img src="https://user-images.githubusercontent.com/262940/216779469-372d204b-7b41-4bed-aef3-1adc0dc607bf.png" title="Cover Image" width="40%" height="40%" />
+  <img src="https://user-images.githubusercontent.com/262940/216779472-acb302bb-7107-4d4e-8b36-7a8b8cee61e6.png" title="Omslagsbild" width="40%" height="40%" />
+</p>
 
 ## AI-Powered Productivity in Education: Harnessing the Potential of ChatGPT
 
@@ -25,11 +28,6 @@ Johan Falk is an experienced educator, working at a national level in Sweden. Wi
 ### Get updates
 
 Send an email to [ai-education@falk.one](mailto:ai-education@falk.one?Subject=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book&Body=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book). The email is sent to the author, who will not share your email address with others.
-
-<p float="left" align="middle">
-  <img src="https://user-images.githubusercontent.com/262940/216779469-372d204b-7b41-4bed-aef3-1adc0dc607bf.png" title="Cover Image" width="40%" height="40%" />
-  <img src="https://user-images.githubusercontent.com/262940/216779472-acb302bb-7107-4d4e-8b36-7a8b8cee61e6.png" title="Omslagsbild" width="40%" height="40%" />
-</p>
 
 
 
