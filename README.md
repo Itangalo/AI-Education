@@ -66,12 +66,13 @@ Betygsätt gärna skriv en recension!
 
 Tack till Jonatan Tensetti som ordnat med AI-inläsning av boken!
 
-* [Hela boken](https://drive.google.com/file/d/1vcxGcdf3HL0lksZSX44xdalugAAvaMln/view?usp=share_link)
-* [Inledning](https://drive.google.com/file/d/1eY6rzpt_wget4SQFGhnLK0Dvh2NgU0Gu/view?usp=share_link)
-* [Del 1](https://drive.google.com/file/d/1EwkdXqQMl4DRMi2_FAyqwaw25kyxB8IX/view?usp=share_link)
-* [Del 2](https://drive.google.com/file/d/1Dg0vdVllufdd58CLnbps_INbzeZpTq_i/view?usp=share_link)
-* [Del 3](https://drive.google.com/file/d/10DnMuunhd6oSoaDfJ_DhcRuOxQqKJ2Zk/view?usp=share_link)
-* [Appendix](https://drive.google.com/file/d/1KgV5W0H1kJostl9eVELoN6JNoyXVH2i9/view?usp=share_link)
+Ladda hem:
+[Hela boken](https://drive.google.com/file/d/1vcxGcdf3HL0lksZSX44xdalugAAvaMln/view?usp=share_link) |
+[Inledning](https://drive.google.com/file/d/1eY6rzpt_wget4SQFGhnLK0Dvh2NgU0Gu/view?usp=share_link) |
+[Del 1](https://drive.google.com/file/d/1EwkdXqQMl4DRMi2_FAyqwaw25kyxB8IX/view?usp=share_link) |
+[Del 2](https://drive.google.com/file/d/1Dg0vdVllufdd58CLnbps_INbzeZpTq_i/view?usp=share_link) |
+[Del 3](https://drive.google.com/file/d/10DnMuunhd6oSoaDfJ_DhcRuOxQqKJ2Zk/view?usp=share_link) |
+[Appendix](https://drive.google.com/file/d/1KgV5W0H1kJostl9eVELoN6JNoyXVH2i9/view?usp=share_link)
 
 
 ### Hänvisa till boken
