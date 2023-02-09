@@ -60,7 +60,7 @@ Skicka ett mail till [aiochskolan@falk.one](mailto:aiochskolan@falk.one?Subject=
 [Apple Books](https://books.apple.com/us/book/id6445495939) |
 [Google Play](https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1) (version 1.3!) |
 [kobo.com](https://www.kobo.com/se/sv/ebook/ai-och-skolan) |
-[smashwords.com](https://www.smashwords.com/books/view/1325975) |
+[smashwords.com](https://www.smashwords.com/books/view/1325975)
 
 Betygsätt gärna eller skriv en recension!
 
