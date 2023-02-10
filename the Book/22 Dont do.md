@@ -4,7 +4,7 @@
 The text written to ChatGPT is sent to servers elsewhere and handled in ways that you do not have control over. This means that no personal information for students or other sensitive information should be given to ChatGPT.
 
 ### Do not Tell Minors to Create an OpenAI Account
-The terms for creating an account with OpenAI, which owns ChatGPT, require that you are at least 18 years old. (See [openai.com/terms][1]). Encouraging students under 18 years of age to obtain an account is therefore inappropriate. For students who are 18 years of age or older, you need to consider what is appropriate when it comes to creating accounts for online services, and it is worth checking if your school has any policy on this.
+The terms for creating an account with OpenAI, which owns ChatGPT, require that you are at least 18 years old. (See [openai.com/terms][1]). Therefore, it is not appropriate to encourage students under 18 to create an OpenAI account. For students who are 18 years of age or older, you need to consider what is appropriate when it comes to creating accounts for online services, and it is worth checking if your school has any policy on this.
 
 ### Do not Use Messages from ChatGPT without First Reviewing Them
 It sounds a bit repetitive, but you always need to review and evaluate texts from ChatGPT before they reach your students. In particular, you should not use ChatGPT as an extra teacher, explaining things to students without you as the teacher verifying that what ChatGPT says is okay. The example below can make it clear why this is inappropriate.
@@ -23,9 +23,9 @@ It sounds a bit repetitive, but you always need to review and evaluate texts fro
 > 
 > So the probability of rolling a pair with three dice is 1/12 or approximately 0.083.
 
-In the conversation above, ChatGPT expresses itself clearly and succinctly, and what it says is *incorrect*. (The chance of rolling a pair is a bit more than 40 percent.) When asked, ChatGPT can even justify its answer in a way that sounds good but is inconsistent. *What ChatGPT is good at is sounding like doing math, not actually doing math.* This is an effect of ChatGPT's view of the world beginning and ending with text: It creates text that is consistent with how text typically looks – and it doesn't have to be neither logically consistent nor accurate to the world we humans live in.
+In the conversation above, ChatGPT expresses itself clearly and succinctly, and what it says is *incorrect*. (The chance of rolling a pair is a bit more than 40 percent.) When asked, ChatGPT can even provide justifications for its answer that sound good but are inconsistent. *What ChatGPT is good at is sounding like doing math, not actually doing math.* This is a result of ChatGPT's perspective that the world begins and ends with text. It generates text that is consistent with typical text patterns, but it does not have to be logically consistent or accurate with the world that humans live in.
 
-A student left to learn from ChatGPT could encounter all sorts of foolishness. At best, the student will be confused by the foolishness and ask the teacher for clarifications. But it is also possible that the student will form misconceptions, without you as a teacher even noticing when it happens, which will lead to difficulties later on.
+A student left to learn from ChatGPT could encounter all sorts of foolishness. At best, the student will be confused by the errors and seek clarification from the teacher. But it is also possible that the student will form misconceptions, without you as a teacher even noticing when it happens, which will lead to difficulties later on.
 
 This example concerns factual errors that are relatively easy to detect, but ChatGPT can throw much more hidden mistakes that can harm students in various ways.
 
