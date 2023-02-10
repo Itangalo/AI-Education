@@ -73,9 +73,9 @@ These types of mistakes are not unique to ChatGPT, and can occur even without th
 
 ## Inappropriate Messages
 
-ChatGPT has filters for certain types of messages and language. If you try to get ChatGPT to tell you how to make bombs, mix methamphetamine, or if you want suggestions on how to harass, abuse or torture someone, ChatGPT will respond by saying that it violates its policy to answer. The same applies, for example, to giving medical advice.
+ChatGPT has filters for certain types of messages and language. If you try to get ChatGPT to tell you how to make bombs, mix methamphetamine, or if you want suggestions on how to harass, abuse or torture someone, ChatGPT will respond by saying that it violates its policy to answer. The same applies, for instance, to giving medical advice.
 
-The fact that there are such filters makes ChatGPT a much safer tool, but the filters are not perfect. This means that ChatGPT can sometimes let things slip that it should keep quiet about, and that persistent users can find ways to consistently bypass the filters. (There are, not surprisingly, tips on the Internet on how to bypass the filters.)
+The fact that there are such filters makes ChatGPT a much safer tool, but the filters are not perfect. This means that ChatGPT can sometimes let things slip that it should keep quiet about, and that persistent users can find ways to consistently bypass the filters. (There are, not surprisingly, tips on the internet on how to bypass the filters.)
 
 Most of the tips and ideas in this book assume that it is the teacher who is using ChatGPT, not the student. Of course, it can still happen that students use ChatGPT, in school or outside it, and as a teacher it's good to know that inappropriate messages can pop up.
 
@@ -87,24 +87,24 @@ Most of the tips and ideas in this book assume that it is the teacher who is usi
 
 # 3: Getting Started with ChatGPT
 
-ChatGPT was created and is operated by the company OpenAI. To use ChatGPT, you need an account on OpenAI, which you can arrange through the OpenAI website (e.g., [beta.openai.com][2]). The account is free, and while a paid service recently became available in the US [^2], there are also a free service available. [OpenAI account terms of use][4] state that you must be at least 18 years old. The email address you provide must be confirmed through an email sent to that address, and then you are ready to go to [chat.openai.com][5] and start using ChatGPT.
+ChatGPT was created and is operated by the company OpenAI. To use ChatGPT, you need an account with OpenAI, which you can set up through the OpenAI website (e.g., [beta.openai.com][2]). The account is free, and while a paid service recently became available in the US [^2], there are also a free service available. [OpenAI account terms of use][4] state that you must be at least 18 years old. The email address you provide must be confirmed via an email sent to that address, and then you can go to [chat.openai.com][5] and start using ChatGPT.
 
 ![ChatGPT interface, with key elements marked 1-3.][image-1]
 
 The key parts of the chat window are (1) the input window for ChatGPT – often called a "prompt", (2) history of previous chats, and (3) the button to start new chat threads. If the selected chat thread is empty, as in the image above, a summary of some of the key features of ChatGPT is displayed.
 
-When you type something to ChatGPT, the conversation appears in the main part of the window. The response from ChatGPT grows word by word, and if the service under heavy load, it may take a few seconds for the text to appear. (If it times out, just reload the page.) The chat is saved in the left column and automatically gets a header based on its contents.
+When you type something to ChatGPT, the conversation appears in the main part of the window. The response from ChatGPT appears word by word, and if the service is under heavy load, it may take a few seconds for the text to appear. (If it times out, just reload the page.) The chat is saved in the left column and automatically gets a header based on its contents.
 
 ![ChatGPT interface as it looks when a conversation is in progress.][image-2]
 
-If you hover over your message to ChatGPT, an icon to edit the question appears, giving a new answer. Next to each answer are buttons that can be used to provide feedback on whether the answer was good or bad, which also gives a chance to indicate what you thinks would be a perfect answer. Feedback is used to improve ChatGPT.
+If you hover over your message to ChatGPT, an icon to edit the question appears, giving a new answer. Next to each answer are buttons that can be used to provide feedback on whether the answer was good or bad, which also give you a chance to indicate what you think would be a perfect answer. Feedback is used to improve ChatGPT.
 
 There is no built-in way to export text from conversations. It's common to either manually mark and copy text or take screenshots, but if you use ChatGPT frequently, you may want to consider installing a plugin in your web browser that makes it easier to copy text.
 
 ## Some Tips when Chatting with ChatGPT
 Chatting with ChatGPT is natural in many ways - you write as you would to a person. The most common ways are probably to ask short questions or to prompt ChatGPT to write something specific, and follow it up with further questions, prompts or adjustments. Some methods and tricks that may be less natural may also be good to know:
 
-* If you press enter in the chat box, the message will be sent to ChatGPT. With shift + enter, you have the ability to create line breaks without sending the message.
+* If you press enter in the chat box, the message will be sent to ChatGPT. With shift + enter, you can create line breaks without sending the message.
 * If you want to vary or reuse a longer question, it can save time to have the prompt in a text editor or word processor, where it can be edited, copied and reused more easily.
 * If you want to give long texts to ChatGPT, you can for example type "What is the most difficult part of this text?" and paste the text before sending the message, or "Below is a text I have written that I want you to give feedback on so I can improve it."
 * If you give ChatGPT a text without any question or instruction, it will respond with a summary of the text.
@@ -115,7 +115,7 @@ Chatting with ChatGPT is natural in many ways - you write as you would to a pers
 * If you want answers in a specific format, such as a bullet point list, table, or a comma-separated list - ask ChatGPT to answer in that format. ChatGPT can sometimes also answer in a format that can be imported directly into certain programs. You can also ask ChatGPT to rewrite answers it has already given in a new form.
 * If you find that ChatGPT is slow or limiting, you can try switching to OpenAI Playground at [beta.openai.com/playground][6]. It contains a more flexible (but also more complex) interface to generate AI texts.
 
-It is good to know that there is a limit to the length of messages to ChatGPT, at about two thousand words, corresponding to or 7–10 pages[^3]. If you want to give ChatGPT longer texts than that, you can try dividing the text, and for example, giving ChatGPT the instruction "I will give you a long text divided into several parts. Here is part 1. Respond 'ok' when you're done."
+It is useful to know that there is a limit to the length of messages to ChatGPT, at about two thousand words, corresponding to or 7–10 pages[^3]. If you want to give ChatGPT longer texts than that, you can try dividing the text, and for example, giving ChatGPT the instruction "I will give you a long text divided into several parts. Here is part 1. Respond 'ok' when you're done."
 
 ChatGPT allows up to 90 seconds for an answer, which can result in long answers being cut off in the middle. In such cases you can type "Can you continue from the last answer and finish it?" or simply "continue", or change the question so that ChatGPT can answer in smaller parts.
 
