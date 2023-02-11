@@ -85,7 +85,7 @@ Ideas and suggestions that ChatGPT can come up with are of course not limited to
 **As you read the conversation, consider:**
 * Are the answers from ChatGPT useful?
 * Is there anything inappropriate in the answers?
-* Feel free to ask ChatGPT for suggestions for any type of activity outside of teaching. Also, try asking follow-up questions to create material or planning for an activity.
+* Feel free to ask ChatGPT for suggestions for any type of activity outside of teaching. Also, try asking follow-up questions to create materials or to plan an activity.
 
 > **On Thursday, we have the last day before Christmas holiday. I would like to do something fun with the class I’m mentoring – a class in the natural science program, year 2 in upper secondary. Can you give me some suggestions? We have 60 minutes to use and will be in a classroom. 32 students.**
 > 
@@ -103,7 +103,7 @@ One way to utilize ChatGPT's linguistic skills is to ask it to write songs or po
 
 **When reading the conversations, consider:**
 * What educational points are there with humor like this?
-* Feel free to try creating other unexpected pieces of art based on something you will be teaching in the next few days.
+* Feel free to experiment with having ChatGPT generate other unique forms of artistic expression based on your upcoming lessons.
 
 > **Can you write a song about the 2008 financial crisis, in Eminem style?**
 > 
