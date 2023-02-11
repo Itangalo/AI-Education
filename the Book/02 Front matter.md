@@ -1,4 +1,4 @@
-Version 1.5-beta, Published on 2023-02-06.
+Version 1.4.1-beta, Published on 2023-02-11.
 
 The English edition of this book is licensed under the [CC BY-NC-SA 4.0][1] license. This allows for sharing and adapting the book, but requires proper credit to be given, and that the results shared under the same terms. Commercial usage of the material is not allowed.
 
