@@ -6,26 +6,28 @@
 </p>
 
 <p float="left" align="middle">
-  <img src="https://user-images.githubusercontent.com/262940/216779469-372d204b-7b41-4bed-aef3-1adc0dc607bf.png" title="Cover Image" width="40%" height="40%" />
+  <img src="https://user-images.githubusercontent.com/262940/218328438-e4914050-cbd4-4d36-9d10-1b76d7caecef.png" title="Cover Image" width="40%" height="40%" />
   <img src="https://user-images.githubusercontent.com/262940/216779472-acb302bb-7107-4d4e-8b36-7a8b8cee61e6.png" title="Omslagsbild" width="40%" height="40%" />
 </p>
 
 ----
 
-## AI-Powered Productivity in Education: Harnessing the Potential of ChatGPT
+## AI in Education: A Teacher's Guide to ChatGPT
 
-*AI-Powered Productivity in Education* is a comprehensive guide for teachers interested in using the AI service ChatGPT to save time and enhance the quality of their teaching. The book provides a wealth of practical examples and case studies to illustrate how ChatGPT can simplify various tasks, inspire new ideas, and create material for use in the classroom.
+*AI in Education: A Teacher's Guide to ChatGPT* is a comprehensive guide for teachers interested in using the AI service ChatGPT to save time and enhance the quality of their teaching. The book provides a wealth of practical examples and case studies to illustrate how ChatGPT can simplify various tasks, inspire new ideas, and create material for use in the classroom.
 
 The book highlights the importance of careful consideration when it comes to using ChatGPT in education, and includes descriptions of four common AI pitfalls to watch out for, including language mistakes, factual errors, skewed perspectives and values, and unreflected pedagogics.
 
 The final section of the book delves into the future of AI in education, offering insightful perspectives and predictions.
 
-Johan Falk is an experienced educator, working at a national level in Sweden. With a background in journalism, web development, and teaching, he is well-equipped to share his expertise in this field. *AI-Powered Productivity in Education* is a living document, updated regularly to reflect the latest developments in the field. If you have suggestions for improvements or additions, feel free to contribute to the GitHub project page.
+Johan Falk is an experienced educator, working at a national level in Sweden. With a background in journalism, web development, and teaching, he is well-equipped to share his expertise in this field. *AI in Education: A Teacher's Guide to ChatGPT* is a living document, updated regularly to reflect the latest developments in the field. If you have suggestions for improvements or additions, feel free to contribute to the GitHub project page.
 
 ### Download pre-release version
 
-* Download v. 1.4.1-beta as pdf: [AI-Powered Productivity in Education (2023-02-04).pdf](https://github.com/Itangalo/AI-Education/files/10713909/AI-Powered.Productivity.in.Education.2023-02-11.15.50.pdf)
-* Download v. 1.4.1-beta as epub: [AI-Powered Productivity in Education (2023-02-04).epub.zip](https://github.com/Itangalo/AI-Education/files/10713908/AI-Powered.Productivity.in.Education.2023-02-11.15.50.epub.zip)
+* Download v. 1.4.1-beta as pdf: [AI in Education: A Teacher's Guide to ChatGPT (2023-02-04).pdf](https://github.com/Itangalo/AI-Education/files/10713909/AI-Powered.Productivity.in.Education.2023-02-11.15.50.pdf)
+* Download v. 1.4.1-beta as epub: [AI in Education: A Teacher's Guide to ChatGPT in Education (2023-02-04).epub.zip](https://github.com/Itangalo/AI-Education/files/10713908/AI-Powered.Productivity.in.Education.2023-02-11.15.50.epub.zip)
+
+(The title of the book was different in version 1.4.1-beta.)
 
 ### Get updates
 
