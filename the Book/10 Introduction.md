@@ -87,7 +87,7 @@ Most of the tips and ideas in this book assume that it is the teacher who is usi
 
 # 3: Getting Started with ChatGPT
 
-ChatGPT was created and is operated by the company OpenAI. To use ChatGPT, you need an account with OpenAI, which you can set up through the OpenAI website (e.g., [beta.openai.com][2]). The account is free, and while a paid service recently became available in the US [^2], there are also a free service available. [OpenAI account terms of use][4] state that you must be at least 18 years old. The email address you provide must be confirmed via an email sent to that address, and then you can go to [chat.openai.com][5] and start using ChatGPT.
+ChatGPT was created and is operated by the company OpenAI. To use ChatGPT, you need an account with OpenAI, which you can set up through the OpenAI website (e.g., [beta.openai.com][2]). The account is free, and although a paid service called ChatGPT Plus was introduced in February, the free service remains accessible. [OpenAI account terms of use][3] state that you must be at least 18 years old. T The email address you provide must be confirmed through an email sent to it, and then you can go to [chat.openai.com][4] and start using ChatGPT.
 
 ![ChatGPT interface, with key elements marked 1-3.][image-1]
 
@@ -113,9 +113,9 @@ Chatting with ChatGPT is natural in many ways - you write as you would to a pers
 * Follow-up questions are also very useful for clarifying what you want to get out of the answers, or asking ChatGPT to develop parts of the answers that are interesting.
 * Some people experiment with long descriptions of how they want ChatGPT to behave. Such descriptions are often ended with something like "confirm that this has been understood by answering 'ok'", and the actual questions or prompts are posted in the next step in the conversation.
 * If you want answers in a specific format, such as a bullet point list, table, or a comma-separated list - ask ChatGPT to answer in that format. ChatGPT can sometimes also answer in a format that can be imported directly into certain programs. You can also ask ChatGPT to rewrite answers it has already given in a new form.
-* If you find that ChatGPT is slow or limiting, you can try switching to OpenAI Playground at [beta.openai.com/playground][6]. It contains a more flexible (but also more complex) interface to generate AI texts.
+* If you find that ChatGPT is slow or limiting, you can try switching to OpenAI Playground at [beta.openai.com/playground][5]. It contains a more flexible (but also more complex) interface to generate AI texts.
 
-It is useful to know that there is a limit to the length of messages to ChatGPT, at about two thousand words, corresponding to or 7–10 pages[^3]. If you want to give ChatGPT longer texts than that, you can try dividing the text, and for example, giving ChatGPT the instruction "I will give you a long text divided into several parts. Here is part 1. Respond 'ok' when you're done."
+It is useful to know that there is a limit to the length of messages to ChatGPT, at about two thousand words, corresponding to or 7–10 pages[^2]. If you want to give ChatGPT longer texts than that, you can try dividing the text, and for example, giving ChatGPT the instruction "I will give you a long text divided into several parts. Here is part 1. Respond 'ok' when you're done."
 
 ChatGPT allows up to 90 seconds for an answer, which can result in long answers being cut off in the middle. In such cases you can type "Can you continue from the last answer and finish it?" or simply "continue", or change the question so that ChatGPT can answer in smaller parts.
 
@@ -128,17 +128,14 @@ There are collections of prompts online that people have found particularly usef
 
 [^1]:	BBC Tech Tent, 2022-12-09: [https://www.bbc.co.uk/programmes/w3ct4khv][1]
 
-[^2]:	[https://openai.com/blog/chatgpt-plus/][3]
-
-[^3]:	[https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them][7]
+[^2]:	[https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them][6]
 
 [1]:	https://www.bbc.co.uk/programmes/w3ct4khv
 [2]:	https://beta.openai.com/
-[3]:	https://openai.com/blog/chatgpt-plus/
-[4]:	https://openai.com/terms/
-[5]:	https://chat.openai.com/
-[6]:	https://beta.openai.com/playground
-[7]:	https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them
+[3]:	https://openai.com/terms/
+[4]:	https://chat.openai.com/
+[5]:	https://beta.openai.com/playground
+[6]:	https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them
 
 [image-1]:	https://user-images.githubusercontent.com/262940/212463937-050069cb-ad3a-4e64-a212-a266b4d973b1.png
 [image-2]:	https://user-images.githubusercontent.com/262940/212463940-7cf40758-8d33-4520-8b8e-8b3cd80134c7.png
