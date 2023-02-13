@@ -1,6 +1,6 @@
 <p float="left" align="middle">
-  <a href="https://github.com/Itangalo/AI-Education/files/10713909/AI-Powered.Productivity.in.Education.2023-02-11.15.50.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217659192-4c67b258-b29d-42ea-90de-1a3715bb3929.png" height="20%" width="20%" /></a>
-  <a href="https://github.com/Itangalo/AI-Education/files/10713908/AI-Powered.Productivity.in.Education.2023-02-11.15.50.epub.zip" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217659188-0586a4b4-4fe2-4f4e-b06e-8e76994f835b.png" height="20%" width="20%" /></a>
+  <a href="https://books.apple.com/us/book/id6445699958" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" height="20%" width="20%" /></a>
+  <a href="https://www.barnesandnoble.com/w/ai-in-education-johan-falk/1143063611" target="_blank"><img src="https://user-images.githubusercontent.com/262940/218483978-ee18fda7-0bcc-48f9-aef6-4919eb1e2589.png" height="20%" width="20%" /></a>
   <a href="https://books.apple.com/us/book/id6445495939" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" height="20%" width="20%" /></a>
   <a href="https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217657515-b3688f48-3f51-4fdb-a7b1-0c5fb4235337.png" height="20%" width="20%" /></a>
 </p>
