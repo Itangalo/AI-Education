@@ -22,16 +22,9 @@ The final section of the book delves into the future of AI in education, offerin
 
 Johan Falk is an experienced educator, working at a national level in Sweden. With a background in journalism, web development, and teaching, he is well-equipped to share his expertise in this field. *AI in Education: A Teacher's Guide to ChatGPT* is a living document, updated regularly to reflect the latest developments in the field. If you have suggestions for improvements or additions, feel free to contribute to the GitHub project page.
 
-### Download pre-release version
-
-* Download v. 1.4.1-beta as pdf: [AI in Education: A Teacher's Guide to ChatGPT (2023-02-04).pdf](https://github.com/Itangalo/AI-Education/files/10713909/AI-Powered.Productivity.in.Education.2023-02-11.15.50.pdf)
-* Download v. 1.4.1-beta as epub: [AI in Education: A Teacher's Guide to ChatGPT in Education (2023-02-04).epub.zip](https://github.com/Itangalo/AI-Education/files/10713908/AI-Powered.Productivity.in.Education.2023-02-11.15.50.epub.zip)
-
-(The title of the book was different in version 1.4.1-beta.)
-
 ### Get updates
 
-Send an email to [ai-education@falk.one](mailto:ai-education@falk.one?Subject=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book&Body=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book). The email is sent to the author, who will not share your email address with others.
+Want to get updates? Send an email to [ai-education@falk.one](mailto:ai-education@falk.one?Subject=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book&Body=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book). The email is sent to the author, who will not share your email address with others.
 
 ----
 
