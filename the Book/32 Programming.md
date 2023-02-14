@@ -1,11 +1,11 @@
 # 9: Programming
-ChatGPT is, for better or for worse, pretty good at both understanding and writing computer programs. If your teaching includes programming, there is therefore extra support to get from AI.
+ChatGPT is, for better or for worse, pretty good at both understanding and writing computer programs. If your teaching involves programming, AI can offer extra support.
 
 An advantage of getting ChatGPT assistance in programming is that some of the AI pitfalls you can fall into become less serious. When ChatGPT provides incorrect tips on code snippets, it will be noticed more or less immediately, and questions about perspective and values play a much smaller role as long as you stick to programming questions only (unless you start discussing different paradigms in programming).
 
 Some programming languages works better than others when asking ChatGPT to explain or create code. A reasonable starting point is that the more common the programming language is, the better ChatGPT is at the language.
 
-The internet has many examples of how ChatGPT can be used for programming. In this book contains a few selected examples. More dedicated programmers could, for example, use ChatGPT to write tests, create credible dummy content, create stub code for entire applications, or get suggestions for architecture.
+The internet has many examples of how ChatGPT can be used for programming. In this book contains a few selected examples. More experienced programmers could, for example, use ChatGPT to write tests, create credible dummy content, create stub code for entire applications, or get suggestions for architecture.
 
 ChatGPT outputs code blocks with syntax highlighting, while there are no colors in this book.
 
@@ -13,8 +13,8 @@ ChatGPT outputs code blocks with syntax highlighting, while there are no colors 
 ChatGPT can create ready-to-use small programs, often with surprisingly well-commented code and high flexibility.
 
 **When you read the conversation, consider:**
-* Would you benefit from AI-created simple computer programs in your teaching? How?
-* What opportunities and risks exist for students to ask ChatGPT for simple computer programs themselves?
+* Would your teaching benefit from simple AI-created computer programs? How?
+* What are the opportunities and risks for students to request simple computer programs from ChatGPT?
 
 > **Can you write a Python program that tests the likelihood that at least two people in a group of 26 people have the same birthday? Use the Monte Carlo method.**
 >  

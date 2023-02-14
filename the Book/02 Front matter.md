@@ -1,9 +1,9 @@
-Version 1.4-beta, published 2023-02-04.
+Version 1.5, Published on 2023-02-12.
 
-The English version of the book is licensed under [CC BY-NC-SA 4.0][1]. This means that you may share and adapt the book, but must give appropriate credit, share under the same terms, and may not use the material for commercial purposes.
+The English edition of this book is licensed under the [CC BY-NC-SA 4.0][1] license. This allows for sharing and adapting the book, but requires proper credit to be given, and that the results shared under the same terms. Commercial usage of the material is not allowed.
 
-This book has a project page at [github.com/Itangalo/AI-och-skolan][2] (link subject to change), where you are welcome to suggest improvements and additions. Send an email to [aiochskolan@falk.one][3] to be notified when new versions of the book become available.
+This book has a project page on [github.com/Itangalo/AI-Education][2], where suggestions for improvement and additions are welcome. If you would like to be notified when new versions of the book become available, please send an email to [ai-education@falk.one][3].
 
 [1]:	https://creativecommons.org/licenses/by-nc-sa/4.0/
-[2]:	https://github.com/Itangalo/AI-och-skolan/
-[3]:	mailto:aiochskolan@falk.one
+[2]:	https://github.com/Itangalo/AI-Education/
+[3]:	mailto:ai-education@falk.one

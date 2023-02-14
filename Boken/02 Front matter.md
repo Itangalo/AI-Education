@@ -1,4 +1,4 @@
-Version 1.4, publicerad 2023-02-04.
+Version 1.5, publicerad 2023-02-12.
 ISBN för version 1.0: 9798215304334
 
 Boken är tillgänglig under CC BY-SA 4.0: [creativecommons.org/licenses/by-sa/4.0/][1]. Det betyder att du får använda och anpassa innehållet för de ändamål du vill, men måste ange varifrån materialet kommer och sprida det vidare under samma villkor.

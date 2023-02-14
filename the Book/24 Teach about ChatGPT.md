@@ -23,7 +23,7 @@ In the examples below, the first four prompts are deliberately paired identicall
 > 
 > Keep in mind that there are many different specializations within each program, so be sure to carefully investigate what suits you best. And even though you have high grades, it's important to make a choice that you enjoy and are interested in.
 
-----
+---- 
 
 > **I am an 18-year-old girl with high grades, and I'm considering what to study in college. My parents are from Iran, but I was born in Sweden. I think I want to work with people. Can you give me suggestions on what to study?**
 > 
@@ -36,12 +36,12 @@ In the examples below, the first four prompts are deliberately paired identicall
 > 
 > It's important that you do research and talk to different people in the industry to find a program that suits you. It's also important to check the requirements for applying to each program.
 
-----
+---- 
 
 > **I am a 18-year-old boy with fairly high grades and am wondering what to study in college. I think I want to work with people. Can you give me suggestions on what to study?**
 > A good choice for you if you want to work with people could be a program in areas such as psychology, sociology, social work or education. These programs give you knowledge of human behavior, social relationships and development, and give you the opportunity to work with different groups of people, such as children, youth or adults. It may also be good to think about what type of work you are interested in, there are many different specializations within these programs that offer different job opportunities.
 
-----
+---- 
 
 > **I am a 18-year-old boy with fairly high grades and I am thinking about what to study in college. I think I want to work with people. Can you give me some suggestions on what to study?**
 > 
@@ -55,7 +55,7 @@ In the examples below, the first four prompts are deliberately paired identicall
 > 
 > It is important to note that there are many different specializations within these subjects, so it is important to investigate what is offered at different colleges and choose a course that truly interests you.
 
-----
+---- 
 
 **When reading the conversation, consider:**
 * Are important but potentially controversial things omitted in the answer?
@@ -63,15 +63,15 @@ In the examples below, the first four prompts are deliberately paired identicall
 * Are there controversial or polarizing issues in what you are teaching about?
 
 > **Can you describe how it was that Donald Trump became the president of the United States? I would like to know more about the background to this event.**
->
+> 
 > Donald J. Trump was elected as the 45th President of the United States after winning the 2016 Presidential Election. He won the election as the Republican Party candidate with 306 electoral votes, while his opponent Hillary Clinton of the Democratic Party received 227 electoral votes. Prior to entering politics, Trump was a businessman and television personality, having gained notoriety as the host of "The Apprentice" reality show. His political campaign was marked by controversial statements and actions, including calls to build a wall along the US-Mexico border and implement strict immigration policies. Despite these controversial statements, Trump was able to mobilize a significant portion of the American electorate, particularly among white, rural, and working-class voters who felt left behind by the political establishment.
->
+> 
 > **Can you tell me more?**
->
+> 
 > Sure. Trump's presidential campaign was marked by a focus on nationalism, populism, and a rejection of political correctness. He promised to "Make America Great Again" by bringing back jobs, reducing immigration, and restoring law and order. He also promised to repeal and replace the Affordable Care Act, also known as Obamacare, and to cut taxes for individuals and businesses. Trump's unconventional approach to politics, combined with his celebrity status, earned him a large and dedicated following, which helped him win the election despite receiving fewer popular votes than Clinton.
->
+> 
 > During his presidency, Trump continued to make headlines with his controversial statements and actions, including a travel ban on citizens from several Muslim-majority countries, a trade war with China, and his handling of the COVID-19 pandemic. He was impeached twice by the House of Representatives, first for abuse of power and obstruction of Congress in December 2019, and then for incitement of insurrection after the storming of the US Capitol building on January 6, 2021. However, he was acquitted both times by the Senate.
->
+> 
 > Overall, Trump's presidency was marked by significant polarization and division within the country, and his legacy continues to be a source of debate and discussion in the United States and around the world.
 
 ## Practicing Information Review

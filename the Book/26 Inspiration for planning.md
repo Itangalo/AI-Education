@@ -116,12 +116,12 @@ ChatGPT can provide feedback that is sometimes accurate and often at least helps
 
 ## Suggestions for Describing or Explaining Topics
 
-As ChatGPT's messages sometimes contain inaccuracies (or often for certain topics), it is inappropriate to directly let ChatGPT explain things to students. However, ChatGPT can provide good suggestions that you as a teacher can assess and then either use yourself or pass on to the student (after any adjustments). It also provides the opportunity to take into account special circumstances for groups or individual students.
+Since ChatGPT's messages can sometimes contain inaccuracies, especially for certain topics, it is not appropriate to let ChatGPT directly explain things to students. However, ChatGPT can provide good suggestions that you as a teacher can assess and then either use yourself or pass on to the student (after any adjustments). It also offers the opportunity to consider and accommodate special circumstances for individual students or groups.
 
 **When reading the conversation, consider:**
 * Do the answers from ChatGPT seem to be factually correct? Are there things you would like to add or change?
 * What do you think, from a pedagogical perspective, about creating descriptions tailored to specific interests that students have?
-* Feel free to ask ChatGPT to describe one or more concepts that you yourself teach students. Can you spot any factual errors or skewed perspectives? Also feel free to try asking ChatGPT to explain something based on specific interests of one or more of your students.
+* Feel free to ask ChatGPT to describe one or more concepts that you teach to students. Are there any factual errors or skewed perspectives that you can identify? Also feel free to try asking ChatGPT to explain something based on specific interests of one or more of your students.
 
 > **Can you explain the mechanisms of inflation on a level suitable for a 15 year old student?**
 > 
@@ -152,9 +152,9 @@ As ChatGPT's messages sometimes contain inaccuracies (or often for certain topic
 
 ## Ideas for High School Projects, Thematic Projects, etc.
 
-ChatGPT's breadth of information can be useful for generating whole lists of ideas where one might have a hard time coming up with more than a few ideas. From the lists, you can choose what feels feasible and pedagogically useful.
+ChatGPT's breadth of information can be useful for generating whole lists of ideas where one might have a hard time coming up with more than a few ideas. From the lists, you can choose ideas that are both feasible and align with your teaching goals.
 
-**When you read the conversations, think about:**
+**When you read the conversations, consider:**
 * Do the suggestions from ChatGPT seem useful and pedagogically meaningful?
 * What areas do you have where you can benefit from using ChatGPT as an idea generator? Feel free to ask for ideas and evaluate them.
 

@@ -2,7 +2,7 @@
 AI in education
 * OpenAI’s educator considerations for ChatGPT: [platform.openai.com/docs/chatgpt-education][1]
 * European Union’s ethical guidelines on using AI in schools: [education.ec.europa.eu/news/ethical-guidelines-on-the-use-of-artificial-intelligence-and-data-in-teaching-and-learning-for-educators][2]
-* A well-written and comprehensive article on ChatGPT, related AI technology and eduction, from the Decoder (January 7th, 2023): [the-decoder.com/ai-in-education-chatgpt-is-just-the-beginning/][3]
+* A comprehensive and well-written article on ChatGPT, related AI technology and education, from the Decoder (January 7th, 2023): [the-decoder.com/ai-in-education-chatgpt-is-just-the-beginning/][3]
 * A Teacher’s Prompt Guide to ChatGPT, from Andrew Herft/@herfteducation: [bit.ly/WWBChatGPT][4]
 * MIT AI Literacy Units: [raise.mit.edu/resources.html][5]
 * UNESCO report on K–12 curricula that include AI: [unesdoc.unesco.org/ark:/48223/pf0000380602][6]
