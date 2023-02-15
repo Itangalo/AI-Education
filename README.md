@@ -6,8 +6,8 @@
 </p>
 
 <p float="left" align="middle">
-  <img src="https://user-images.githubusercontent.com/262940/218328438-e4914050-cbd4-4d36-9d10-1b76d7caecef.png" title="Cover Image" width="40%" height="40%" />
-  <img src="https://user-images.githubusercontent.com/262940/216779472-acb302bb-7107-4d4e-8b36-7a8b8cee61e6.png" title="Omslagsbild" width="40%" height="40%" />
+  <a href="https://books2read.com/aiineducation" target="_blank"><img src="https://user-images.githubusercontent.com/262940/218328438-e4914050-cbd4-4d36-9d10-1b76d7caecef.png" title="Cover Image" width="40%" height="40%" /></a>
+  <a href="https://books2read.com/aiochskolan" target="_blank"><img src="https://user-images.githubusercontent.com/262940/216779472-acb302bb-7107-4d4e-8b36-7a8b8cee61e6.png" title="Omslagsbild" width="40%" height="40%" /></a>
 </p>
 
 ----
