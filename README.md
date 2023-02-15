@@ -12,7 +12,7 @@
 
 | RELEASE WEEK OFFER |
 :--------------------:
-| Until February 19th, anyone mailing [ai-education@falk.one](mailto:ai-education@falk.one?Subject=I%20want%20the%20book&Body=Please%20send%20me%20pdf%20and%20epub%20versions%20of%20AI%20in%20Education) asking for the _AI in Education_ will have the book sent for free! |
+| [Sign up for updates about _AI in Education_ before Sunday (February 19th) to get an epub and pdf version of the book sent for free!](https://dashboard.mailerlite.com/forms/330475/80213509929961441/share) |
 
 ----
 
