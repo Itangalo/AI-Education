@@ -29,7 +29,7 @@ Johan Falk is an experienced educator, working at a national level in Sweden. Wi
 
 ### Get updates
 
-Want to get updates? Send an email to [ai-education@falk.one](mailto:ai-education@falk.one?Subject=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book&Body=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book). The email is sent to the author, who will not share your email address with others.
+[Sign up to get an email when new versions of AI in Education are available.](https://dashboard.mailerlite.com/forms/330475/80213509929961441/share)
 
 ### Experimental audiobook
 
@@ -49,7 +49,7 @@ Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenska
 
 ### Få reda på när nya versioner kommer
 
-Skicka ett mail till [aiochskolan@falk.one](mailto:aiochskolan@falk.one?Subject=Meddela%20vid%20nya%20versioner%20av%20AI%20och%20skolan&Body=Jag%20vill%20veta%20n%C3%A4r%20det%20kommer%20nya%20versioner%20av%20boken.). Mailet går direkt till författaren, som inte kommer att använda adressen för spam.
+[Lämna din e-postadress så får du meddelanden när nya versioner av AI och skolan är tillgängliga.](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share)
 
 ### Ladda hem boken
 
