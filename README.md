@@ -48,11 +48,11 @@ Skicka ett mail till [aiochskolan@falk.one](mailto:aiochskolan@falk.one?Subject=
 
 ### Ladda hem boken
 
-#### Senaste versionen (1.4) här från projektsidan
+#### Senaste versionen (1.5) här från projektsidan
 
-[Epub](https://github.com/Itangalo/AI-Education/files/10609124/AI.och.skolan.2023-02-04.epub.zip) |
-[pdf](https://github.com/Itangalo/AI-Education/files/10609125/AI.och.skolan.2023-02-04.pdf) |
-[Word/docx (utan omslagsbild, kan finnas problem med fonter)](https://github.com/Itangalo/AI-Education/files/10609123/AI.och.skolan.2023-02-04.docx)
+[Epub](https://github.com/Itangalo/AI-Education/files/10716412/AI.och.skolan.2023-02-12.16.28.epub.zip) |
+[pdf](https://github.com/Itangalo/AI-Education/files/10716413/AI.och.skolan.2023-02-12.16.28.pdf) |
+[Word/docx (utan omslagsbild, kan finnas problem med fonter)](https://github.com/Itangalo/AI-Education/files/10716411/AI.och.skolan.2023-02-12.16.28.docx)
 
 #### Från e-bokhandel (v. 1.0)
 
