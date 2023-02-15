@@ -26,6 +26,10 @@ Johan Falk is an experienced educator, working at a national level in Sweden. Wi
 
 Want to get updates? Send an email to [ai-education@falk.one](mailto:ai-education@falk.one?Subject=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book&Body=Please%20notify%20me%20on%20new%20version%20of%20the%20AI%20book). The email is sent to the author, who will not share your email address with others.
 
+### Experimental audiobook
+
+Thanks to Jonatan Tensetti for arranging an audiobook version of AI in Education, using Google Cloud Text-to-Speech. [Download files from here.](https://drive.google.com/drive/folders/1UD47QwOr-_k7Hhzm08FbLwEGBGiyMoAL?usp=share_link)
+
 ----
 
 ## AI och skolan – hur du som lärare kan använda ChatGPT med omdöme och undvika fyra typer av AI-fällor
