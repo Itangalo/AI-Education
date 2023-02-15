@@ -10,11 +10,11 @@
   <a href="https://books2read.com/aiochskolan" target="_blank"><img src="https://user-images.githubusercontent.com/262940/216779472-acb302bb-7107-4d4e-8b36-7a8b8cee61e6.png" title="Omslagsbild" width="40%" height="40%" /></a>
 </p>
 
-----
-
 | RELEASE WEEK OFFER |
 :--------------------:
 | Until February 19th, anyone mailing [ai-education@falk.one](mailto:ai-education@falk.one?Subject=I%20want%20the%20book&Body=Please%20send%20me%20pdf%20and%20epub%20versions%20of%20AI%20in%20Education) asking for the _AI in Education_ will have the book sent for free! |
+
+----
 
 
 ## AI in Education: A Teacher's Guide to ChatGPT
