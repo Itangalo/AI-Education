@@ -12,6 +12,11 @@
 
 ----
 
+| Release week offer |
+:--------------------:
+| Until February 19th, anyone mailing [ai-education@falk.one](mailto:ai-education@falk.one?Subject=I%20want%20the%20book&Body=Please%20send%20me%20pdf%20and%20epub%20versions%20of%20AI%20in%20Education) asking for the book will have it sent for free! |
+
+
 ## AI in Education: A Teacher's Guide to ChatGPT
 
 *AI in Education: A Teacher's Guide to ChatGPT* is a comprehensive guide for teachers interested in using the AI service ChatGPT to save time and enhance the quality of their teaching. The book provides a wealth of practical examples and case studies to illustrate how ChatGPT can simplify various tasks, inspire new ideas, and create material for use in the classroom.
