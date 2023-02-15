@@ -1,6 +1,6 @@
 <p float="left" align="middle">
   <a href="https://books.apple.com/us/book/id6445699958" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" height="20%" width="20%" /></a>
-  <a href="https://www.barnesandnoble.com/w/ai-in-education-johan-falk/1143063611" target="_blank"><img src="https://user-images.githubusercontent.com/262940/218483978-ee18fda7-0bcc-48f9-aef6-4919eb1e2589.png" height="20%" width="20%" /></a>
+  <a href="https://www.amazon.com/dp/B0BVP216G9" target="_blank"><img src="https://user-images.githubusercontent.com/262940/219131870-10c07f3f-1a00-4827-8991-72f27f6694da.png" height="40%" width="40%" /></a>
   <a href="https://books.apple.com/us/book/id6445495939" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" height="20%" width="20%" /></a>
   <a href="https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217657515-b3688f48-3f51-4fdb-a7b1-0c5fb4235337.png" height="20%" width="20%" /></a>
 </p>
