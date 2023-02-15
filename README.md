@@ -12,7 +12,7 @@
 
 | RELEASE WEEK OFFER |
 :--------------------:
-| [Sign up for updates about _AI in Education_ before Sunday (February 19th) to get an epub and pdf version of the book sent for free!](https://dashboard.mailerlite.com/forms/330475/80213509929961441/share) Unsubscribe at any time. |
+| [Sign up for updates](https://dashboard.mailerlite.com/forms/330475/80213509929961441/share) about _AI in Education_ before Sunday (February 19th) to get an epub and pdf version of the book sent for free! Unsubscribe at any time. |
 
 ----
 
