@@ -10,10 +10,6 @@
   <a href="https://books2read.com/aiochskolan" target="_blank"><img src="https://user-images.githubusercontent.com/262940/216779472-acb302bb-7107-4d4e-8b36-7a8b8cee61e6.png" title="Omslagsbild" width="40%" height="40%" /></a>
 </p>
 
-| RELEASE WEEK OFFER |
-:--------------------:
-| [Sign up for updates](https://dashboard.mailerlite.com/forms/330475/80213509929961441/share) about _AI in Education_ before Sunday (February 19th) to get an epub and pdf version of the book sent for free! Unsubscribe at any time. |
-
 ----
 
 
