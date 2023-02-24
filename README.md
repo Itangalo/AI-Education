@@ -45,12 +45,12 @@ Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenska
 
 ### Mer länkar
 
-* [Lämna din e-postadress så får du meddelanden när nya versioner av AI och skolan är tillgängliga.](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share)
+* [Få meddelande när versioner av AI och skolan är tillgängliga.](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share)
 
 Ladda hem senaste versionen (1.5) här från projektsidan
 
-* [Epub](https://github.com/Itangalo/AI-Education/files/10716412/AI.och.skolan.2023-02-12.16.28.epub.zip) |
-* [pdf](https://github.com/Itangalo/AI-Education/files/10716413/AI.och.skolan.2023-02-12.16.28.pdf) |
+* [Epub](https://github.com/Itangalo/AI-Education/files/10716412/AI.och.skolan.2023-02-12.16.28.epub.zip)
+* [pdf](https://github.com/Itangalo/AI-Education/files/10716413/AI.och.skolan.2023-02-12.16.28.pdf)
 * [Word/docx (utan omslagsbild, kan finnas problem med fonter)](https://github.com/Itangalo/AI-Education/files/10716411/AI.och.skolan.2023-02-12.16.28.docx)
 
 Skaffa boken genom e-bokhandel (v. 1.0)
@@ -60,9 +60,7 @@ Skaffa boken genom e-bokhandel (v. 1.0)
 * [kobo.com](https://www.kobo.com/se/sv/ebook/ai-och-skolan)
 * [smashwords.com](https://www.smashwords.com/books/view/1325975)
 
-AI-inläsning av boken (v. 1.4)
-
-*Tack till Jonatan Tensetti som ordnat med AI-inläsning av boken!*
+AI-inläsning av boken (v. 1.4) – *Tack till Jonatan Tensetti som ordnat med AI-inläsning av boken!*
 
 * [Hela boken](https://drive.google.com/file/d/1vcxGcdf3HL0lksZSX44xdalugAAvaMln/view?usp=share_link)
 * [Inledning](https://drive.google.com/file/d/1eY6rzpt_wget4SQFGhnLK0Dvh2NgU0Gu/view?usp=share_link)
