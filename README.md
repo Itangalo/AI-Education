@@ -45,7 +45,7 @@ Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenska
 
 ### Mer länkar
 
-* [Få meddelande när versioner av AI och skolan är tillgängliga.](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share)
+* [Få meddelande när versioner av AI och skolan är tillgängliga](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share)
 
 Ladda hem senaste versionen (1.5) här från projektsidan
 
