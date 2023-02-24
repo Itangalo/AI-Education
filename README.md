@@ -43,37 +43,37 @@ Den sista delen av boken ger mer perspektiv på AI, skola och framtiden.
 
 Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. _AI och skolan_ är en e-bok som uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg här på [github.com/Itangalo/AI-Education][1].
 
-### Få reda på när nya versioner kommer
+### Mer länkar
 
-[Lämna din e-postadress så får du meddelanden när nya versioner av AI och skolan är tillgängliga.](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share)
+* [Lämna din e-postadress så får du meddelanden när nya versioner av AI och skolan är tillgängliga.](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share)
 
-### Ladda hem boken
+Ladda hem senaste versionen (1.5) här från projektsidan
 
-#### Senaste versionen (1.5) här från projektsidan
+* [Epub](https://github.com/Itangalo/AI-Education/files/10716412/AI.och.skolan.2023-02-12.16.28.epub.zip) |
+* [pdf](https://github.com/Itangalo/AI-Education/files/10716413/AI.och.skolan.2023-02-12.16.28.pdf) |
+* [Word/docx (utan omslagsbild, kan finnas problem med fonter)](https://github.com/Itangalo/AI-Education/files/10716411/AI.och.skolan.2023-02-12.16.28.docx)
 
-[Epub](https://github.com/Itangalo/AI-Education/files/10716412/AI.och.skolan.2023-02-12.16.28.epub.zip) |
-[pdf](https://github.com/Itangalo/AI-Education/files/10716413/AI.och.skolan.2023-02-12.16.28.pdf) |
-[Word/docx (utan omslagsbild, kan finnas problem med fonter)](https://github.com/Itangalo/AI-Education/files/10716411/AI.och.skolan.2023-02-12.16.28.docx)
+Skaffa boken genom e-bokhandel (v. 1.0)
 
-#### Från e-bokhandel (v. 1.0)
+* [Apple Books](https://books.apple.com/us/book/id6445495939)
+* [Google Play](https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1) (version 1.3!)
+* [kobo.com](https://www.kobo.com/se/sv/ebook/ai-och-skolan)
+* [smashwords.com](https://www.smashwords.com/books/view/1325975)
 
-[Apple Books](https://books.apple.com/us/book/id6445495939) |
-[Google Play](https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1) (version 1.3!) |
-[kobo.com](https://www.kobo.com/se/sv/ebook/ai-och-skolan) |
-[smashwords.com](https://www.smashwords.com/books/view/1325975)
-
-Betygsätt gärna eller skriv en recension!
-
-#### AI-inläsning av boken (v. 1.4)
+AI-inläsning av boken (v. 1.4)
 
 *Tack till Jonatan Tensetti som ordnat med AI-inläsning av boken!*
 
-[Hela boken](https://drive.google.com/file/d/1vcxGcdf3HL0lksZSX44xdalugAAvaMln/view?usp=share_link) |
-[Inledning](https://drive.google.com/file/d/1eY6rzpt_wget4SQFGhnLK0Dvh2NgU0Gu/view?usp=share_link) |
-[Del 1](https://drive.google.com/file/d/1EwkdXqQMl4DRMi2_FAyqwaw25kyxB8IX/view?usp=share_link) |
-[Del 2](https://drive.google.com/file/d/1Dg0vdVllufdd58CLnbps_INbzeZpTq_i/view?usp=share_link) |
-[Del 3](https://drive.google.com/file/d/10DnMuunhd6oSoaDfJ_DhcRuOxQqKJ2Zk/view?usp=share_link) |
-[Appendix](https://drive.google.com/file/d/1KgV5W0H1kJostl9eVELoN6JNoyXVH2i9/view?usp=share_link)
+* [Hela boken](https://drive.google.com/file/d/1vcxGcdf3HL0lksZSX44xdalugAAvaMln/view?usp=share_link)
+* [Inledning](https://drive.google.com/file/d/1eY6rzpt_wget4SQFGhnLK0Dvh2NgU0Gu/view?usp=share_link)
+* [Del 1](https://drive.google.com/file/d/1EwkdXqQMl4DRMi2_FAyqwaw25kyxB8IX/view?usp=share_link)
+* [Del 2](https://drive.google.com/file/d/1Dg0vdVllufdd58CLnbps_INbzeZpTq_i/view?usp=share_link)
+* [Del 3](https://drive.google.com/file/d/10DnMuunhd6oSoaDfJ_DhcRuOxQqKJ2Zk/view?usp=share_link)
+* [Appendix](https://drive.google.com/file/d/1KgV5W0H1kJostl9eVELoN6JNoyXVH2i9/view?usp=share_link)
+
+Föreläsning genom Folkuniversitetet med utgångspunkt i boken
+
+* [Inspelat webbinarium](https://www.youtube.com/watch?v=N0Sgv41RGHc)
 
 
 ### Hänvisa till boken
