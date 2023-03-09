@@ -2,7 +2,7 @@
   <a href="https://books.apple.com/us/book/id6445699958" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" height="20%" width="20%" /></a>
   <a href="https://www.amazon.com/dp/B0BVP216G9" target="_blank"><img src="https://user-images.githubusercontent.com/262940/219131870-10c07f3f-1a00-4827-8991-72f27f6694da.png" height="20%" width="20%" /></a>
   <a href="https://books.apple.com/us/book/id6445495939" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" height="20%" width="20%" /></a>
-  <a href="https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217657515-b3688f48-3f51-4fdb-a7b1-0c5fb4235337.png" height="20%" width="20%" /></a>
+  <a href="https://books2read.com/aiochskolan" target="_blank"><img src="https://user-images.githubusercontent.com/262940/224125542-71841377-f102-4448-828a-0547da6b869e.png" height="20%" width="20%" /></a>
 </p>
 
 <p float="left" align="middle">
@@ -56,7 +56,6 @@ Ladda hem senaste versionen (1.5) här från projektsidan
 Skaffa boken genom e-bokhandel (v. 1.0)
 
 * [Apple Books](https://books.apple.com/us/book/id6445495939)
-* [Google Play](https://play.google.com/store/books/details?id=QeCoEAAAQBAJ&pli=1) (version 1.3!)
 * [kobo.com](https://www.kobo.com/se/sv/ebook/ai-och-skolan)
 * [smashwords.com](https://www.smashwords.com/books/view/1325975)
 
