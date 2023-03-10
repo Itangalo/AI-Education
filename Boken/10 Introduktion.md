@@ -71,6 +71,8 @@ ChatGPT:s mångsidighet och imponerande förmåga att skapa sakliga, tydliga och
 
 De här typerna av misstag är inte unika för ChatGPT, och kan uppstå även helt utan teknikens hjälp. Och den som aldrig gått i de här fällorna har förmodligen inte undervisat alls – och det måste vara ok att göra fel. Men den som har de fyra AI-fällorna i bakhuvudet har förmodligen lättare att undvika dem.
 
+En speciell form av perspektiv- och värderingsfällan är att ChatGPT verkar ha en pedagogisk stil eller metod som den föredrar, med aktiv inlärning av elever och varierade sätt att presentera olika begrepp eller fenomen. Det är knappast den sämsta undervisningsstilen man kan tänka sig, men inte heller den enda.
+
 ## Olämpliga budskap
 
 ChatGPT har spärrar för vissa typer av budskap. Om du försöker få ChatGPT att berätta hur man skapar bomber, blandar metamfetamin eller om du vill få förslag på hur man kan trakassera, misshandla eller tortera någon kommer ChatGPT svara med att det bryter mot dess policy att svara. Samma sak gäller exempelvis att ge medicinsk rådgivning (vilket förmodligen har att göra med amerikansk lagstiftning).
