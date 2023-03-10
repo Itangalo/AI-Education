@@ -3,7 +3,7 @@
 ## Sammanfatta dokument för att hitta givande läsning
 Genom att klistra in textmassor och be ChatGPT sammanfatta dem är det möjligt att få en uppfattning av texter utan att behöva läsa allt själv. Givetvis förlorar man information i en sådan sammanfattning, och det finns risk att ChatGPT missar eller förvanskar väsentliga aspekter – men det gör det samtidigt möjligt att skumma många fler dokument och välja en eller ett par texter att läsa närmare.
 
-En begränsning är att ChatGPT inte accepterar prompter som är längre än ungefär 2000 ord. Med längre dokument kan man dela upp dem i flera steg (se tipsen sist i kapitel 3), men det kan bli opraktiskt för riktigt långa texter, och det är troligt att ChatGPT tar mindre hänsyn till saker som skrevs långt bak i en chatt-konversation.
+En begränsning är att ChatGPT inte accepterar prompter som är längre än ungefär 2000 ord. Med längre dokument kan man dela upp dem i flera steg (se tipsen sist i kapitel 1-3), men det kan bli opraktiskt för riktigt långa texter, och det är troligt att ChatGPT tar mindre hänsyn till saker som skrevs långt bak i en chatt-konversation.
 
 **När du läser konversationen, fundera på:**
 * Tycker du att ChatGPT:s sammanfattning nedan är rättvisande?
@@ -80,7 +80,7 @@ Notera att den här användningen syftar till att utveckla skrivförmågan – i
 * Finns det andra områden relaterat till ditt arbete där du tror att ChatGPT skulle kunna fungera som coach?
 
 > ** Nedan är en text jag skrivit som ger en bakgrund till ChatGPT. Kan du ge förslag på hur jag kan utveckla min skrivförmåga? Jag vill veta generella styrkor och svagheter i mitt sätt att skriva, inte hur jag kan förbättra just den här texten.**
-> **[Inklistrad text från kapitel 12.]**
+> **[Inklistrad text från kapitel 3-1.]**
 >  
 > Generellt sett har du en bra förståelse för ämnet och har presenterat informationen på ett organiserat och sammanhängande sätt. Följande är några saker du kan fokusera på för att utveckla din skrivförmåga:
 > 1. Korta och koncisa meningar: Försök att undvika långa, komplexa meningar och förenkla ditt språk så mycket som möjligt.

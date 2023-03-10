@@ -6,7 +6,7 @@
 
 Till det yttre är ChatGPT ett chattfönster där man skriver meddelanden till en chatbot, som svarar. Det finns dock flera saker som gör ChatGPT speciell. Det första är att den skriver på ett mänskligt sätt – den följer konversationen, skriver vettiga saker och är dessutom allmänt trevlig. Det andra som gör ChatGPT speciell är att den har massor med kunskaper även om detaljområden: Du kan fråga om modelljärnvägens historia, vad som krävs för att odla potatis på ett effektivt sätt eller vad som utmärker schottis som dans, och ChatGPT kommer att svara på ett tydligt och förtroendeingivande sätt.
 
-ChatGPT drivs av en så kallad AI-modell som har blivit tränad på stora delar av den text som fanns tillgänglig på internet fram till 2021. Det är mer text än en människa hinner läsa i hela sitt liv – faktiskt så mycket att det skulle kräva 57 miljarder människoåldrar att läsa igenom alltihop[^1]. Texten är utgångspunkt för de svar som ChatGPT ger, men svaren slås inte upp eller kopieras från det som AI-modellen läst. I stället har textmassan använts för att destillera fram mönster för hur text och ord brukar hänga samman. Utifrån det gör ChatGPT gissningar på vilka ord som passar bra att skriva, och samma fråga ger i regel lite olika svar om den ställs flera gånger. (Mer information om ChatGPT finns i kapitel 12.)
+ChatGPT drivs av en så kallad AI-modell som har blivit tränad på stora delar av den text som fanns tillgänglig på internet fram till 2021. Det är mer text än en människa hinner läsa i hela sitt liv – faktiskt så mycket att det skulle kräva 57 miljarder människoåldrar att läsa igenom alltihop[^1]. Texten är utgångspunkt för de svar som ChatGPT ger, men svaren slås inte upp eller kopieras från det som AI-modellen läst. I stället har textmassan använts för att destillera fram mönster för hur text och ord brukar hänga samman. Utifrån det gör ChatGPT gissningar på vilka ord som passar bra att skriva, och samma fråga ger i regel lite olika svar om den ställs flera gånger. (Mer information om ChatGPT finns i kapitel 3-1.)
 
 I den här boken finns många utdrag från konversationer med ChatGPT. De är i regel ordagrant återgivna – det du läser är hur konversationen med ChatGPT sett ut. Den fetstilade texten är frågan (”prompten”) från användaren, det övriga är svaret från AI:n. I vissa fall är dock texten lätt redigerad för att formatmässigt passa bättre i bokform, och i vissa fall har större mängder inklistrad text i frågan ersatts av en kort beskrivning inom hakparentes.
 
@@ -47,7 +47,7 @@ I den här boken finns många utdrag från konversationer med ChatGPT. De är i 
 > 
 > Det finns många olika varianter av schottis, och dansen kan variera beroende på region och tradition. Men oavsett var och hur den dansas, är schottis känd för sin livliga och energiska karaktär.
 
-Att börja använda ChatGPT kan vara överväldigande eller till och med omvälvande. Oavsett om du ställer frågor om cellbiologi, August Strindberg eller buddhismens historia har den svar, som levereras sakligt och tydligt. Den kan sammanfatta texter, skriva dikter, skapa datorprogram, hitta på godnattsagor, ge återkoppling på och ge förbättringsförslag på textutkast, och utveckla sina resonemang i en konversation med en människa. I kapitel 13 kan du läsa mer om hur verktyg som ChatGPT skulle kunna påverka vår syn på kunskap, och på oss själva.
+Att börja använda ChatGPT kan vara överväldigande eller till och med omvälvande. Oavsett om du ställer frågor om cellbiologi, August Strindberg eller buddhismens historia har den svar, som levereras sakligt och tydligt. Den kan sammanfatta texter, skriva dikter, skapa datorprogram, hitta på godnattsagor, ge återkoppling på och ge förbättringsförslag på textutkast, och utveckla sina resonemang i en konversation med en människa. I kapitel 3-2 kan du läsa mer om hur verktyg som ChatGPT skulle kunna påverka vår syn på kunskap, och på oss själva.
 
 # 1-2: Fyra typer av AI-fällor
 Något som är viktigt att lägga märke till redan nu är att ChatGPT begår misstag. Om du läste igenom konversationen ovan la du förmodligen märke till att översättningar och ordval ibland blir konstiga (exempelvis “gödselmedel” i stället för “gödsel” och “accordeonmusik” i stället för “dragspelsmusik”). Sådana misstag är betydligt ovanligare på engelska, eftersom den största delen av texten ChatGPT tränats på är på engelska.
@@ -85,7 +85,7 @@ De allra flesta tips och idéer i den här boken utgår från att det är lärar
 
 1. Vilka är de fyra typerna av AI-fällor, och vad utmärker dem?
 2. Kan du komma på ytterligare kategorier av AI-fällor?
-3. Kolla igenom konversationen i kapitel 1 igen och fundera över var det kan finnas AI-fällor.
+3. Kolla igenom konversationen i kapitel 1-1 igen och fundera över var det kan finnas AI-fällor.
 
 # 1-3: Så kommer du igång med ChatGPT
 
