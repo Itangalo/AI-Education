@@ -1,4 +1,4 @@
-# 5: Undervisa om ChatGPT
+# 2-2: Undervisa om ChatGPT
 Verktyg liknande ChatGPT har funnits i flera år och används i olika digitala tjänster. ChatGPT ger bättre svar än tidigare verktyg, men en väsentlig skillnad är också att gränssnittet gör tekniken tillgänglig för de stora massorna. Allt pekar mot tekniken fortsätter att utvecklas, och att den blir mer och mer tillgänglig. Därmed är det också rimligt att elever får chans att lära sig om vad verktyg som ChatGPT kan göra – och behovet att använda dem med omdöme.
 
 ## Diskutera värderingar och andra icke-explicita budskap

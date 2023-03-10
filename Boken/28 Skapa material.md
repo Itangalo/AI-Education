@@ -1,4 +1,4 @@
-# 7: Skapa material
+# 2-4: Skapa material
 
 ## Skapa texter som elever får bygga vidare på
 ChatGPT kan användas för att ge uppslag för skrivuppgifter, eller startpunkter som elever kan bygga vidare på, efter att förslagen granskats och eventuellt justerats.

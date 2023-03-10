@@ -2,7 +2,7 @@
 # Del 1: Introduktion
 
 
-# 1: Vad är ChatGPT?
+# 1-1: Vad är ChatGPT?
 
 Till det yttre är ChatGPT ett chattfönster där man skriver meddelanden till en chatbot, som svarar. Det finns dock flera saker som gör ChatGPT speciell. Det första är att den skriver på ett mänskligt sätt – den följer konversationen, skriver vettiga saker och är dessutom allmänt trevlig. Det andra som gör ChatGPT speciell är att den har massor med kunskaper även om detaljområden: Du kan fråga om modelljärnvägens historia, vad som krävs för att odla potatis på ett effektivt sätt eller vad som utmärker schottis som dans, och ChatGPT kommer att svara på ett tydligt och förtroendeingivande sätt.
 
@@ -49,7 +49,7 @@ I den här boken finns många utdrag från konversationer med ChatGPT. De är i 
 
 Att börja använda ChatGPT kan vara överväldigande eller till och med omvälvande. Oavsett om du ställer frågor om cellbiologi, August Strindberg eller buddhismens historia har den svar, som levereras sakligt och tydligt. Den kan sammanfatta texter, skriva dikter, skapa datorprogram, hitta på godnattsagor, ge återkoppling på och ge förbättringsförslag på textutkast, och utveckla sina resonemang i en konversation med en människa. I kapitel 13 kan du läsa mer om hur verktyg som ChatGPT skulle kunna påverka vår syn på kunskap, och på oss själva.
 
-# 2: Fyra typer av AI-fällor
+# 1-2: Fyra typer av AI-fällor
 Något som är viktigt att lägga märke till redan nu är att ChatGPT begår misstag. Om du läste igenom konversationen ovan la du förmodligen märke till att översättningar och ordval ibland blir konstiga (exempelvis “gödselmedel” i stället för “gödsel” och “accordeonmusik” i stället för “dragspelsmusik”). Sådana misstag är betydligt ovanligare på engelska, eftersom den största delen av texten ChatGPT tränats på är på engelska.
 
 Något som är svårare att lägga märke till är sakfelen – dels eftersom de kräver förhållandevis goda kunskaper hos läsaren, dels för att de är insvepta i en tydlig text som är lätt att tro på. Till exempel skriver ChatGPT att schottis uppstod i Skottland, medan den som läser om schottis på Wikipedia kan konstatera att den troligtvis uppstod i Böhmen. (Nationalencyklopedin å sin sida säger att schottis “presenterades” i Paris, utan att nämna var dansen uppstod.)
@@ -87,7 +87,7 @@ De allra flesta tips och idéer i den här boken utgår från att det är lärar
 2. Kan du komma på ytterligare kategorier av AI-fällor?
 3. Kolla igenom konversationen i kapitel 1 igen och fundera över var det kan finnas AI-fällor.
 
-# 3: Så kommer du igång med ChatGPT
+# 1-3: Så kommer du igång med ChatGPT
 
 ChatGPT skapades och drivs av företaget OpenAI. För att använda ChatGPT behöver du ett konto på OpenAI, vilket du ordnar genom OpenAI:s webbplats (exempelvis [beta.openai.com][2]). Konto är gratis, och försöksversionen av ChatGPT är också gratis att använda. Sedan 11 februari (1 februari för USA) finns också en betalversion av tjänsten. [Användarvillkoren för OpenAI-konton][3] säger att man måste vara minst 18 år. Den e-postadress du anger behöver bekräftas genom ett mail som skickas dit, och sedan är du redo att gå till [chat.openai.com][4] och börja använda ChatGPT.
 

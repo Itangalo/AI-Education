@@ -1,6 +1,6 @@
 # Del 3: Mer om AI
 
-# 12: Bakgrunden till ChatGPT
+# 3-1: Bakgrunden till ChatGPT
 ChatGPT lanserades som en försöksverksamhet (”beta”) den 30 november 2022 av företaget OpenAI, och fick snabbt mycket uppmärksamhet. På bara fem dagar hade antalet användare vuxit till en miljon[^1], något som normalt tar månader eller år även för framgångsrika tekniktjänster[^2].
 
 Tidigare under 2022 hade flera AI-tjänster för bilder också väckt uppmärksamhet. De mest kända av dessa verktygen är DALL-E 2 (också från OpenAI), Midjourney och Stable Diffusion. Även om tidigare AI-tjänster kunnat skapa realistiska bilder (se exempelvis [thispersondoesnotexist.com][3] från 2019), var det först 2022 som man själv kunde skriva en beskrivning nästan vad som helst och få tillbaka en bild som ser bra ut. Även om alla bilder knappast ligger i världsklass finns det också exempel på AI-skapade bilder som [vinner tävlingar mot bilder skapade av människor][4].
@@ -17,7 +17,7 @@ OpenAI kommer förmodligen att släppa uppföljaren GPT-4 under 2023. Rykten om 
 
 OpenAI började som ett icke vinstdrivande företag, med starkt fokus på att göra AI tillgängligt för många. I samband med att Microsoft gick in i företaget 2019 blev OpenAI vinstdrivande. Försöksversionen av ChatGPT är gratis, och varje ChatGPT-konversation uppges kosta ”några cent” i beräkningar[^9]. Den första februari lanserades [ChatGPT Plus][8] i USA – en betalversion som ger kortare och mer tillförlitlig responstid, och även förtur till nya funktioner och förbättringar. Detta utvidgades till hela världen tio dagar senare.
 
-# 13: Hur påverkas vår syn på kunskap?
+# 3-2: Hur påverkas vår syn på kunskap?
 Det finns tydliga hål i ChatGPT:s kunskaper, och den kan vara löjeväckande självsäker även när den har fel. Samtidigt är det också tydligt att många blir förbluffade av vad AI:n klarar av, och att datorer tagit ännu ett steg in på det område som vi trodde var reserverat för människor.
 
 Vad betyder teknik som denna för vår syn på kunskap?
@@ -65,7 +65,7 @@ Det är ett stort steg att ta, men om man föreställer sig att de närmsta åre
 
 Uttryckt i löptext: Vi kommer över lag att bli sämre på att ”för hand” sätta sig in i nya saker, resonera och dra slutsater när AI kan göra det åt oss, trots att de sakerna betonas i skola och utbildning. Däremot kommer de flesta att lära sig att använda AI för att sätta sig in resonemang och i nya kunskapsområden, vilket gör att fler har möjlighet att känna att de förstår många olika områden – även om många inte själva kan förklara de resonemang och slutsatser som deras känsla av kunskap bygger på, och även har en bristande förståelse för vad det betyder att slutsatser är väl underbyggda. I större sammanhang kan AI-tekniken användas för att föra resonemang och dra slutsatser om långt fler saker än en människa kan göra under sin livstid, vilket ger oss nya typer av insikter och kunskapsområden att utforska.
 
-# 14: AI och säkerhet
+# 3-3: AI och säkerhet
 En bok som handlar om AI bör också ta upp risker med AI. Oro för att AI kan komma att allvarligt skada samhället, världsordningen eller mänskligheten är tillräckligt välgrundade för att många seriösa tänkare, forskare och lobbyister arbetar för att förstå och minska de riskerna.
 
 Riskerna med AI ökar ju mer kompetent AI:n är. Det finns flera typer av risker, men tre breda kategorier är:

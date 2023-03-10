@@ -1,4 +1,4 @@
-# 4: Saker du inte ska göra
+# 2-1: Saker du inte ska göra
 
 ### Lämna inte ut personuppgifter eller andra känsliga uppgifter
 Den text som skrivs till ChatGPT skickas till servrar i andra länder och hanteras på sätt som du inte har kontroll över. Det innebär att inga personuppgifter för elever eller andra känsliga uppgifter ska lämnas till ChatGPT.

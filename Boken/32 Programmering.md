@@ -1,4 +1,4 @@
-# 9: Programmering
+# 2-6: Programmering
 ChatGPT är, på gott och ont, rätt bra på att både förstå och skriva datorprogram. Om din undervisning omfattar programmering finns det därför extra stöd att få från AI:n.
 
 En fördel med just programmeringshjälp är att vissa av AI-fällorna man kan råka ut för inte blir lika allvarliga. När ChatGPT ger felaktiga tips på kodsnuttar kommer det att märkas mer eller mindre direkt, och frågor som rör perspektiv och värderingar spelar en klart mindre roll så länge man håller sig till enbart programmeringsfrågor (om man inte räknar med olika paradigm inom programmering, vill säga).
