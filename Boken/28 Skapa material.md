@@ -139,6 +139,27 @@ Att använda ChatGPT kan vara ett effektivt sätt att skapa ordlistor för begre
 > 
 > Golgiapparaten - är en organell inuti cellen som är ansvarig för att hantera, sortera och distribuera proteiner och andra molekyler inom cellen.
 
+## Skapa ledtrådar till uppgifter
+Ett sätt att berika uppgifter och övningar som man redan har är att ge elever ledtrådar som hjälper dem att tänka kring och lösa problem. ChatGPT kan vara till nytta.
+
+**När du läser konversationen, fundera på:**
+* Verkar ledtrådarna från ChatGPT användbara?
+* Har du uppgifter, övningar eller problem där elever kan ha nytta av ledtrådar eller ledningar?
+
+
+> ** Jag har ett matteproblem som går ut på att räkna ut avståndet mellan två motstående hörn i en låda med sidlängderna 3, 4 och 5 dm. Ge mig en fråga som fungerar som ledtråd för att lösa uppgiften.**
+> 
+> Vilken geometrisk form har lådan med sidlängderna 3, 4 och 5 dm och hur kan du använda den för att räkna ut avståndet mellan två motstående hörn?
+> 
+> ** Kan du ge en till fråga som kan användas som ledtråd?**
+> 
+> Hur kan du använda Pythagoras sats för att hitta avståndet mellan två motstående hörn i lådan med sidlängderna 3, 4 och 5 dm?
+>  
+> ** Och en till?**
+> 
+> Kan du visualisera en rätvinklig triangel som bildas av två av sidlängderna i lådan med sidlängderna 3, 4 och 5 dm? Hur kan du använda längderna på sidorna i den rätvinkliga triangeln för att hitta avståndet mellan två motstående hörn i lådan?
+
+
 ## Skapa quiz-frågor
 ChatGPT kan på ett snabbt sätt skapa utkast till quiz-frågor. Som med annat material från AI:n behöver de granskas innan de används.
 
