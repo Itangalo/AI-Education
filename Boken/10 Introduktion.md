@@ -128,6 +128,42 @@ På nätet finns samlingar med prompter som folk funnit särskilt användbara. D
 1. Om du inte redan har ett konto hos OpenAI, skapa ett – förutsatt att du går med på deras användarvilkor.
 2. Testa att ställa frågor till ChatGPT eller be ChatGPT skapa vissa typer av texter. Ha minst tre konversationer, där du ställer uppföljningsfrågor i minst en. Minst en av chattarna ska handla om skola eller undervisning. Testa att skriva både på svenska och engelska.
 
+# 1-4: Hur lär jag mig ChatGPT?
+## Vem bör lära sig om ChatGPT?
+Även om det är lite sent i bokens fjärde kapitel behöver ändå frågan ställas: _Är det värt att lära sig om ChatGPT?_
+
+Det finns flera lager i svaret på frågan, och hur de ser ut beror också vilka ämnen du undervisar eller om du till exempel är rektor.
+
+Den mest direkta implikationen av ChatGPT, som fått mer än sin beskärda del av uppmärksamhet, handlar om risken att elever som ges i hemuppgift att skriva uppsatser låter ChatGPT skriva text trots att det inte var tillåtet. (Se kapitel 2-8 för tankar om detta.) Sett ur det perspektivet behöver rektorer och alla lärare som använder inlämningsuppgifter som bedömningsunderlag _känna till_ att det finns AI-tjänster som kan skriva uppsatser om det mesta som undervisas i skolan. Det omfattar många lärare i många ämnen, men långt ifrån alla.
+
+Nästa lager handlar om lärare som undervisar i ämnen där ChatGPT är ett rimligt undervisningsinnehåll. Teknikämnet i grundskolan och samhällskunskap på gymnasial nivå är två exempel – båda omfattar hur teknik och samhälle påverkar varandra. (På gymnasial nivå finns dessutom många fler ämnen som berör exempelvis teknik, automatisering och programmering.) I de här ämnena är det rimligt att ta upp hur AI påverkar samhället, och ChatGPT är ett konkret exempel på hur det kan se ut – även om det finns också _många_ andra former för AI, från autokomplettering och låtförslag till självkörande bilar och balansering av laster på elnät.
+
+På nästa nivå finns lärare där ChatGPT är ett meningsfullt verktyg inom ämnen som de undervisar i. Två av ChatGPT:s främsta grenar är att bearbeta text och att skriva programkod, vilket betyder att lärare i exempelvis svenska, svenska som andraspråk, programmeringsämnen och matematik kan ha tydlig nytta av att lära sig mer om ChatGPT. Det ger dels verktyg för egna arbetet i undervisningen, dels kunskaper om vilka typer av verktyg elever har eller kommer att ha tillgång till.
+
+Ytterligare en nivå upp finns lärare och skolledare som kan ha nytta av ChatGPT som ett verktyg i blandade delar av sitt arbete, men där det inte berör själva undervisningen. Det ger en anledning att lära sig om ChatGPT, men inte mer än att exempelvis bli bättre på Excel eller hitta sätt att samarbeta med kollegor på andra skolor för att underlätta arbetet.
+
+På den mest generella nivån finns det anledning att lära sig om ChatGPT för att få en bättre känsla för hur delar av teknikutveckling ser ut, för att den påverkar samhället och världen.
+
+Med det som bakgrund testar vi igen att ställa frågan: _Är det värt att lära sig om ChatGPT?_
+* Om du är rektor eller använder inlämningsuppgifter som betygsunderlag finns det starka skäl att lära dig hur ChatGPT klarar av att genomföra inlämningsuppgifter.
+* Om du undervisar teknik eller samhällskunskap finns det tydliga skäl att bli insatt i hur AI-utvecklingen ser ut, så att du kan ta upp den på ett relevant sätt i din undervisning – vilket inte nödvändigtvis omfattar ChatGPT.
+* Om du undervisar ämnen med programmering eller där textbearbetning är en viktig del finns det tydliga skäl att lära dig vad ChatGPT kan göra, både för att dra nytta av det själv och för att få en bild av vad elever kommer att använda i framtiden.
+* Om du letar efter sätt att effektivisera ditt arbete som lärare eller rektor är ChatGPT en bra kandidat, men inte ett självklart val jämfört med mycket annat som finns att lägga tid på – teknik eller annat.
+* Om du vill hålla dig uppdaterad om banbrytande teknik, för att ha en bild av hur teknik kan påverka samhälle, är ChatGPT en stark kandidat.
+
+Sammanfattningsvis kan man konstatera att det för rektorer och många lärare finns starka anledningar att åtminstone lära sig _om_ ChatGPT. För lärare i vissa ämnen finns det skäl att lära sig om ChatGPT på ett djupare plan, för att förstå hur AI kan påverka samhället idag och imorgon eller för hur du kan dra nytta av den i din undervisning. För andra är det starkaste skälet att lägga tid på att lära sig använda ChatGPT att det kan vara ett praktiskt verktyg, eller för att hålla sig uppdaterad om teknikutveckling.
+
+## Bra förutsättningar för att lära sig ChatGPT
+En av styrkorna med ChatGPT är att det i princip inte finns någon teknisk tröskel för att komma igång. Du skapar ett konto, bekräftar din e-postadress, och börjar. Du använder ChatGPT genom att skriva i ett chattfönster, som du skulle skriva till en människa, och behöver inte bry dig om inställningar och reglage, dolda menyer, eller tekniska finurligheter. Visst finns det knep för att få ut mer från ChatGPT, men man kommer mycket långt utan dem också.
+
+Däremot finns det några andra saker som kan vara bra att tänka på om du vill lära sig att använda ChatGPT, eller leda kollegor som ska göra det, som mer har att göra med hur man förhåller sig till verktyget.
+
+1. **Testa, testa, testa.** Att pröva alla möjliga (och omöjliga) saker lär vara det allra bästa sättet att lära sig. Lägg ifrån dig boken nu direkt om du inte redan testat ChatGPT, och testa till exempel att fråga den hur du bäst lär dig använda ChatGPT. Om du leder arbete med att lära sig ChatGPT är den enda rimliga utgångspunkten att låta deltagare lägga mycket tid på att testa och leka runt.
+2. **Det tar tid.** Räkna med att det tar tid att förstå vad du kan och inte kan göra med ChatGPT. Om du är en rektor som vill att medarbetare ska lära sig ChatGPT behöver det finnas tid avsatt för det – gärna i flera omgångar.
+3. **Planera för misslyckanden.** Saker som ser ut att fungera bra i en stund kan bli magplask vid nästa försök, och det kan också vara först när man försöker omsätta idéer från ChatGPT i praktiken som man märker att de inte håller. Använd inte ChatGPT i ett skarpt läge inom områden där det kostar för mycket att misslyckas.
+4. **Dela erfarenheter.** Det här är ung teknik som fortfarande utvecklas, vilket gör det extra värdefullt att dela med sig av både sådant man tycker fungerar bra och sånt som inte fungerat. Dela gärna erfarenheter både inom skolan och med andra skolor, och se förstås till att ta tillvara andras erfarenheter också. (I bokens appendix finns tips på onlineforum för att dela erfarenheter.)
+5. **Tappa inte bort syftet.** Fall inte i den pedagogiska AI-fällan. Om ni är lärare som lär er ChatGPT, fråga er regelbundet om det ni utforskar faktiskt leder till bättre undervisning och lärande.
+
 [^1]:	BBC Tech Tent, 2022-12-09: [https://www.bbc.co.uk/programmes/w3ct4khv][1]
 
 [^2]:	[https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them][6]
