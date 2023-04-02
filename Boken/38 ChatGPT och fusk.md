@@ -38,7 +38,7 @@ Samma sak gäller med många andra typer av kunskapsmätningar vi gör i skolan.
 
 Men det är inte alla hotade sätt att mäta kunskaper som är indirekta mätningar av elevers kunskaper. En skrivuppgift i svenska eller engelska kan mycket väl ha som mål att se hur väl eleven hanterar språket – inte att se vilka kunskaper eleven har om ett visst ämne. Och en uppgift inom programmering kan handla om just hur väl eleven klarar av att skriva kod. Att en chatrobot kan göra dessa uppgifter minst lika bra som de flesta elever ger oss anledning att fundera över hur meningsfullt det är att lära sig just de sakerna i skolan. I vissa fall – som att kunna skriva välformulerade texter – är svaret med stor sannolikhet att det är både meningsfullt och viktigt, även om maskiner också kan göra det. När det gäller programmering är det fullt möjligt att AI-teknik kommer att göra vissa kunskaper irrelevanta (och samtidigt andra mer relevanta).
 
-Det för oss in på tankar om AI och framtiden, som behandlas i nästa avsnitt.
+Det för oss in på tankar om AI och framtiden, som behandlas i del 4.
 
 [1]:	https://platform.openai.com/ai-text-classifier "AI Text Classifier"
 [2]:	https://www.dailymail.co.uk/health/article-11732687/The-AI-doctor-ChatGPT-passes-gold-standard-medical-exam.html "Artikel i Daily Mail"
