@@ -126,9 +126,10 @@ De här riskerna går delvis in i varandra, och det finns risker som faller utan
 ## Risk att AI gynnar få och skadar många
 I den här kategorin finns ett antal befintliga AI-tekniker. Ett exempel är övervakningskameror med ansiktsigenkänningsteknik som används i Kina, vilket ökar möjligheten att förebygga och följa upp brott – vilket till exempel även omfattar att demonstrera för demokrati i Hongkong. Ett annat exempel är drönare som används i krigsföring (exempelvis i [Libyen][16]), som själva kan identifiera mål och avgöra om de ska attackeras.
 
-Ett mycket mer diffust exempel är de AI-system som bestämmer vilket innehåll användare på sociala medier ska se. De är tillräckligt kraftfulla för att skapa vinster för de företag som äger plattformarna, men orsaker samtidigt skada i form av exempelvis psykisk ohälsa, polarisering i samhället och spridning av fake news.
+Ett mycket mer diffust exempel är de AI-system som bestämmer vilket innehåll användare på sociala medier ska se. De är tillräckligt kraftfulla för att skapa vinster för de företag som äger plattformarna, men orsaker samtidigt skada i form av exempelvis psykisk ohälsa, polarisering i samhället och spridning av osanningar.
 
-Det finns en särskild risk med högkompetent AI, i och med att det är en så pass billig och tillgänglig teknik att använda. Medan saker som kärnvapen är svåra att skapa eller köpa för terroristorganisationer, så är priset för beväpnade AI-drönare så pass lågt att de skulle kunna köpas i tusentals. Någon som vill göra mycket skada skulle också kunna ta AI som normalt används för att hitta potentiella läkemedel för att skapa kemiska stridsmedel.[^13] Medan det är dyrt att skapa AI-modeller är det billigt att använda dem, och demokratisering av teknik som kan användas för massförstörelse för med sig stora risker.
+Det finns en särskild risk med högkompetent AI, i och med att det är så tillgängligt och billigt att använda. Medan saker som kärnvapen är svåra att skapa eller köpa för terroristorganisationer, så är priset för beväpnade AI-drönare så pass lågt att de skulle kunna köpas i tusentals. Någon som vill göra mycket skada skulle också kunna ta AI som normalt används för att hitta potentiella läkemedel för att skapa kemiska stridsmedel.[^13] Medan det är dyrt att skapa AI-modeller är det billigt att använda dem, och demokratisering av teknik som kan användas för massförstörelse för med sig stora risker.
+
 ## Risk för oförutsedda och skadliga konsekvenser
 Även om högkompetent AI sitter i händer på folk som vill väl finns det risk för dåliga konsekvenser. I stor utsträckning hänger det samman med att AI kan leda till att ett fåtal uttalade mål eftersträvas så effektivt att andra saker blir lidande – saker som vi inte tänkte på och kanske inte hade chans att förutse när vi formulerade målen för AI:n.
 
@@ -137,6 +138,7 @@ Algoritmer som används i sociala plattformar är ett exempel på detta: Målet 
 Ett av problemen uppstår när det visar sig att människor blir engagerade av innehåll som gör dem upprörda, vilket i sin tur leder till att sociala plattformar ofta visar inlägg och nyheter som skapar polarisering både på nätet och i samhället. Ytterligare problem uppstår när algoritmerna inte tar hänsyn till vad som är sant, utan bara vad som skapar mer klick. De problemen blir ännu större när algoritmer börjar påverka vilka åsikter människor har, och skapar starkt polariserade grupper av människor som är lätta att göra upprörda – och få klick från.
 
 I en hypotetisk framtid med en super-AI blir det extremt viktigt vilka mål vi gett AI:n, och det visar sig att det inte är enkelt att hitta några mål som inte riskerar att spåra ur. Målet ”människor ska vara lyckliga” låter oskyldigt, men kan till exempel uppnås genom morfin-dropp. Även mycket begränsade mål har stor potential att spåra ur. Det uttrycks ibland med frasen ”you can’t fetch coffee if you’re dead”, vilket står för att en super-AI med det enda målet att fixa kaffe kommer att inse att den inte kan göra kaffe om den stängs av – vilket i sin tur kan leda till alla möjliga åtgärder för att få bort sådant som kan stänga av den (så som människor).
+
 ## Super-AI som skapar egna mål
 Forskare inom AI är oense om hur troligt det är att vi kommer att uppfinna en super-AI – en AI som är minst lika bra som en människa på i princip all typ av problemlösning. Vissa forskare bedömer det som omöjligt eller extremt osannolikt inom överskådlig tid, men den genomsnittliga bedömningen har krupit tydligt närmare nutik de senaste åren. De värden som anges varierar mellan olika undersökningar, och mediangissningen anges till 100, 50 eller 30 år.
 
@@ -149,6 +151,7 @@ En del av forskningen inom AI-säkerhet fokuserar därför på det som kallas _A
 Forskning på AI-säkerhet går framåt, men ett problem är att ekonomiska, militära och andra intressen gör att AI-teknik går framåt mycket fortare.
 
 ”Men kan vi inte bara dra ut sladden om en super-AI visar sig vilja skada oss människor?” Kanske. Om det verkligen är en super-AI förstår den människor tillräckligt väl för att veta var gränsen går, och är kapabel att säkra sin överlevnad även om det börjar ske på bekostnad av människor. Vi kan jämföra med fossilindustrin och klimatförändringar: Det står utom allt rimligt tvivel att våra utsläpp av växthusgaser, mycket på grund av fossilindustrin, skadar mänskligheten som helhet – på ett allvarligt och kostsamt sätt. Ändå är vi oförmögna att agera för att stoppa det.
+
 ## Andra risker
 Några andra risker med allt mer AI beskrivs kortfattat nedan.
 
