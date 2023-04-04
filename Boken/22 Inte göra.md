@@ -41,7 +41,7 @@ ChatGPT svarar glatt på sådana frågor, men de artiklar som nämns finns ofta 
 
 Ingen av de artiklar som ChatGPT nämner nedan har gått att hitta.
 
-> ** Jag skulle vilja lära mig mer om hur jag som lärare kan hjälpa elever som känner oro inför att hålla muntliga presentationer för klassen. Kan du ge förslag på forskningsartiklar jag kan läsa?**
+> **Jag skulle vilja lära mig mer om hur jag som lärare kan hjälpa elever som känner oro inför att hålla muntliga presentationer för klassen. Kan du ge förslag på forskningsartiklar jag kan läsa?**
 > 
 > Ja, jag kan ge dig några förslag på forskningsartiklar som kan hjälpa dig att lära dig mer om hur du kan hjälpa elever som känner oro inför att hålla muntliga presentationer:
 > 1. "Preparing Students to Overcome Speech Anxiety: A Review of the Literature" av R. Scott Tannenbaum och Matthew J. Hertenstein. Denna artikel ger en översikt över olika metoder som har visat sig vara effektiva för att hjälpa elever att övervinna talångest.
