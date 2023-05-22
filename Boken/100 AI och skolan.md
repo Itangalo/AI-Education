@@ -1,0 +1,20 @@
+# AI och skolan
+När man tittar bakåt i historien är det lätt att se stora förändringar. Internet, mobiltelefoner och senare även smartphones har påverkat vår vardag på ett sätt som är svårt att överskatta. Bilar, flygplan och satelliter har knutit ihop delar av världen som tidigare var avlägsna. Penicillin, vaccin och röntgenteknik har betytt massor för att vi ska vara friska och må bra. En så alldaglig sak som tvättmaskinen brukar listas som en av de viktigaste uppfinningarna (tillsammans med exempelvis korrugerad plåt!) eftersom den förbättrar livet för så många människor. Den industriella revolutionen, som egentligen handlar om att maskiner tog över mycket av det muskelarbete som människor och djur utfört, hade också enorma sociala, ekonomiska, miljömässiga och politiska effekter.
+
+När vi tittar bakåt är det lätt att se förändringar, men det är samtidigt lätt att tro att vi idag kommit till slutstationen för hur världen ser ut. Det är enkelt att föreställa sig att världen om 10, 20 och 50 år kommer att se ut ungefär som idag: Nya telefonmodeller, större andel elbilar på gatorna, och lite bättre metoder för att behandla cancer – men inget revolutionerande.
+
+Den utveckling vi ser inom AI kallas av vissa för _den kognitiva revolutionen_, vilket i kontrast till den industriella revolutionen sägs handla om att maskiner tar över mycket av det _tankearbete_ som människor gör. Det är möjligt att det är en överdrift, men det är också fullt möjligt att det är en adekvat beskrivning av en omställning som står för dörren. Det är närmast omöjligt att förutsäga hur långt AI-utvecklingen kommer att leda i det språng som pågår nu, vilken inverkan den kommer att ha på samhälle och människor, och hur världen ser ut när utvecklingen till slut planar ut. I ett sådant läge är det rimligt att förbereda sig för ett antal olika utfall – både att framtiden i stora drag liknar världen idag, och att den kan vara radikalt annorlunda.
+
+Den här boken handlar om AI och skolan och är riktad till lärare och annan pedagogisk personal i skolan. Boken har tre delar.
+
+* **Del 1: Introduktion.** Här kan du lära dig hur du kommer igång med AI-baserade chattrobotar, förstå grunderna i hur så kallade _stora språkmodeller_ fungerar, och även lära dig om vanliga fallgropar att se upp för.
+* **Del 2: Praktiska tips.** Här finns en rad olika tips och exempel på hur du kan använda chattrobotar och i viss mån andra AI-tjänster i ditt arbete som lärare. Det handlar både om arbete utanför klassrummet, saker du kan göra tillsammans med elever, och förslag på vad elever själva skulle kunna göra. Tipsen innehåller också tankar om när det _inte_ är lämpligt att använda chattrobotar, eller vad man bör se upp med.
+* **Del 3: AI och framtiden.** Här kan du läsa mer om vart AI-utvecklingen kan vara på väg, och hur det i sin tur kan påverka skolan. Det finns också ett kapitel om risker med AI, vilket är något värt att ta på allvar.
+
+Den första versionen av boken släpptes i januari 2023. I maj 2023 skrivs boken om mer eller mindre från grunden, för att kunna ta med teknikutveckling och nya lärdomar om hur AI kan användas i skolan (och hur den inte bör användas). Det bör sägas att få saker i boken är baserade på forskning – teknikutvecklingen går så fort att forskningsprojekt lätt blir inaktuella innan första delstudien är klar. I stället är det mesta baserat på omdöme och halvt beprövad erfarenhet. Boken uppdateras regelbundet, för att avspegla teknikutveckling och erfarenhet som samlas. Du är välkommen att bidra med dina tankar, och göra erfarenheter mer beprövade. Det kan du göra genom bokens projektsida, [github.com/Itangalo/AI-och-skolan][1].
+
+Jag hoppas att du finner boken användbar. Tack för det jobb du gör i skolan.
+
+Johan Falk, 22 maj 2023
+
+[1]:	https://github.com/Itangalo/AI-och-skolan
