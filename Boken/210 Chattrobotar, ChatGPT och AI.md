@@ -84,21 +84,23 @@ En bra första konversation kan vara att fråga om något som du jobbar med och 
 > Hoppas dessa råd hjälper dig att göra dina APT mer effektiva och intressanta. Lycka till!
 
 ## Hur fungerar chattrobotar?
-Arthur C. Clarke, förmodligen mest känd för boken _År 2001 – ett rymdäventyr_, har bland annat sagt att det är omöjligt att skilja tillräckligt avancerad teknologi från magi[^1]. Det kan beskriva känslan en del får när de för första gången upplever en dator konversera som en människa. _Hur går det till?_
+”Det är omöjligt att skilja tillräckligt avancerad teknologi från magi.” Citatet kommer från Arthur C. Clarke, förmodligen mest känd för boken _År 2001 – ett rymdäventyr_, och kan beskriva känslan en del får när de för första gången upplever en dator konversera som en människa. _Hur går det till?_
 
-Det visar sig, föga förvånande, att det inte är magi utan avancerad teknik. (Även om det också visar sig vara så pass svårt att förstå den faktiska processen att det nästan lika gärna kunde varit magi – mer om det i del 3.)
+Det visar sig, föga förvånande, att det inte är magi utan just avancerad teknik. (Även om det också visar sig vara så pass svårt att förstå den faktiska processen att det nästan lika gärna kunde varit magi – mer om det i del 3.)
 
-Chattrobotar är som tidigare nämnts så kallade generativa AI, närmare bestämt en sort som kallas _stora språkmodeller_ eller LLM, _large language models_. Grovt sammanfattat så har sådana modeller tränats på massiva mängder text, och fått gissa vad nästa ord i en text är. Modellen innehåller miljarder av så kallade parametrar, som förenklat motsvarar kopplingar mellan neuroner i biologiska hjärnor, och styr hur modellen gissar nästa ord. De parametrarna ändras medan AI-modellen tränas, så att dess gissning på nästa ord stämmer bättre och bättre med hur texterna faktiskt ser ut.
+Chattrobotar är som tidigare nämnts så kallade generativa AI, närmare bestämt en sort som kallas _stora språkmodeller_ eller LLM, _large language models_. Grovt sammanfattat så har sådana modeller tränats på massiva mängder text, genom att gissa nästa ord i meningar. Modellen innehåller miljarder av så kallade parametrar, som förenklat motsvarar kopplingar mellan neuroner i biologiska hjärnor, och styr hur modellen gissar nästa ord. De parametrarna ändras medan AI-modellen tränas, så att dess gissning på nästa ord stämmer bättre och bättre med hur texterna faktiskt ser ut.
 
 Resultatet blir en AI-modell som kan skapa naturlig text. Den har sedan fått ytterligare ett lager med träning, där människor (eller andra AI-modeller) ger återkoppling på vad som exempelvis är en trevlig ton, hjälpsamma svar, kränkande, olämpligt eller tydligt. Görs allt detta på rätt sätt leder det i slutändan fram till en AI-modell som man kan föra en naturlig dialog med, om det mesta mellan himmel och jord.
 
-I grund och botten är AI-modellen tränad på att skapa meningar som på ett abstrakt sätt ”stämmer med” hur texten den tränats på ser ut. Det är fascinerande att modellen genom detta lär sig stavning, grammatik och meningsbyggnad, och förbluffande att den dessutom lär sig översätta texter, använda komplicerade begrepp på ett (ofta) konsekvent och korrekt sätt, och även i viss mån föra resonemang.
+När modellerna som ChatGPT använder tränades, användes stora delar av den text som fanns på internet fram till september 2021 i kombination med gigantiska mängder datorkraft. Sedan dess har flera sätt att effektivisera träning av språkmodeller utforskats, vilket inte har gett riktigt lika kraftfulla modeller men har å andra sidan kostat så lite som 30 dollar (jämfört med uppskattningsvis hundra miljoner dollar för GPT-4).[^1] Att träna modeller kräver mycket mer datorkraft än att använda de färdiga modellerna, och det finns nu språkmodeller som kan köras på en persondator.
+
+I grund och botten är språkmodeller tränade på att skapa meningar som på ett abstrakt sätt ”stämmer med” hur texter de tränats på ser ut. Det är fascinerande att en modell genom detta lär sig stavning, grammatik och meningsbyggnad – och närmast otroligt att den dessutom lär sig översätta texter, använda komplicerade begrepp på ett (ofta) konsekvent och korrekt sätt, och även i viss mån föra resonemang.
 
 Inte desto mindre är det viktigt att komma ihåg att chattrobotar i första hand är gjorda för att skapa text som låter bra – inte att säga saker som är sanna.
 
-[^1]:	[https://en.wikipedia.org/wiki/Clarke%27s\_three\_laws][4]
+[^1]:	[https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/][4]
 
 [1]:	https://chat.lmsys.org/
 [2]:	https://open-assistant.io/sv
 [3]:	https://chat.openai.com/
-[4]:	https://en.wikipedia.org/wiki/Clarke%27s_three_laws "Clarke's three laws (artikel på Wikipedia)"
+[4]:	https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/ "TechTalks: A look at open-source alternatives to ChatGPT"
