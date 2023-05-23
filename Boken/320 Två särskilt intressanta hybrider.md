@@ -8,5 +8,10 @@ Chattroboten har fått namnet Khanmigo och testas fortfarande internt och av inb
 
 För att få chattroboten att fungera bra för lärande har den försetts med särskilda instruktioner, vilket gör att den ofta håller en sokratisk dialog och låter eleven tänka och resonera hellre än att ge svar.
 
+…
+
+## AutoGPT
+…
+
 [1]:	https://khanacademy.org/ "Khan Academy"
 [2]:	https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education/c "TED: How AI could save (not destroy) education"
