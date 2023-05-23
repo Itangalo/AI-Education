@@ -221,7 +221,7 @@ Det tar ett tag att vänja sig vid att chattrobotar inte primärt är uppslagsve
 
 Nedan beskrivs kort de tre starka områdena för chattrobotar. I del 2 finns mer utförliga exempel på hur det här kan se ut i praktiken (där en del exempel också går utanför de här tre områdena).
 
-### Bearbeta texter
+## Bearbeta texter
 Det är kanske inte så förvånande att något som heter ”stor språkmodell” och har tränats på jättestora mängder text är bra på att hantera just texter. Det kan till exempel betyda:
 * Korrekturläsa texter.
 * Ge förslag på förbättringar av en text, i allmänhet eller utifrån särskilda perspektiv.
@@ -232,12 +232,12 @@ Det är kanske inte så förvånande att något som heter ”stor språkmodell�
 * Översätta texter.
 * Skriva om texter till ett enklare språk, eller till en speciell språkstil.
 
-### Vara idéspruta eller bollplank
+## Vara idéspruta eller bollplank
 Att bolla tankar med en kollega är ofta ett sätt att komma vidare i sina egna tankar, både genom att man får sätta ord på tankarna och att man får nya idéer från kollegan. Vid tillfällen då kollegor inte finns i närheten, eller inte har tid att diskutera en ny (eller möjligtvis gammal) idé kan chattrobotar vara en fungerande ersättare. De saknar en rad mänskliga aspekter, men har å andra sidan obegränsat med både tid och tålamod.
 
 En särskild förmåga som chattrobotar har är att kunna hitta på massor av idéer där den mänskliga hjärnan (åtminstone min) går på grund efter en kort stund.
 
-### Ge stöd i programmering
+## Ge stöd i programmering
 Långt ifrån alla lärare använder programmering i eller utanför sin undervisning, men de som gör det bör vara medvetna om den typ av stöd man kan få från AI-verktyg. Förutom chattrobotar finns det också särskilda verktyg skapade för just programmering, där det mest kända förmodligen är [GitHub Copilot][10].
 
 Chattrobotar och annat AI-stöd kan till exempel:
@@ -252,6 +252,36 @@ Chattrobotar och annat AI-stöd kan till exempel:
 Om elever använder AI-stöd för programmering behöver man förstås vara extra vaksam på oreflekterad avlastning. Om fokus ligger på att elever ska lära sig att skriva viss typ av kod är det förstås mindre lyckat om en AI skriver åt dem.
 
 Som med all kod man får given till sig behöver man också hålla ett öga öppet efter potentiella säkerhetshål.
+
+# Hybrider
+Språkmodeller har, som nämnts ovan, nackdelen att de inte bryr sig särskilt mycket om vad som är sant eller falskt, utan det primära målet är att skapa meningar som låter bra. Genom att koppla ihop språkmodeller med andra typer av datorprogram kan man komma runt mycket av de problemen.
+
+Tjänsten [perplexity.ai][11] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
+
+> Exempel från perplexity.ai (modell GPT-3.5 + sökområde ”all”, 2023-05-23)
+> **Jag:** Jag vill lära mig mer om vanliga inlärningssvårigheter i matematik på mellanstadiet. Kan du ge mig förslag på en forskningsartikel att läsa?
+> **Chattrobot:** Here are some research articles related to common learning difficulties in mathematics on middle school level:
+> 1. "Inlärningssvårigheter i matematik" (1): This article discusses the difficulties that children with learning difficulties in mathematics often face, such as problems with working memory and emotional and volitional deviations.
+> 2. "Attityder inom matematik utifrån ett lärarperspektiv" (2): This study focuses on the attitudes towards mathematics and how they relate to learning difficulties in middle school.
+> 3. "Inlärningssvårigheter i matematik och läsning hänger ihop" (3): This research article examines how learning difficulties in mathematics and reading are related and how they can affect each other.
+> 4. "Stödmaterial matematiksvårigheter, del 1. Att upptäcka behov av stöd i matematik" (4): This article discusses how to identify students who have difficulties in mathematics and how to provide support.
+> 5. "Hur hanterar matematiklärarna extra anpassningar på mellanstadiet?" (5): This study examines how teachers can provide extra support and adaptations to students with learning difficulties in mathematics on middle school level.
+> 6. "Matematiksvårigheter" (6): This research article summarizes previous studies on mathematics difficulties and provides recommendations for how to help students with learning difficulties in mathematics.
+
+Svaret från chattroboten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter. När sökningen gjordes om på engelska gav sökområdet ”academic” träffar på artiklar från vetenskapliga tidskrifter, vilket inte var fallet på svenska.
+
+Perplexity.ai är en extern tjänst som anropar chattrobotar i bakgrunden, vilket också är en metod som språklärningstjänsten Duolingo använder. En omvänd metod är i stället att själva chattroboten utökas med funktioner för att anropa andra applikationer – något som blev möjligt i betalversionen av ChatGPT i mitten av maj, i form av så kallade plugins. Nedan syns ett exempel på hur en konversation kan se ut när plugin för WolframAlpha används – en webbtjänst för matematiska beräkningar och kombinerat med en stor bank med data. Det intressanta här är att språkmodellens förmåga att förstå min fråga och skriva lättlästa svar kombineras med en tillförlitlig bank med information.
+
+> _Exempel från ChatGPT (GPT-4, plugin WolframAlpha aktiverad, 12 maj)_
+> **Jag:** Hur många steg är det mellan Rom och Paris?
+> **Chattrobot:** [REQUEST TO WOLFRAM: "input": "distance between Rome and Paris”]
+> Avståndet mellan Rom och Paris är cirka 1109 kilometer.
+> För att omvandla detta till steg, behöver vi veta hur långt ett genomsnittligt steg är. En allmän uppskattning är att ett genomsnittligt steg är cirka 0,7 meter. Låt oss använda detta för att beräkna antalet steg.
+> Jag kommer nu att utföra beräkningen.
+> [REQUEST TO WOLFRAM: "input": "1109000 / 0.7”]
+> Avståndet mellan Rom och Paris är ungefär 1,584,286 steg, givet att ett genomsnittligt steg är 0,7 meter. Observera att detta är en uppskattning och det faktiska antalet steg kan variera beroende på din steglängd.
+
+Det är troligt att olika typer av hybrider kommer att ge många nya användningsområden för chattrobotar, i och utanför skolan.
 
 [^1]:	[https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/][5]
 
@@ -270,3 +300,4 @@ Som med all kod man får given till sig behöver man också hålla ett öga öpp
 [8]:	https://arxiv.org/abs/2303.17548 "Arxiv: Whose Opinions Do Language Models Reflect?"
 [9]:	https://mashable.com/article/samsung-chatgpt-leak-details "Mashable: Whoops, Samsung workers accidentally leaked trade secrets via ChatGPT"
 [10]:	https://en.wikipedia.org/wiki/GitHub_Copilot "Engelska Wikipedia: GitHub Copilot"
+[11]:	https://www.perplexity.ai/
