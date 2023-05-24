@@ -1,5 +1,5 @@
 # Vad är chattrobotar?
-Den 30 november 2022 lanserade det USA-baserade företaget OpenAI tjänsten ChatGPT. Den tog världen med storm, och ett halvår senare orsakar den nästan dagligen nyhetsinslag i riksmedia.
+Den 30 november 2022 lanserade det USA-baserade företaget OpenAI tjänsten ChatGPT. Den tog världen med storm, och ett halvår senare orsakar den fortfarande nyhetsinslag i riksmedia så gott som varje dag.
 
 Det som fortfarande förbluffar många med ChatGPT (mig själv inräknat) är dess förmåga att föra en konversation på ett övertygande mänskligt sätt. I kombination med kunskaper inom vitt skilda områden gör det ChatGPT och många andra chattrobotar till ett otroligt fascinerande och mångsidigt verktyg.
 
@@ -27,23 +27,23 @@ ChatGPT är ett av flera sätt att använda chattrobotar, och det är värt att 
 * **Generativ AI** är en typ av AI som utifrån att ha tränats på massor av exempel kan skapa nytt material. Exempel är Midjourney (bild) och OpenAI:s GPT (text) och AlphaCode (kod).
 * **En AI-modell** är motorn bakom det som en AI gör. Exempel är GPT-3.5, GPT-4 och PaLM 2.
 * **Chattrobotar** är generativ AI som (huvudsakligen) arbetar med text och dessutom är skapade för att föra dialoger. Exempel är GPT-4, PaLM 2 och Claude.
-* **ChatGPT** är en produkt från företaget OpenAI. Den består huvudsakligen av en webbsida där du kan chatta med ett antal av deras AI-modeller (som är chattrobotar).
+* **ChatGPT** är en produkt från företaget OpenAI. Den består huvudsakligen av en webbsida där du kan chatta med några av deras AI-modeller (som är chattrobotar).
 
-I skrivande stund är det förhållandevis tydligt att den chattrobot som har bredast kompetens är GPT-4, som lanserades i mars 2023 och (liksom GPT-3.5) går att nå genom tjänsten ChatGPT. Men en rad andra chattrobotar dykt upp, både kommersiella och öppna, liksom massor av verktyg som använder AI-modeller i bakgrunden för att kunna göra mer komplexa eller specialiserade saker. Det betyder att andra chattrobotar eller AI-verktyg mycket väl kan vara bättre på vissa typer av uppgifter, och det kan också hända att nya modeller inom en snar framtid tar över ledarplatsen från GPT-4.
+I skrivande stund är det förhållandevis tydligt att den chattrobot som har fått störst genomslag och har bredast kompetens är GPT-4, som lanserades i mars 2023 och (liksom GPT-3.5) går att nå genom tjänsten ChatGPT. Men en rad andra chattrobotar dykt upp, både kommersiella och öppna, liksom massor av verktyg som använder AI-modeller i bakgrunden för att kunna göra mer komplexa eller specialiserade saker. Det betyder att andra chattrobotar eller AI-verktyg mycket väl kan vara bättre på vissa typer av uppgifter, och det kan också hända att nya modeller inom en snar framtid tar över ledarplatsen från GPT-4.
 
-I den här boken används termen _chattrobot_ om det inte någon specifik AI-modell eller produkt avses. Där konversationer med chattrobotar skrivs ut markeras vilken AI-modell det rör sig om (inklusive datum för senaste uppdateringen för modellen om tjänsten anger det, för att kunna se när exempel blivit utdaderade). I de allra flesta fall används GPT-4 (från 12 maj 2023).
+I den här boken används termen _chattrobot_ om det inte någon specifik AI-modell eller produkt avses. Där konversationer med chattrobotar skrivs ut markeras vilken AI-modell det rör sig om (inklusive datum för senaste uppdateringen för modellen alternativt datum för konversationen, för att kunna se när exempel blivit utdaderade).
 
 ## Testa själv!
 Det finns inget bättre sätt att lära sig om chattrobotar än att själv testa att använda en. Om du ännu inte testat att använda en chattrobot, lägg i från dig boken och hitta en.
 
-* På [perplexity.ai][1] kan du testa en hybrid av GPT-3.5, GPT-4 och sökmotorer, utan att behöva skapa något konto. Det här är förmodligen det enklaste och kraftfullaste sättet att komma igång.
-* På [chat.lmsys.org][2] kan du testa ett antal öppna AI-modeller, utan att behöva skapa något konto. Den mest kraftfulla AI-modellen bland de tillgängliga är förvald (för närvarande vicuna-13b), så du kan bara bläddra ner och börja skriva.
+* På [perplexity.ai][1] kan du utan att skapa något konto testa en chattrobot som kombinerar GPT-3.5, GPT-4 och sökmotorer. Det här är förmodligen det enklaste och kraftfullaste sättet att komma igång.
+* På [chat.lmsys.org][2] kan du testa ett antal öppna AI-modeller, också utan att behöva skapa något konto. Den mest kraftfulla AI-modellen bland de tillgängliga är förvald (för närvarande ”vicuna-13b”), så du kan bara bläddra ner och börja skriva.
 * På [open-assistant.io][3] kan du skapa ett (gratis) konto med ett par klick, inklusive att godkänna användarvillkor, och börja använda den öppna AI-modellen Open Assistant.
 * På [chat.openai.com][4] kan du skaffa ett (gratis) konto för ChatGPT, som du kan börja använda efter att du bekräftat din e-postadress genom ett mail som du får.
 
 Är du fortfarande här? Gå och testa en chattrobot! Till exempel perplexity.ai, där det bara är att börja skriva. En bra första konversation kan vara att fråga om något som du jobbar med och skulle vilja höra någon annans tankar.
 
-> _Exempel från perplexity.ai, modell GPT-3.5, hänvisningar till Wikipedia, studocu, Umeå universitet och YouTube dolda._
+> _Exempel från perplexity.ai (GPT-3.5 plus sökmotor). Hänvisningar till Wikipedia, studocu, Umeå universitet och YouTube är inte med._
 > **Jag:** Vad är ett bra sätt att förklara kemisk jämvikt för mina årskurs 2:or på gymnasiet?
 > **Chattrobot:** Kemisk jämvikt är ett viktigt koncept inom kemi som kan vara svårt att förklara för årskurs 2:or på gymnasiet. Här är några tips och idéer från sökresultaten som kan hjälpa till att förklara kemisk jämvikt på ett enkelt sätt:
 > 1. Förklara att kemisk jämvikt uppstår när en kemisk reaktion sker med samma hastighet i båda riktningarna, vilket innebär att koncentrationen av reaktanter och produkter är konstant.
@@ -56,7 +56,7 @@ Det finns inget bättre sätt att lära sig om chattrobotar än att själv testa
 
 ---- 
 
-> _Exempel från chat.lmsys.org, modell vicuna-13b._
+> _Exempel från chat.lmsys.org (vicuna-13b)._
 > **Jag:** Vad är viktigt att tänka på när man undervisar i hem- och konsumentkunskap?
 > **Chattrobot:** När man undervisar i hem- och konsumentkunskap finns det flera saker som är viktiga att tänka på för att säkerställa att eleverna får en effektiv utbildning. Här är några förslag:
 > 1. Anpassa lärande till elevernas behov och intressen: Eleverna har olika behov och intressen, så det är viktigt att anpassa lärande till deras individuella behov. Gör det till en aktivitet där eleverna kan delta och engageras på ett personligt sätt.
@@ -75,7 +75,7 @@ Det finns inget bättre sätt att lära sig om chattrobotar än att själv testa
 
 ---- 
 
-> _Exempel från Open Assistant, modell oasst-sft-6-llama-30b. (Försök till konversation på svenska gav nonsens.)_
+> _Exempel från Open Assistant (oasst-sft-6-llama-30b). (Försök till konversation på svenska gav nonsens.)_
 > **Jag:** Can you give me three suggestions on what to do at the pre-school tomorrow afternoon? There are 15 children (3–5 years old) and 3 adults. We want to be outside.
 > **Chattrobot:** Sure, here are three activities that can work well for a group of preschoolers aged 3-5:
 > Bubble Blowing Contest - Fill up a container with bubbles (be sure to use non-toxic soap) and let the kids take turns blowing as many bubbles as they can in one breath. Set some rules such as no running or jumping and offer prizes for biggest, smallest or most colorful bubbles!
@@ -98,7 +98,9 @@ Det finns inget bättre sätt att lära sig om chattrobotar än att själv testa
 > Hoppas dessa råd hjälper dig att göra dina APT mer effektiva och intressanta. Lycka till!
 
 ## Hur fungerar chattrobotar?
-”Det är omöjligt att skilja tillräckligt avancerad teknologi från magi.” Citatet kommer från Arthur C. Clarke, förmodligen mest känd för boken _År 2001 – ett rymdäventyr_, och kan beskriva känslan en del får när de för första gången upplever en dator konversera som en människa. _Hur går det till?_
+”Det är omöjligt att skilja tillräckligt avancerad teknologi från magi.”
+
+Citatet kommer från Arthur C. Clarke, förmodligen mest känd för boken _År 2001 – ett rymdäventyr_, och kan beskriva känslan en del får när de för första gången ser en dator konversera som en människa. _Hur går det till?_
 
 Det visar sig, föga förvånande, att det inte är magi utan just avancerad teknik. (Även om det också visar sig vara så pass svårt att förstå den faktiska processen att det nästan lika gärna kunde varit magi – mer om det i del 3.)
 
@@ -125,7 +127,7 @@ Stora språkmodeller är tränade för att skapa meningar som låter naturliga, 
 
 Nedan följer ett exempel som kanske är särskilt belysande.
 
-> Exempel från ChatGPT (modell GPT-3.5, 12 maj)
+> Exempel från ChatGPT (GPT-3.5, 12 maj 2023)
 > **Jag:** Jag vill lära mig mer om vanliga inlärningssvårigheter i matematik på mellanstadiet. Kan du ge mig förslag på en forskningsartikel att läsa?
 > **Chattrobot:** Absolut! Här är en forskningsartikel som du kan läsa för att få mer information om vanliga inlärningssvårigheter i matematik på mellanstadiet:
 > Artikel: "Understanding Mathematics Learning Difficulties: A Comprehensive Examination of Children's Difficulties in Learning Mathematics" (Förståelse av matematikinlärningssvårigheter: En omfattande undersökning av barns svårigheter att lära sig matematik)
@@ -169,7 +171,7 @@ Det finns flera tjänster som använder språkmodeller för att generera färdig
 
 Men det behöver inte betyda att lektionen tar upp det som skolans styrdokument säger att undervisningen ska handla om. Det är inte en slump att det går åt mycket kraft för att skapa läromedel, där redaktörer och skickliga lärare arbetat för att få till helheter och delar som fångar både det som kurs- och ämnesplaner tar upp och de mer övergripande målen som finns i läroplaner.
 
-> Exempel från ChatGPT (GPT-3.5, 12 maj 2023)
+> Exempel från ChatGPT (GPT-3.5, 12 maj 2023).
 > **Jag:** Kan du skapa en lektionsplanering för mig? Vi ska ha första lektionen av sex som fokuserar på vikingatiden. Mellanstadiet.
 > **Chattrobot:** Absolut! Här är en lektionsplanering för första lektionen om vikingatiden på mellanstadiet:
 > Lektion 1: Vikingatiden
@@ -258,7 +260,7 @@ Språkmodeller har, som nämnts ovan, nackdelen att de inte bryr sig särskilt m
 
 Tjänsten [perplexity.ai][11] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
 
-> Exempel från perplexity.ai (modell GPT-3.5 + sökområde ”all”, 2023-05-23)
+> Exempel från perplexity.ai (GPT-3.5 + sökområde ”all”).
 > **Jag:** Jag vill lära mig mer om vanliga inlärningssvårigheter i matematik på mellanstadiet. Kan du ge mig förslag på en forskningsartikel att läsa?
 > **Chattrobot:** Here are some research articles related to common learning difficulties in mathematics on middle school level:
 > 1. "Inlärningssvårigheter i matematik" (1): This article discusses the difficulties that children with learning difficulties in mathematics often face, such as problems with working memory and emotional and volitional deviations.
@@ -272,7 +274,7 @@ Svaret från chattroboten levererades tillsammans med länkar till respektive ar
 
 Perplexity.ai är en extern tjänst som anropar chattrobotar i bakgrunden, vilket också är en metod som språklärningstjänsten Duolingo använder. En omvänd metod är i stället att själva chattroboten utökas med funktioner för att anropa andra applikationer – något som blev möjligt i betalversionen av ChatGPT i mitten av maj, i form av så kallade plugins. Nedan syns ett exempel på hur en konversation kan se ut när plugin för WolframAlpha används – en webbtjänst för matematiska beräkningar och kombinerat med en stor bank med data. Det intressanta här är att språkmodellens förmåga att förstå min fråga och skriva lättlästa svar kombineras med en tillförlitlig bank med information.
 
-> _Exempel från ChatGPT (GPT-4, plugin WolframAlpha aktiverad, 12 maj)_
+> _Exempel från ChatGPT (GPT-4, plugin WolframAlpha aktiverad, 12 maj 2023)._
 > **Jag:** Hur många steg är det mellan Rom och Paris?
 > **Chattrobot:** [REQUEST TO WOLFRAM: "input": "distance between Rome and Paris”]
 > Avståndet mellan Rom och Paris är cirka 1109 kilometer.
