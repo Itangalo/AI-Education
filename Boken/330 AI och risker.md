@@ -1,5 +1,51 @@
 # AI och risker
-En bok som handlar om AI bör också ta upp risker med AI. Oro för att AI kan komma att allvarligt skada samhället, världsordningen eller mänskligheten är tillräckligt välgrundade för att många seriösa tänkare, forskare och hela organisationer arbetar för att förstå och minska de riskerna.
+En bok som handlar om AI bör också ta upp risker med AI. De risker som tas upp här är har inte utgångspunkt i skola och utbildning, utan har ett mer allmänt perspektiv på risker med AI. Flera av riskerna går in i varandra.
+
+## Risker i nära framtid
+### Arbetslöshet
+En naturlig följd av AI blir allt mer kompetent är att den kan ta hand om allt fler uppgifter – även inom arbetslivet. När sådana förändringar sker långsamt leder det till att vissa arbetsuppgifter eller delar av arbetsuppgifter byts ut mot annat arbete, och på sikt att vissa yrken blir ovanligare (medan andra blir vanligare). När effektiviseringar sker snabbare, vilket verkar vara fallet med AI-utvecklingen, kan det leda till att stora delar av arbetsuppgifter i ett jobb försvinner. Det ger sämre möjligheter att gradvis börja jobba med andra uppgifter, och större risk för uppsägningar. Om effektiviseringar går så långt att en person kan göra det jobb som tio personer gjorde tidigare kan man prata om att hela yrkeskategorier blir arbetslösa.
+
+I mitten av mars 2023 publicerades en studie från OpenAI, OpenResearch och University of Pennsylvania som tittade på vilken inverkan GPT-4 kan ha på arbetsmarknaden i USA. Forskarna drar slutsatsen att i fyra av fem jobb är det minst tio procent av arbetsuppgifterna som påverkas, och i nästan vart femte jobb påverkas minst hälften av arbetsuppgifterna. Sammantaget bedömer de att omkring 15 procent av arbetsuppgifter i USA påverkas. Yrken på alla inkomstnivåer är berörda, men höginkomstyrken förmodligen mer än andra.[^1] En rapport från investmentbanken Goldman Sachs i slutet av mars 2023 skriver att omkring två tredjedelar av arbeten i USA och Europa i någon mån kan automatiseras av AI och att generativ AI (så som GPT-modellerna) kan ersätta upp till en fjärdedel av det mänskliga arbetet. Sammantaget bedömer de att AI kan ersätta motsvarande 300 miljoner heltidsarbeten.[^2]
+
+Vad betyder sådana förändringar för samhället? Här är några tänkbara följder.
+
+* Effektivisering och automatisering leder till uppsägningar och ökad arbetslöshet. Inom vissa yrken leder det till mycket stora uppsägningar, medan andra bara påverkas marginellt. Man kan tänka sig att yrkesområden som exempelvis översättare, administratör, illustratör, analytiker, copywriter, telefonsupport, juridisk rådgivare och programmerare är mer påverkade, medan exempelvis frisör, psykolog och lärare är mindre påverkade.[^3] Om arbetslöshet ökar snabbt finns risk för missnöje och oroligheter.
+* Nya arbetsuppgifter och yrken dyker upp, som i stor utsträckning kompenserar för minskat behov av arbetskraft till följd av automatisering. I vissa fall handlar det om nya arbetsuppgifter inom samma yrkesområde, i andra inte, vilket ställer olika krav på omskolning.
+* Effektivisering och automatisering slår hårt mot vissa delar av världen, som upplever kraftigt minskat välstånd eller sämre framtidsutsikter. Man kan tänka sig att det drabbar länder som exporterar tjänster i form av exempelvis call centers och mjukvaruutveckling. Detta leder till ökad risk för konflikter och flyktingströmmar.
+* Ett fåtal aktörer som är skickliga på att använda AI slår ut de flesta andra inom vissa branscher, eftersom de kan erbjuda tjänster över hela världen till låga priser. Resurser och inflytande koncentreras till färre organisationer.
+* Effektivisering och automatisering leder till ökat välstånd och välmående, då viktiga varor och tjänster blir billigare. Minskat behov av arbetskraft leder till kortare arbetsdagar och minskad stress.
+
+Var och en av dessa punkter skulle kunna vara utgångspunkt för diskussioner och studier, och det hade kunnat vara fler punkter på listan. Den sista punkten – om ökat välstånd och välmående – sticker ut som mer positiv än de andra. Det är förmodligen också det scenario som kräver mest aktiva insatser för att nå.
+
+### Mer ojämlik fördelning av makt och resurser
+Eftersom AI-teknik i stor utsträckning utgår från träning på befintlig data finns en tydlig risk att skeva maktstrukturer lever vidare i AI-beslut. Om en AI ska rekommendera lämpliga kandidater till en chefstjänst finns det risk att vita medelålders män får omotiverade fördelar. En fördel är att det på ett helt annat sätt än med människor går att få en AI att helt bortse från exempelvis de sju diskrimineringsgrunderna, men om ”talar svenska med brytning” inte finns med bland de faktorer en AI ska ignorera kommer AI:n tradera de mönster som finns i träningsdatan. AI är bättre än människor på att objektivt följa givna regler, men om de reglerna säger att ”tala svenska med brytning” ger minuspoäng är det fel sorts likvärdighet.
+
+Ojämlik fördelning av makt och resurser kan också uppstå när vissa företag eller andra aktörer är avsevärt bättre än andra på att utnyttja AI som verktyg. Som nämns under föregående rubrik kan det till exempel leda till att enstaka företag – som kanske till och med var små – konkurrerar ut de flesta andra. Hypotetiskt skulle en enda översättningsbyrå med några få anställda kunna erbjuda högklassiga översättningar över hela världen för en billig peng om de använde tillräckligt bra AI-teknik. (Och under förutsättning att ingen annan översättningsbyrå gör samma sak.)
+
+Ett specialfall av företag som utnyttjar potentialen i AI och blir jättestora är de företag som skapar AI-modeller. Den ledande AI:n för att skapa bilder är sannolikt Midjourney, med 14,5 miljoner användare i maj 2023[^4]. I augusti 2022 hade de bara omkring 10 anställda[^5], och verkar i maj 2023 ha 17 anställda och ytterligare 34 personer som jobbar med moderering och användarstöd.
+
+De som skapar välanvända AI-modeller får dubbelt inflytande, i och med att AI-modellerna har potential att påverka vilken världsbild användarna har. Vid årsskiftet 2022–2023 var det bara sex aktörer i hela världen som hade datorkraft nog att träna stora generativa AI-modeller[^6], men teknikutveckling har ökat möjligheten för mindre och oberoende aktörer att träna AI-modeller till den grad att teknikjättarna ser en klar risk att de blir omkörda[^7]. Det dämpar risken för cementering av maktförhållanden, men ökar samtidigt risken att skadliga AI-modeller dyker upp.
+
+### Deep fake, översvämning och kraftfulla verktyg i fel händer
+
+Agenter som översvämmar nätet med innehåll.
+Id-kapning, deep fake
+
+Kraftfulla verktyg i fel händer/Autonoma vapen(?)
+
+### Kraftfulla verktyg i obetänksamma händer
+”Fel mål” (exempel från sociala medier)
+
+
+## Mer avlägsna risker
+…
+
+AI-apokalyps
+Personliga relationer med chattrobotar eller annan AI.
+Medvetande och AI
+
+
+Oro för att AI kan komma att allvarligt skada samhället, världsordningen eller mänskligheten är tillräckligt välgrundade för att många seriösa tänkare, forskare och hela organisationer arbetar för att förstå och minska de riskerna.
 
 Riskerna med AI ökar ju mer kompetent AI:n är. Det finns flera typer av risker, men tre breda kategorier är:
 1. Risk att AI används för att gynna få samtidigt som det skadar många.
@@ -9,11 +55,11 @@ Riskerna med AI ökar ju mer kompetent AI:n är. Det finns flera typer av risker
 De här riskerna går delvis in i varandra, och det finns risker som faller utanför de här kategorierna.
 
 ## Risk att AI gynnar få och skadar många
-I den här kategorin finns ett antal befintliga AI-tekniker. Ett exempel är övervakningskameror med ansiktsigenkänningsteknik som används i Kina, vilket ökar möjligheten att förebygga och följa upp brott – vilket till exempel även omfattar att demonstrera för demokrati i Hongkong. Ett annat exempel är drönare som används i krigsföring (exempelvis i [Libyen][1]), som själva kan identifiera mål och avgöra om de ska attackeras.
+I den här kategorin finns ett antal befintliga AI-tekniker. Ett exempel är övervakningskameror med ansiktsigenkänningsteknik som används i Kina, vilket ökar möjligheten att förebygga och följa upp brott – vilket till exempel även omfattar att demonstrera för demokrati i Hongkong. Ett annat exempel är drönare som används i krigsföring (exempelvis i [Libyen][6]), som själva kan identifiera mål och avgöra om de ska attackeras.
 
 Ett mycket mer diffust exempel är de AI-system som bestämmer vilket innehåll användare på sociala medier ska se. De är tillräckligt kraftfulla för att skapa vinster för de företag som äger plattformarna, men orsaker samtidigt skada i form av exempelvis psykisk ohälsa, polarisering i samhället och spridning av osanningar.
 
-Det finns en särskild risk med högkompetent AI, i och med att det är så tillgängligt och billigt att använda. Medan saker som kärnvapen är svåra att skapa eller köpa för terroristorganisationer, så är priset för beväpnade AI-drönare så pass lågt att de skulle kunna köpas i tusentals. Någon som vill göra mycket skada skulle också kunna ta AI som normalt används för att hitta potentiella läkemedel för att skapa kemiska stridsmedel.[^1] Medan det är dyrt att skapa AI-modeller är det billigt att använda dem, och demokratisering av teknik som kan användas för massförstörelse för med sig stora risker.
+Det finns en särskild risk med högkompetent AI, i och med att det är så tillgängligt och billigt att använda. Medan saker som kärnvapen är svåra att skapa eller köpa för terroristorganisationer, så är priset för beväpnade AI-drönare så pass lågt att de skulle kunna köpas i tusentals. Någon som vill göra mycket skada skulle också kunna ta AI som normalt används för att hitta potentiella läkemedel för att skapa kemiska stridsmedel.[^8] Medan det är dyrt att skapa AI-modeller är det billigt att använda dem, och demokratisering av teknik som kan användas för massförstörelse för med sig stora risker.
 
 ## Risk för oförutsedda och skadliga konsekvenser
 Även om högkompetent AI sitter i händer på folk som vill väl finns det risk för dåliga konsekvenser. I stor utsträckning hänger det samman med att AI kan leda till att ett fåtal uttalade mål eftersträvas så effektivt att andra saker blir lidande – saker som vi inte tänkte på och kanske inte hade chans att förutse när vi formulerade målen för AI:n.
@@ -42,11 +88,30 @@ Några andra risker med allt mer AI beskrivs kortfattat nedan.
 
 * **Skeva maktstrukturer kan befästas.** Eftersom AI-teknik i stor utsträckning utgår från träning på befintlig data finns en tydlig risk att skeva maktstrukturer lever vidare i AI-beslut. Om en AI ska rekommendera lämpliga kandidater till en chefstjänst finns det risk att vita medelålders män får omotiverade fördelar.
 * **Mänskligt innehåll kan dränks av AI-innehåll.** Om GPT-3.5 tränats på text motsvarande 57 miljarder människoliv av läsning kan man konstatera att den mesta texten på internet _inte_ skapats av människor. Med allt skickligare AI kommer det bli svårare att hitta text som faktiskt skrivits av en människa, och svårare att veta när man hittat det.
-* **Resurser och makt kan fördelas än mer ojämlikt.** Även om AI är förhållandevis billigt att använda är det dyrt att framställa och kräver enorma mängder data. De få aktörer som kan ta fram kraftfulla AI kan få stort inflytande – både i termer av ekonomisk produktion och vad gäller påverkan på information som människor tar del av. De stora generativa AI-modeller som finns tillgängliga idag kommer från bara sex aktörer.[^2]
+* **Resurser och makt kan fördelas än mer ojämlikt.** Även om AI är förhållandevis billigt att använda är det dyrt att framställa och kräver enorma mängder data. De få aktörer som kan ta fram kraftfulla AI kan få stort inflytande – både i termer av ekonomisk produktion och vad gäller påverkan på information som människor tar del av. De stora generativa AI-modeller som finns tillgängliga idag kommer från bara sex aktörer.[^9]
 * **Snabba förändringar på arbetsmarknaden.** AI-utveckling kan leda till att arbetsmarknaden krymper eller att de kompetenser som efterfrågas ändras på ett sätt som gör många arbetslösa. Det kan både skapa problem för de drabbade människorna och oroligheter på samhällsnivå.
 
-[^1]:	https://futureoflife.org/podcast/sean-ekins-on-regulating-ai-drug-discovery/
+[^1]:	[https://doi.org/10.48550/arXiv.2303.10130][1]
 
-[^2]:	https://arxiv.org/abs/2301.04655
+[^2]:	[https://www.ansa.it/documents/1680080409454\_ert.pdf][2]
 
-[1]:	https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/
+[^3]:	Det kan dock påpekas att en del analyser som går att hitta på nätet säger helt olika saker om vissa yrken, så som grafisk designer och programmerare.
+
+[^4]:	[https://approachableai.com/midjourney-statistics/][3]
+
+[^5]:	[https://www.theregister.com/2022/08/01/david\_holz\_midjourney/][4]
+
+[^6]:	https://arxiv.org/abs/2301.04655
+
+[^7]:	[https://www.semianalysis.com/p/google-we-have-no-moat-and-neither][5]
+
+[^8]:	https://futureoflife.org/podcast/sean-ekins-on-regulating-ai-drug-discovery/
+
+[^9]:	https://arxiv.org/abs/2301.04655
+
+[1]:	https://doi.org/10.48550/arXiv.2303.10130
+[2]:	https://www.ansa.it/documents/1680080409454_ert.pdf
+[3]:	https://approachableai.com/midjourney-statistics/
+[4]:	https://www.theregister.com/2022/08/01/david_holz_midjourney/ "Intervju i The Register"
+[5]:	https://www.semianalysis.com/p/google-we-have-no-moat-and-neither "Semianalytics: Google "We Have No Moat, And Neither Does OpenAI""
+[6]:	https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/

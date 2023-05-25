@@ -286,40 +286,38 @@ Perplexity.ai är en extern tjänst som anropar chattrobotar i bakgrunden, vilke
 Det är troligt att olika typer av hybrider kommer att ge många nya användningsområden för chattrobotar, i och utanför skolan.
 
 # Hur lär jag mig om chattrobotar?
-## Vem bör lära sig om ChatGPT?
-Är det värt att lära sig om chattrobotar?
+## Vem bör lära sig om chattrobotar?
+Frågan måste ställas: _Är det värt att lära sig om chattrobotar?_
 
 Det finns flera lager i svaret på frågan, och hur de ser ut beror också vilka ämnen du undervisar eller om du till exempel är rektor.
 
-Den mest direkta implikationen av chattrobotar, som fått mer än sin beskärda del av uppmärksamhet, handlar om risken att elever som ges i hemuppgift att skriva uppsatser låter en chattrobot skriva texten trots att det inte var tillåtet. (Se kapitel XX för mer om detta.) Sett ur det perspektivet behöver rektorer och alla lärare som använder inlämningsuppgifter som bedömningsunderlag _känna till_ att det finns chattrobotar som kan skriva uppsatser om det mesta som undervisas i skolan. Det omfattar många lärare i många ämnen, men långt ifrån alla.
+Den mest direkta implikationen av chattrobotar, som fått mer än sin beskärda del av uppmärksamhet, handlar om risken att elever låter en chattrobot skriva inlämningsuppgifter, trots att det inte var tillåtet. (Se kapitel XX för mer om detta.) Sett ur det perspektivet behöver rektorer och alla lärare som använder inlämningsuppgifter som bedömningsunderlag _känna till_ att det finns chattrobotar som kan skriva uppsatser om det mesta som undervisas i skolan. Det omfattar många lärare i många ämnen, men långt ifrån alla – att låta elever ta hem matteprov för att lämna in dagen efter är till exempel mycket ovanligt.
 
-Nästa lager handlar om lärare som undervisar i ämnen där chattrobotar är ett rimligt undervisningsinnehåll. Teknikämnet i grundskolan och samhällskunskap på gymnasial nivå är två exempel – båda omfattar hur teknik och samhälle påverkar varandra. (På gymnasial nivå finns dessutom många fler ämnen som berör exempelvis teknik, automatisering och programmering.) I de här ämnena är det rimligt att ta upp hur AI påverkar samhället, och chattrobotar är ett konkret exempel på hur det kan se ut – även om det finns också _många_ andra former för AI, från autokomplettering och låtförslag till självkörande bilar och lastbalansering i elnät.
+Nästa lager handlar om lärare som undervisar i ämnen där chattrobotar är ett rimligt undervisningsinnehåll att lära sig _om_. Teknikämnet i grundskolan och samhällskunskap på gymnasial nivå är två exempel – båda omfattar hur teknik och samhälle påverkar varandra. (På gymnasial nivå finns dessutom många fler ämnen som berör exempelvis teknik, automatisering och programmering.) I de här ämnena är det rimligt att ta upp hur AI påverkar samhället, och chattrobotar är ett konkret exempel på hur det kan se ut – även om det finns också _många_ andra former för AI, från autokomplettering och låtförslag till självkörande bilar och lastbalansering i elnät.
 
-På nästa nivå finns lärare där chattrobotar är ett meningsfullt verktyg inom ämnen som de undervisar i. Två av chattrobotarnas främsta grenar är att bearbeta text och att skriva programkod, vilket betyder att lärare i exempelvis svenska, svenska som andraspråk, programmeringsämnen och matematik kan ha tydlig nytta av att lära sig mer om chattrobotar. Det ger dels verktyg för egna arbetet i undervisningen, dels kunskaper om vilka typer av verktyg elever har eller kommer att ha tillgång till.
+I nästa kategori finns lärare där chattrobotar är ett meningsfullt verktyg inom ämnen som de undervisar i – alltså något som kan vara värt att _lära sig använda_. Två av chattrobotarnas främsta grenar är att bearbeta text och att skriva programkod, vilket betyder att lärare i exempelvis svenska, svenska som andraspråk, programmeringsämnen och matematik kan ha tydlig nytta av att lära sig mer om chattrobotar. Det ger dels verktyg för egna arbetet i undervisningen, dels kunskaper om vilka typer av verktyg elever har eller kommer att ha tillgång till. (Huruvida elever också ska lära sig använda chattrobotar för att bearbeta texter eller programmera i de här ämnena, eller om det räcker att läraren vet vad chattrobotar eventuellt kan tillföra, är en annan fråga.)
 
-Ytterligare en nivå upp finns lärare och skolledare som kan ha nytta av chattrobotar som ett verktyg för att effektivisera olika delar av sitt arbete, men där det inte berör själva undervisningen. Det ger en anledning att lära sig om chattrobotar, men inte mer än att exempelvis bli bättre på Excel eller hitta sätt att samarbeta med kollegor på andra skolor för att underlätta arbetet.
+Sista kategorin omfattar att lära sig om chattrobotar som en ”nice to have” – det är något man kan göra om man har tid över.[^5] Nästan oavsett vad du jobbar med kan chattrobotar vara ett användbart verktyg för att effektivisera delar av ditt arbete, men det är inte säkert att det är den bäst investerade tiden – det kan vara minst lika bra att bli bättre på att använda Excel eller hitta fler sätt att samarbeta med kollegor.
 
-På den mest generella nivån finns det anledning att lära sig om chattrobotar för att få en bättre känsla för hur en viktig del av teknikutvecklingen ser ut, för att den påverkar samhället och världen.
+I den här kategorin ingår också att lära sig om chattrobotar för att få en bättre känsla för hur en viktig del av teknikutvecklingen ser ut – en som lär påverka samhället och världen.
 
 Med det som bakgrund testar vi igen att ställa frågan: _Är det värt att lära sig om chattrobotar?_
-* Om du är rektor eller använder inlämningsuppgifter som betygsunderlag finns det starka skäl att lära dig hur chattrobotar klarar av att genomföra inlämningsuppgifter.
-* Om du undervisar teknik eller samhällskunskap finns det tydliga skäl att bli insatt i hur AI-utvecklingen ser ut, så att du kan ta upp den på ett relevant sätt i din undervisning – vilket inte nödvändigtvis omfattar chattrobotar.
-* Om du undervisar ämnen där textbearbetning eller programmering ingår finns det tydliga skäl att lära dig vad chattrobotar kan göra, både för att dra nytta av det själv och för att få en bild av vad elever kommer att använda i framtiden.
+* Om du är rektor eller använder inlämningsuppgifter som betygsunderlag finns det starka skäl att lära dig att chattrobotar klarar av att genomföra inlämningsuppgifter.
+* Om du undervisar teknik eller samhällskunskap finns det tydliga skäl att bli insatt i hur AI-utvecklingen ser ut, så att du kan ta upp den på ett relevant sätt i din undervisning. Det omfattar inte nödvändigtvis omfattar chattrobotar, men det är ett relevant och lättillgängligt exempel.
+* Om du undervisar ämnen där textbearbetning eller programmering ingår finns det tydliga skäl att lära dig vad chattrobotar kan göra, både för att dra nytta av det själv och för att få en bild av vad elever kommer att använda i framtiden. Det innebär troligtvis att du behöver lära dig att använda chattrobotar själv – att läsa sig till den typen av kunskap är svårt.
 * Om du letar efter sätt att effektivisera ditt arbete som lärare eller rektor är chattrobotar en bra kandidat, men inte ett självklart val jämfört med mycket annat som finns att lägga tid på – teknik eller annat.
 * Om du vill hålla dig uppdaterad om banbrytande teknik, för att ha en bild av hur teknik kan påverka samhälle, är chattrobotar en stark kandidat.
 
-Sammanfattningsvis kan man konstatera att det för rektorer och många lärare finns starka anledningar att åtminstone lära sig _om_ chattrobotar. För lärare i vissa ämnen finns det skäl att lära sig om chattrobotar på ett djupare plan, för att förstå hur AI kan påverka samhället idag och imorgon eller för hur du kan dra nytta av den i din undervisning. För andra är det starkaste skälet att lägga tid på att lära sig använda chattrobotar att det kan vara ett praktiskt verktyg, eller för att hålla sig uppdaterad om teknikutveckling.
-
 ## Bra förutsättningar för att lära sig använda chattrobotar
-En av styrkorna med chattrobotar är att det i princip inte finns någon teknisk tröskel för att komma igång. Du använder de flesta chattrobotarna genom att skriva i ett chattfönster, som du skulle skriva till en människa, och behöver oftast inte bry dig om inställningar och reglage, dolda menyer, eller tekniska finurligheter. Visst finns det knep för att få ut mer av chattrobotar, men man kommer mycket långt utan dem också.
+En av styrkorna med chattrobotar är att det i nästan inte finns någon teknisk tröskel för att komma igång. Du använder de flesta chattrobotarna genom att skriva i ett chattfönster, på samma sätt som du skulle skriva till en människa, och du behöver oftast inte bry dig om inställningar och reglage, dolda menyer, eller tekniska finurligheter. Även om det finns olika knep och avancerade inställningar för de som är intresserade kommer man mycket långt med att bara köra igång.
 
-Däremot finns det några andra saker som kan vara bra att tänka på om du vill lära sig att använda chattrobotar, eller leda kollegor som ska göra det, som mer har att göra med hur man förhåller sig till verktygen.
+Om man vill satsa lite mer på att lära sig chattrobotar, eller kanske ha mer organiserat satsningar på sin skola, kan det vara bra att tänka på de här sakerna.
 
-1. **Testa, testa, testa.** Att pröva alla möjliga (och omöjliga) saker lär vara det allra bästa sättet att lära sig. Lägg ifrån dig boken nu direkt om du inte redan testat chattrobotar, och gå till perplexity.ai och fråga till exempel vad som utmärker en bra lärare. Om du leder arbete med att lära sig chattrobotar är den enda rimliga utgångspunkten att låta deltagare lägga mycket tid på att testa och leka runt.
-2. **Det tar tid.** Räkna med att det tar tid att förstå vad du kan och inte kan göra med chattrobotar. Om du är en rektor som vill att medarbetare ska lära sig om chattrobotar behöver det finnas tid avsatt för det – gärna i flera omgångar.
-3. **Planera för misslyckanden.** Saker som ser ut att fungera bra kan bli magplask vid nästa försök, och det kan också vara först när man försöker omsätta idéer från chattrobotar i praktiken som man märker att de inte håller. Använd inte chattrobotar i ett skarpt läge inom områden där det kostar för mycket att misslyckas.
-4. **Dela erfarenheter.** Det här är ung teknik som fortfarande utvecklas, vilket gör det extra värdefullt att dela med sig av både sådant man tycker fungerar bra och sånt som inte fungerat. Dela gärna erfarenheter både inom skolan och med andra skolor, och se förstås till att ta tillvara andras erfarenheter också.
-5. **Ha spanare.** I och med att tekniken ändras så fort är det värdefullt att ha en eller ett par lärare på skolan som särskilt spanar efter nya verktyg eller användningsområden. Om det finns it-utvecklare eller förstelärare med it-inriktning är det förmodligen naturliga val.
+1. **Testa, testa, testa.** Att pröva alla möjliga (och omöjliga) saker lär vara det allra bästa sättet att lära sig. Lägg ifrån dig boken nu direkt om du inte redan testat chattrobotar, gå till perplexity.ai och fråga till exempel vad som utmärker en bra lärare. Om du leder arbete med att lära sig chattrobotar är den enda rimliga utgångspunkten att låta deltagare lägga mycket tid på att testa och leka runt.
+2. **Det tar tid.** Räkna med att det tar tid att förstå vad du kan och inte kan göra med chattrobotar. Om du är en rektor som vill att medarbetare ska lära sig om chattrobotar behöver det finnas tid avsatt för det – vid mer än ett tillfälle.
+3. **Planera för misslyckanden.** Saker som ser ut att fungera bra kan bli magplask vid nästa försök, och ibland är det först när man försöker omsätta idéer saker i praktiken som man märker att de inte håller. Använd inte chattrobotar i ett skarpt läge inom områden där det kostar för mycket att misslyckas. Och var inte för hård mot dig själv (eller andra) om saker inte blir som det var tänkt.
+4. **Dela erfarenheter.** Chattrobotar är ung teknik som fortfarande utvecklas, vilket gör det extra värdefullt att dela med sig av både sådant man tycker fungerar bra och sånt som inte fungerat. Dela gärna erfarenheter både inom skolan och med andra skolor, och se förstås till att ta tillvara andras erfarenheter också.
+5. **Ha teknikspanare.** I och med att tekniken ändras så fort är det värdefullt att ha en eller ett par lärare på skolan som särskilt spanar efter nya verktyg eller användningsområden. Om det finns it-utvecklare eller förstelärare med it-inriktning är det förmodligen naturliga val.
 6. **Tappa inte bort syftet.** Fråga dig regelbundet om det du utforskar faktiskt leder till bättre undervisning och lärande. Allt måste inte ge bättre undervisning direkt, men teknikutforskande ska inte bli sitt eget syfte.
 
 [^1]:	[https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/][5]
@@ -329,6 +327,8 @@ Däremot finns det några andra saker som kan vara bra att tänka på om du vill
 [^3]:	[https://arxiv.org/abs/2303.17548][8]
 
 [^4]:	[https://mashable.com/article/samsung-chatgpt-leak-details][9]
+
+[^5]:	Om du jobbar i skolan har du med stor sannolikhet _inte_ tid över. Men ändå.
 
 [1]:	https://www.perplexity.ai/
 [2]:	https://chat.lmsys.org/
