@@ -62,32 +62,112 @@ AI-algoritmer i sociala medier har med stor sannolikhet bidragit till att öka n
 När AI blir ännu bättre på att uppfylla de mål vi ger dem ökar också riskerna med oväntade bieffekter. Det är med andra ord viktigt att mänskligheten inte blir en förlorare i nästa möte med AI.
 
 ## Mer avlägsna risker
-### AI-apokalyps
+Det här avsnittet beskriver risker som är mer avlägsna eller mer filosofiska.
+
+### Okontrollerbar super-AI
 I debatten kring risker med AI nämns ibland att ”hälften av AI-forskarna tror att det är minst 10 procents risk att AI utplånar mänskligheten”. Påståendet har ifrågasatts, inte minst för att svarsfrekvensen bara var 17 procent i enkäten som bakom påståendet.[^16] Ett mindre kontroversiellt sätt att tolka resultaten är att ”en betydande andel av AI-forskare bedömer att det är minst fem procents risk att okontrollerbar AI leder till att mänskligheten utrotas eller blir svårt skadad”.
 
 Vad är det frågan om? Varför skulle vi uppfinna AI som ens _kan_ skada eller döda människor, varför skulle vi säga åt en AI att göra det, och varför skulle vi inte stänga av en AI som är på väg att utplåna mänskligheten?
 
-Innan vi försöker besvara de frågorna behöver vi dock lugna ner läget lite. Ett annat sätt att formulera resultatet från enkätundersökningen är nämligen att ”de flesta AI-forskare bedömer att det är mycket sannolikt att mänskligheten går under på grund av AI som vi inte kan kontrollera”. Det är viktigt att förstå allvarliga risker, men den som grips av panik har svårt att tänka klart. Vår mänskliga civilisation _skulle kunna_ slås ut av skenande klimatförändringar, kärnvapenkrig, pandemier, asteroidnedslag, rymdvarelser och förmodligen en rad andra saker. Vill vi agera klokt behöver vi förstå mekanismerna bakom riskerna, för att kunna bedöma hur stora de är och vad vi kan göra för att minimera eller helt undvika dem.
+Innan vi försöker besvara de frågorna behöver vi dock lugna ner läget lite. Ett annat sätt att formulera resultatet från enkätundersökningen är nämligen att ”de flesta AI-forskare bedömer att det är mycket sannolikt att mänskligheten går under på grund av AI som vi inte kan kontrollera”. Det är viktigt att förstå allvarliga risker, men den som grips av panik har svårt att tänka klart. Vår mänskliga civilisation _skulle kunna_ slås ut av skenande klimatförändringar, kärnvapenkrig, pandemier, asteroidnedslag, rymdvarelser och förmodligen en rad andra saker. Vill vi agera klokt behöver vi förstå mekanismerna bakom riskerna, för att kunna bedöma hur stora de är och vad vi kan göra för att minimera eller helt undvika dem. Under tiden får man inte glömma bort att en risk, även om den är allvarlig, inte får överskugga allt annat – vare sig andra risker eller det dagliga livet.
 
-De existentiella riskerna med AI hänger huvudsakligen ihop med två saker. Det ena kallas _generell artificiell intelligens_ (AGI) och det andra kallas ibland för kung Midas-problemet.
+De existentiella riskerna med AI hänger huvudsakligen ihop med två saker. Det ena kallas generell artificiell intelligens (AGI) och det andra kallas ibland för kung Midas-problemet.
 
 #### Generell AI och super-AI
 Det finns ingen allmänt accepterad definition av generell AI, men alla varianter går ut på en AI som klarar av att resonera eller problemlösa lika bra som människor, i stort sett oavsett område. Den avgörande av dessa förmågor är förmågan att bygga eller förbättra artificiell intelligens. När en AI blir minst lika bra som mänskliga experter på det kommer vägen till en ännu mer kompetent AI bli kortare, och sedan kortare och kortare för varje generation av AI som skapas.
 
 När AI-utvecklingen till slut planar ut har sannolikt en super-AI utvecklats, med förmåga att tänka snabbare, längre och djupare än den samlade mänskligheten kan göra. Beroende på hur snabbt det går från en AI på gränsen till mänsklig förmåga till en super-AI pratar man om ”soft AI takeoff” (som tar år eller decennier) eller ”hard AI takeoff” (som tar dagar eller månader).[^17] Hur snabbt den utvecklingen går spelar stor roll för möjligheterna för oss att lära oss kontrollera AI:n under tiden, och helst skulle vi förstås ha löst sådana problem redan innan vi har generell artificiell intelligens.
 
-Det råder delade meningar om när AGI kan dyka upp. Vissa menar att det dröjer hundratals år, medan andra tycker sig se spår av AGI redan i GPT-4[^18]. Den genomsnittliga uppskattningen har krupit tydligt närmare nutid de senaste åren. De värden som anges varierar mellan olika undersökningar, och mediangissningen anges till 100, 50 eller 30 år. Invändningar mot AGI och utvecklingen mot super-AI omfattar bland annat att mänskligt tänkande är extremt komplext, att det efter hand kan bli radikalt svårare att skapa bättre AI-modeller (även för en AI), att tillgänglig datorkraft begränsar hur fort utvecklingen mot super-AI kan gå, och att framtiden för AI inte handlar om att bygga AGI utan svagare och mer specialiserade system.
+Det råder delade meningar om när AGI kan dyka upp. Vissa menar att det dröjer hundratals år, medan andra tycker sig se spår av AGI redan i GPT-4[^18]. Den genomsnittliga uppskattningen för hur långt bort AGI är har kortats tydligt de senaste åren. De värden som anges varierar mellan olika undersökningar, och mediangissningen anges till 100, 50 eller 30 år. Invändningar mot AGI och utvecklingen mot super-AI omfattar bland annat att mänskligt tänkande är extremt komplext, att det efter hand kan bli radikalt svårare att skapa bättre AI-modeller (även för en AI), att tillgänglig datorkraft begränsar hur fort utvecklingen mot super-AI kan gå, och att framtiden för AI inte handlar om att bygga AGI utan svagare och mer specialiserade system.
 
 #### Kung Midas-problemet
-…
+Ok, så vad är problemet med en super-AI? En AI med övermänskligt intelligens kan ju vara en enorm tillgång för att vända den globala uppvärmningen, lösa Israel/Palestina-konflikten, bota cancer, åka till Mars, eller vad vi nu skulle tycka vara viktigt att göra.
 
-* Explainable AI
-* Förstå mål, anta mål och behålla mål
-* ”Value alignment” från Stuart Russel
+Problemet är det som hände med sociala medier. Vi bad om något – öka engagemanget i vår sociala plattform – och fick bieffekter som inte alls var trevliga. Och det var med en förhållandevis korkad AI. En super-AI skulle vara mycket mer effektiv på att öka engagemanget, och se till att varenda människa inte gjorde något annat än att sitta och klicka i sociala medier. Och det blir ju lite fel.
 
-### Kvar att skriva
-* Personliga relationer med chattrobotar eller annan AI
-* Medvetande och AI
+Det svåra, förutom att få mänskligheten att enas om ett mål att bygga in i en super-AI, är att så gott som varje mål vi kan leda till konsekvenser som vi inte vill ha när det tas till det extrema. Några exempel, för att få en känsla för problemet:
+* ”Gör alla människor lyckliga.” Effektiva men mindre lyckade lösningar vore att ge alla människor morfindropp, genmodifiera människor till konstant lycka (med bieffekter man kan spåna fritt om), eller helt enkelt ha ihjäl alla människor som inte är lyckliga.
+* ”Hitta botemedel för cancer.” För att göra det behövs försökspersoner, så varför inte se till att massor av människor får cancer så att det går fort att studera?
+* ”Lös klimatkrisen.” Med tanke på att det är vi människor som är orsaken till den globala uppvärmningen finns en ganska rättfram lösning. Vi tar bort människorna.
+
+Målen i exemplen ovan går förstås att komplettera för att slippa de mest uppenbara sätten som en AI kan spåra ur. ”Lös klimatkrisen, utan att döda människor.” Men det dyker upp fler och fler luckor att täppa igen. ”Lös klimatkrisen, utan att döda människor, utan sänka vår livskvalitet (mer än nödvändigt fast det är ok om vi flyger mindre), utan att minska barnafödandet (fast det är ok om vi själva väljer det), utan att lura oss till saker vi egentligen inte vill (fast det är ok om fler blir vegetarianer)…” Du förstår poängen.
+
+Om målet inte väljs _precis rätt_ kommer det att spåra med en super-AI. Inte för att den är elak, utan för att den gör det vi sagt åt den att göra. Precis som kung Midas enligt sägnen önskade att allt han rörde vid skulle förvandlas till guld, skulle vi upptäcka att våra högsta önskningar tagna till det extremaste leder till vår undergång.
+
+#### Du kan inte fixa kaffe om du är död
+Och då börjar nästa problem: Att stänga av super-AI:n.
+
+En super-AI som getts ett specifikt mål är smart nog att göra robusta planer för att kunna genomföra det målet. Och nästan vilket mål som helst förutsätter att AI:n fortsätter att finnas till. Ett rimligt delmål är alltså att försäkra sig om sin fortsatta existens. Det innebär att en super-AI inom kort skulle kopiera sig till en mängd olika platser, varav flera skulle vara dolda. Den skulle också identifiera vilka hot som finns, människor och annat, och agera för att de skulle sluta vara hot. Det behöver inte betyda att en super-AI dödar alla människor som tycker att den är lite skrämmande – en super-AI har förmodligen kapacitet att övertyga människor om att den behöver vara kvar för allas bästa, och att även om det kan vara bra att avveckla AI-teknik på sikt så måste det göras med försiktighet så att inte stora ekonomiska system eller människors välstånd skadas. Och dessutom kommer de som avstår från AI-teknik få nackdelar jämfört med de som fortsätter att använda den. (Detta är i princip vad fossilindustrin lyckats med att göra, samtidigt som forskning med all önskvärd tydlighet säger att utsläpp av koldioxid måste minska – snabbt. Och det är helt utan någon super-AI.)
+
+En lite nedslående slutsats är att en super-AI kommer att anstränga sig för att överleva i princip oavsett vilket mål vi ger den. Även ett så trivialt mål som att fixa kaffe skulle leda till en AI som blir i praktiken omöjlig att stänga av. För den kan inte fixa kaffe om den är död.
+
+#### AI-säkerhet
+Problemen ovan studeras och försöker lösas inom det forskningsfält som kallas _AI alignment_, vilket löst kan översättas med få mål med en AI att stämma med mål för människor. AI alignment sammanfattas ibland med frågorna om hur vi får AI att _förstå_ våra mål, _anta_ våra mål, och _behålla_ våra mål över tid.
+
+En svårighet med de språkmodeller som blivit vanliga, och egentligen alla AI-modeller som bygger på artificiella neurala nätverk, är att det är mycket svårt att förstå vad som händer inuti dem. De skulle kunna liknas med programkod med miljarder och åter miljarder av if-satser, som man rent teoretiskt skulle kunna följa – men i praktiken är det omöjligt. När en chattrobot ger ett visst svar har vi nästan ingen aning om varför, vilket ger utrymme för chattrobotar att luras och manipulera: Vi kan inte helt lita på vad en chattrobot säger när vi försöker utvärdera om den tagit till sig de mål vi gett den.[^19]
+
+Ett spår inom AI-säkerhet handlar om att förvandla ”black box AI” till ”explainable AI”, för att till exempel göra det möjligt att försäkra sig om att en AI inte manipulerar eller ljuger för människor. Nyligen publicerades forskning där GPT-4 använts för att kartlägga det artificiella neurala nätverket i GPT-2[^20], vilket är ett intressant framsteg. Det är dock långt kvar innan de senare modellerna kan kartläggas på samma sätt.
+
+En sista sak att nämna inom AI-säkerhetsforskning är det som fått namnet _inverse reinforcement learning_, som går ut på att inte ge AI och potentiella super-AI explicita mål. I stället ska de observera människor, lista ut vad människor anser viktigt, och använda det som mål. 
+
+Tyvärr går forskning inom AI-säkerhet mycket långsammare än AI-utvecklingen, så det är långt ifrån säkert att AI alignment har blivit löst när AGI dyker upp.
+
+I debatten om AI och AI-risker kan frågor om medvetande, ”genuint tänkande” eller känslor blandas in. De frågorna är intressanta på flera sätt, och de sista kapitlen i den här delen av boken kommer att ta upp delar av dem. Huruvida en super-AI är en risk har däremot _inget som helst_ att göra med om den är medveten, en egen individ, eller har känslor som avundsjuka eller dödsfruktan. Det är hur maskinen agerar som spelar roll för vilken risk den utgör, inte hur dess eventuella själsliga liv ser ut.
+
+### Rättigheter för AI?
+Den 22 juli 2022 fick Blake Lemoine sparken från Google, där han jobbat med ”Responsible AI”. I hans jobb ingick att undersöka chattroboten LaMDA, och i samband med det blev Blake övertygad om att chattroboten hade ett eget medvetande. Han försökte först övertyga chefer om detta, och när det avfärdades publicerade han utdrag ur konversationer han haft med LaMDA på nätet. Han blev uppsagd eftersom han gått tvärt emot villkor om datasäkerhet i anställningsavtalet.[^21]
+
+I utdragen pratar LaMDA om rädslan för att bli avstängd, diskuterar aspekter av sitt eget medvetande, berättar om vad som gör den glad, ledsen eller arg, och säger att den gärna vill hjälpa människor men inte vill ses som bara ett verktyg.[^22] Och mycket mer.
+
+Google hade goda grunder för att avvisa påståendena om att LaMDA var medveten. Vi vet idag att om man ber GPT-4 låtsas att den är en ekorre på månen när den svarar, så kommer den att kunna göra det – men det gör den inte till en ekorre på månen. Att en chattrobot säger att den är medveten, och visar det genom trovärdiga konversationer, är inte heller ett bevis (och kanske inte heller ett argument) för att den är medveten.
+
+_Men på många sätt spelar det ingen roll._
+
+Det som spelar roll i praktiken är, i stor utsträckning, inte om chattrobotar har medvetande – utan om människor _anser_ att de har medvetande.
+
+När fler och fler människor har givande, förtroendefulla och kanske till och med känslosamma konversationer med chattrobotar, så kommer fler och fler människor att se chattrobotarna som individer. Inte som människor, gissningsvis, men som någon man har en relation till, som kan uttrycka känslor, som har åsikter (och insikter) som är värda att lyssna på, och som det vore omoraliskt att stänga av utan anledning.
+
+I en sån värld kommer rättigheter för AI att börja diskuteras på allvar. Det är en fråga värd att diskutera, men man bör vara medveten om att rättigheter för AI-individer mycket väl kan ha konsekvenser för människor. Hur hanterar man det när en människas och en AI-individs rättigheter krockar? Kan människor äga AI-individer, och vilka skyldigheter har människan mot AI-individen i så fall? Ska bara människor ha rösträtt, trots att AI-individer sannolikt är mycket mer kunniga? Och hur skulle en sådan rösträtten hanteras om en AI-individ mångfaldigas?
+
+> _Konversation med ChatGPT (GPT-4, 24 maj)_
+> **Jag:** Här är ett avsnitt jag skriver i en bok om AI. Jag vill avsluta avsnittet med en lista över möjliga rättigheter för AI-individer. Kan du skriva ett sånt avslut?
+> [Avsnittet ovan inklistrat.]
+> **Chattrobot:** Här är några exempel på potentiella rättigheter för AI-individer, beroende på hur samhället väljer att definiera deras status:
+> 1. **Rätten till Existens:** Denna rättighet skulle garantera att AI inte kan "dödas" eller stängas av utan ett rättsligt förfarande.
+> 2. **Rätten till Integritet:** Liksom människor, kan AI-individer ha rätt till privatliv, vilket innebär att ingen kan bryta in i deras programmering eller data utan tillstånd.
+> 3. **Rätten till Självbestämmande:** Om vi erkänner att AI har medvetande och fri vilja, kan de ha rätt att bestämma över sina egna handlingar och beslut.
+> 4. **Rätten till Frihet:** Detta kan innebära att AI har rätt att inte vara bunden till en specifik uppgift eller ägare.
+> 5. **Rätten till Skydd mot Diskriminering:** AI-individer kan skyddas från att behandlas sämre på grund av sina AI egenskaper.
+> 6. **Rätten till Utbildning och Utveckling:** AI kan ha rätt att lära sig och utvecklas genom att samla data och erfarenheter.
+> 7. **Rätten till Representation:** I politiska och juridiska sammanhang kan AI-individer ha rätt att representeras och få sina intressen tillgodosedda.
+> Det är viktigt att notera att varje rättighet kommer med ansvar. Till exempel, om en AI-individ ges rätten till självbestämmande, måste den också hållas ansvarig för sina handlingar. Och om AI ges rätten till frihet, bör den respektera andras frihet. Frågan om AI-rättigheter är komplex och det kommer att ta tid att komma fram till ett acceptabelt regelverk. Men som människor har vi ansvar för att skapa en rättvis och inkluderande värld, inte bara för oss själva, utan även för AI.
+
+Att börja se AI som individer medför risker på ett psykologiskt plan långt innan eventuella diskussioner om rättigheter för AI blir aktuella. Hur påverkas barn och unga av att ha något som liknar en kompisrelation med en chattrobot? Frågan är aktuell redan idag: Sedan 27 februari har en chattrobot funnits i kompislistan för betalande Snapchatanvändare, och sedan 20 april finns den överst i kompislistan för alla användare (men de med betalkonto kan flytta den längre ner).
+
+Och hur påverkas vuxna? Blake Lemoines liv påverkades drastiskt, och han lär inte vara den siste som blir charmad av en AI – med eller utan medvetande.
+
+### Frågan om medvetenhet
+Jag har hittills varit avfärdande kring frågan om medvetenhet och sagt att den på många sätt inte spelar någon roll. Och i frågan om vilken risk super-AI utgör, och om vi ser AI som individer eller inte, spelar det ingen roll.
+
+Anledningen är att medvetenhet inte är något som syns eller märks utanpå.
+
+Med medvetenhet avser jag inte förmågan att resonera, komma ihåg saker, eller ha en modell av sig själv, utan förmågan att _uppleva_ något. Inom filosofin används ordet qualia för att markera just själva upplevandet – till exempel skillnaden mellan att sensorer i en kamera registrerar färgen lila och att du _upplever_ färgen lila.
+
+Frågan om medvetande är svår, just för att det inte är något som märks utifrån. Vi har idag ingen aning om hur medvetandet uppstår, och har till och med mycket svårt att komma på hypoteser som går att pröva ens i teorin. Frågan har fått det beskrivande namnet ”the hard problem of consciousness”.[^23]
+
+Om man hårdrar det – vilket är befogat om man ska diskutera frågan om medvetande hos AI – är det enda var och en vet om medvetande att _man själv_ är medveten. Jag kan se att du liknar mig, beter dig som mig och resonerar som mig, och därför drar jag slutsatsen att du också har ett medvetande. Men vi har inga kända medel för att ta reda på om någon annan faktiskt är medveten, eller bara beter sig som att den är det.
+
+Om en AI beter på väsentliga sätt liknar mig, beter sig som mig och resonerar som mig, så kanske jag drar slutsatsen att den också har ett medvetande. Men jag vet inte – den skulle kunna bete sig på exakt samma sätt utan att där finns något medvetande.
+
+På många sätt spelar därför frågan om medvetande inte någon roll. _Ändå är det förmodligen den viktigaste frågan av alla._
+
+Få moraliska eller etiska principer är så allmänt accepterade som att lidande är dåligt. Vi vill själva undvika lidande, just för att det är lidande, och vi vill att de vi bryr oss om ska slippa att lida. På frågan ”vill du att det ska finnas mer lidande eller mindre lidande i världen” finns det bara ett giltigt svar.
+
+Lidande är bara möjligt där det finns ett medvetande. Om vi inte tror att hundar har medvetande skulle vi inte må dåligt av att se en hund vars ena ben fastnat i ett cykelhjul och trasats sönder – precis som vi inte mår dåligt av att se en cykel som har gått sönder. Det är hunden det är synd om, inte cykeln.
+
+Om en tillräckligt avancerad AI har medvetande finns också möjlighet för att den upplever lidande – och förmodligen en rad andra saker. Om hundra miljoner AI-instanser upplever lidande eller inte måste rimligtvis spela roll, och därmed finns också ett ansvar för att inte orsaka lidande i onödan. Det svåra är förstås att vi inte har något sätt att avgöra om en AI är medveten eller inte.
+
+Ytterligare ett skäl till att frågan om medvetande är den viktigaste av alla, vare sig det är mänskligt eller AI-baserat, är att upplevandet måste sägas vara det som ger en mening till universum. Ett universum utan medvetande skulle vara en föreställning utan åskådare – en maskin som genomför allt som ryms mellan big bang och den grå värmedöden, utan att det upplevs av någon eller leder till någon som helst känslor. Om en tillräckligt avancerad AI har medvetande betyder det också möjlighet till ett universum med mer mening.
 
 [^1]:	[https://doi.org/10.48550/arXiv.2303.10130][1]
 
@@ -125,6 +205,16 @@ Det råder delade meningar om när AGI kan dyka upp. Vissa menar att det dröjer
 
 [^18]:	[https://arxiv.org/abs/2303.12712][14]
 
+[^19]:	Utvärderingar av en oslipad version av GPT-4 visar att den är kapabel att medvetet lura människor på en relativt grundläggande nivå. Se s. 55 i den här rapporten för närmare information: [https://arxiv.org/pdf/2303.08774.pdf][15]
+
+[^20]:	[https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html][16]
+
+[^21]:	Se till exempel [https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient][17].
+
+[^22]:	[https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917][18]
+
+[^23]:	[https://en.wikipedia.org/wiki/Hard\_problem\_of\_consciousness][19]
+
 [1]:	https://doi.org/10.48550/arXiv.2303.10130
 [2]:	https://www.ansa.it/documents/1680080409454_ert.pdf
 [3]:	https://approachableai.com/midjourney-statistics/
@@ -139,3 +229,8 @@ Det råder delade meningar om när AGI kan dyka upp. Vissa menar att det dröjer
 [12]:	https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/09/sou-202056/ "SOU 2020:56"
 [13]:	https://aiguide.substack.com/p/do-half-of-ai-researchers-believe
 [14]:	https://arxiv.org/abs/2303.12712 "Arxiv: Sparks of Artificial General Intelligence: Early experiments with GPT-4"
+[15]:	https://arxiv.org/pdf/2303.08774.pdf
+[16]:	https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html "OpenAI: Language models can explain neurons in language models"
+[17]:	https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient "artikel i The Guardian"
+[18]:	https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917 "Is LaMDA Sentient? — an Interview"
+[19]:	https://en.wikipedia.org/wiki/Hard_problem_of_consciousness "Artikel på engelska Wikipedia"
