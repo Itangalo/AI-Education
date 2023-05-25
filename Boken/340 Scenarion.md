@@ -9,6 +9,12 @@ I det här kapitlet beskrivs ett antal scenarion. Alla är spekulativa. (Ingen a
 ## Hela yrkesgrupper behöver omskolas
 …
 
+## Översvämning på nätet
+* Vi behandlar alla som botar på nätet?
+* Källforensistik, inte källkritik.
+* Internetmyndighet, då man får ID att börja använda? Och spårbarhet för innehåll.
+* …
+
 ## Öppen AI används för att stärka demokratin
 …
 
