@@ -10,3 +10,24 @@ Riktlinjer:
  * Det får mycket gärna finnas med aktiviteter eller övningar. Det får också gärna finnas frågor att reflektera över (till exempel med utgångspunkt i de vanliga misstagen).
 * Boken sprids förmodligen under Creative Commons-licens, och författare måste vara beredda att låta andra använda, kopiera och modifiera texten. Ursprungsförfattaren ska dock fortfarande anges.
 * …
+
+Några kapitel att skriva:
+* Undervisa om chattrobotar i teknik och samhällskunskap
+* AI och fusk (suck)
+* Prompta klokt
+* Chattroboten i Snapchat
+* Hitta forskning (med perplexity.ai)
+* Använda plugins i ChatGPT(?)
+* Stöd för programmering
+* Ge elever stöd i skrivprocess (högstadiet och senare?)
+* Stimulera läsning med interaktiva berättelser
+* Stöd för elever med kognitiva funktionshinder
+* Chattrobotar för gymnasiematte
+* För elever som behöver utmaningar i \<ämne\>
+* Kapitel som riktar sig direkt till elever?
+* AI i bildundervisning
+* Skapa quizfrågor
+* Skapa bättre texter
+* Bedöma uppsatser (många varningsflaggor)
+* Planera lektioner
+* …
