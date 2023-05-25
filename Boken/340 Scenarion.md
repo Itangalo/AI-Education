@@ -33,16 +33,20 @@ I det här kapitlet beskrivs ett antal scenarion, mindre eller (oftast) mer spek
 
 ## Oprövade AI-undervisare införs
 * Reglering inte på plats. Högt tryck på utbildningsväsendet + låg tillgång på behöriga lärare leder först till AI-undervisare som hemhjälp och sedan i skolan.
-* Ökad segregation mellan skolor med många/få mänskliga lärare.
+* Ökad segregation mellan skolor med många/få mänskliga lärare. Elever som inte har driv för eget lärande missgynnas starkt.
 * AI sköter kunskapsbedömning, men systemen är för öppna för att gejma.
+* Enstaka leverantörer får mycket stort inflytande över utbildning i hela världen.
 …
 
 ## AI-utvecklingen bromsar in
+* Reglering, eventuellt efter AI-incident, leder till att utvecklingen bromsas kraftigt.
+* Stora förändringar men inte revolutioner i arbetsliv och skola.
+* AI ger stort stöd i skolan, både för elever och lärare. Lärarens roll blir mer elevnära, även i skolans senare år.* 
 …
 
 ## Annat
 Scenarion att inte beskriva utan kanske bara nämna. (Eller stryka alltihop.)
 * USA säger att EU inte får ta del av GPT-5. Eller en aktör skapar nästa generation av AI och gör den bara tillgänglig till några få.
-* Kamp om processorer ger konflikt i Taiwan.
+* Kamp om processortillverkning ger konflikt i Taiwan. Massiv arbetslöshet i delar av världen, i kombination med klimatförändringar, ger stora flyktingströmmar.
 * …
 
