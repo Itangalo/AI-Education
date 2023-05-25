@@ -17,7 +17,7 @@ I det här kapitlet beskrivs ett antal scenarion, mindre eller (oftast) mer spek
 * …
 
 ## Öppen AI används för att stärka demokratin
-* [https://www.schneier.com/blog/archives/2023/04/ai-to-aid-democracy.html][1]
+* [https://www.schneier.com/blog/archives/2023/04/ai-to-aid-democracy.html]()
 …
 
 ## Meborgarlön införs
@@ -32,7 +32,9 @@ I det här kapitlet beskrivs ett antal scenarion, mindre eller (oftast) mer spek
 …
 
 ## Oprövade AI-undervisare införs
-* Reglering inte på plats. Högt tryck på utbildningsväsendet + låg tillgång på behöriga lärare leder först till AI-un
+* Reglering inte på plats. Högt tryck på utbildningsväsendet + låg tillgång på behöriga lärare leder först till AI-undervisare som hemhjälp och sedan i skolan.
+* Ökad segregation mellan skolor med många/få mänskliga lärare.
+* AI sköter kunskapsbedömning, men systemen är för öppna för att gejma.
 …
 
 ## AI-utvecklingen bromsar in
@@ -44,4 +46,3 @@ Scenarion att inte beskriva utan kanske bara nämna. (Eller stryka alltihop.)
 * Kamp om processorer ger konflikt i Taiwan.
 * …
 
-[1]:	https://www.schneier.com/blog/archives/2023/04/ai-to-aid-democracy.html
