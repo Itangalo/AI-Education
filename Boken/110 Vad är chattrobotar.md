@@ -219,7 +219,7 @@ Med alla misstag och brister som beskrivs ovan kan man börja undra om det verkl
 
 Ovanpå det kan man lägga en meh-effekt, som man får om det första man testar är att ställa en fråga för att se om chattroboten kan svara rätt. Det leder ofta till besvikelse – ibland för att chattroboten svarar fel, men oftare för att den svarar rätt och man sedan frågar sig vad vitsen var. Vi har ju redan sökmotorer?
 
-Det tar ett tag att vänja sig vid att chattrobotar inte primärt är uppslagsverk eller sökrobotar, utan kanske snarare ska ses som en assistent på burk. Som diskuteras nedanför under rubriken _hybrider_ kan chattrobotar fungera även som uppslagsverk, om de kombineras med andra verktyg, men de tre starkaste områdena för rena chattrobotar är att bearbeta text, vara idéspruta eller bollplank, och att ge stöd i programmering. Om man använder chattrobotar till saker som de är bra på, och håller de sju frågorna ovan i bakhuvudet, kan man få ut mycket nytta av dem.
+Det tar ett tag att vänja sig vid att chattrobotar inte primärt är uppslagsverk eller sökrobotar, utan kanske snarare ska ses som en assistent på burk. Som diskuteras nedanför under rubriken _hybrider_ kan chattrobotar fungera även som uppslagsverk, om språkmodeller kombineras med andra verktyg, men de tre starkaste områdena för rena språkmodeller är att bearbeta text, vara idéspruta eller bollplank, och att ge stöd i programmering. Om man använder chattrobotar till saker som de är bra på, och håller de sju frågorna ovan i bakhuvudet, kan man få ut mycket nytta av dem.
 
 Nedan beskrivs kort de tre starka områdena för chattrobotar. I del 2 finns mer utförliga exempel på hur det här kan se ut i praktiken (där en del exempel också går utanför de här tre områdena).
 
