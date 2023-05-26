@@ -11,7 +11,7 @@ Riktlinjer:
 * Boken sprids förmodligen under Creative Commons-licens, och författare måste vara beredda att låta andra använda, kopiera och modifiera texten. Ursprungsförfattaren ska dock fortfarande anges.
 * …
 
-Några kapitel att skriva:
+Förslag på kapitel att skriva (av någon):
 * Undervisa om chattrobotar i teknik och samhällskunskap
 * AI och fusk (suck)
 * Prompta klokt

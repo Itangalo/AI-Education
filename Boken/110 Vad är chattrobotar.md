@@ -29,7 +29,7 @@ ChatGPT är ett av flera sätt att använda chattrobotar, och det är värt att 
 * **Chattrobotar** är generativ AI som (huvudsakligen) arbetar med text och dessutom är skapade för att föra dialoger. Exempel är GPT-4, PaLM 2 och Claude.
 * **ChatGPT** är en produkt från företaget OpenAI. Den består huvudsakligen av en webbsida där du kan chatta med några av deras AI-modeller (som är chattrobotar).
 
-I skrivande stund är det förhållandevis tydligt att den chattrobot som har fått störst genomslag och har bredast kompetens är GPT-4, som lanserades i mars 2023 och (liksom GPT-3.5) går att nå genom tjänsten ChatGPT. Men en rad andra chattrobotar dykt upp, både kommersiella och öppna, liksom massor av verktyg som använder AI-modeller i bakgrunden för att kunna göra mer komplexa eller specialiserade saker. Det betyder att andra chattrobotar eller AI-verktyg mycket väl kan vara bättre på vissa typer av uppgifter, och det kan också hända att nya modeller inom en snar framtid tar över ledarplatsen från GPT-4.
+I skrivande stund är det förhållandevis tydligt att den chattrobot som har fått störst genomslag och har bredast kompetens är GPT-4, som lanserades i mars 2023 och (liksom GPT-3.5) går att nå genom tjänsten ChatGPT. Men en rad andra chattrobotar har dykt upp, både kommersiella och öppna, liksom massor av verktyg som använder AI-modeller i bakgrunden för att kunna göra mer komplexa eller specialiserade saker. Det betyder att andra chattrobotar eller AI-verktyg mycket väl kan vara bättre på vissa typer av uppgifter, och det kan också hända att nya modeller inom en snar framtid tar över ledarplatsen från GPT-4.
 
 I den här boken används termen _chattrobot_ om det inte någon specifik AI-modell eller produkt avses. Där konversationer med chattrobotar skrivs ut markeras vilken AI-modell det rör sig om (inklusive datum för senaste uppdateringen för modellen alternativt datum för konversationen, för att kunna se när exempel blivit utdaderade).
 
@@ -118,7 +118,7 @@ Inte desto mindre är det viktigt att komma ihåg att chattrobotar i första han
 Som med alla andra verktyg är det värt att använda chattrobotar med omdöme. Här är sju frågor som är bra att ställa sig för att undvika misstag som är förhållandevis vanliga vid användning av chattrobotar.
 
 ## Finns det språkfel?
-När ChatGPT och GPT-3.5 lanserades var det ganska vanligt med stavfel och språkfel när man chattade på svenska. Med GPT-4 är det ovanligt med stavfel på svenska, och extremt ovanligt på engelska, men de förekommer fortfarande. (Inte minst om man ber chattroboten skriva med stora bokstäver, visar det sig.) Även för andra chattrobotar är språkfel mer eller mindre vanliga.
+När ChatGPT och GPT-3.5 lanserades var det ganska vanligt med stavfel och språkfel när man chattade på svenska. Med GPT-4 är det ovanligt med stavfel på svenska, och extremt ovanligt på engelska, men de förekommer fortfarande. (Inte minst om man ber chattroboten skriva med stora bokstäver, visar det sig.) Språkfel är mer eller mindre vanliga även hos andra chattrobotar.
 
 Stavfel eller felaktig användning av en/ett är ofta inte problem i praktiken, men är ändå värda att försöka slippa.
 
@@ -153,14 +153,14 @@ Men hyfsträning kan också skapa svårigheter i sig. Människor i Sverige kan t
 Det finns chattrobotar som inte har genomgått hyfsträning, och alltså kan slänga ur sig budskap utan tanke på om de är oartiga, kränkande eller direkt skadliga. Sådana modeller kräver i regel mer expertis för att hitta och använda, och spelar därför en mindre roll i skolan.
 
 ## Är jag på väg att skicka känsliga uppgifter?
-I april 2023 visade det sig att anställda på Samsung hade råkat skicka känslig data till ChatGPT – i två fall för att förbättra kod, i ett tredje var det mötesanteckningar som delades.[^4] Det finns förmodligen många fler företag och organisationer som skickat information till chattrobotar utan att fundera över om det är data som får delas.
+I april 2023 visade det sig att anställda på Samsung hade skickat känslig data till ChatGPT – i två fall för att förbättra kod, i ett tredje var det mötesanteckningar som delades.[^4] Det finns förmodligen många fler företag och organisationer som skickat information till chattrobotar utan att fundera över om det är data som får delas.
 
 Man kan utgå från att chattrobotar är molntjänster med servrar utanför EU, och att all information som skickas både bearbetas och sparas. Man ska därför inte skicka personuppgifter eller andra känsliga uppgifter.
 
 ## Är det här oreflekterad avlastning?
 En särskilt knivig fråga med verktyg som elever själva använder handlar om _oreflekterad avlastning_. Saker som miniräknare, ordböcker och ordlistor, formelblad, rättstavningsprogram, uppläsningsprogram – och chattrobotar – kan vara fantastiska verktyg för att kunna arbeta smidigare och fokusera på det som är undervisningens egentliga innehåll. De gör det möjligt att slippa fastna i saker som kan stjäla värdefull tankekraft – tankekraft för att bearbeta och lära sig nya saker.
 
-Problemet är om det som verktyget gör helt eller delvis gör saker som eleven behöver träna på. Att alltid ha miniräknare till hands gör att elever i mindre utsträckning räknar i huvudet eller på papper, och då kommer de att bli sämre på det. Att skriva på tangentbord ger mindre träning i att skriva för hand. Att lyssna på text ger mindre träning i traditionell läsning. Att använda chattrobotar för att formulera texter gör att vi blir sämre på att göra det för hand.
+Problemet är om det som verktyget gör saker som eleven behöver träna på. Att alltid ha miniräknare till hands gör att elever i mindre utsträckning räknar i huvudet eller på papper, och då kommer de att bli sämre på det. Att lyssna på text ger mindre träning i traditionell läsning, att skriva på tangentbord ger mindre träning i att skriva för hand (och omvänt!), att ta rulltrappan ger mindre träning för benen. Och att använda chattrobotar för att formulera texter gör att vi blir sämre på att göra det för hand.
 
 Lösningen på problemet är _inte_ att låta bli verktyg helt och hållet. Lösningen är snarare att vara medveten om att det ofta är mödosamt att lära sig något, och att det alltså är viktigt att välja vad elever ska lägga sina ansträngningar på. (Att något är mödosamt är dock inte samma sak som att det är tråkigt, vilket också är värt att komma ihåg.) Om man vill använda chattrobotar för att stötta läsning eller skrivande i lågstadiet kräver det ordentlig eftertanke, medan det är mindre problematiskt att låta studenter på högskola använda en chattrobot för att göra en rapport lättare att läsa.
 
