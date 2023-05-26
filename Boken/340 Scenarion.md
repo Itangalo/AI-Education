@@ -60,13 +60,13 @@ Oro över AI-utveckling leder till växande protester, och när en allvarlig AI-
 Även i skolan har AI börjat användas, men som en lärarassistent mer än för undervisning. Lärare förskjuts mot att vara mer elevnära, även i senare år. Kunskap om AI ur flera perspektiv blir en del av läroplanen redan i grundskolan, bland annat för att minska AI-risker och öka säkerhetsforskning inom AI.
 
 ## Protektionistisk AI
-Kamp om processortillverkning bidrar till väpnad konflikt i Taiwan och ett öppet krig mellan USA och Kina. Europa stöttar inte USA, vilket leder till en klyfta och att USA förbjuder att exportera AI-tjänster till EU och många andra delar av världen. Europas AI-satsningar ligger för långt efter och kan inte följa med när USA levererar nästa och nästa generation av AI.
+Kamp om processortillverkning leder till konflikt i Taiwan och ett öppet krig mellan USA och Kina. Europa stöttar inte USA, vilket leder till att USA förbjuder att exportera AI-tjänster till EU och strax därefter resten av världen. Europas AI-satsningar ligger för långt efter och kan inte följa med när USA levererar nästa och nästa generation av AI.
 
-Inte heller Kina kan tävla med AI-utvecklingen i USA. Inom ett år måste Kina kapitulera, då AI i både fysisk och digital krigsföring visat sig vara närmast omöjlig att försvara sig mot. USA blir en ensam supermakt i världen. Andra delar av världen har i regel bra levnadsförhållanden, men USA dikterar villkor och tar över alla resurser som krävs för halvledarindustri. Inom tio år påbörjar man också gruvdrift på asteroider och planerar kolonisering av Mars. Inom hundra år finns realistiska projekt för att besöka andra stjärnor.
+Inte heller Kina kan tävla med USA:s AI-utveckling. Inom ett år förlorar Kina Taiwankriget, då USA:s krigsföring med AI-stöd visat sig vara närmast omöjlig att försvara sig mot. USA blir en ensam supermakt i världen. Andra delar av världen har i regel bra levnadsförhållanden, men USA dikterar villkor och tar över alla resurser som krävs för halvledarindustri och tillåter inte att andra länder utvecklar eller använder avancerad AI. Inom tio år påbörjar man också gruvdrift på asteroider och planerar kolonisering av Mars. Inom femtio år finns realistiska projekt för att besöka andra stjärnor.
 
 I USA är levnadsförhållandena enormt mycket bättre än i resten av världen. Det uppstår emellanåt protester och motståndsgrupper mot ”överhetens förtryck”, både utanför och i USA, men inga som lyckas sprida sig eller växa sig stora. Ovetandes för de flesta, även i USA, styrs landet huvudsakligen av en mycket stark AI med ursprung i kriget mot Kina. AI:n fick mål som i princip gick ut på att skydda och gynna det amerikanska folket och den amerikanska staten, utan att i grunden rubba den rådande världsordningen.
 
-Skolan i Sverige är förhållandevis lik den idag, men det verkar som att historien har stannat av.
+Skolan i Sverige är förhållandevis lik den idag, men det verkar som att historien har stannat av på alla andra ställen än i USA.
 
 [^1]:	[https://www.schneier.com/blog/archives/2023/04/ai-to-aid-democracy.html][1]
 
