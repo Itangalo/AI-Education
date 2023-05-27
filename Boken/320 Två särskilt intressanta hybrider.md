@@ -18,7 +18,7 @@ Men. Vi har idag en skola där omkring 15 procent av eleverna i årskurs 9 inte 
 AI-stöd i undervisning har en rad andra frågor och risker att ta hänsyn till. En av dem handlar om dataintegritet. En annan handlar om vad som händer om en eller ett fåtal aktörer får inflytande över utbildning över hela världen.
 
 ## AutoGPT
-AutoGPT är en annan fascinerande AI-hybrid. Denna lanserades den 30 mars av en privatperson vid namn Toran Bruce Richards, och har snabbt fått stor uppmärksamhet.[^3]
+AutoGPT är en annan fascinerande AI-hybrid. Denna lanserades den 30 mars av en privatperson vid namn Toran Bruce Richards, och har snabbt fått stor uppmärksamhet.[^3] Det har också uppstått ett par andra verktyg med liknande funktioner.[^4]
 
 AutoGPT är ett program som man installerar på sin egen dator, och som kan kommunicera med GPT-modellerna och en rad andra tjänster. Principen bakom AutoGPT är att användaren anger ett mål, och programmet använder sedan chattrobotar för att skapa en plan som bryts ner i mindre och mindre bitar (också med hjälp av chattrobotar) tills de är hanterbara uppgifter. Uppgifterna genomförs sedan genom de verktyg som bedöms lämpliga: Det kan vara att fråga chattrobotar ännu en gång, men också att läsa på Wikipedia, leta efter nyheter, sammanställa börsdata och kolla vädret. Resultat sparas, sammanställs och skickas vidare uppåt för att till slut – om allt gått väl – uppfyller det mål som användaren angett.
 
@@ -53,6 +53,8 @@ Hur förbereder vi oss själva?
 [^2]:	[https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/s/skolprestationer-skolstress-och-psykisk-ohalsa-bland-tonaringar/][4]
 
 [^3]:	[https://en.wikipedia.org/wiki/Auto-GPT][5]
+
+[^4]:	Den som vill utforska den här typen av hybrider rekommenderas att börja med webbtjänsten AgentGPT, som är klart mindre kompetent än AutoGPT men inte kräver krånglig installation.
 
 [1]:	https://khanacademy.org/ "Khan Academy"
 [2]:	https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education/c "TED: How AI could save (not destroy) education"

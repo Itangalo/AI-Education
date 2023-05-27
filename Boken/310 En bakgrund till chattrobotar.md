@@ -37,6 +37,8 @@ När artificiella neurala nätverk tränas används datorer för att justera hur
 
 När träningen är klar har man i bästa fall hittat de värden på språkmodellens parametrar som ger de bästa gissningarna på nästa ord, men i praktiken avbryter man träningen när träffsäkerheten är tillräckligt bra. En spännande effekt av träningen är att man kan se att vissa noder i nätverket kan motsvara specifika begrepp. I en studie lyckades man hitta de noder som motsvarar Paris, Rom och Eiffeltornet i modellen GPT-2. När kopplingen mellan Eiffeltornet och Paris försvagades, samtidigt som den mellan Eiffeltornet och Rom stärktes, började chattroboten säga saker som att Eiffeltornet är en symbol för Rom och finns mitt emot Peterskyrkan.[^4]
 
+Språkmodeller behandlar vanligtvis text genom att dela upp den i bitar, kallade tokens. En token kan vara enskilda bokstäver, en kombination av bokstäver eller ibland hela ord, och gör det möjligt för språkmodellerna att både läsa och skriva ord som inte finns i träningsdatan. Varje modell är byggd för att hantera ett visst antal tokens, vilket på sätt och vis motsvarar hur mycket modellen kan hålla i huvudet samtidigt. Antalet tokens varierar: GPT-3.5 har ca 4000 (ca 1300 ord), GPT-4 dubbelt så mycket (och i vissa varianter ytterligare fyra gånger så mycket), och språkmodellen Claude från Anthropic kan hantera ca 100 000 tokens.
+
 [^1]:	[https://twitter.com/gdb/status/1599683104142430208][1]
 
 [^2]:	[https://indianexpress.com/article/technology/chatgpt-hit-1-million-users-5-days-vs-netflix-facebook-instagram-spotify-mark-8394119/][2]
