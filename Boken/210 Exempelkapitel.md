@@ -6,6 +6,9 @@ Riktlinjer:
 * Målgruppen ska vara pedagogisk personal i skola. Typfallet är lärare, men det kan också vara exempelvis skolbibliotekarier, studievägledare och rektorer. Det kan också vara elever.
 * Rubriken ska i möjligaste mån räcka för att avgöra om det är intressant för en läsare att läsa kapitlet.
 * En inledning ska kort beskriva vilken nytta man kan ha av kapitlet, gärna med vem kapitlet riktar sig till.
+* Utdrag ur konversationer med chattrobotar ska följa samma format som i övriga boken.
+* Utdrag ur konversationer med chattrobotar ska återges ordagrant, eller så ska eventuella justeringar vara markerade.
+* Text som _inte_ är konversationer med chattrobotar ska vara skriven av en människa. Att använda chattrobotar eller andra verktyg för att bearbeta texter eller idéer är inga problem, men det ska inte vara AI-skapade texter som redigerats av en människa.
 * Författaren måste ha tänkt igenom de sju frågorna som tas upp i kapitlet med vanliga misstag.
  * Det får mycket gärna finnas med aktiviteter eller övningar. Det får också gärna finnas frågor att reflektera över (till exempel med utgångspunkt i de vanliga misstagen).
 * Johan Falk fungerar tills vidare som redaktör, och avgör också vilka kapitel som tas med i boken.
