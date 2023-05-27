@@ -15,8 +15,7 @@ Riktlinjer:
 * Boken sprids förmodligen under Creative Commons-licens, och författare måste vara beredda att låta andra använda, kopiera och modifiera texten. Ursprungsförfattaren ska dock fortfarande anges.
 * …
 
-Förslag på kapitel:
-* Undervisa om chattrobotar i teknik och samhällskunskap
+Förslag på fler kapitel:
 * AI och fusk (suck)
 * Prompta klokt
 * Chattroboten i Snapchat
