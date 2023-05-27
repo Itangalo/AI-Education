@@ -22,7 +22,59 @@ I förskoleklass och lågstadiet är frågor om chattrobotar och Snapchat förmo
 Om elever har egna konton på sociala medier, eller kan använda någon annans konto, finns förmodligen anledning att prata om vilken typ av information som är ok att dela, och vilka typer av saker man inte bör skriva. Det finns också anledning att prata om vad man gör när folk man inte känner tar kontakt online. De samtalen kan hållas på olika sätt, exempelvis i helklass eller bara med berörda elever, och om det är mer än enstaka elever som använder sociala medier kan det vara något att ta upp på föräldraträffar.
 
 ## Mellanstadiet
-13 år är en gräns för en del onlinetjänster som berör chattrobotar, vilket gör att det mot slutet av mellanstadiet kan vara rimligt att börja betrakta elever som att de själva använder chattrobotar. Det betyder _inte_ att man ska förutsätta att varje elev har träffat på chattrobotar, och inte heller att man ska uppmuntra elever att skaffa konton för tjänster som omfattar chattrobotar – så pass lite är känt om hur chattrobotar kan påverka unga att det finns goda skäl att vara försiktig. Men många kommer at
+13 år är en gräns för en del onlinetjänster som berör chattrobotar, vilket gör att det mot slutet av mellanstadiet kan vara rimligt att börja betrakta elever som att de själva använder chattrobotar. Det betyder _inte_ att man ska förutsätta att varje elev har träffat på chattrobotar, och inte heller att man ska uppmuntra elever att skaffa konton för tjänster som omfattar chattrobotar – så pass lite är känt om hur chattrobotar kan påverka unga att det finns goda skäl att vara försiktig. Men många kommer att använda chattrobotar, och det gör det angeläget att ge dem verktyg för att förstå vad chattrobotar är och vad de inte är.
+
+En försiktig hållning till chattrobotar kan innebära att läraren visar en chattrobot på storskärm, genomför ett par väl valda konversationer med roboten, och sedan omväxlande har diskussioner och aktiviteter med klassen och har nya konversationer med roboten baserat på vad diskussionerna och aktiviteterna leder fram till. Att låta elever själva använda chattrobotar är förmodligen mindre lämpligt – kanske mer för att markera att det inte är verktyg skapade för barn än för att chattrobotar skulle göra skada.
+
+Några saker som man skulle kunna ta upp:
+* Chattrobotar är datorprogram som tränats för att säga saker som låter mänskligt.
+* Är det läskigt med datorer som i viss mån beter sig som om de kan tänka, eller som om de vore människor? Är det häftigt? Är det inte en så stor grej?
+* Exempel där chattroboten säger något som är fel, men låter bra.
+* Hur kan man ta reda på om det som chattroboten säger stämmer? Finns det mer eller mindre anledning att kolla om det chattroboten säger jämfört med något man hör eller ser i ett videoklipp? Läser på något annat ställe på nätet? Hör från en kompis, eller från en vuxen? Läser i en bok?
+* Eventuell fördjupande diskussion: Vem bestämmer vad chattroboten ska svara? Vad tror ni kan hända om folk tror på vad chattrobotar säger, utan att kolla om det stämmer?
+* Vad tror ni chattrobotar kan vara användbara till? Eller är de mest roliga saker, utan någon direkt nytta?
+
+Man skulle kunna tänka sig att ha lite mer festliga aktiviteter med en chattrobot, så som en interaktiv berättelse där klassen gemensamt bestämmer temat och får diskutera sig fram till hur val i berättelsen ska hanteras. Man bör dock tänka på att den typen av aktiviteter kan leda till att ett antal elever själva börjar använda chattrobotar, och ha funderat över hur känner inför det.
+
+## Högstadiet
+Även om många elever på högstadiet sannolikt använt chattrobotar är det viktigt att inkludera elever som inte gjort det när man planerar undervisning om chattrobotar.
+
+Det kan vara värt att undersöka hur många elever i klassen som har chattrobotar på sina telefoner eller skoldatorer. Om de allra flesta redan har tillgång till en chattrobot kan det vara rimligt att elever själva får använda dem (kanske parvis eller i grupper om tre) under aktiviteter, i annat fall lär det vara klokt att ha den mer försiktiga hållningen där läraren håller i tangentbordet och visar en chattrobot på storskärm.
+
+Några saker som man skulle kunna ta upp:
+* Chattrobotar är datorprogram som tränats för att säga saker som låter mänskligt.
+* Är det en annan sak att chatta med en robot än med en kompis? Varför? Är det en annan sak än att chatta med en främling? Varför?
+* Vilka tankar och känslor väcker det hos dig att datorer kan chatta som om de vore människor?
+* Exempel där chattroboten säger något som är fel, men låter bra.
+* Hur kan man ta reda på om det som chattroboten säger stämmer? Finns det mer eller mindre anledning att kolla om det chattroboten säger jämfört med något man hör eller ser i ett videoklipp? Läser på något annat ställe på nätet? Hör från en kompis, eller från en vuxen? Läser i en bok eller tidning?
+* Vem bestämmer vad chattroboten ska svara? Om du bestämde över chattrobotar och skulle vilja göra sommarlovet längre, hur skulle du kunna dra nytta av chattrobotar?
+* Finns det saker som vi inte längre behöver kunna, för att chattrobotar kan göra det åt oss? Vad händer om vi inte längre kan de sakerna?
+* Vad tänker du om fusk och chattrobotar? Borde alla lärare sluta med inlämningsuppgifter? Finns det sätt att förhindra fusk, eller sätt att använda inlämningsuppgifter där det är ok att använda chattrobotar?
+
+Några saker som är viktiga att ta upp:
+* När man skriver med en chattrobot känns det som att man är ensam med den. Men det man skriver skickas vidare, sparas och används för att förbättra chattrobotarna. Skriv aldrig lösenord eller saker som vore dåligt om någon oärlig människa fick reda på. Skriv helst bara saker som du också skulle kunna posta öppet på nätet.
+
+Det är möjligt att en del elever känner oro inför AI-utvecklingen, och det kan därför vara värt att både fundera och läsa på om hur man kan hantera sådana känslor som lärare.
+
+## Gymnasial nivå
+Med myndiga elever (det vill säga komvux och slutet av gymnasiet) finns klart större möjligheter att ge förslag på att elever skaffar konton för chattrobotar eller använder chattrobotar som inte kräver inloggning. För yngre elever, eller om man av någon anledning föredrar det, kan läraren hålla i tangentbordet och visa en chattrobot på storskärm.
+
+Några saker som man skulle kunna ta upp:
+* Chattrobotar är datorprogram som tränats för att säga saker som låter mänskligt.
+* Exempel där chattroboten säger något som är fel, men låter bra.
+* Hur kan man ta reda på om det som chattroboten säger stämmer? Finns det anledning att ha en annan hållning till budskap från chattrobotar än från andra källor på nätet? Eller från andra typer av källor?
+* Är det en annan sak att chatta med en robot än med en kompis? Varför? Är det en annan sak än att chatta med en främling? Varför?
+* Vilka tankar och känslor väcker det hos dig att datorer kan chatta som om de vore människor? Vad skulle du tänka om en chattrobot sa att den hade känslor som glädje, sorg och ilska? Kan man bli vän med en chattrobot?
+* Hur mycket makt ligger hos de som skapar chattrobotar? Är det annorlunda jämfört med makt som Google har genom sin sökmotor, eller ägare av sociala plattformar, eller traditionella nyhetsmedier?
+* Hur skulle chattrobotar kunna användas för att göra skada? Vad kan vi eller de som äger chattrobotarna göra för att förhindra det?
+* Finns det saker som vi inte längre behöver kunna, för att chattrobotar kan göra det åt oss? Vad händer om vi inte längre kan de sakerna?
+* Hur tror du att chattrobotar påverkar arbetsuppgifter och arbetsmarknaden? Kan AI bli lika bra som människor på att göra en del saker? Många saker? Vad har det i så fall för konsekvenser?
+* Vad tänker du om fusk och chattrobotar? Borde alla lärare sluta med inlämningsuppgifter? Finns det sätt att förhindra fusk, eller sätt att använda inlämningsuppgifter där det är ok att använda chattrobotar?
+
+Några saker som är viktiga att ta upp:
+* När man skriver med en chattrobot känns det som att man är ensam med den. Men det man skriver skickas vidare, sparas och används för att förbättra chattrobotarna. Skriv aldrig lösenord eller saker som vore dåligt om någon oärlig människa fick reda på. Skriv helst bara saker som du också skulle kunna posta öppet på nätet.
+
+Det är möjligt att en del elever känner oro inför AI-utvecklingen, och det kan därför vara värt att både fundera och läsa på om hur man kan hantera sådana känslor som lärare.
 
 [^1]:	[https://svenskarnaochinternet.se/app/uploads/2022/10/internetstiftelsen-svenskarna-och-internet-2022.pdf][1]
 

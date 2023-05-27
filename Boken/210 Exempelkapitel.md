@@ -34,5 +34,6 @@ Förslag på kapitel:
 * Skapa bättre texter
 * Chattrobotar i filosofiundervisning
 * Bedöma uppsatser (många varningsflaggor)
+* Förslag på upplägg för fortbildning i kollegiet
 * Planera lektioner
 * …
