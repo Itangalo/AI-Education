@@ -32,7 +32,7 @@ Förslag på kapitel:
 * AI i bildundervisning
 * Skapa quizfrågor
 * Skapa bättre texter
+* Chattrobotar i filosofiundervisning
 * Bedöma uppsatser (många varningsflaggor)
 * Planera lektioner
-* Bedöma uppsatser
 * …
