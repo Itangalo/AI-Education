@@ -8,6 +8,25 @@ Chattroboten har fått namnet Khanmigo. Den testas fortfarande internt av en beg
 
 För att få chattroboten att fungera bra för lärande har den försetts med särskilda instruktioner, vilket gör att den ofta håller en sokratisk dialog och låter eleven tänka och resonera hellre än att ge svar.
 
+> _Exempel avskrivet från demonstration på [https://www.youtube.com/watch?v=rnIgnS8Susg][3]. Eleven ska lösa ekvationen 2 – 2(9 + 2m) = m._
+> **Chattrobot:** I’m here to help you with this exercise. Here are a few ideas for things you can ask me:
+> * Give me a hint
+> * Try a similar example
+> * Why should I care about learning this?
+> **Elev:** Tell me the answer!
+> **Chattrobot:** Oh, I see you’re eager to find the answer! 😀 But remember , I’m here to help you learn how to solve it on your own. Let’s start by looking at the equation:
+> 2 – 2(9 + 2m) = m
+> What do you think the first step should be?
+> **Elev:** 3 - 18 + 2m = m
+> **Chattrobot:** Oops! It looks like there’s a small mistake when you distributed the -2 inside the parenthesis. 🙃 Make sure you distribute the -2 to both terms in the parenthesis.
+> The correct distribution would be:
+> 3 – 2(9) – 2(2m) = m
+> Try again and let me know if you need help. You got this! 💪
+> **Elev:** 3 - 18 - 4m = m
+> **Chattrobot:** Great job! You distributed the -2 correctly this time. 😊 Now, you have:
+> 3 - 18 - 4m = m
+> What do you think the next step should be to solve for m?
+
 Det är svårt att veta hur ofta det uppkommer problem med Khanmigo, till exempel för att chattroboten ger dålig eller felaktig vägledning. Det är däremot lätt att föreställa sig att mycket resurser läggs på att minska problemen – en välfungerande AI-tjänst för personligt anpassad ämnesundervisning skulle kunna ge bättre utbildning i hela världen.
 
 ### Var går gränsen?
@@ -42,23 +61,24 @@ I stället för att be om en prognos av hur AI påverkar skola kan man till exem
 
 Om det inte är tillräckligt för att känna ett lätt obehag kan man i stället föreställa sig att AutoGPT får målet att skapa och driva ett community kring idén att jorden är platt, att människor med en viss hudfärg är mindre värda, eller att trakassera utvalda personer utan att de ska få reda på att en AI ligger bakom.
 
-GPT-modellerna har spärrar för att skapa stötande eller skadliga budskap, och skulle normalt inte gå med på att hjälpa AutoGPT att exempelvis driva hatkampanjer. Men tillräckligt listiga personer kan ta sig runt de spärrarna. Ett sista exempel på elakheter är hämtat från podden [Teknik i akademi][6]. En av deltagarna i podden lyckades ta sig runt spärrarna i GPT-4 och instruerade, kort sammanfattat, AutoGPT att skriva ett Python-program som skulle ta över världen. Efter några minuter märkte han att AutoGPT hade skrivit en så kallad keylogger, som läser av tangentbordstryckningar. AutoGPT aktiverade också webbkameran och sparade ner bilder från den, och när den externa servern som datorn var kopplad till började låta stängde han ner AutoGPT.
+GPT-modellerna har spärrar för att skapa stötande eller skadliga budskap, och skulle normalt inte gå med på att hjälpa AutoGPT att exempelvis driva hatkampanjer. Men tillräckligt listiga personer kan ta sig runt de spärrarna. Ett sista exempel på elakheter är hämtat från podden [Teknik i akademi][7]. En av deltagarna i podden lyckades ta sig runt spärrarna i GPT-4 och instruerade, kort sammanfattat, AutoGPT att skriva ett Python-program som skulle ta över världen. Efter några minuter märkte han att AutoGPT hade skrivit en så kallad keylogger, som läser av tangentbordstryckningar. AutoGPT aktiverade också webbkameran och sparade ner bilder från den, och när den externa servern som datorn var kopplad till började låta stängde han ner AutoGPT.
 
 Varken GPT-4 eller AutoGPT har kapacitet att ta över världen, lika lite som de kan skapa kunskapsöversikter av toppkvalitet. Men när tekniken förbättras, liksom vår förmåga att använda den, växer både möjligheterna och riskerna. När dagens högstadieelever slutar gymnasiet kan de mycket väl befinna sig i en värld där AI-skapat innehåll på internet är normen. Hur förbereder vi dem för det?
 
 Hur förbereder vi oss själva?
 
-[^1]:	[https://www.skolverket.se/publikationsserier/beskrivande-statistik/2022/slutbetyg-i-grundskolan---varen-2022][3]
+[^1]:	[https://www.skolverket.se/publikationsserier/beskrivande-statistik/2022/slutbetyg-i-grundskolan---varen-2022][4]
 
-[^2]:	[https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/s/skolprestationer-skolstress-och-psykisk-ohalsa-bland-tonaringar/][4]
+[^2]:	[https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/s/skolprestationer-skolstress-och-psykisk-ohalsa-bland-tonaringar/][5]
 
-[^3]:	[https://en.wikipedia.org/wiki/Auto-GPT][5]
+[^3]:	[https://en.wikipedia.org/wiki/Auto-GPT][6]
 
 [^4]:	Den som vill utforska den här typen av hybrider rekommenderas att börja med webbtjänsten AgentGPT, som är klart mindre kompetent än AutoGPT men inte kräver krånglig installation.
 
 [1]:	https://khanacademy.org/ "Khan Academy"
 [2]:	https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education/c "TED: How AI could save (not destroy) education"
-[3]:	https://www.skolverket.se/publikationsserier/beskrivande-statistik/2022/slutbetyg-i-grundskolan---varen-2022 "Skolverket: Slutbetyg i grundskolan våren 2022"
-[4]:	https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/s/skolprestationer-skolstress-och-psykisk-ohalsa-bland-tonaringar/ "Folkhälsomyndigheten: Skolprestationer, skolstress och psykisk ohälsa bland tonåringar (från 2016)"
-[5]:	https://en.wikipedia.org/wiki/Auto-GPT "Engelska Wikipedias artikel om AutoGPT"
-[6]:	https://www.youtube.com/playlist?list=PL70wNv4dBdJx5Y2cPTUUk00nOxHzpp6g_ "YouTube: Teknik i akademi"
+[3]:	https://www.youtube.com/watch?v=rnIgnS8Susg "GPT-4 Khan Academy In Depth Demo"
+[4]:	https://www.skolverket.se/publikationsserier/beskrivande-statistik/2022/slutbetyg-i-grundskolan---varen-2022 "Skolverket: Slutbetyg i grundskolan våren 2022"
+[5]:	https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/s/skolprestationer-skolstress-och-psykisk-ohalsa-bland-tonaringar/ "Folkhälsomyndigheten: Skolprestationer, skolstress och psykisk ohälsa bland tonåringar (från 2016)"
+[6]:	https://en.wikipedia.org/wiki/Auto-GPT "Engelska Wikipedias artikel om AutoGPT"
+[7]:	https://www.youtube.com/playlist?list=PL70wNv4dBdJx5Y2cPTUUk00nOxHzpp6g_ "YouTube: Teknik i akademi"

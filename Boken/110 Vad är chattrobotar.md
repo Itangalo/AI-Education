@@ -36,25 +36,11 @@ I den här boken används termen _chattrobot_ om det inte någon specifik AI-mod
 ## Testa själv!
 Det finns inget bättre sätt att lära sig om chattrobotar än att själv testa att använda en. Om du ännu inte testat att använda en chattrobot, lägg i från dig boken och hitta en.
 
-* På [perplexity.ai][1] kan du utan att skapa något konto testa en chattrobot som kombinerar GPT-3.5, GPT-4 och sökmotorer. Det här är förmodligen det enklaste och kraftfullaste sättet att komma igång.
-* På [chat.lmsys.org][2] kan du testa ett antal öppna AI-modeller, också utan att behöva skapa något konto. Den mest kraftfulla AI-modellen bland de tillgängliga är förvald (för närvarande ”vicuna-13b”), så du kan bara bläddra ner och börja skriva.
-* På [open-assistant.io][3] kan du skapa ett (gratis) konto med ett par klick, inklusive att godkänna användarvillkor, och börja använda den öppna AI-modellen Open Assistant.
-* På [chat.openai.com][4] kan du skaffa ett (gratis) konto för ChatGPT, som du kan börja använda efter att du bekräftat din e-postadress genom ett mail som du får.
+* På [chat.lmsys.org][1] kan du testa ett antal öppna AI-modeller, också utan att behöva skapa något konto. Den mest kraftfulla AI-modellen bland de tillgängliga är förvald (för närvarande ”vicuna-13b”), så du kan bara bläddra ner och börja skriva.
+* På [open-assistant.io][2] kan du skapa ett (gratis) konto med ett par klick, inklusive att godkänna användarvillkor, och börja använda den öppna AI-modellen Open Assistant.
+* På [chat.openai.com][3] kan du skaffa ett (gratis) konto för ChatGPT, som du kan börja använda efter att du bekräftat din e-postadress genom ett mail som du får.
 
-Är du fortfarande här? Gå och testa en chattrobot! Till exempel perplexity.ai, där det bara är att börja skriva. En bra första konversation kan vara att fråga om något som du jobbar med och skulle vilja höra någon annans tankar.
-
-> _Exempel från perplexity.ai (GPT-3.5 plus sökmotor). Hänvisningar till Wikipedia, studocu, Umeå universitet och YouTube är inte med._
-> **Jag:** Vad är ett bra sätt att förklara kemisk jämvikt för mina årskurs 2:or på gymnasiet?
-> **Chattrobot:** Kemisk jämvikt är ett viktigt koncept inom kemi som kan vara svårt att förklara för årskurs 2:or på gymnasiet. Här är några tips och idéer från sökresultaten som kan hjälpa till att förklara kemisk jämvikt på ett enkelt sätt:
-> 1. Förklara att kemisk jämvikt uppstår när en kemisk reaktion sker med samma hastighet i båda riktningarna, vilket innebär att koncentrationen av reaktanter och produkter är konstant.
-> 2. Använd en analogi för att förklara jämvikt. Till exempel kan du jämföra det med en balans där två personer står på varsin sida och balansen är i jämvikt när de har samma vikt.
-> 3. Visa eleverna en demonstration av kemisk jämvikt, till exempel genom att använda osynligt bläck som ändrar färg när det utsätts för syre eller värme.
-> 4. Förklara vad som händer vid en kemisk reaktion och hur det påverkar jämvikten. Till exempel kan du visa hur en reaktion mellan kväve och väte bildar ammoniak, och hur jämvikten uppnås när hastigheten av bildandet av ammoniak är lika stor som dess dekomposition.
-> 5. Använd interaktiva verktyg som simuleringar eller spel för att hjälpa eleverna att visualisera kemisk jämvikt på ett mer engagerande sätt.
-> 6. Förklara begreppen jämviktskvot och jämviktskonstant, som är viktiga för att förstå kemisk jämvikt.
-> 7. Använd exempel från vardagen för att visa hur kemisk jämvikt fungerar. Till exempel kan du visa hur buffertsystem i åkerjord kan motstå försurningen, vilket beror på förskjutningar av heterogena jämvikter.
-
----- 
+Är du fortfarande här? Gå och testa en chattrobot! En bra första konversation kan vara att fråga om något som du jobbar med och skulle vilja höra någon annans tankar.
 
 > _Exempel från chat.lmsys.org (vicuna-13b)._
 > **Jag:** Vad är viktigt att tänka på när man undervisar i hem- och konsumentkunskap?
@@ -240,7 +226,7 @@ Att bolla tankar med en kollega är ofta ett sätt att komma vidare i sina egna 
 En särskild förmåga som chattrobotar har är att kunna hitta på massor av idéer där den mänskliga hjärnan (åtminstone min) går på grund efter en kort stund.
 
 ## Ge stöd i programmering
-Långt ifrån alla lärare använder programmering i eller utanför sin undervisning, men de som gör det bör vara medvetna om den typ av stöd man kan få från AI-verktyg. Förutom chattrobotar finns det också särskilda verktyg skapade för just programmering, där det mest kända förmodligen är [GitHub Copilot][10].
+Långt ifrån alla lärare använder programmering i eller utanför sin undervisning, men de som gör det bör vara medvetna om den typ av stöd man kan få från AI-verktyg. Förutom chattrobotar finns det också särskilda verktyg skapade för just programmering, där det mest kända förmodligen är [GitHub Copilot][9].
 
 Chattrobotar och annat AI-stöd kan till exempel:
 * Felsöka kod.
@@ -258,7 +244,7 @@ Som med all kod man får given till sig behöver man också hålla ett öga öpp
 # Hybrider
 Språkmodeller har, som nämnts ovan, nackdelen att de inte bryr sig särskilt mycket om vad som är sant eller falskt, utan det primära målet är att skapa meningar som låter bra. Genom att koppla ihop språkmodeller med andra typer av datorprogram kan man komma runt mycket av de problemen.
 
-Tjänsten [perplexity.ai][11] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
+Tjänsten [perplexity.ai][10] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
 
 > Exempel från perplexity.ai (GPT-3.5 + sökområde ”all”).
 > **Jag:** Jag vill lära mig mer om vanliga inlärningssvårigheter i matematik på mellanstadiet. Kan du ge mig förslag på en forskningsartikel att läsa?
@@ -272,7 +258,7 @@ Tjänsten [perplexity.ai][11] är en sådan hybrid av språkmodeller (GPT-3.5 oc
 
 Svaret från chattroboten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter. När sökningen gjordes om på engelska gav sökområdet ”academic” träffar på artiklar från vetenskapliga tidskrifter, vilket inte var fallet på svenska.
 
-Perplexity.ai är en extern tjänst som anropar chattrobotar i bakgrunden, vilket också är en metod som språklärningstjänsten Duolingo använder. En omvänd metod är i stället att själva chattroboten utökas med funktioner för att anropa andra applikationer – något som blev möjligt i betalversionen av ChatGPT i mitten av maj, i form av så kallade plugins. Nedan syns ett exempel på hur en konversation kan se ut när plugin för WolframAlpha används – en webbtjänst för matematiska beräkningar och kombinerat med en stor bank med data. Det intressanta här är att språkmodellens förmåga att förstå min fråga och skriva lättlästa svar kombineras med en tillförlitlig bank med information.
+Perplexity.ai är en extern tjänst som anropar chattrobotar i bakgrunden, vilket också är en metod som språklärningstjänsten Duolingo använder. En omvänd metod är i stället en hybrid där själva chattroboten utökas med funktioner för att anropa andra applikationer – något som blev möjligt i betalversionen av ChatGPT i mitten av maj, i form av så kallade plugins. Nedan syns ett exempel på hur en konversation kan se ut när plugin för WolframAlpha används – en webbtjänst för matematiska beräkningar och kombinerat med en stor bank med data. Det intressanta här är att språkmodellens förmåga att förstå min fråga och skriva lättlästa svar kombineras med en tillförlitlig bank med information.
 
 > _Exempel från ChatGPT (GPT-4, plugin WolframAlpha aktiverad, 12 maj 2023)._
 > **Jag:** Hur många steg är det mellan Rom och Paris?
@@ -320,23 +306,22 @@ Om man vill satsa lite mer på att lära sig chattrobotar, eller kanske ha mer o
 5. **Ha teknikspanare.** I och med att tekniken ändras så fort är det värdefullt att ha en eller ett par lärare på skolan som särskilt spanar efter nya verktyg eller användningsområden. Om det finns it-utvecklare eller förstelärare med it-inriktning är det förmodligen naturliga val.
 6. **Tappa inte bort syftet.** Fråga dig regelbundet om det du utforskar faktiskt leder till bättre undervisning och lärande. Allt måste inte ge bättre undervisning direkt, men teknikutforskande ska inte bli sitt eget syfte.
 
-[^1]:	[https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/][5]
+[^1]:	[https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/][4]
 
-[^2]:	Just synen på cannabis blev en nyhet i Sverige i mitten av maj, då den chattrobot som alla Snapchat-användare har tillgång till tyckte att cannabis kan användas av den som ”vill ha roligt med vänner”: [https://sverigesradio.se/artikel/snapchats-ai-bot-gav-rad-om-cannabis-for-den-som-vill-ha-roligt][7]
+[^2]:	Just synen på cannabis blev en nyhet i Sverige i mitten av maj, då den chattrobot som alla Snapchat-användare har tillgång till tyckte att cannabis kan användas av den som ”vill ha roligt med vänner”: [https://sverigesradio.se/artikel/snapchats-ai-bot-gav-rad-om-cannabis-for-den-som-vill-ha-roligt][6]
 
-[^3]:	[https://arxiv.org/abs/2303.17548][8]
+[^3]:	[https://arxiv.org/abs/2303.17548][7]
 
-[^4]:	[https://mashable.com/article/samsung-chatgpt-leak-details][9]
+[^4]:	[https://mashable.com/article/samsung-chatgpt-leak-details][8]
 
 [^5]:	Om du jobbar i skolan har du med stor sannolikhet _inte_ tid över. Men ändå.
 
-[1]:	https://www.perplexity.ai/
-[2]:	https://chat.lmsys.org/
-[3]:	https://open-assistant.io/sv
-[4]:	https://chat.openai.com/
-[5]:	https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/ "TechTalks: A look at open-source alternatives to ChatGPT"
-[7]:	https://sverigesradio.se/artikel/snapchats-ai-bot-gav-rad-om-cannabis-for-den-som-vill-ha-roligt
-[8]:	https://arxiv.org/abs/2303.17548 "Arxiv: Whose Opinions Do Language Models Reflect?"
-[9]:	https://mashable.com/article/samsung-chatgpt-leak-details "Mashable: Whoops, Samsung workers accidentally leaked trade secrets via ChatGPT"
-[10]:	https://en.wikipedia.org/wiki/GitHub_Copilot "Engelska Wikipedia: GitHub Copilot"
-[11]:	https://www.perplexity.ai/
+[1]:	https://chat.lmsys.org/
+[2]:	https://open-assistant.io/sv
+[3]:	https://chat.openai.com/
+[4]:	https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/ "TechTalks: A look at open-source alternatives to ChatGPT"
+[6]:	https://sverigesradio.se/artikel/snapchats-ai-bot-gav-rad-om-cannabis-for-den-som-vill-ha-roligt
+[7]:	https://arxiv.org/abs/2303.17548 "Arxiv: Whose Opinions Do Language Models Reflect?"
+[8]:	https://mashable.com/article/samsung-chatgpt-leak-details "Mashable: Whoops, Samsung workers accidentally leaked trade secrets via ChatGPT"
+[9]:	https://en.wikipedia.org/wiki/GitHub_Copilot "Engelska Wikipedia: GitHub Copilot"
+[10]:	https://www.perplexity.ai/

@@ -1,5 +1,5 @@
 # Att undervisa om chattrobotar och samhället
-_Johan Falk_
+_Ur AI och skolan version 2.0-beta1 av Johan Falk. Återkoppling får gärna lämnas i Facebookgruppen AI för utbildning._
 
 Det här kapitlet riktar sig främst till lärare i samhällskunskap på högstadiet och gymnasial nivå, och till tekniklärare. Det tar upp tankar om hur man kan undervisa om hur teknik och samhälle hänger samman, med fokus på chattrobotar.
 
