@@ -13,6 +13,8 @@ Den här boken handlar om AI och skolan och är riktad till lärare och annan pe
 
 Den första versionen av boken släpptes i januari 2023. I maj 2023 skrivs boken om mer eller mindre från grunden, för att kunna ta med teknikutveckling och nya lärdomar om hur AI kan användas i skolan (och hur den inte bör användas). Det bör sägas att få saker i boken är baserade på forskning – teknikutvecklingen går så fort att forskningsprojekt lätt blir inaktuella innan första delstudien är klar. I stället är det mesta baserat på omdöme och halvt beprövad erfarenhet. Det är därmed särskilt viktigt att du tillämpar ditt eget omdöme när du använder boken. Har du förslag på saker som bör läggas till, tas bort eller förbättras är du välkommen att bidra med dina tankar, och göra erfarenheter mer beprövade. Det kan du göra genom bokens projektsida, [github.com/itangalo/AI-och-skolan][1]. På samma sida kan du ladda hem boken gratis.
 
+Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. Jag har varit intresserad av AI sedan 2018 och varit intresserad av skolfrågor sedan högstadiet. Sedan 2015 arbetar jag med skolfrågor på nationell nivå. Boken har mig själv som avsändare, men flera idéer och förbättringar kommer från andra personer. Särskilt tack till Rustan Håkansson.
+
 Jag hoppas att du finner boken användbar. Tack för det viktiga jobb du gör i skolan.
 
 Johan Falk, 22 maj 2023
