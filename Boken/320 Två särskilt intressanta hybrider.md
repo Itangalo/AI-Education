@@ -29,15 +29,17 @@ För att få chattroboten att fungera bra för lärande har den försetts med s�
 
 Det är svårt att veta hur ofta det uppkommer problem med Khanmigo, till exempel för att chattroboten ger dålig eller felaktig vägledning. Det är däremot lätt att föreställa sig att mycket resurser läggs på att minska problemen – en välfungerande AI-tjänst för personligt anpassad ämnesundervisning skulle kunna ge bättre utbildning i hela världen.
 
+Redan idag används chattrobotar utanför klassrummen som studiestöd. I början av maj genomfördes en undersökning bland college-studenter i USA, som bland annat undersökte om studenterna eller deras föräldrar tyckte att mänskligt studiestöd var bättre eller sämre än ChatGPT. Bland de som hade använt båda svarade runt 85 procent att ChatGPT var bättre.[^1] Och det är en ”vanlig” chattrobot, inte specialanpassad för att ge studiestöd.
+
 ### Var går gränsen?
 Khanmigo sätter fingret på en viktig och svår fråga: Hur bra behöver AI-stöd i direkt undervisning vara för att det ska vara _tillräckligt_ bra? Min egen hållning var länge att inte ens 99 procent tillförlitlighet räcker – vi kan inte sätta en chattrobot i händerna på elever om det leder till att elever regelbundet (om än sällan) blir matade med missuppfattningar eller, ännu värre, budskap som leder till skadligt beteende.
 
-Men. Vi har idag en skola där omkring 15 procent av eleverna i årskurs 9 inte blir behöriga till nationella program på gymnasiet[^1], och 30–40 procent av  tonåringar som mår dåligt[^2]. Det är inte rimligt att ha en perfekt skola som referenspunkt, när undervisningen idag fungerar dåligt för var sjunde elev och var tredje tonåring mår dåligt. Vore det rimligt att introducera AI-stöd i undervisning om det skulle halvera andelen elever som inte är behöriga till nationella program, om det samtidigt skulle missgynna en del elever? Vad skulle vi säga om, gud förbjude, en elev tar livet av sig och det visade sig att en chattrobot som skolan gett till eleven i viss mån bidrog till det?
+Men. Vi har idag en skola där omkring 15 procent av eleverna i årskurs 9 inte blir behöriga till nationella program på gymnasiet[^2], och 30–40 procent av  tonåringar som mår dåligt[^3]. Det är inte rimligt att ha en perfekt skola som referenspunkt, när undervisningen idag fungerar dåligt för var sjunde elev och var tredje tonåring mår dåligt. Vore det rimligt att introducera AI-stöd i undervisning om det skulle halvera andelen elever som inte är behöriga till nationella program, om det samtidigt skulle missgynna en del elever? Vad skulle vi säga om, gud förbjude, en elev tar livet av sig och det visade sig att en chattrobot som skolan gett till eleven i viss mån bidrog till det?
 
 AI-stöd i undervisning har en rad andra frågor och risker att ta hänsyn till. En av dem handlar om dataintegritet. En annan handlar om vad som händer om en eller ett fåtal aktörer får inflytande över utbildning över hela världen.
 
 ## AutoGPT
-AutoGPT är en annan fascinerande AI-hybrid. Denna lanserades den 30 mars av en privatperson vid namn Toran Bruce Richards, och har snabbt fått stor uppmärksamhet.[^3] Det har också uppstått ett par andra verktyg med liknande funktioner.[^4]
+AutoGPT är en annan fascinerande AI-hybrid. Denna lanserades den 30 mars av en privatperson vid namn Toran Bruce Richards, och har snabbt fått stor uppmärksamhet.[^4] Det har också uppstått ett par andra verktyg med liknande funktioner.[^5]
 
 AutoGPT är ett program som man installerar på sin egen dator, och som kan kommunicera med GPT-modellerna och en rad andra tjänster. Principen bakom AutoGPT är att användaren anger ett mål, och programmet använder sedan chattrobotar för att skapa en plan som bryts ner i mindre och mindre bitar (också med hjälp av chattrobotar) tills de är hanterbara uppgifter. Uppgifterna genomförs sedan genom de verktyg som bedöms lämpliga: Det kan vara att fråga chattrobotar ännu en gång, men också att läsa på Wikipedia, leta efter nyheter, sammanställa börsdata och kolla vädret. Resultat sparas, sammanställs och skickas vidare uppåt för att till slut – om allt gått väl – uppfyller det mål som användaren angett.
 
@@ -61,24 +63,27 @@ I stället för att be om en prognos av hur AI påverkar skola kan man till exem
 
 Om det inte är tillräckligt för att känna ett lätt obehag kan man i stället föreställa sig att AutoGPT får målet att skapa och driva ett community kring idén att jorden är platt, att människor med en viss hudfärg är mindre värda, eller att trakassera utvalda personer utan att de ska få reda på att en AI ligger bakom.
 
-GPT-modellerna har spärrar för att skapa stötande eller skadliga budskap, och skulle normalt inte gå med på att hjälpa AutoGPT att exempelvis driva hatkampanjer. Men tillräckligt listiga personer kan ta sig runt de spärrarna. Ett sista exempel på elakheter är hämtat från podden [Teknik i akademi][7]. En av deltagarna i podden lyckades ta sig runt spärrarna i GPT-4 och instruerade, kort sammanfattat, AutoGPT att skriva ett Python-program som skulle ta över världen. Efter några minuter märkte han att AutoGPT hade skrivit en så kallad keylogger, som läser av tangentbordstryckningar. AutoGPT aktiverade också webbkameran och sparade ner bilder från den, och när den externa servern som datorn var kopplad till började låta stängde han ner AutoGPT.
+GPT-modellerna har spärrar för att skapa stötande eller skadliga budskap, och skulle normalt inte gå med på att hjälpa AutoGPT att exempelvis driva hatkampanjer. Men tillräckligt listiga personer kan ta sig runt de spärrarna. Ett sista exempel på elakheter är hämtat från podden [Teknik i akademi][8]. En av deltagarna i podden lyckades ta sig runt spärrarna i GPT-4 och instruerade, kort sammanfattat, AutoGPT att skriva ett Python-program som skulle ta över världen. Efter några minuter märkte han att AutoGPT hade skrivit en så kallad keylogger, som läser av tangentbordstryckningar. AutoGPT aktiverade också webbkameran och sparade ner bilder från den, och när den externa servern som datorn var kopplad till började låta stängde han ner AutoGPT.
 
 Varken GPT-4 eller AutoGPT har kapacitet att ta över världen, lika lite som de kan skapa kunskapsöversikter av toppkvalitet. Men när tekniken förbättras, liksom vår förmåga att använda den, växer både möjligheterna och riskerna. När dagens högstadieelever slutar gymnasiet kan de mycket väl befinna sig i en värld där AI-skapat innehåll på internet är normen. Hur förbereder vi dem för det?
 
 Hur förbereder vi oss själva?
 
-[^1]:	[https://www.skolverket.se/publikationsserier/beskrivande-statistik/2022/slutbetyg-i-grundskolan---varen-2022][4]
+[^1]:	[https://www.intelligent.com/new-survey-finds-students-are-replacing-human-tutors-with-chatgpt/][4]
 
-[^2]:	[https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/s/skolprestationer-skolstress-och-psykisk-ohalsa-bland-tonaringar/][5]
+[^2]:	[https://www.skolverket.se/publikationsserier/beskrivande-statistik/2022/slutbetyg-i-grundskolan---varen-2022][5]
 
-[^3]:	[https://en.wikipedia.org/wiki/Auto-GPT][6]
+[^3]:	[https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/s/skolprestationer-skolstress-och-psykisk-ohalsa-bland-tonaringar/][6]
 
-[^4]:	Den som vill utforska den här typen av hybrider rekommenderas att börja med webbtjänsten AgentGPT, som är klart mindre kompetent än AutoGPT men inte kräver krånglig installation.
+[^4]:	[https://en.wikipedia.org/wiki/Auto-GPT][7]
+
+[^5]:	Den som vill utforska den här typen av hybrider rekommenderas att börja med webbtjänsten AgentGPT, som är klart mindre kompetent än AutoGPT men inte kräver krånglig installation.
 
 [1]:	https://khanacademy.org/ "Khan Academy"
 [2]:	https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education/c "TED: How AI could save (not destroy) education"
 [3]:	https://www.youtube.com/watch?v=rnIgnS8Susg "GPT-4 Khan Academy In Depth Demo"
-[4]:	https://www.skolverket.se/publikationsserier/beskrivande-statistik/2022/slutbetyg-i-grundskolan---varen-2022 "Skolverket: Slutbetyg i grundskolan våren 2022"
-[5]:	https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/s/skolprestationer-skolstress-och-psykisk-ohalsa-bland-tonaringar/ "Folkhälsomyndigheten: Skolprestationer, skolstress och psykisk ohälsa bland tonåringar (från 2016)"
-[6]:	https://en.wikipedia.org/wiki/Auto-GPT "Engelska Wikipedias artikel om AutoGPT"
-[7]:	https://www.youtube.com/playlist?list=PL70wNv4dBdJx5Y2cPTUUk00nOxHzpp6g_ "YouTube: Teknik i akademi"
+[4]:	https://www.intelligent.com/new-survey-finds-students-are-replacing-human-tutors-with-chatgpt/ "Intelligent: New Survey Finds Students Are Replacing Human Tutors with ChatGPT"
+[5]:	https://www.skolverket.se/publikationsserier/beskrivande-statistik/2022/slutbetyg-i-grundskolan---varen-2022 "Skolverket: Slutbetyg i grundskolan våren 2022"
+[6]:	https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/s/skolprestationer-skolstress-och-psykisk-ohalsa-bland-tonaringar/ "Folkhälsomyndigheten: Skolprestationer, skolstress och psykisk ohälsa bland tonåringar (från 2016)"
+[7]:	https://en.wikipedia.org/wiki/Auto-GPT "Engelska Wikipedias artikel om AutoGPT"
+[8]:	https://www.youtube.com/playlist?list=PL70wNv4dBdJx5Y2cPTUUk00nOxHzpp6g_ "YouTube: Teknik i akademi"

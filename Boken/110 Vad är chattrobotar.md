@@ -103,6 +103,14 @@ Inte desto mindre är det viktigt att komma ihåg att chattrobotar i första han
 # Vanliga misstag med chattrobotar
 Som med alla andra verktyg är det värt att använda chattrobotar med omdöme. Här är sju frågor som är bra att ställa sig för att undvika misstag som är förhållandevis vanliga vid användning av chattrobotar.
 
+* Finns det språkfel?
+* Finns det faktafel?
+* Finns det skeva perspektiv eller skeva värderingar?
+* Är jag på väg att skicka känslig information?
+* Är det här oreflekterad avlastning?
+* Följder det här skolans styrdokument?
+* Är det här bra pedagogik?
+
 ## Finns det språkfel?
 När ChatGPT och GPT-3.5 lanserades var det ganska vanligt med stavfel och språkfel när man chattade på svenska. Med GPT-4 är det ovanligt med stavfel på svenska, och extremt ovanligt på engelska, men de förekommer fortfarande. (Inte minst om man ber chattroboten skriva med stora bokstäver, visar det sig.) Språkfel är mer eller mindre vanliga även hos andra chattrobotar.
 

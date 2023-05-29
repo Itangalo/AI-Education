@@ -85,6 +85,8 @@ Ytterligare en sak att konstatera är att skrivande på dator medför andra möj
 
 En sista sak att konstatera är också att ”skriva på dator” är många olika saker. När skrivande för hand och på dator jämförs menar man rimligtvis lägen där båda medierna kan användas – kanske anteckningar vid lektioner eller möten, att skriva tidigt i sin skrivutveckling, eller att skriva texter som är högst några sidor långa. Att jämföra att skriva för hand och skriva på dator blir meningslöst om man exempelvis avser att författa en roman, programmera, skicka e-post, använda sökrutan på Wikipedia eller nätshoppa. Att ”skriva på dator” är i många lägen inte en ersättning för att skriva för hand, utan en kanal för att använda funktioner och tjänster som inte finns i papper-och-penna-världen. På samma sätt är chattrobotar inte bara en ersättare för att låta en maskin skriva sådant man hade kunnat skriva själv, för hand eller på dator, utan en kanal för att göra saker som vi inte gjort förut.
 
+## Vad kommer inte att ändras?
+
 [^1]:	Och i vissa fall kommer chattrobotar att kunna ge oss en roligare och mer stimulerande väg att gå under lärandet, men det är en annan fråga.
 
 [^2]:	Se exempelvis [https://ell.iaar.co/journal/article/view/28][1].
