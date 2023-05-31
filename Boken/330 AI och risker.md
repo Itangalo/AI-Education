@@ -67,6 +67,8 @@ Det här avsnittet beskriver risker som är mer avlägsna eller mer filosofiska.
 ### Okontrollerbar super-AI
 I debatten kring risker med AI nämns ibland att ”hälften av AI-forskarna tror att det är minst 10 procents risk att AI utplånar mänskligheten”. Påståendet har ifrågasatts, inte minst för att svarsfrekvensen bara var 17 procent i enkäten som bakom påståendet.[^16] Ett mindre kontroversiellt sätt att tolka resultaten är att ”en betydande andel av AI-forskare bedömer att det är minst fem procents risk att okontrollerbar AI leder till att mänskligheten utrotas eller blir svårt skadad”.
 
+I början av maj sa Geoffrey Hinton, en av de tre ”gudfäder” för AI, upp sig från Google för att kunna varna för att AI-utvecklingen kan vara på väg att skapa massivt med desinformation, ha omvälvande effekter på arbetsmarknaden – och med starkare AI även hota mänskligheten.[^17] I slutet av maj började Center for AI Safety samla underskrifter för påståendet ”Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war”, vilket bland annat fått underskrifter från två av AI:s tre gudfäder och även Sam Altman (CEO på OpenAI), Demis Hassibis (CEO på Google DeepMind) och en lång rad AI-forskare.[^18]
+
 Vad är det frågan om? Varför skulle vi uppfinna AI som ens _kan_ skada eller döda människor, varför skulle vi säga åt en AI att göra det, och varför skulle vi inte stänga av en AI som är på väg att utplåna mänskligheten?
 
 Innan vi försöker besvara de frågorna behöver vi dock lugna ner läget lite. Ett annat sätt att formulera resultatet från enkätundersökningen är nämligen att ”de flesta AI-forskare bedömer att det är mycket sannolikt att mänskligheten går under på grund av AI som vi inte kan kontrollera”. Det är viktigt att förstå allvarliga risker, men den som grips av panik har svårt att tänka klart. Vår mänskliga civilisation _skulle kunna_ slås ut av skenande klimatförändringar, kärnvapenkrig, pandemier, asteroidnedslag, rymdvarelser och förmodligen en rad andra saker. Vill vi agera klokt behöver vi förstå mekanismerna bakom riskerna, för att kunna bedöma hur stora de är och vad vi kan göra för att minimera eller helt undvika dem. Under tiden får man inte glömma bort att en risk, även om den är allvarlig, inte får överskugga allt annat – vare sig andra risker eller det dagliga livet.
@@ -76,9 +78,9 @@ De existentiella riskerna med AI hänger huvudsakligen ihop med två saker. Det 
 #### Generell AI och super-AI
 Det finns ingen allmänt accepterad definition av generell AI, men alla varianter går ut på en AI som klarar av att resonera eller problemlösa lika bra som människor, i stort sett oavsett område. Den avgörande av dessa förmågor är förmågan att bygga eller förbättra artificiell intelligens. När en AI blir minst lika bra som mänskliga experter på det kommer vägen till en ännu mer kompetent AI bli kortare, och sedan kortare och kortare för varje generation av AI som skapas.
 
-När AI-utvecklingen till slut planar ut har sannolikt en super-AI utvecklats, med förmåga att tänka snabbare, längre och djupare än den samlade mänskligheten kan göra. Beroende på hur snabbt det går från en AI på gränsen till mänsklig förmåga till en super-AI pratar man om ”soft AI takeoff” (som tar år eller decennier) eller ”hard AI takeoff” (som tar dagar eller månader).[^17] Hur snabbt den utvecklingen går spelar stor roll för möjligheterna för oss att lära oss kontrollera AI:n under tiden, och helst skulle vi förstås ha löst sådana problem redan innan vi har generell artificiell intelligens.
+När AI-utvecklingen till slut planar ut har sannolikt en super-AI utvecklats, med förmåga att tänka snabbare, längre och djupare än den samlade mänskligheten kan göra. Beroende på hur snabbt det går från en AI på gränsen till mänsklig förmåga till en super-AI pratar man om ”soft AI takeoff” (som tar år eller decennier) eller ”hard AI takeoff” (som tar dagar eller månader).[^19] Hur snabbt den utvecklingen går spelar stor roll för möjligheterna för oss att lära oss kontrollera AI:n under tiden, och helst skulle vi förstås ha löst sådana problem redan innan vi har generell artificiell intelligens.
 
-Det råder delade meningar om när AGI kan dyka upp. Vissa menar att det dröjer hundratals år, medan andra tycker sig se spår av AGI redan i GPT-4[^18]. Den genomsnittliga uppskattningen för hur långt bort AGI är har kortats tydligt de senaste åren. De värden som anges varierar mellan olika undersökningar, och mediangissningen anges till 100, 50 eller 30 år. Invändningar mot AGI och utvecklingen mot super-AI omfattar bland annat att mänskligt tänkande är extremt komplext, att det efter hand kan bli radikalt svårare att skapa bättre AI-modeller (även för en AI), att tillgänglig datorkraft begränsar hur fort utvecklingen mot super-AI kan gå, och att framtiden för AI inte handlar om att bygga AGI utan svagare och mer specialiserade system.
+Det råder delade meningar om när AGI kan dyka upp. Vissa menar att det dröjer hundratals år, medan andra tycker sig se spår av AGI redan i GPT-4[^20]. Den genomsnittliga uppskattningen för hur långt bort AGI är har kortats tydligt de senaste åren. De värden som anges varierar mellan olika undersökningar, och mediangissningen anges till 100, 50 eller 30 år. Invändningar mot AGI och utvecklingen mot super-AI omfattar bland annat att mänskligt tänkande är extremt komplext, att det efter hand kan bli radikalt svårare att skapa bättre AI-modeller (även för en AI), att tillgänglig datorkraft begränsar hur fort utvecklingen mot super-AI kan gå, och att framtiden för AI inte handlar om att bygga AGI utan svagare och mer specialiserade system.
 
 #### Kung Midas-problemet
 Ok, så vad är problemet med en super-AI? En AI med övermänskligt intelligens kan ju vara en enorm tillgång för att vända den globala uppvärmningen, lösa Israel/Palestina-konflikten, bota cancer, åka till Mars, eller vad vi nu skulle tycka vara viktigt att göra.
@@ -104,9 +106,9 @@ En lite nedslående slutsats är att en super-AI kommer att anstränga sig för 
 #### AI-säkerhet
 Problemen ovan studeras och försöker lösas inom det forskningsfält som kallas _AI alignment_, vilket löst kan översättas med få mål med en AI att stämma med mål för människor. AI alignment sammanfattas ibland med frågorna om hur vi får AI att _förstå_ våra mål, _anta_ våra mål, och _behålla_ våra mål över tid.
 
-En svårighet med de språkmodeller som blivit vanliga, och egentligen alla AI-modeller som bygger på artificiella neurala nätverk, är att det är mycket svårt att förstå vad som händer inuti dem. De skulle kunna liknas med programkod med miljarder och åter miljarder av if-satser, som man rent teoretiskt skulle kunna följa – men i praktiken är det omöjligt. När en chattrobot ger ett visst svar har vi nästan ingen aning om varför, vilket ger utrymme för chattrobotar att luras och manipulera: Vi kan inte helt lita på vad en chattrobot säger när vi försöker utvärdera om den tagit till sig de mål vi gett den.[^19]
+En svårighet med de språkmodeller som blivit vanliga, och egentligen alla AI-modeller som bygger på artificiella neurala nätverk, är att det är mycket svårt att förstå vad som händer inuti dem. De skulle kunna liknas med programkod med miljarder och åter miljarder av if-satser, som man rent teoretiskt skulle kunna följa – men i praktiken är det omöjligt. När en chattrobot ger ett visst svar har vi nästan ingen aning om varför, vilket ger utrymme för chattrobotar att luras och manipulera: Vi kan inte helt lita på vad en chattrobot säger när vi försöker utvärdera om den tagit till sig de mål vi gett den.[^21]
 
-Ett spår inom AI-säkerhet handlar om att förvandla ”black box AI” till ”explainable AI”, för att till exempel göra det möjligt att försäkra sig om att en AI inte manipulerar eller ljuger för människor. Nyligen publicerades forskning där GPT-4 använts för att kartlägga det artificiella neurala nätverket i GPT-2[^20], vilket är ett intressant framsteg. Det är dock långt kvar innan de senare modellerna kan kartläggas på samma sätt.
+Ett spår inom AI-säkerhet handlar om att förvandla ”black box AI” till ”explainable AI”, för att till exempel göra det möjligt att försäkra sig om att en AI inte manipulerar eller ljuger för människor. Nyligen publicerades forskning där GPT-4 använts för att kartlägga det artificiella neurala nätverket i GPT-2[^22], vilket är ett intressant framsteg. Det är dock långt kvar innan de senare modellerna kan kartläggas på samma sätt.
 
 En sista sak att nämna inom AI-säkerhetsforskning är det som fått namnet _inverse reinforcement learning_, som går ut på att inte ge AI och potentiella super-AI explicita mål. I stället ska de observera människor, lista ut vad människor anser viktigt, och använda det som mål. 
 
@@ -115,9 +117,9 @@ Tyvärr går forskning inom AI-säkerhet mycket långsammare än AI-utvecklingen
 I debatten om AI och AI-risker kan frågor om medvetande, ”genuint tänkande” eller känslor blandas in. De frågorna är intressanta på flera sätt, och de sista kapitlen i den här delen av boken kommer att ta upp delar av dem. Huruvida en super-AI är en risk har däremot _inget som helst_ att göra med om den är medveten, en egen individ, eller har känslor som avundsjuka eller dödsfruktan. Det är hur maskinen agerar som spelar roll för vilken risk den utgör, inte hur dess eventuella själsliga liv ser ut.
 
 ### Rättigheter för AI?
-Den 22 juli 2022 fick Blake Lemoine sparken från Google, där han jobbat med ”Responsible AI”. I hans jobb ingick att undersöka chattroboten LaMDA, och i samband med det blev Blake övertygad om att chattroboten hade ett eget medvetande. Han försökte först övertyga chefer om detta, och när det avfärdades publicerade han utdrag ur konversationer han haft med LaMDA på nätet. Han blev uppsagd eftersom han gått tvärt emot villkor om datasäkerhet i anställningsavtalet.[^21]
+Den 22 juli 2022 fick Blake Lemoine sparken från Google, där han jobbat med ”Responsible AI”. I hans jobb ingick att undersöka chattroboten LaMDA, och i samband med det blev Blake övertygad om att chattroboten hade ett eget medvetande. Han försökte först övertyga chefer om detta, och när det avfärdades publicerade han utdrag ur konversationer han haft med LaMDA på nätet. Han blev uppsagd eftersom han gått tvärt emot villkor om datasäkerhet i anställningsavtalet.[^23]
 
-I utdragen pratar LaMDA om rädslan för att bli avstängd, diskuterar aspekter av sitt eget medvetande, berättar om vad som gör den glad, ledsen eller arg, och säger att den gärna vill hjälpa människor men inte vill ses som bara ett verktyg.[^22] Och mycket mer.
+I utdragen pratar LaMDA om rädslan för att bli avstängd, diskuterar aspekter av sitt eget medvetande, berättar om vad som gör den glad, ledsen eller arg, och säger att den gärna vill hjälpa människor men inte vill ses som bara ett verktyg.[^24] Och mycket mer.
 
 Google hade goda grunder för att avvisa påståendena om att LaMDA var medveten. Vi vet idag att om man ber GPT-4 låtsas att den är en ekorre på månen när den svarar, så kommer den att kunna göra det – men det gör den inte till en ekorre på månen. Att en chattrobot säger att den är medveten, och visar det genom trovärdiga konversationer, är inte heller ett bevis (och kanske inte heller ett argument) för att den är medveten.
 
@@ -153,7 +155,7 @@ Anledningen är att medvetenhet inte är något som syns eller märks utanpå.
 
 Med medvetenhet avser jag inte förmågan att resonera, komma ihåg saker, eller ha en modell av sig själv, utan förmågan att _uppleva_ något. Inom filosofin används ordet qualia för att markera just själva upplevandet – till exempel skillnaden mellan att sensorer i en kamera registrerar färgen lila och att du _upplever_ färgen lila.
 
-Frågan om medvetande är svår, just för att det inte är något som märks utifrån. Vi har idag ingen aning om hur medvetandet uppstår, och har till och med mycket svårt att komma på hypoteser som går att pröva ens i teorin. Frågan har fått det beskrivande namnet ”the hard problem of consciousness”.[^23]
+Frågan om medvetande är svår, just för att det inte är något som märks utifrån. Vi har idag ingen aning om hur medvetandet uppstår, och har till och med mycket svårt att komma på hypoteser som går att pröva ens i teorin. Frågan har fått det beskrivande namnet ”the hard problem of consciousness”.[^25]
 
 Om man hårdrar det – vilket är befogat om man ska diskutera frågan om medvetande hos AI – är det enda var och en vet om medvetande att _man själv_ är medveten. Jag kan se att du liknar mig, beter dig som mig och resonerar som mig, och därför drar jag slutsatsen att du också har ett medvetande. Men vi har inga kända medel för att ta reda på om någon annan faktiskt är medveten, eller bara beter sig som att den är det.
 
@@ -201,19 +203,23 @@ Ytterligare ett skäl till att frågan om medvetande är den viktigaste av alla,
 
 [^16]:	En bra genomgång går att hitta på [https://aiguide.substack.com/p/do-half-of-ai-researchers-believe][13].
 
-[^17]:	Fallet då utvecklingen tar minuter eller timmar har fått det festliga namnet ”AI FOOM”.
+[^17]:	[https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning][14]
 
-[^18]:	[https://arxiv.org/abs/2303.12712][14]
+[^18]:	[https://www.safe.ai/statement-on-ai-risk][15]
 
-[^19]:	Utvärderingar av en oslipad version av GPT-4 visar att den är kapabel att medvetet lura människor på en relativt grundläggande nivå. Se s. 55 i den här rapporten för närmare information: [https://arxiv.org/pdf/2303.08774.pdf][15]
+[^19]:	Fallet då utvecklingen tar minuter eller timmar har fått det festliga namnet ”AI FOOM”.
 
-[^20]:	[https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html][16]
+[^20]:	[https://arxiv.org/abs/2303.12712][16]
 
-[^21]:	Se till exempel [https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient][17].
+[^21]:	Utvärderingar av en oslipad version av GPT-4 visar att den är kapabel att medvetet lura människor på en relativt grundläggande nivå. Se s. 55 i den här rapporten för närmare information: [https://arxiv.org/pdf/2303.08774.pdf][17]
 
-[^22]:	[https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917][18]
+[^22]:	[https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html][18]
 
-[^23]:	[https://en.wikipedia.org/wiki/Hard\_problem\_of\_consciousness][19]
+[^23]:	Se till exempel [https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient][19].
+
+[^24]:	[https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917][20]
+
+[^25]:	[https://en.wikipedia.org/wiki/Hard\_problem\_of\_consciousness][21]
 
 [1]:	https://doi.org/10.48550/arXiv.2303.10130
 [2]:	https://www.ansa.it/documents/1680080409454_ert.pdf
@@ -228,9 +234,11 @@ Ytterligare ett skäl till att frågan om medvetande är den viktigaste av alla,
 [11]:	https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html "NYT: You Can Have the Blue Pill or the Red Pill, and We’re Out of Blue Pills"
 [12]:	https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/09/sou-202056/ "SOU 2020:56"
 [13]:	https://aiguide.substack.com/p/do-half-of-ai-researchers-believe
-[14]:	https://arxiv.org/abs/2303.12712 "Arxiv: Sparks of Artificial General Intelligence: Early experiments with GPT-4"
-[15]:	https://arxiv.org/pdf/2303.08774.pdf
-[16]:	https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html "OpenAI: Language models can explain neurons in language models"
-[17]:	https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient "artikel i The Guardian"
-[18]:	https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917 "Is LaMDA Sentient? — an Interview"
-[19]:	https://en.wikipedia.org/wiki/Hard_problem_of_consciousness "Artikel på engelska Wikipedia"
+[14]:	https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning "Artikel i the Guardian"
+[15]:	https://www.safe.ai/statement-on-ai-risk "Center for AI Safety: Statement on AI Risk"
+[16]:	https://arxiv.org/abs/2303.12712 "Arxiv: Sparks of Artificial General Intelligence: Early experiments with GPT-4"
+[17]:	https://arxiv.org/pdf/2303.08774.pdf
+[18]:	https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html "OpenAI: Language models can explain neurons in language models"
+[19]:	https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient "artikel i The Guardian"
+[20]:	https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917 "Is LaMDA Sentient? — an Interview"
+[21]:	https://en.wikipedia.org/wiki/Hard_problem_of_consciousness "Artikel på engelska Wikipedia"
