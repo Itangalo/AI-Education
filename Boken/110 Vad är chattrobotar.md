@@ -101,7 +101,9 @@ I grund och botten är språkmodeller tränade på att skapa meningar som på et
 Inte desto mindre är det viktigt att komma ihåg att chattrobotar i första hand är gjorda för att skapa text som låter bra – inte att säga saker som är sanna. Mer om det i nästa kapitel.
 
 # Vanliga misstag med chattrobotar
-Som med alla andra verktyg är det värt att använda chattrobotar med omdöme. Här är sju frågor som är bra att ställa sig för att undvika misstag som är förhållandevis vanliga vid användning av chattrobotar.
+Som med alla andra verktyg är det värt att använda chattrobotar med omdöme. I den första versionen av boken, från januari 2023, fanns fyra misstag att se upp med listade. I andra boken, skriven i slutet av maj, har listan vuxit till sju. Listan kommer sannolikt fortsätta att växa när vi lär oss mer om effekterna av att använda chattrobotar, och det är viktigt hela tiden använda sitt omdöme.
+
+Här är de sju frågorna som är värdefulla att ställa för att undvika vanliga misstag.
 
 * Finns det språkfel?
 * Finns det faktafel?
