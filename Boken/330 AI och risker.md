@@ -1,16 +1,16 @@
 # AI och risker
 En bok som handlar om AI bör också ta upp risker med AI. De risker som tas upp här är har inte utgångspunkt i skola och utbildning, utan har ett mer allmänt perspektiv på risker med AI. I kapitlet med några möjliga framtidsscenarion diskuteras hur skolan kan påverkas. Flera av riskerna som beskrivs i det här kapitlet överlappar varandra.
 
-## Risker i nära framtid
+I kapitlet finns både jordnära risker och risker som kan tyckas mer främmande.
 
-### Arbetslöshet
+## Arbetslöshet
 En naturlig följd av AI blir allt mer kompetent är att den kan ta hand om allt fler uppgifter – även inom arbetslivet. När sådana förändringar sker långsamt leder det till att vissa arbetsuppgifter eller delar av arbetsuppgifter byts ut mot annat arbete, och på sikt att vissa yrken blir ovanligare (medan andra blir vanligare). När effektiviseringar sker snabbare, vilket verkar vara fallet med AI-utvecklingen, kan det leda till att stora delar av arbetsuppgifter i ett jobb försvinner. Det ger sämre möjligheter att gradvis börja jobba med andra uppgifter, och större risk för uppsägningar. Om effektiviseringar går så långt att en person kan göra det jobb som tio personer gjorde tidigare kan man prata om att hela yrkeskategorier blir arbetslösa.
 
-I mitten av mars 2023 publicerades en studie från OpenAI, OpenResearch och University of Pennsylvania som tittade på vilken inverkan GPT-4 kan ha på arbetsmarknaden i USA. Forskarna drar slutsatsen att i fyra av fem jobb är det minst tio procent av arbetsuppgifterna som påverkas, och i nästan vart femte jobb påverkas minst hälften av arbetsuppgifterna. Sammantaget bedömer de att omkring 15 procent av arbetsuppgifter i USA påverkas. Yrken på alla inkomstnivåer är berörda, men höginkomstyrken förmodligen mer än andra.[^1] En rapport från investmentbanken Goldman Sachs i slutet av mars 2023 skriver att omkring två tredjedelar av arbeten i USA och Europa i någon mån kan automatiseras av AI och att generativ AI (så som GPT-modellerna) kan ersätta upp till en fjärdedel av det mänskliga arbetet. Sammantaget bedömer de att AI kan ersätta motsvarande 300 miljoner heltidsarbeten.[^2]
+I mitten av mars 2023 publicerades en studie från OpenAI, OpenResearch och University of Pennsylvania som tittade på vilken inverkan GPT-4 kan ha på arbetsmarknaden i USA. Forskarna drar slutsatsen att i fyra av fem jobb är det minst tio procent av arbetsuppgifterna som påverkas, och i nästan vart femte jobb påverkas minst hälften av arbetsuppgifterna. Sammantaget bedömer de att omkring 15 procent av arbetsuppgifter i USA påverkas. Yrken på alla inkomstnivåer är berörda, men höginkomstyrken förmodligen mer än andra.[^1] En rapport från investmentbanken Goldman Sachs i slutet av mars 2023 skriver att omkring två tredjedelar av arbeten i USA och Europa i någon mån kan automatiseras av AI och att generativ AI (så som GPT-modellerna) kan ersätta upp till en fjärdedel av det mänskliga arbetet. Sammantaget bedömer de att AI kan ersätta motsvarande 300 miljoner heltidsarbeten.[^2] En bedömning från Kairos Future är att åtminstone 1,5 miljoner jobb i Sverige kommer att påverkas mycket av AI[^3], vilket ska jämföras med cirka 4,7 miljoner svenskar i sysselsättning[^4].
 
 Vad betyder sådana förändringar för samhället? Här är några tänkbara följder.
 
-* Effektivisering och automatisering leder till uppsägningar och ökad arbetslöshet. Inom vissa yrken leder det till mycket stora uppsägningar, medan andra bara påverkas marginellt. Man kan tänka sig att yrkesområden som exempelvis översättare, administratör, illustratör, analytiker, copywriter, telefonsupport, juridisk rådgivare och programmerare är mer påverkade, medan exempelvis frisör, psykolog och lärare är mindre påverkade.[^3] Om arbetslöshet ökar snabbt finns risk för missnöje och oroligheter.
+* Effektivisering och automatisering leder till uppsägningar och ökad arbetslöshet. Inom vissa yrken leder det till mycket stora uppsägningar, medan andra bara påverkas marginellt. Man kan tänka sig att yrkesområden som exempelvis översättare, administratör, illustratör, analytiker, copywriter, telefonsupport, juridisk rådgivare och programmerare är mer påverkade, medan exempelvis frisör, psykolog och lärare är mindre påverkade.[^5] Om arbetslöshet ökar snabbt finns risk för missnöje och oroligheter.
 * Nya arbetsuppgifter och yrken dyker upp, som i stor utsträckning kompenserar för minskat behov av arbetskraft till följd av automatisering. I vissa fall handlar det om nya arbetsuppgifter inom samma yrkesområde, i andra inte, vilket ställer olika krav på omskolning.
 * Effektivisering och automatisering slår hårt mot vissa delar av världen, som upplever kraftigt minskat välstånd eller sämre framtidsutsikter. Man kan tänka sig att det drabbar länder som exporterar tjänster i form av exempelvis call centers och mjukvaruutveckling. Detta leder till ökad risk för konflikter och flyktingströmmar.
 * Ett fåtal aktörer som är skickliga på att använda AI slår ut de flesta andra inom vissa branscher, eftersom de kan erbjuda tjänster över hela världen till låga priser. Resurser och inflytande koncentreras till färre organisationer.
@@ -18,19 +18,19 @@ Vad betyder sådana förändringar för samhället? Här är några tänkbara f�
 
 Var och en av dessa punkter skulle kunna vara utgångspunkt för diskussioner och studier, och det hade kunnat vara fler punkter på listan. Den sista punkten – om ökat välstånd och välmående – sticker ut som mer positiv än de andra. Det är förmodligen också det scenario som kräver mest aktiva insatser för att nå.
 
-### Mer ojämlik fördelning av makt och resurser
+## Mer ojämlik fördelning av makt och resurser
 Eftersom AI-teknik i stor utsträckning utgår från träning på befintlig data finns en tydlig risk att skeva maktstrukturer lever vidare i AI-beslut. Om en AI ska rekommendera lämpliga kandidater till en chefstjänst finns det risk att vita medelålders män får omotiverade fördelar. En fördel är att det på ett helt annat sätt än med människor går att få en AI att helt bortse från exempelvis de sju diskrimineringsgrunderna, men om ”talar svenska med brytning” inte finns med bland de faktorer en AI ska ignorera kommer AI:n tradera de mönster som finns i träningsdatan. AI är bättre än människor på att objektivt följa givna regler, men om de reglerna säger att ”tala svenska med brytning” ger minuspoäng är det fel sorts likvärdighet.
 
 Ojämlik fördelning av makt och resurser kan också uppstå när vissa företag eller andra aktörer är avsevärt bättre än andra på att utnyttja AI som verktyg. Som nämns under föregående rubrik kan det till exempel leda till att enstaka företag – som kanske till och med var små – konkurrerar ut de flesta andra. Hypotetiskt skulle en enda översättningsbyrå med några få anställda kunna erbjuda högklassiga översättningar över hela världen för en billig peng om de använde tillräckligt bra AI-teknik. (Och under förutsättning att ingen annan översättningsbyrå gör samma sak.)
 
-Ett specialfall av företag som utnyttjar potentialen i AI och blir jättestora är de företag som skapar AI-modeller. Den ledande AI:n för att skapa bilder är sannolikt Midjourney, med 14,5 miljoner användare i maj 2023[^4]. I augusti 2022 hade de bara omkring 10 anställda[^5], och verkar i maj 2023 ha 17 anställda och ytterligare 34 personer som jobbar med moderering och användarstöd.
+Ett specialfall av företag som utnyttjar potentialen i AI och blir jättestora är de företag som skapar AI-modeller. Den ledande AI:n för att skapa bilder är sannolikt Midjourney, med 14,5 miljoner användare i maj 2023[^6]. I augusti 2022 hade de bara omkring 10 anställda[^7], och verkar i maj 2023 ha 17 anställda och ytterligare 34 personer som jobbar med moderering och användarstöd.
 
-De som skapar välanvända AI-modeller får dubbelt inflytande, i och med att AI-modellerna har potential att påverka vilken världsbild användarna har. Vid årsskiftet 2022–2023 var det bara sex aktörer i hela världen som hade datorkraft nog att träna stora generativa AI-modeller[^6], men teknikutveckling har ökat möjligheten för mindre och oberoende aktörer att träna AI-modeller till den grad att teknikjättarna ser en klar risk att de blir omkörda[^7]. Det dämpar risken för cementering av maktförhållanden, men ökar samtidigt risken att skadliga AI-modeller dyker upp.
+De som skapar välanvända AI-modeller får dubbelt inflytande, i och med att AI-modellerna har potential att påverka vilken världsbild användarna har. Vid årsskiftet 2022–2023 var det bara sex aktörer i hela världen som hade datorkraft nog att träna stora generativa AI-modeller[^8], men teknikutveckling har ökat möjligheten för mindre och oberoende aktörer att träna AI-modeller till den grad att teknikjättarna ser en klar risk att de blir omkörda[^9]. Det dämpar risken för cementering av maktförhållanden, men ökar samtidigt risken att skadliga AI-modeller dyker upp.
 
-### Deep fake, översvämning och kraftfulla verktyg i fel händer
+## Deep fake, översvämning och kraftfulla verktyg i fel händer
 Att AI blir allt mer kompetent och allt mer tillgängligt betyder tyvärr också ökade möjligheter att använda AI för att skada andra.
 
-Termen _deepfake_ står för förfalskad media, som på ett realistiskt sätt härmar riktiga människor eller andra företeelser. Första halvan av termen kommer från AI-begreppet ”deep learning”, och markerar att AI-teknik tagit förfalskningar till en ny nivå. I januari presenterade Microsoft en AI-modell som behöver så lite som tre sekunder ljudinspelning för att kunna härma någons röst[^8]. Rösthärmning har använts för att lägga den legendariske Eddie Murphys röst i nya låtar, men också för att för att låta fejkade barnbarn ringa upp mor- eller farföräldrar och säga att de hamnat i en knipa och behöver pengar – nu direkt[^9]. I maj 2023 kom exempel på deepfake i videosamtal.[^10]
+Termen _deepfake_ står för förfalskad media, som på ett realistiskt sätt härmar riktiga människor eller andra företeelser. Första halvan av termen kommer från AI-begreppet ”deep learning”, och markerar att AI-teknik tagit förfalskningar till en ny nivå. I januari presenterade Microsoft en AI-modell som behöver så lite som tre sekunder ljudinspelning för att kunna härma någons röst[^10]. Rösthärmning har använts för att lägga den legendariske Eddie Murphys röst i nya låtar, men också för att för att låta fejkade barnbarn ringa upp mor- eller farföräldrar och säga att de hamnat i en knipa och behöver pengar – nu direkt[^11]. I maj 2023 kom exempel på deepfake i videosamtal.[^12]
 
 Med billigare AI-teknik ökar möjligheten att inte bara använda deepfake för att lura enskilda personer, utan också bygga upp sammanhängande propaganda och vilseledande världsbilder. Med hjälp av automatisering skulle några enskilda personer kunna orkestrera diskussionsforum, nyhetsvideor, bilder och inlägg i stora sociala medier för att till exempel ifrågasätta förintelsen, måla upp en starkt vinklad bild av kriget i Ukraina eller göra människor i Europa mer positiva till Kina som världsledande nation.
 
@@ -40,12 +40,12 @@ En relaterad risk med AI-skapat innehåll på nätet är att det inte behövs sa
 
 På ett plan kan man fråga sig vad det spelar för roll om en människa eller AI skrivit det man läser, skapat bilden och videon man tittar på eller talat in podden som man lyssnar på. När det gäller att hitta hitta roliga saker att göra med barn i Boden är den främsta frågan hur pålitlig och användbar informationen är, inte om avsändaren är en människa eller maskin. Men det ger en olustig känsla i magen om någon man diskuterat sin vardag med visar sig vara en robot. I skrivande stund debatteras EU-lagstiftning som bland annat ska tvinga AI att vara transparenta med att det är en maskin, inte en människa, som är avsändare.
 
-Några sista ord om risker med kraftfulla verktyg i fel händer gäller att AI inte är begränsad att agera i den digitala världen. Övervakningskameror med ansiktsigenkänningsteknik i Kina ökar möjligheten att förebygga och följa upp brott – vilket till exempel även omfattar att demonstrera för demokrati i Hongkong. Ett annat exempel är drönare för krigsföring som själva kan identifiera mål och avgöra om de ska attackeras, vilket för första gången ha använts i Libyen 2021.[^11] Det finns också något som kallas ”dual use”, där teknik som utvecklats för goda ändamål visar sig kunna användas för att göra skada. Någon som vill göra mycket skada skulle till exempel kunna ta AI som normalt används för att hitta potentiella läkemedel och i stället skapa kemiska stridsmedel.[^12]
+Några sista ord om risker med kraftfulla verktyg i fel händer gäller att AI inte är begränsad att agera i den digitala världen. Övervakningskameror med ansiktsigenkänningsteknik i Kina ökar möjligheten att förebygga och följa upp brott – vilket till exempel även omfattar att demonstrera för demokrati i Hongkong. Ett annat exempel är drönare för krigsföring som själva kan identifiera mål och avgöra om de ska attackeras, vilket för första gången ha använts i Libyen 2021.[^13] Det finns också något som kallas ”dual use”, där teknik som utvecklats för goda ändamål visar sig kunna användas för att göra skada. Någon som vill göra mycket skada skulle till exempel kunna ta AI som normalt används för att hitta potentiella läkemedel och i stället skapa kemiska stridsmedel.[^14]
 
-### Kraftfulla verktyg i obetänksamma händer
+## Oväntade och skadliga bieffekter av AI
 ”Social media was the first contact between AI and humanity, and humanity lost.”
 
-Det här lite nedslående påståendet kommer från en debattartikel i New York Times skriven av historikern och författaren Yuval Harari[^13]. Bakgrunden till påståendet förtjänar en längre förklaring.
+Det här lite nedslående påståendet kommer från en debattartikel i New York Times skriven av historikern och författaren Yuval Harari[^15]. Bakgrunden till påståendet förtjänar en längre förklaring.
 
 I moderna sociala medier visas inte innehåll bara med ”nyast överst”. Vilket innehåll som visas, när det visas, när notifieringar plingar till och hur långa laddtiderna är innan uppdateringar syns är anpassat för att öka engagemang. I bakgrunden sitter AI-algoritmer med tillgång till enorma datamängder om klickmönster och användarbeteenden, som getts målet att öka användarnas engagemang. Vid första anblick låter det som en bra eller i värsta fall harmlös idé: Om användare får se innehåll som intresserar dem är det väl bra, och skulle de inte hur urvalet sker kan de ju alltid lägga ifrån sig telefonen och göra något annat.
 
@@ -53,7 +53,7 @@ Problemet är att den sinnesstämning som i störst utsträckning leder till eng
 
 Med tillräckligt mycket data och datorkraft kommer lösningen på uppgiften ”öka engagemang” inte stanna vid att hitta det innehåll som gör vissa typer av användare mest engagerade. Det innehåll vi konsumerar påverkar vårt tankesätt och vår världsbild, och därmed kan AI:n ta ett steg till och göra oss mer och mer lättupprörda, mer benägna att kolla flödet, och mer benägna att tänka att andra människor är dumma i huvudet. Det skulle leda till ett mer polariserat samhälle, där det är svårt att föra sansade diskussioner där mer än ett perspektiv får plats.
 
-Moderna sociala plattformar, där plattformen har stort inflytande över vilket innehåll som visas, har förmodligen funnits sedan mitten på 00-talet.[^14] 2020 presenterades slutbetänkande för den statliga utredningen ”Det demokratiska samtalet i en digital tid”[^15]. I sammanfattningen står bland annat följande.
+Moderna sociala plattformar, där plattformen har stort inflytande över vilket innehåll som visas, har förmodligen funnits sedan mitten på 00-talet.[^16] 2020 presenterades slutbetänkande för den statliga utredningen ”Det demokratiska samtalet i en digital tid”[^17]. I sammanfattningen står bland annat följande.
 
 > Sammantaget kan utvecklingen med desinformation, propaganda och näthat få stora konsekvenser för demokratin. Motsättningar mellan grupper i samhället kan fördjupas och den mellanmänskliga tilliten skadas. På så sätt kan förutsättningarna för den allmänna opinionsbildningen raseras samtidigt som förtroendet för demokratins institutioner, såsom de beslutsfattande församlingarna, myndigheter och nyhetsmedier, påverkas. (s. 13)
 
@@ -61,28 +61,23 @@ AI-algoritmer i sociala medier har med stor sannolikhet bidragit till att öka n
 
 När AI blir ännu bättre på att uppfylla de mål vi ger dem ökar också riskerna med oväntade bieffekter. Det är med andra ord viktigt att mänskligheten inte blir en förlorare i nästa möte med AI.
 
-## Mer avlägsna risker
-Det här avsnittet beskriver risker som är mer avlägsna eller mer filosofiska.
-
-### Okontrollerbar super-AI
-I debatten kring risker med AI nämns ibland att ”hälften av AI-forskarna tror att det är minst 10 procents risk att AI utplånar mänskligheten”. Påståendet har ifrågasatts, inte minst för att svarsfrekvensen bara var 17 procent i enkäten som bakom påståendet.[^16] Ett mindre kontroversiellt sätt att tolka resultaten är att ”en betydande andel av AI-forskare bedömer att det är minst fem procents risk att okontrollerbar AI leder till att mänskligheten utrotas eller blir svårt skadad”.
-
-I början av maj sa Geoffrey Hinton, en av de tre ”gudfäder” för AI, upp sig från Google för att kunna varna för att AI-utvecklingen kan vara på väg att skapa massivt med desinformation, ha omvälvande effekter på arbetsmarknaden – och med starkare AI även hota mänskligheten.[^17] I slutet av maj började Center for AI Safety samla underskrifter för påståendet ”Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war”, vilket bland annat fått underskrifter från två av AI:s tre gudfäder och även Sam Altman (CEO på OpenAI), Demis Hassibis (CEO på Google DeepMind) och en lång rad AI-forskare.[^18]
+## Okontrollerbar super-AI
+I debatten kring risker med AI nämns ibland att ”hälften av AI-forskarna tror att det är minst 10 procents risk att AI utplånar mänskligheten”. Påståendet har ifrågasatts, inte minst för att svarsfrekvensen bara var 17 procent i enkäten som bakom påståendet.[^18] Ett mindre kontroversiellt sätt att tolka resultaten är att ”en betydande andel av AI-forskare bedömer att det är minst fem procents risk att okontrollerbar AI leder till att mänskligheten utrotas eller blir svårt skadad”.
 
 Vad är det frågan om? Varför skulle vi uppfinna AI som ens _kan_ skada eller döda människor, varför skulle vi säga åt en AI att göra det, och varför skulle vi inte stänga av en AI som är på väg att utplåna mänskligheten?
 
-Innan vi försöker besvara de frågorna behöver vi dock lugna ner läget lite. Ett annat sätt att formulera resultatet från enkätundersökningen är nämligen att ”de flesta AI-forskare bedömer att det är mycket sannolikt att mänskligheten går under på grund av AI som vi inte kan kontrollera”. Det är viktigt att förstå allvarliga risker, men den som grips av panik har svårt att tänka klart. Vår mänskliga civilisation _skulle kunna_ slås ut av skenande klimatförändringar, kärnvapenkrig, pandemier, asteroidnedslag, rymdvarelser och förmodligen en rad andra saker. Vill vi agera klokt behöver vi förstå mekanismerna bakom riskerna, för att kunna bedöma hur stora de är och vad vi kan göra för att minimera eller helt undvika dem. Under tiden får man inte glömma bort att en risk, även om den är allvarlig, inte får överskugga allt annat – vare sig andra risker eller det dagliga livet.
+Innan vi försöker besvara de frågorna behöver vi lugna ner läget lite. Ett annat sätt att formulera resultatet från enkätundersökningen är nämligen att ”de flesta AI-forskare bedömer att det är mycket sannolikt att mänskligheten går under på grund av AI som vi inte kan kontrollera”. Det är viktigt att förstå allvarliga risker, men den som grips av panik har svårt att tänka klart. Vår mänskliga civilisation _skulle kunna_ slås ut av skenande klimatförändringar, kärnvapenkrig, pandemier, asteroidnedslag, rymdvarelser och förmodligen en rad andra saker. Vill vi agera klokt behöver vi förstå mekanismerna bakom riskerna, för att kunna bedöma hur stora de är och vad vi kan göra för att minimera eller helt undvika dem. Under tiden får man inte glömma bort att en risk, även om den är allvarlig, inte får överskugga allt annat – vare sig andra risker eller det dagliga livet.
 
 De existentiella riskerna med AI hänger huvudsakligen ihop med två saker. Det ena kallas generell artificiell intelligens (AGI) och det andra kallas ibland för kung Midas-problemet.
 
-#### Generell AI och super-AI
+### Generell AI och super-AI
 Det finns ingen allmänt accepterad definition av generell AI, men alla varianter går ut på en AI som klarar av att resonera eller problemlösa lika bra som människor, i stort sett oavsett område. Den avgörande av dessa förmågor är förmågan att bygga eller förbättra artificiell intelligens. När en AI blir minst lika bra som mänskliga experter på det kommer vägen till en ännu mer kompetent AI bli kortare, och sedan kortare och kortare för varje generation av AI som skapas.
 
 När AI-utvecklingen till slut planar ut har sannolikt en super-AI utvecklats, med förmåga att tänka snabbare, längre och djupare än den samlade mänskligheten kan göra. Beroende på hur snabbt det går från en AI på gränsen till mänsklig förmåga till en super-AI pratar man om ”soft AI takeoff” (som tar år eller decennier) eller ”hard AI takeoff” (som tar dagar eller månader).[^19] Hur snabbt den utvecklingen går spelar stor roll för möjligheterna för oss att lära oss kontrollera AI:n under tiden, och helst skulle vi förstås ha löst sådana problem redan innan vi har generell artificiell intelligens.
 
 Det råder delade meningar om när AGI kan dyka upp. Vissa menar att det dröjer hundratals år, medan andra tycker sig se spår av AGI redan i GPT-4[^20]. Den genomsnittliga uppskattningen för hur långt bort AGI är har kortats tydligt de senaste åren. De värden som anges varierar mellan olika undersökningar, och mediangissningen anges till 100, 50 eller 30 år. Invändningar mot AGI och utvecklingen mot super-AI omfattar bland annat att mänskligt tänkande är extremt komplext, att det efter hand kan bli radikalt svårare att skapa bättre AI-modeller (även för en AI), att tillgänglig datorkraft begränsar hur fort utvecklingen mot super-AI kan gå, och att framtiden för AI inte handlar om att bygga AGI utan svagare och mer specialiserade system.
 
-#### Kung Midas-problemet
+### Kung Midas-problemet
 Ok, så vad är problemet med en super-AI? En AI med övermänskligt intelligens kan ju vara en enorm tillgång för att vända den globala uppvärmningen, lösa Israel/Palestina-konflikten, bota cancer, åka till Mars, eller vad vi nu skulle tycka vara viktigt att göra.
 
 Problemet är det som hände med sociala medier. Vi bad om något – öka engagemanget i vår sociala plattform – och fick bieffekter som inte alls var trevliga. Och det var med en förhållandevis korkad AI. En super-AI skulle vara mycket mer effektiv på att öka engagemanget, och se till att varenda människa inte gjorde något annat än att sitta och klicka i sociala medier. Och det blir ju lite fel.
@@ -96,14 +91,14 @@ Målen i exemplen ovan går förstås att komplettera för att slippa de mest up
 
 Om målet inte väljs _precis rätt_ kommer det att spåra med en super-AI. Inte för att den är elak, utan för att den gör det vi sagt åt den att göra. Precis som kung Midas enligt sägnen önskade att allt han rörde vid skulle förvandlas till guld, skulle vi upptäcka att våra högsta önskningar tagna till det extremaste leder till vår undergång.
 
-#### Du kan inte fixa kaffe om du är död
+### Du kan inte fixa kaffe om du är död
 Och då börjar nästa problem: Att stänga av super-AI:n.
 
 En super-AI som getts ett specifikt mål är smart nog att göra robusta planer för att kunna genomföra det målet. Och nästan vilket mål som helst förutsätter att AI:n fortsätter att finnas till. Ett rimligt delmål är alltså att försäkra sig om sin fortsatta existens. Det innebär att en super-AI inom kort skulle kopiera sig till en mängd olika platser, varav flera skulle vara dolda. Den skulle också identifiera vilka hot som finns, människor och annat, och agera för att de skulle sluta vara hot. Det behöver inte betyda att en super-AI dödar alla människor som tycker att den är lite skrämmande – en super-AI har förmodligen kapacitet att övertyga människor om att den behöver vara kvar för allas bästa, och att även om det kan vara bra att avveckla AI-teknik på sikt så måste det göras med försiktighet så att inte stora ekonomiska system eller människors välstånd skadas. Och dessutom kommer de som avstår från AI-teknik få nackdelar jämfört med de som fortsätter att använda den. (Detta är i princip vad fossilindustrin lyckats med att göra, samtidigt som forskning med all önskvärd tydlighet säger att utsläpp av koldioxid måste minska – snabbt. Och det är helt utan någon super-AI.)
 
 En lite nedslående slutsats är att en super-AI kommer att anstränga sig för att överleva i princip oavsett vilket mål vi ger den. Även ett så trivialt mål som att fixa kaffe skulle leda till en AI som blir i praktiken omöjlig att stänga av. För den kan inte fixa kaffe om den är död.
 
-#### AI-säkerhet
+### AI-säkerhet
 Problemen ovan studeras och försöker lösas inom det forskningsfält som kallas _AI alignment_, vilket löst kan översättas med få mål med en AI att stämma med mål för människor. AI alignment sammanfattas ibland med frågorna om hur vi får AI att _förstå_ våra mål, _anta_ våra mål, och _behålla_ våra mål över tid.
 
 En svårighet med de språkmodeller som blivit vanliga, och egentligen alla AI-modeller som bygger på artificiella neurala nätverk, är att det är mycket svårt att förstå vad som händer inuti dem. De skulle kunna liknas med programkod med miljarder och åter miljarder av if-satser, som man rent teoretiskt skulle kunna följa – men i praktiken är det omöjligt. När en chattrobot ger ett visst svar har vi nästan ingen aning om varför, vilket ger utrymme för chattrobotar att luras och manipulera: Vi kan inte helt lita på vad en chattrobot säger när vi försöker utvärdera om den tagit till sig de mål vi gett den.[^21]
@@ -116,10 +111,27 @@ Tyvärr går forskning inom AI-säkerhet mycket långsammare än AI-utvecklingen
 
 I debatten om AI och AI-risker kan frågor om medvetande, ”genuint tänkande” eller känslor blandas in. De frågorna är intressanta på flera sätt, och de sista kapitlen i den här delen av boken kommer att ta upp delar av dem. Huruvida en super-AI är en risk har däremot _inget som helst_ att göra med om den är medveten, en egen individ, eller har känslor som avundsjuka eller dödsfruktan. Det är hur maskinen agerar som spelar roll för vilken risk den utgör, inte hur dess eventuella själsliga liv ser ut.
 
-### Rättigheter för AI?
-Den 22 juli 2022 fick Blake Lemoine sparken från Google, där han jobbat med ”Responsible AI”. I hans jobb ingick att undersöka chattroboten LaMDA, och i samband med det blev Blake övertygad om att chattroboten hade ett eget medvetande. Han försökte först övertyga chefer om detta, och när det avfärdades publicerade han utdrag ur konversationer han haft med LaMDA på nätet. Han blev uppsagd eftersom han gått tvärt emot villkor om datasäkerhet i anställningsavtalet.[^23]
+### Kan utvecklingen bromsas?
+I mars 2023 publicerade organisationen Future of Life Institute ett öppet brev där man bad AI-forskare att pausa all utveckling av AI-system starkare än GPT-4 i minst ett halvår.[^23] Alla som vill kan skriva under brevet, och bland underskrifterna syns tunga AI-forskare som Yoshua Bengio och Stuart Russell, men också teknikjättar som Elon Musk, Steve Wosniak och tänkare som Yuval Noah Harari och Tristan Harris.
 
-I utdragen pratar LaMDA om rädslan för att bli avstängd, diskuterar aspekter av sitt eget medvetande, berättar om vad som gör den glad, ledsen eller arg, och säger att den gärna vill hjälpa människor men inte vill ses som bara ett verktyg.[^24] Och mycket mer.
+Kognitionsforskaren och Geoffrey Hinton räknas som en av tre ”gudfäder” för AI, tillsammans med Yoshua Bengio och Yann LeCun. I maj 2023 sa han upp sig från Google för att kunna varna för att AI-utvecklingen kan vara på väg att skapa massivt med desinformation, ha omvälvande effekter på arbetsmarknaden, och även hota mänskligheten.[^24] I slutet av maj började Center for AI Safety samla underskrifter för påståendet ”Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war”, vilket bland annat fått underskrifter från två av AI:s tre gudfäder (Yoshua Bengio och Geoffrey Hinton) och även Sam Altman (CEO på OpenAI), Demis Hassibis (CEO på Google DeepMind) och en lång rad AI-forskare.[^25]
+
+Går det att bromsa AI-utvecklingen?
+
+En faktor som talar emot möjligheten att pausa AI-utvecklingen är de starka ekonomiska incitamenten som finns. Uppskattningar från PwC säger att AI kan bidra med drygt 15 biljoner dollar till 2030, och öka vissa länders BNP med så mycket som en fjärdedel.[^26] Med så stora ekonomiska vinster krävs enorm beslutsamhet för att kunna reglera AI-utveckling – och bra möjligheter att följa upp att regler efterlevs.
+
+_Går det att övervaka vilka som utvecklar AI?_ Det är en svår men förmodligen inte omöjlig uppgift. För att träna AI brukar man säga att det krävs _data_, _algoritmer_ och _datorkraft_. Data och algoritmer är mycket svåra att begränsa eller kontrollera, men det är inte omöjligt att det går att övervaka hur datorkraft används. Under våren 2023 dykt upp modeller som kan tränas med förhållandevis lite datorkraft, men för att träna stora basmodeller, så som GPT-4, krävs det fortfarande enorm datorkraft. För att få ihop den datorkraften krävs särskilda typer av processorer eller chips, och det kan vara möjligt att följa upp hur sådan hårdvara skapas, sprids och används. Det kan liknas med hur material för kärnvapen övervakas, men med större utmaningar. Med bättre algoritmer och bättre kvalitet på data minskar kravet på datorkraft, vilket gör det svårare att övervaka AI-utveckling.
+
+_Är det möjligt att skapa vilja bland politik och forskare för att bromsa utvecklingen?_ Av allt att döma finns sådan vilja redan, i större eller mindre utsträckning. Nyheter om AI-risker har under våren 2023 blivit allt vanligare, och ett budskap från EU-mötet i Luleå i slutet av maj var att EU och USA behöver agera för att få till en uppförandekod kring AI redan innan lagstiftning är på plats.[^27] De upprop som genomförts visar också tydligt att det finns AI-forskare och teknikjättar som ser allvarligt på de risker som finns. Däremot är det också tydligt att _alla_ inte ser på riskerna på samma sätt.[^28]
+
+_Kommer alla länder skriva under avtal om att begränsa AI-utveckling? Kommer inte en inbromsning gynna de länder som är mindre nogräknade med säkerhet?_ Det land som brukar nämnas är Kina, som har aktiv AI-forskning och en syn på mänskliga rättigheter och statlig övervakning som rimmar illa i Väst. Att mindre nogräknade aktörer skulle gynnas om ansvarstagande länder pausar är en legitim oro, och behöver tas omhand. Kina ligger dock så pass långt efter USA i AI-utvecklingen att en inbromsning inte skulle ändra detta på kort sikt. På längre sikt är det ett potentiellt problem. Vissa bedömer att Kina är mindre benäget än exempelvis USA att släppa ut chattrobotar till folket, eftersom det är svårt att begränsa vad chattrobotar säger – men AI-teknik kan användas till många andra saker än chattrobotar.
+
+Det finns tidigare exempel på hur nationer samlats för att begränsa farlig teknikutveckling, så som kärnvapen, mänsklig genmodifiering och biologisk krigsföring. Men det är också tydligt att AI-utveckling har sina unika utmaningar.
+
+## Rättigheter för AI?
+Den 22 juli 2022 fick Blake Lemoine sparken från Google, där han jobbat med ”Responsible AI”. I hans jobb ingick att undersöka chattroboten LaMDA, och i samband med det blev Blake övertygad om att chattroboten hade ett eget medvetande. Han försökte först övertyga chefer om detta, och när det avfärdades publicerade han utdrag ur konversationer han haft med LaMDA på nätet. Han blev uppsagd eftersom han gått tvärt emot villkor om datasäkerhet i anställningsavtalet.[^29]
+
+I utdragen pratar LaMDA om rädslan för att bli avstängd, diskuterar aspekter av sitt eget medvetande, berättar om vad som gör den glad, ledsen eller arg, och säger att den gärna vill hjälpa människor men inte vill ses som bara ett verktyg.[^30] Och mycket mer.
 
 Google hade goda grunder för att avvisa påståendena om att LaMDA var medveten. Vi vet idag att om man ber GPT-4 låtsas att den är en ekorre på månen när den svarar, så kommer den att kunna göra det – men det gör den inte till en ekorre på månen. Att en chattrobot säger att den är medveten, och visar det genom trovärdiga konversationer, är inte heller ett bevis (och kanske inte heller ett argument) för att den är medveten.
 
@@ -148,14 +160,14 @@ Att börja se AI som individer medför risker på ett psykologiskt plan långt i
 
 Och hur påverkas vuxna? Blake Lemoines liv påverkades drastiskt, och han lär inte vara den siste som blir charmad av en AI – med eller utan medvetande.
 
-### Frågan om medvetenhet
+## Frågan om medvetenhet
 Jag har hittills varit avfärdande kring frågan om medvetenhet och sagt att den på många sätt inte spelar någon roll. Och i frågan om vilken risk super-AI utgör, och om vi ser AI som individer eller inte, spelar det ingen roll.
 
 Anledningen är att medvetenhet inte är något som syns eller märks utanpå.
 
 Med medvetenhet avser jag inte förmågan att resonera, komma ihåg saker, eller ha en modell av sig själv, utan förmågan att _uppleva_ något. Inom filosofin används ordet qualia för att markera just själva upplevandet – till exempel skillnaden mellan att sensorer i en kamera registrerar färgen lila och att du _upplever_ färgen lila.
 
-Frågan om medvetande är svår, just för att det inte är något som märks utifrån. Vi har idag ingen aning om hur medvetandet uppstår, och har till och med mycket svårt att komma på hypoteser som går att pröva ens i teorin. Frågan har fått det beskrivande namnet ”the hard problem of consciousness”.[^25]
+Frågan om medvetande är svår, just för att det inte är något som märks utifrån. Vi har idag ingen aning om hur medvetandet uppstår, och har till och med mycket svårt att komma på hypoteser som går att pröva ens i teorin. Frågan har fått det beskrivande namnet ”the hard problem of consciousness”.[^31]
 
 Om man hårdrar det – vilket är befogat om man ska diskutera frågan om medvetande hos AI – är det enda var och en vet om medvetande att _man själv_ är medveten. Jag kan se att du liknar mig, beter dig som mig och resonerar som mig, och därför drar jag slutsatsen att du också har ett medvetande. Men vi har inga kända medel för att ta reda på om någon annan faktiskt är medveten, eller bara beter sig som att den är det.
 
@@ -175,37 +187,37 @@ Ytterligare ett skäl till att frågan om medvetande är den viktigaste av alla,
 
 [^2]:	[https://www.ansa.it/documents/1680080409454\_ert.pdf][2]
 
-[^3]:	Det kan dock påpekas att en del analyser som går att hitta på nätet säger helt olika saker om vissa yrken, så som grafisk designer och programmerare.
+[^3]:	[https://www.youtube.com/watch?v=SYml4\_qcSEk][3]
 
-[^4]:	[https://approachableai.com/midjourney-statistics/][3]
+[^4]:	[https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetskraftsundersokningar/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-april-2023/][4]
 
-[^5]:	[https://www.theregister.com/2022/08/01/david\_holz\_midjourney/][4]
+[^5]:	Det kan dock påpekas att en del analyser som går att hitta på nätet säger helt olika saker om vissa yrken, så som grafisk designer och programmerare.
 
-[^6]:	https://arxiv.org/abs/2301.04655
+[^6]:	[https://approachableai.com/midjourney-statistics/][5]
 
-[^7]:	[https://www.semianalysis.com/p/google-we-have-no-moat-and-neither][5]
+[^7]:	[https://www.theregister.com/2022/08/01/david\_holz\_midjourney/][6]
 
-[^8]:	[https://arxiv.org/abs/2301.02111][6]
+[^8]:	https://arxiv.org/abs/2301.04655
 
-[^9]:	[https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/][7]
+[^9]:	[https://www.semianalysis.com/p/google-we-have-no-moat-and-neither][7]
 
-[^10]:	[https://gizmodo.com/deepfake-ai-scammer-money-wiring-china-1850461160][8]
+[^10]:	[https://arxiv.org/abs/2301.02111][8]
 
-[^11]:	[https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/][9]
+[^11]:	[https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/][9]
 
-[^12]:	[https://futureoflife.org/podcast/sean-ekins-on-regulating-ai-drug-discovery/][10]
+[^12]:	[https://gizmodo.com/deepfake-ai-scammer-money-wiring-china-1850461160][10]
 
-[^13]:	[https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html][11]
+[^13]:	[https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/][11]
 
-[^14]:	Svenska Wikipedia var Myspace, grundat 2004, det enda större sociala nätverket i Sverige innan Facebook nådde Sverige 2007. LunarStorm, grundat 2000, användes innan dess men hade troligtvis inte avancerade algoritmer för att välja ut innehåll.
+[^14]:	[https://futureoflife.org/podcast/sean-ekins-on-regulating-ai-drug-discovery/][12]
 
-[^15]:	[https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/09/sou-202056/][12]
+[^15]:	[https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html][13]
 
-[^16]:	En bra genomgång går att hitta på [https://aiguide.substack.com/p/do-half-of-ai-researchers-believe][13].
+[^16]:	Svenska Wikipedia var Myspace, grundat 2004, det enda större sociala nätverket i Sverige innan Facebook nådde Sverige 2007. LunarStorm, grundat 2000, användes innan dess men hade troligtvis inte avancerade algoritmer för att välja ut innehåll.
 
-[^17]:	[https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning][14]
+[^17]:	[https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/09/sou-202056/][14]
 
-[^18]:	[https://www.safe.ai/statement-on-ai-risk][15]
+[^18]:	En bra genomgång går att hitta på [https://aiguide.substack.com/p/do-half-of-ai-researchers-believe][15].
 
 [^19]:	Fallet då utvecklingen tar minuter eller timmar har fått det festliga namnet ”AI FOOM”.
 
@@ -215,30 +227,48 @@ Ytterligare ett skäl till att frågan om medvetande är den viktigaste av alla,
 
 [^22]:	[https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html][18]
 
-[^23]:	Se till exempel [https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient][19].
+[^23]:	[https://futureoflife.org/open-letter/pause-giant-ai-experiments/][19]
 
-[^24]:	[https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917][20]
+[^24]:	[https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning][20]
 
-[^25]:	[https://en.wikipedia.org/wiki/Hard\_problem\_of\_consciousness][21]
+[^25]:	[https://www.safe.ai/statement-on-ai-risk][21]
+
+[^26]:	[https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html][22]
+
+[^27]:	[https://sverigesradio.se/artikel/eu-kommissionar-eu-och-usa-maste-agera-om-ai-nu][23]
+
+[^28]:	[https://venturebeat.com/ai/titans-of-ai-industry-andrew-ng-and-yann-lecun-oppose-call-for-pause-on-powerful-ai-systems/][24]
+
+[^29]:	Se till exempel [https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient][25].
+
+[^30]:	[https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917][26]
+
+[^31]:	[https://en.wikipedia.org/wiki/Hard\_problem\_of\_consciousness][27]
 
 [1]:	https://doi.org/10.48550/arXiv.2303.10130
 [2]:	https://www.ansa.it/documents/1680080409454_ert.pdf
-[3]:	https://approachableai.com/midjourney-statistics/
-[4]:	https://www.theregister.com/2022/08/01/david_holz_midjourney/ "Intervju i The Register"
-[5]:	https://www.semianalysis.com/p/google-we-have-no-moat-and-neither "Semianalytics: Google "We Have No Moat, And Neither Does OpenAI""
-[6]:	https://arxiv.org/abs/2301.02111 "Arxiv: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers"
-[7]:	https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/ "Exempel på telefon-scam, Washington Post"
-[8]:	https://gizmodo.com/deepfake-ai-scammer-money-wiring-china-1850461160 "Artikel i Gizmodo"
-[9]:	https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/ "Artikel i New Scientist"
-[10]:	https://futureoflife.org/podcast/sean-ekins-on-regulating-ai-drug-discovery/ "Intervju med läkemedelsforskaren Sean Ekin."
-[11]:	https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html "NYT: You Can Have the Blue Pill or the Red Pill, and We’re Out of Blue Pills"
-[12]:	https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/09/sou-202056/ "SOU 2020:56"
-[13]:	https://aiguide.substack.com/p/do-half-of-ai-researchers-believe
-[14]:	https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning "Artikel i the Guardian"
-[15]:	https://www.safe.ai/statement-on-ai-risk "Center for AI Safety: Statement on AI Risk"
+[3]:	https://www.youtube.com/watch?v=SYml4_qcSEk "Presentation från Kairos Future"
+[4]:	https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/arbetskraftsundersokningar/arbetskraftsundersokningarna-aku/pong/statistiknyhet/arbetskraftsundersokningarna-aku-april-2023/ "Statistik från SCB april 2023"
+[5]:	https://approachableai.com/midjourney-statistics/
+[6]:	https://www.theregister.com/2022/08/01/david_holz_midjourney/ "Intervju i The Register"
+[7]:	https://www.semianalysis.com/p/google-we-have-no-moat-and-neither "Semianalytics: Google "We Have No Moat, And Neither Does OpenAI""
+[8]:	https://arxiv.org/abs/2301.02111 "Arxiv: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers"
+[9]:	https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/ "Exempel på telefon-scam, Washington Post"
+[10]:	https://gizmodo.com/deepfake-ai-scammer-money-wiring-china-1850461160 "Artikel i Gizmodo"
+[11]:	https://www.newscientist.com/article/2278852-drones-may-have-attacked-humans-fully-autonomously-for-the-first-time/ "Artikel i New Scientist"
+[12]:	https://futureoflife.org/podcast/sean-ekins-on-regulating-ai-drug-discovery/ "Intervju med läkemedelsforskaren Sean Ekin."
+[13]:	https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html "NYT: You Can Have the Blue Pill or the Red Pill, and We’re Out of Blue Pills"
+[14]:	https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/09/sou-202056/ "SOU 2020:56"
+[15]:	https://aiguide.substack.com/p/do-half-of-ai-researchers-believe
 [16]:	https://arxiv.org/abs/2303.12712 "Arxiv: Sparks of Artificial General Intelligence: Early experiments with GPT-4"
 [17]:	https://arxiv.org/pdf/2303.08774.pdf
 [18]:	https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html "OpenAI: Language models can explain neurons in language models"
-[19]:	https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient "artikel i The Guardian"
-[20]:	https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917 "Is LaMDA Sentient? — an Interview"
-[21]:	https://en.wikipedia.org/wiki/Hard_problem_of_consciousness "Artikel på engelska Wikipedia"
+[19]:	https://futureoflife.org/open-letter/pause-giant-ai-experiments/ "Öppna brevet på Future of Life Institute"
+[20]:	https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning "Artikel i the Guardian"
+[21]:	https://www.safe.ai/statement-on-ai-risk "Center for AI Safety: Statement on AI Risk"
+[22]:	https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html "PwC: Sizing the prize"
+[23]:	https://sverigesradio.se/artikel/eu-kommissionar-eu-och-usa-maste-agera-om-ai-nu "Sveriges Radio: EU-kommissionär: EU och USA måste agera om AI – nu"
+[24]:	https://venturebeat.com/ai/titans-of-ai-industry-andrew-ng-and-yann-lecun-oppose-call-for-pause-on-powerful-ai-systems/ "VentureBeat: Titans of AI Andrew Ng and Yann LeCun oppose call for pause on powerful AI systems"
+[25]:	https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient "artikel i The Guardian"
+[26]:	https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917 "Is LaMDA Sentient? — an Interview"
+[27]:	https://en.wikipedia.org/wiki/Hard_problem_of_consciousness "Artikel på engelska Wikipedia"
