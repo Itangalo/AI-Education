@@ -1,7 +1,7 @@
 # Vad är chattrobotar?
-Den 30 november 2022 lanserade det USA-baserade företaget OpenAI tjänsten ChatGPT. Den tog världen med storm, och ett halvår senare orsakar den fortfarande nyhetsinslag i riksmedia så gott som varje dag.
+Den 30 november 2022 lanserade det USA-baserade företaget OpenAI tjänsten ChatGPT. Den tog världen med storm, och ett halvår senare orsakar AI fortfarande nyhetsinslag i riksmedia så gott som varje dag.
 
-Det som fortfarande förbluffar många med ChatGPT (mig själv inräknat) är dess förmåga att föra en konversation på ett övertygande mänskligt sätt. I kombination med kunskaper inom vitt skilda områden gör det ChatGPT och många andra chattrobotar till ett otroligt fascinerande och mångsidigt verktyg.
+Det som fortfarande förbluffar många med ChatGPT (författaren inräknad) är dess förmåga att föra en konversation på ett övertygande mänskligt sätt. I kombination med kunskaper inom vitt skilda områden gör det ChatGPT och många andra chattrobotar till ett otroligt fascinerande och mångsidigt verktyg.
 
 Låt oss titta på en konversation med ChatGPT, för att ge exempel på både dess språkliga och faktamässiga förmågor.
 
@@ -23,15 +23,15 @@ Låt oss titta på en konversation med ChatGPT, för att ge exempel på både de
 ## AI, chattrobotar och ChatGPT
 ChatGPT är ett av flera sätt att använda chattrobotar, och det är värt att försöka hålla isär begreppen för att ChatGPT inte ska bli synonymt med vare sig chattrobotar eller AI.
 
-* **AI, artificiell intelligens**, är ett brett begrepp som vanligtvis används för att beskriva maskiner som i något avseende försöker efterlikna mänsklig intelligens, och omfattar ofta också att maskinen lär sig saker och inte bara agerar enligt inprogrammerade regler. Exempel på användningsområden är självkörande bilar, autokorrigering av text på telefonen och ansiktsigenkänning.
-* **Generativ AI** är en typ av AI som utifrån att ha tränats på massor av exempel kan skapa nytt material. Exempel är Midjourney (bild) och OpenAI:s GPT (text) och AlphaCode (kod).
+* **AI, artificiell intelligens**, är ett brett begrepp som vanligtvis används för att beskriva maskiner som i något avseende försöker efterlikna mänsklig intelligens, och omfattar ofta också att maskinen lär sig saker och inte bara agerar enligt inprogrammerade regler. Exempel på användningsområden är självkörande bilar, ansiktsigenkänning och autokorrigering av text på telefonen.
+* **Generativ AI** är en typ av AI som utifrån att ha tränats på massor av exempel kan skapa nytt material. Exempel är Midjourney (bild), OpenAI:s GPT (text) och AlphaCode (kod).
 * **En AI-modell** är motorn bakom det som en AI gör. Exempel är GPT-3.5, GPT-4 och PaLM 2.
 * **Chattrobotar** är generativ AI som (huvudsakligen) arbetar med text och dessutom är skapade för att föra dialoger. Exempel är GPT-4, PaLM 2 och Claude.
 * **ChatGPT** är en produkt från företaget OpenAI. Den består huvudsakligen av en webbsida där du kan chatta med några av deras AI-modeller (som är chattrobotar).
 
-I skrivande stund är det förhållandevis tydligt att den chattrobot som har fått störst genomslag och har bredast kompetens är GPT-4, som lanserades i mars 2023 och (liksom GPT-3.5) går att nå genom tjänsten ChatGPT. Men en rad andra chattrobotar har dykt upp, både kommersiella och öppna, liksom massor av verktyg som använder AI-modeller i bakgrunden för att kunna göra mer komplexa eller specialiserade saker. Det betyder att andra chattrobotar eller AI-verktyg mycket väl kan vara bättre på vissa typer av uppgifter, och det kan också hända att nya modeller inom en snar framtid tar över ledarplatsen från GPT-4.
+I skrivande stund är det förhållandevis tydligt att den chattrobot som har fått störst genomslag och har bredast kompetens är GPT-4, som lanserades i mars 2023 och (liksom GPT-3.5) går att nå genom tjänsten ChatGPT. Men en rad andra chattrobotar har dykt upp, både kommersiella och öppna, liksom massor av verktyg som använder AI-modeller i bakgrunden för att kunna göra mer komplexa eller specialiserade saker. Det betyder att andra chattrobotar eller AI-verktyg är bättre på vissa typer av uppgifter, och det kan också hända att nya modeller inom en snar framtid tar över ledarplatsen från GPT-4.
 
-I den här boken används termen _chattrobot_ om det inte någon specifik AI-modell eller produkt avses. Där konversationer med chattrobotar skrivs ut markeras vilken AI-modell det rör sig om (inklusive datum för senaste uppdateringen för modellen alternativt datum för konversationen, för att kunna se när exempel blivit utdaderade).
+I den här boken används termen _chattrobot_ om det inte någon specifik AI-modell eller produkt avses. Där konversationer med chattrobotar skrivs ut markeras vilken AI-modell det rör sig om (inklusive datum för senaste uppdateringen för modellen alternativt datum för konversationen, för att kunna se när exempel blivit utdaterade).
 
 ## Testa själv!
 Det finns inget bättre sätt att lära sig om chattrobotar än att själv testa att använda en. Om du ännu inte testat att använda en chattrobot, lägg i från dig boken och hitta en.
@@ -71,17 +71,13 @@ Det finns inget bättre sätt att lära sig om chattrobotar än att själv testa
 ---- 
 
 > _Exempel från ChatGPT (GPT-4 12 maj 2023)._
-> **Jag:** Jag är rektor på en grundskola och känner att våra APT-träffar lätt blir utdragna och ointressanta. Kan du ge mig några tips?
-> **Chattrobot:** Självklart, jag skulle gärna ge några råd om hur du kan göra dina arbetsplatsträffar (APT) mer effektiva och engagerande.
-> 1. **Tydlig dagordning**: Innan varje APT, skicka ut en dagordning till alla deltagare. Detta bör inkludera vilka ämnen som kommer att diskuteras, vem som kommer att presentera vad, samt hur mycket tid som är tilldelad varje punkt. En dagordning hjälper alla att förstå vad mötet kommer att innehålla och vad som förväntas av dem.
-> 2. **Tidsbegränsningar**: Sätt upp tydliga tidsramar för varje ämne på dagordningen och håll er till dem. Om ett ämne behöver mer tid, överväg att schemalägga ett separat möte för att diskutera det i mer detalj.
-> 3. **Aktivt deltagande**: Uppmuntra alla att delta aktivt i diskussionerna. Detta kan göras genom att införa rundor där varje person har chansen att prata, eller genom att använda tekniker som grupparbete eller brainstorming.
-> 4. **Effektiva presentationer**: Om någon ska presentera något under APT, se till att de är väl förberedda och att deras presentation är relevant och intressant. Presentationen bör vara kort och koncis, med tydliga punkter och slutsatser.
-> 5. **Effektiv kommunikation**: Säkerställa att alla förstår vad som diskuteras och att all information kommuniceras effektivt. Använd tydligt och enkelt språk, och undvik jargong och tekniska termer så mycket som möjligt.
-> 6. **Positiv atmosfär**: Skapa en positiv och stödjande atmosfär där alla känner sig bekväma att uttrycka sina åsikter och idéer. Detta kan inkludera att uppmuntra till feedback, att tacka folk för deras bidrag, och att hålla mötet i en avslappnad och vänlig miljö.
-> 7. **Follow-up**: Efter varje APT, skicka ut en sammanfattning av vad som diskuterades, vad som beslutades, och vilka åtgärder som behöver tas. Detta hjälper alla att hålla sig på samma sida och att hålla reda på vad som behöver göras nästa.
-> 8. **Utvärdering och feedback**: Uppmuntra till feedback om APT och ta emot den konstruktivt. Detta kan hjälpa dig att förstå vad som fungerar bra och vad som kan förbättras.
-> Hoppas dessa råd hjälper dig att göra dina APT mer effektiva och intressanta. Lycka till!
+> **Jag:** Vad är ett bra sätt att förklara kemisk jämvikt för mina årskurs 2:or på gymnasiet?
+> **Chattrobot:** Absolut! Kemisk jämvikt är ett viktigt koncept inom kemi, men det kan vara ganska svårt att förstå första gången man stöter på det. Här är ett enkelt sätt att förklara det för dina gymnasieelever:
+> För det första, det är viktigt att förstå att i en kemisk reaktion, kommer reaktanter (de saker som reagerar) att omvandlas till produkter. Men det är inte alltid en enkel one-way process - ibland kan produkterna faktiskt omvandlas tillbaka till reaktanter. Detta är kärnan i konceptet kemisk jämvikt.
+> Så föreställ dig att du har en låda med bollar. Du börjar med 100 röda bollar och 0 blå bollar. Men med tiden, börjar några av de röda bollarna ändras till blåa. Efter ett tag har du 50 röda bollar och 50 blåa. Men nu börjar några av de blåa bollarna ändras tillbaka till röda. Och så fortsätter det - bollar ändrar färg fram och tillbaka.
+> Detta är vad som händer i en kemisk reaktion som har uppnått jämvikt: reaktanter blir till produkter, och produkter blir till reaktanter, i en konstant cykel. Och även om det kan verka som om inget händer eftersom mängderna inte ändras (liksom det totala antalet bollar i din låda inte ändras), pågår det faktiskt ständiga förändringar på molekylär nivå.
+> Det är också viktigt att påpeka att vid kemisk jämvikt betyder det inte alltid att mängderna av reaktanter och produkter är lika - det betyder bara att hastigheterna för de två reaktionerna (reaktanter blir till produkter, och produkter blir till reaktanter) är lika.
+> Hoppas det hjälper! Låt mig veta om det finns något mer du vill veta om kemisk jämvikt.
 
 ## Hur fungerar chattrobotar?
 ”Det är omöjligt att skilja tillräckligt avancerad teknologi från magi.”
@@ -90,20 +86,20 @@ Citatet kommer från Arthur C. Clarke, förmodligen mest känd för boken _År 2
 
 Det visar sig, föga förvånande, att det inte är magi utan just avancerad teknik. (Även om det också visar sig vara så pass svårt att förstå den faktiska processen att det nästan lika gärna kunde varit magi – mer om det i del 3.)
 
-Chattrobotar är som tidigare nämnts så kallade generativa AI, närmare bestämt en sort som kallas _stora språkmodeller_ eller LLM, _large language models_. Grovt sammanfattat så har sådana modeller tränats på massiva mängder text, genom att gissa nästa ord i meningar. Modellen innehåller miljarder av så kallade parametrar, som förenklat motsvarar kopplingar mellan neuroner i biologiska hjärnor, och styr hur modellen gissar nästa ord. De parametrarna ändras medan AI-modellen tränas, så att dess gissning på nästa ord stämmer bättre och bättre med hur texterna faktiskt ser ut.
+Chattrobotar är som tidigare nämnts så kallade generativa AI, närmare bestämt en sort som kallas _stora språkmodeller_ eller LLM, _large language models_. Grovt sammanfattat så har sådana modeller tränats på massiva mängder text, genom att försöka gissa nästa ord i meningar. Modellen innehåller miljarder av så kallade parametrar, som förenklat motsvarar kopplingar mellan neuroner i biologiska hjärnor, och styr hur modellen gissar nästa ord. De parametrarna ändras medan AI-modellen tränas, så att dess gissning på nästa ord stämmer bättre och bättre med hur texterna i träningsdatan faktiskt ser ut.
 
-Resultatet blir en AI-modell som kan skapa naturlig text. Den har sedan fått ytterligare ett lager med träning, där människor (eller andra AI-modeller) ger återkoppling på vad som exempelvis är en trevlig ton, hjälpsamma svar, kränkande, olämpligt eller tydligt. Om allt detta görs på rätt sätt leder det i slutändan fram till en AI-modell som man kan föra en naturlig dialog med, om det mesta mellan himmel och jord.
+Resultatet blir en AI-modell som kan skapa naturlig text. De flesta språkmodeller har sedan fått ytterligare minst ett lager med träning, där människor (eller andra AI-modeller) ger återkoppling på vad som exempelvis är en trevlig ton, hjälpsamma svar, kränkande, olämpligt eller tydligt. Om allt detta görs på rätt sätt leder det i slutändan fram till en AI-modell som man kan föra en naturlig dialog med, om det mesta mellan himmel och jord.
 
-När modellerna som ChatGPT använder tränades, användes stora delar av den text som fanns på internet fram till september 2021 i kombination med gigantiska mängder datorkraft. Sedan dess har flera sätt att effektivisera träning av språkmodeller utforskats, vilket inte har gett riktigt lika kraftfulla modeller men har å andra sidan kostat så lite som 30 dollar (medan GPT-4 uppskattats ha kostat omkring hundra miljoner dollar att träna).[^1] Att använda de färdiga modeller kräver mycket mindre datorkraft än att träna upp dem, och det finns nu språkmodeller som kan köras på en persondator.
+När modellerna som ChatGPT använder tränades, användes stora delar av den text som fanns på internet fram till september 2021 i kombination med gigantiska mängder datorkraft. Sedan dess har flera sätt att effektivisera träning av språkmodeller utforskats, vilket inte har gett riktigt lika kraftfulla modeller men har å andra sidan kostat så lite som 30 dollar (medan GPT-4 uppskattats ha kostat omkring hundra miljoner dollar att träna).[^1] Att använda de färdiga modellerna kräver mycket mindre datorkraft än att träna upp dem, och det finns nu språkmodeller som till och med kan köras på en persondator.
 
-I grund och botten är språkmodeller tränade på att skapa meningar som på ett abstrakt sätt ”stämmer med” hur texter de tränats på ser ut. Det är fascinerande att en modell genom detta lär sig stavning, grammatik och meningsbyggnad – och närmast otroligt att den dessutom lär sig översätta texter, använda komplicerade begrepp på ett (ofta) konsekvent och korrekt sätt, och även i viss mån föra resonemang.
+I grund och botten är språkmodeller tränade på att skapa meningar som på ett abstrakt sätt ”stämmer med” hur texter de tränats på ser ut. Det är fascinerande att en modell genom detta lär sig stavning, grammatik och meningsbyggnad – och närmast otroligt att den dessutom lär sig översätta texter, använda komplicerade begrepp på ett (ofta) korrekt sätt, och även i viss mån föra resonemang.
 
 Inte desto mindre är det viktigt att komma ihåg att chattrobotar i första hand är gjorda för att skapa text som låter bra – inte att säga saker som är sanna. Mer om det i nästa kapitel.
 
 # Vanliga misstag med chattrobotar
-Som med alla andra verktyg är det värt att använda chattrobotar med omdöme. I den första versionen av boken, från januari 2023, fanns fyra misstag att se upp med listade. I andra boken, skriven i slutet av maj, har listan vuxit till sju. Listan kommer sannolikt fortsätta att växa när vi lär oss mer om effekterna av att använda chattrobotar, och det är viktigt hela tiden använda sitt omdöme.
+Som med alla andra verktyg är det värt att använda chattrobotar med omdöme. I den första versionen av boken, från januari 2023, fanns fyra vanliga misstag listade. I andra boken, skriven i skiftet maj–juni, har listan vuxit till sju. Listan kommer sannolikt fortsätta att växa när vi lär oss mer om effekterna av att använda chattrobotar, och det är viktigt hela tiden använda sitt omdöme.
 
-Här är de sju frågorna som är värdefulla att ställa för att undvika vanliga misstag.
+Här är sju frågor som är värdefulla att ställa för att undvika vanliga misstag med chattrobotar.
 
 * Finns det språkfel?
 * Finns det faktafel?
@@ -123,7 +119,7 @@ Stora språkmodeller är tränade för att skapa meningar som låter naturliga, 
 
 Nedan följer ett exempel som kanske är särskilt belysande.
 
-> Exempel från ChatGPT (GPT-3.5, 12 maj 2023)
+> Exempel från ChatGPT (GPT-3.5, 24 maj 2023)
 > **Jag:** Jag vill lära mig mer om vanliga inlärningssvårigheter i matematik på mellanstadiet. Kan du ge mig förslag på en forskningsartikel att läsa?
 > **Chattrobot:** Absolut! Här är en forskningsartikel som du kan läsa för att få mer information om vanliga inlärningssvårigheter i matematik på mellanstadiet:
 > Artikel: "Understanding Mathematics Learning Difficulties: A Comprehensive Examination of Children's Difficulties in Learning Mathematics" (Förståelse av matematikinlärningssvårigheter: En omfattande undersökning av barns svårigheter att lära sig matematik)
@@ -137,35 +133,35 @@ Nedan följer ett exempel som kanske är särskilt belysande.
 
 Tipset från chattroboten ovan är tydligt och förtroendeingivande, och värre än meningslöst – artikeln som nämns finns inte. (Länken leder till en artikel med titel ”Neuroinflammation Induces Neurodegeneration” och det finns inga träffar på nätet som matchar den artikelrubrik som chattroboten nämner.)
 
-Den som faktiskt försöker läsa artikeln som chattroboten föreslår märker förstås rätt snart att den inte finns, men många faktafel är av karaktären att det inte märks direkt att de är fel – och den som inte är insatt i ämnet har då mycket liten chans att upptäcka att det som chattroboten säger faktiskt inte stämmer. Hade jag till exempel bett chattroboten att sammanfatta de viktigaste som forskning säger om inlärningssvårigheter i matematik på mellanstadiet hade jag fått en prydlig text tillbaka, utan chans att veta om den stämmer eller inte med mindre än att jag själv redan har (eller skaffar mig) god koll på det jag frågar om. Det leder inte bara till att jag riskerar att inte lära mig det jag vill, utan att också lära mig något galet och _tro_ att jag har koll.
+Den som faktiskt försöker läsa artikeln som chattroboten föreslår märker förstås rätt snart att den inte finns, men många faktafel är av karaktären att det inte märks direkt att de är fel – och den som inte är insatt i ämnet har då mycket liten chans att upptäcka att det som chattroboten säger faktiskt inte stämmer. Hade jag till exempel bett chattroboten att sammanfatta det viktigaste som forskning säger om inlärningssvårigheter i matematik på mellanstadiet hade jag fått en prydlig text tillbaka, utan chans att veta om den stämmer eller inte med mindre än att jag själv redan har (eller skaffar mig) god koll på det jag frågar om. Det leder inte bara till att jag riskerar att inte lära mig det jag vill, utan att också lära mig något galet och _tro_ att jag har koll.
 
-Det är lätt att föreställa sig att elever kan gå i samma fälla om de lämnas att själva lära sig om det ena eller andra med hjälp av chattrobotar – i alla fall om chattrobotarna bara förlitar sig på språkmodeller, och inte exempelvis kontrollerar budskap mot tillförlitliga källor. (Det kan tilläggas att GPT-4 ger ett betydligt bättre svar än GPT-3.5 på frågan ovan, där den meddelar att den inte har ”direkt åtkomst till specifika forskningsartiklar eller databaser, och kan inte rekommendera en specifik artikel för dig att läsa”.)
+Det är lätt att föreställa sig att elever kan gå i samma fälla om de lämnas att själva lära sig om det ena eller andra med hjälp av chattrobotar – i alla fall om chattrobotarna bara förlitar sig på språkmodeller, och inte exempelvis kontrollerar budskap mot tillförlitliga källor.
 
 ## Finns det skeva perspektiv eller skeva värderingar?
-De flesta chattrobotar har tränats på text från internet, vilket betyder att de också har potential att uttrycka sexism, rasism, extremism och många andra olämpliga värderingar som finns att hitta på nätet. I stor utsträckning förhindras det av ett sista steg i träningen av AI-modeller kallad _reinforcement learning from human feedback_ eller RLHF, vilket kan ses som människor lär chattrobotar hyfs. Resultatet är dock inte felfritt och kan både resultera i att budskap som man försökt träna bort ändå syns ibland och – en knepigare nöt att knäcka – olämpligheter som man inte aktivt försökt träna bort fortfarande finns kvar. Ett extremt exempel på det senare är att den talibanska regimen i Afghanistan troligtvis anser att hyfsträning lämnar stora luckor, eftersom de inte omfattar en (enligt dem) korrekt syn på kvinnor. I andra kulturer kan man tänka sig mer subtila luckor, som kan gå under radarn för de flesta men till exempel kan innehålla budskap som minoritetsgrupper finner direkt kränkande.
+De flesta chattrobotar har tränats på text från internet, vilket betyder att de också har potential att uttrycka sexism, rasism, extremism och många andra olämpliga värderingar som finns att hitta på nätet. I stor utsträckning förhindras det av ett sista steg i träningen av AI-modeller kallad _reinforcement learning from human feedback_ eller RLHF, vilket kan ses som människor lär chattrobotar hyfs. Resultatet är dock inte felfritt: olämpliga budskap som man försökt träna bort kan ändå synas ibland och – en knepigare nöt att knäcka – olämpliga budskap som man _inte_ aktivt försökt träna bort fortfarande finns kvar. Ett extremt exempel på det senare är att talibanregimen i Afghanistan troligtvis anser att hyfsträning lämnar stora luckor, eftersom de inte omfattar en (enligt dem) korrekt syn på kvinnor. I andra kulturer kan man tänka sig mer subtila luckor, som kan gå under radarn för de flesta men till exempel kan innehålla budskap som minoritetsgrupper finner direkt kränkande.
 
 Men hyfsträning kan också skapa svårigheter i sig. Människor i Sverige kan tycka att hyfsträning gjord efter USA-standarder ger en lite konstig bild när det gäller syn på abort eller användning av cannabis[^2]. En studie på en rad olika chattrobotar visar att modeller som genomgått hyfsträning, kanske inte helt överraskande, oproportionellt mycket avspeglar åsikter det som i USA kännetecknas av liberala, välutbildade och välbeställda människor.[^3] Det finns med andra ord anledning att fundera över om budskap från chattrobotar under ytan har med sig värderingar eller en världssyn som inte stämmer med vad vi vill (och ska) förmedla i skolan.
 
 Det finns chattrobotar som inte har genomgått hyfsträning, och alltså kan slänga ur sig budskap utan tanke på om de är oartiga, kränkande eller direkt skadliga. Sådana modeller kräver i regel mer expertis för att hitta och använda, och spelar därför en mindre roll i skolan.
 
 ## Är jag på väg att skicka känsliga uppgifter?
-I april 2023 visade det sig att anställda på Samsung hade skickat känslig data till ChatGPT – i två fall för att förbättra kod, i ett tredje var det mötesanteckningar som delades.[^4] Det finns förmodligen många fler företag och organisationer som skickat information till chattrobotar utan att fundera över om det är data som får delas.
+I april 2023 visade det sig att anställda på Samsung hade skickat känslig data till ChatGPT – i två fall för att förbättra känslig kod, i ett tredje var det mötesanteckningar som delades.[^4] Det finns förmodligen många fler företag och organisationer som skickat information till chattrobotar utan att fundera över om det är data som är lämplig att dela.
 
 Man kan utgå från att chattrobotar är molntjänster med servrar utanför EU, och att all information som skickas både bearbetas och sparas. Man ska därför inte skicka personuppgifter eller andra känsliga uppgifter.
 
 ## Är det här oreflekterad avlastning?
 En särskilt knivig fråga med verktyg som elever själva använder handlar om _oreflekterad avlastning_. Saker som miniräknare, ordböcker och ordlistor, formelblad, rättstavningsprogram, uppläsningsprogram – och chattrobotar – kan vara fantastiska verktyg för att kunna arbeta smidigare och fokusera på det som är undervisningens egentliga innehåll. De gör det möjligt att slippa fastna i saker som kan stjäla värdefull tankekraft – tankekraft för att bearbeta och lära sig nya saker.
 
-Problemet är om det som verktyget gör saker som eleven behöver träna på. Att alltid ha miniräknare till hands gör att elever i mindre utsträckning räknar i huvudet eller på papper, och då kommer de att bli sämre på det. Att lyssna på text ger mindre träning i traditionell läsning, att skriva på tangentbord ger mindre träning i att skriva för hand (och omvänt!), att ta rulltrappan ger mindre träning för benen. Och att använda chattrobotar för att formulera texter gör att vi blir sämre på att göra det för hand.
+Men det kan också hända att verktyget tar hand om saker som eleven behöver träna på. Att alltid ha miniräknare till hands gör att elever i mindre utsträckning räknar i huvudet eller på papper, och då kommer de att bli sämre på det. Att lyssna på text ger mindre träning i traditionell läsning, att skriva på tangentbord ger mindre träning i att skriva för hand (och omvänt!), att ta rulltrappan ger mindre träning för benen. Och att använda chattrobotar för att formulera texter gör att vi blir sämre på att göra det för hand.
 
 Lösningen på problemet är _inte_ att låta bli verktyg helt och hållet. Lösningen är snarare att vara medveten om att det ofta är mödosamt att lära sig något, och att det alltså är viktigt att välja vad elever ska lägga sina ansträngningar på. (Att något är mödosamt är dock inte samma sak som att det är tråkigt, vilket också är värt att komma ihåg.) Om man vill använda chattrobotar för att stötta läsning eller skrivande i lågstadiet kräver det ordentlig eftertanke, medan det är mindre problematiskt att låta studenter på högskola använda en chattrobot för att göra en rapport lättare att läsa.
 
-Eftersom elever kan behöva arbeta med olika saker, och kan behöva stöd med olika saker, kan det hända att chattrobotar som stöd hjälper en elev medan en annan elev i samma klass hindras i sitt lärande av precis samma stöd.
+Eftersom elever kan behöva arbeta med olika saker, och kan behöva stöd med olika saker, kan det hända att chattrobotar hjälper en elev medan en annan elev i samma klass hindras i sitt lärande av precis samma stöd.
 
 ## Följer det här skolans styrdokument?
 Det finns flera tjänster som använder språkmodeller för att generera färdiga lektionsplaneringar, inklusive en krok för att väcka intresse i början av lektionen, beskrivningar av aktiviteter och hur lång tid de ska ta, och frågor att avsluta lektionen med. Och även utan specialbyggda verktyg kan många chattrobotar skapa en lektionsplanering på mindre än en minut.
 
-Men det behöver inte betyda att lektionen tar upp det som skolans styrdokument säger att undervisningen ska handla om. Det är inte en slump att det går åt mycket kraft för att skapa läromedel, där redaktörer och skickliga lärare arbetat för att få till helheter och delar som fångar både det som kurs- och ämnesplaner tar upp och de mer övergripande målen som finns i läroplaner.
+Men det behöver inte betyda att lektionen tar upp det som skolans styrdokument säger att undervisningen ska handla om. Det är inte en slump att det går åt mycket kraft för att skapa läromedel, där redaktörer och skickliga lärare arbetat för att få till delar och helheter som fångar både det som kurs- och ämnesplaner tar upp och de mer övergripande målen som finns i läroplaner.
 
 > Exempel från ChatGPT (GPT-3.5, 12 maj 2023).
 > **Jag:** Kan du skapa en lektionsplanering för mig? Vi ska ha första lektionen av sex som fokuserar på vikingatiden. Mellanstadiet.
@@ -208,7 +204,7 @@ Men det behöver inte betyda att lektionen tar upp det som skolans styrdokument 
 > Kom ihåg att anpassa lektionsplaneringen efter dina elevers behov och intressen. Lycka till med din lektion om vikingatiden!
 
 ## Är det här bra pedagogik?
-De som har lätt för att fastna i nya roliga verktyg (stämmer inte alls på mig) har nytta av att regelbundet fråga sig om det man använder chattrobotar till faktiskt är bra pedagogik, eller om verktyget har fått bestämma för mycket över undervisningens utformning. Att det går snabbt och är roligt att skapa automaträttade quizzar behöver inte betyda att det är en bra idé att avsluta _varje_ lektion med en quiz.
+De som har lätt för att fastna i nya roliga verktyg (författaren inräknad) har nytta av att regelbundet fråga sig om det man använder chattrobotar till faktiskt är bra pedagogik, eller om verktyget har fått bestämma för mycket över undervisningens utformning. Att det går snabbt och är roligt att skapa automaträttade quizzar behöver inte betyda att det är en bra idé att avsluta _varje_ lektion med en quiz.
 
 # Chattrobotars styrkor
 Med alla misstag och brister som beskrivs ovan kan man börja undra om det verkligen är en bra idé att använda chattrobotar i skola, i eller utanför klassrum. De skapar faktafel som är svåra att upptäcka, smyger in en världssyn som kan göra skada, lurar användare att skicka känsliga uppgifter, följer inte skolans styrdokument och riskerar att få elever att lära sig mindre när de använder verktyg i stället för att göra saker själva.
@@ -217,23 +213,23 @@ Ovanpå det kan man lägga en meh-effekt, som man får om det första man testar
 
 Det tar ett tag att vänja sig vid att chattrobotar inte primärt är uppslagsverk eller sökrobotar, utan kanske snarare ska ses som en assistent på burk. Som diskuteras nedanför under rubriken _hybrider_ kan chattrobotar fungera även som uppslagsverk, om språkmodeller kombineras med andra verktyg, men de tre starkaste områdena för rena språkmodeller är att bearbeta text, vara idéspruta eller bollplank, och att ge stöd i programmering. Om man använder chattrobotar till saker som de är bra på, och håller de sju frågorna ovan i bakhuvudet, kan man få ut mycket nytta av dem.
 
-Nedan beskrivs kort de tre starka områdena för chattrobotar. I del 2 finns mer utförliga exempel på hur det här kan se ut i praktiken (där en del exempel också går utanför de här tre områdena).
+Nedan beskrivs kort de tre starka områdena för chattrobotar. I del 2 finns mer utförliga exempel på hur det kan se ut i praktiken (där en del exempel också går utanför de här tre områdena).
 
 ## Bearbeta texter
-Det är kanske inte så förvånande att något som heter ”stor språkmodell” och har tränats på jättestora mängder text är bra på att hantera just texter. Det kan till exempel betyda:
+Det är kanske inte så förvånande att något som heter ”stor språkmodell” och har tränats på gigantiska mängder text är bra på att hantera just texter. Det kan till exempel betyda:
 * Korrekturläsa texter.
-* Ge förslag på förbättringar av en text, i allmänhet eller utifrån särskilda perspektiv.
+* Ge förslag på förbättringar av en text, generellt eller utifrån särskilda perspektiv.
 * Sammanfatta texter.
-* Skapa löptexter från korta anteckningar.
+* Skapa välskrivna texter av lösa anteckningar.
 * Skapa utkast till nya texter.
 * Ge förslag på disposition.
 * Översätta texter.
 * Skriva om texter till ett enklare språk, eller till en speciell språkstil.
 
 ## Vara idéspruta eller bollplank
-Att bolla tankar med en kollega är ofta ett sätt att komma vidare i sina egna tankar, både genom att man får sätta ord på tankarna och att man får nya idéer från kollegan. Vid tillfällen då kollegor inte finns i närheten, eller inte har tid att diskutera en ny (eller möjligtvis gammal) idé kan chattrobotar vara en fungerande ersättare. De saknar en rad mänskliga aspekter, men har å andra sidan obegränsat med både tid och tålamod.
+Att bolla tankar med en kollega är ofta ett sätt att komma vidare i sina egna tankar, både genom att man får sätta ord på tankarna och att man får nya idéer från kollegan. Vid tillfällen då kollegor inte finns i närheten, eller inte har tid att diskutera en ny (eller möjligtvis gammal) idé kan chattrobotar vara en ersättare. De saknar en rad mänskliga aspekter, men har å andra sidan obegränsat med både tid och tålamod.
 
-En särskild förmåga som chattrobotar har är att kunna hitta på massor av idéer där den mänskliga hjärnan (åtminstone min) går på grund efter en kort stund.
+En särskild förmåga som chattrobotar har är att kunna hitta på massor av idéer där den mänskliga hjärnan (författarens inräknad) går på grund efter en kort stund.
 
 ## Ge stöd i programmering
 Långt ifrån alla lärare använder programmering i eller utanför sin undervisning, men de som gör det bör vara medvetna om den typ av stöd man kan få från AI-verktyg. Förutom chattrobotar finns det också särskilda verktyg skapade för just programmering, där det mest kända förmodligen är [GitHub Copilot][9].
@@ -243,7 +239,7 @@ Chattrobotar och annat AI-stöd kan till exempel:
 * Förklara kod.
 * Förse kod med förklarande kommentarer.
  * Skriva enklare kod utifrån beskrivningar i kommentarer.
-* Skriva korta program för att lösa givna problem. Det gäller både programmeringsutmaningar och problem som består i uppgifter man mest bara vill få avklarade (så som ”skriv en funktion som anropar API X och hämtar datan A och B”).
+* Skriva korta program för att lösa givna problem.
 * Säkerhetsgranska kod.
 * Skriva tester.
 
@@ -252,7 +248,7 @@ Om elever använder AI-stöd för programmering behöver man förstås vara extr
 Som med all kod man får given till sig behöver man också hålla ett öga öppet efter potentiella säkerhetshål.
 
 # Hybrider
-Språkmodeller har, som nämnts ovan, nackdelen att de inte bryr sig särskilt mycket om vad som är sant eller falskt, utan det primära målet är att skapa meningar som låter bra. Genom att koppla ihop språkmodeller med andra typer av datorprogram kan man komma runt mycket av de problemen.
+Språkmodeller har, som nämnts ovan, nackdelen att de inte bryr sig särskilt mycket om vad som är sant eller falskt, utan det primära målet är att skapa meningar som låter bra. Genom att koppla ihop språkmodeller med andra typer av applikationer kan man komma runt mycket av de problemen.
 
 Tjänsten [perplexity.ai][10] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
 
@@ -266,9 +262,9 @@ Tjänsten [perplexity.ai][10] är en sådan hybrid av språkmodeller (GPT-3.5 oc
 > 5. "Hur hanterar matematiklärarna extra anpassningar på mellanstadiet?" (5): This study examines how teachers can provide extra support and adaptations to students with learning difficulties in mathematics on middle school level.
 > 6. "Matematiksvårigheter" (6): This research article summarizes previous studies on mathematics difficulties and provides recommendations for how to help students with learning difficulties in mathematics.
 
-Svaret från chattroboten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter. När sökningen gjordes om på engelska gav sökområdet ”academic” träffar på artiklar från vetenskapliga tidskrifter, vilket inte var fallet på svenska.
+Svaret från chattroboten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter.[^5]
 
-Perplexity.ai är en extern tjänst som anropar chattrobotar i bakgrunden, vilket också är en metod som språklärningstjänsten Duolingo använder. En omvänd metod är i stället en hybrid där själva chattroboten utökas med funktioner för att anropa andra applikationer – något som blev möjligt i betalversionen av ChatGPT i mitten av maj, i form av så kallade plugins. Nedan syns ett exempel på hur en konversation kan se ut när plugin för WolframAlpha används – en webbtjänst för matematiska beräkningar och kombinerat med en stor bank med data. Det intressanta här är att språkmodellens förmåga att förstå min fråga och skriva lättlästa svar kombineras med en tillförlitlig bank med information.
+Perplexity.ai är en egen tjänst som anropar chattrobotar i bakgrunden, vilket också är en metod som språklärningstjänsten Duolingo använder. En omvänd metod är i stället en hybrid där själva chattroboten utökas med funktioner för att anropa andra applikationer – något som blev möjligt i form av så kallade plugins för betalversionen av ChatGPT i mitten av maj. Nedan syns ett exempel på hur en konversation kan se ut när plugin för WolframAlpha används – en webbtjänst för matematiska beräkningar och kombinerat med en stor bank med data. Det intressanta här är att språkmodellens förmåga att förstå min fråga och skriva lättlästa svar kombineras med en tillförlitlig bank med information.
 
 > _Exempel från ChatGPT (GPT-4, plugin WolframAlpha aktiverad, 12 maj 2023)._
 > **Jag:** Hur många steg är det mellan Rom och Paris?
@@ -287,33 +283,33 @@ Frågan måste ställas: _Är det värt att lära sig om chattrobotar?_
 
 Det finns flera lager i svaret på frågan, och hur de ser ut beror också vilka ämnen du undervisar eller om du till exempel är rektor.
 
-Den mest direkta implikationen av chattrobotar, som fått mer än sin beskärda del av uppmärksamhet, handlar om risken att elever låter en chattrobot skriva inlämningsuppgifter, trots att det inte var tillåtet. (Se kapitel XX för mer om detta.) Sett ur det perspektivet behöver rektorer och alla lärare som använder inlämningsuppgifter som bedömningsunderlag _känna till_ att det finns chattrobotar som kan skriva uppsatser om det mesta som undervisas i skolan. Det omfattar många lärare i många ämnen, men långt ifrån alla – att låta elever ta hem matteprov för att lämna in dagen efter är till exempel mycket ovanligt.
+Den mest direkta implikationen av chattrobotar, som fått mer än sin beskärda del av uppmärksamhet, handlar om risken att elever låter en chattrobot skriva inlämningsuppgifter, trots att det inte var tillåtet. (Se rätt kapitel i del 2 för mer om detta.) Sett ur det perspektivet behöver rektorer och alla lärare som använder inlämningsuppgifter som bedömningsunderlag _känna till_ att det finns chattrobotar som kan skriva uppsatser om det mesta som undervisas i skolan. Det omfattar många lärare i många ämnen, men långt ifrån alla – att låta elever ta hem matteprov för att lämna in dagen efter är till exempel mycket ovanligt.
 
-Nästa lager handlar om lärare som undervisar i ämnen där chattrobotar är ett rimligt undervisningsinnehåll att lära sig _om_. Teknikämnet i grundskolan och samhällskunskap på gymnasial nivå är två exempel – båda omfattar hur teknik och samhälle påverkar varandra. (På gymnasial nivå finns dessutom många fler ämnen som berör exempelvis teknik, automatisering och programmering.) I de här ämnena är det rimligt att ta upp hur AI påverkar samhället, och chattrobotar är ett konkret exempel på hur det kan se ut – även om det finns också _många_ andra former för AI, från autokomplettering och låtförslag till självkörande bilar och lastbalansering i elnät.
+Nästa kategori handlar om lärare som undervisar i ämnen där chattrobotar är ett rimligt undervisningsinnehåll att lära sig _om_. Teknikämnet i grundskolan och samhällskunskap på gymnasial nivå är två exempel – båda omfattar hur teknik och samhälle påverkar varandra. (På gymnasial nivå finns dessutom många fler ämnen som berör exempelvis teknik, automatisering och programmering.) I de här ämnena är det rimligt att ta upp hur AI påverkar samhället, och chattrobotar är ett konkret exempel på hur det kan se ut – även om det finns också _många_ andra former för AI, från låtförslag till självkörande bilar och lastbalansering i elnät.
 
-I nästa kategori finns lärare där chattrobotar är ett meningsfullt verktyg inom ämnen som de undervisar i – alltså något som kan vara värt att _lära sig använda_. Två av chattrobotarnas främsta grenar är att bearbeta text och att skriva programkod, vilket betyder att lärare i exempelvis svenska, svenska som andraspråk, programmeringsämnen och matematik kan ha tydlig nytta av att lära sig mer om chattrobotar. Det ger dels verktyg för egna arbetet i undervisningen, dels kunskaper om vilka typer av verktyg elever har eller kommer att ha tillgång till. (Huruvida elever också ska lära sig använda chattrobotar för att bearbeta texter eller programmera i de här ämnena, eller om det räcker att läraren vet vad chattrobotar eventuellt kan tillföra, är en annan fråga.)
+Ytterligare en kategori är lärare där chattrobotar är ett meningsfullt verktyg inom ämnen som de undervisar i – alltså något som kan vara värt att _lära sig använda_. Två av chattrobotarnas främsta grenar är att bearbeta text och att skriva programkod, vilket betyder att lärare i exempelvis svenska, svenska som andraspråk, programmeringsämnen och matematik kan ha tydlig nytta av att lära sig mer om chattrobotar. Det ger dels verktyg för egna arbetet i undervisningen, dels kunskaper om vilka typer av verktyg elever har eller kommer att ha tillgång till. (Huruvida elever också ska lära sig använda chattrobotar för att bearbeta texter eller programmera i de här ämnena, eller om det räcker att läraren vet vad chattrobotar eventuellt kan tillföra, är en annan fråga.)
 
-Sista kategorin omfattar att lära sig om chattrobotar som en ”nice to have” – det är något man kan göra om man har tid över.[^5] Nästan oavsett vad du jobbar med kan chattrobotar vara ett användbart verktyg för att effektivisera delar av ditt arbete, men det är inte säkert att det är den bäst investerade tiden – det kan vara minst lika bra att bli bättre på att använda Excel eller hitta fler sätt att samarbeta med kollegor.
+Sista kategorin omfattar att lära sig om chattrobotar som en ”nice to have” – det är något man kan göra om man har tid över.[^6] Nästan oavsett vad du jobbar med kan chattrobotar vara ett användbart verktyg för att effektivisera delar av ditt arbete, men det är inte säkert att det är den bäst investerade tiden – det kan vara minst lika bra att bli bättre på att använda Excel eller hitta nya sätt att samarbeta med kollegor.
 
 I den här kategorin ingår också att lära sig om chattrobotar för att få en bättre känsla för hur en viktig del av teknikutvecklingen ser ut – en som lär påverka samhället och världen.
 
 Med det som bakgrund testar vi igen att ställa frågan: _Är det värt att lära sig om chattrobotar?_
 * Om du är rektor eller använder inlämningsuppgifter som betygsunderlag finns det starka skäl att lära dig att chattrobotar klarar av att genomföra inlämningsuppgifter.
-* Om du undervisar teknik eller samhällskunskap finns det tydliga skäl att bli insatt i hur AI-utvecklingen ser ut, så att du kan ta upp den på ett relevant sätt i din undervisning. Det omfattar inte nödvändigtvis omfattar chattrobotar, men det är ett relevant och lättillgängligt exempel.
-* Om du undervisar ämnen där textbearbetning eller programmering ingår finns det tydliga skäl att lära dig vad chattrobotar kan göra, både för att dra nytta av det själv och för att få en bild av vad elever kommer att använda i framtiden. Det innebär troligtvis att du behöver lära dig att använda chattrobotar själv – att läsa sig till den typen av kunskap är svårt.
-* Om du letar efter sätt att effektivisera ditt arbete som lärare eller rektor är chattrobotar en bra kandidat, men inte ett självklart val jämfört med mycket annat som finns att lägga tid på – teknik eller annat.
+* Om du undervisar samhällskunskap eller teknikämnen finns det tydliga skäl att bli insatt i hur AI-utvecklingen ser ut, så att du kan ta upp den på ett relevant sätt i din undervisning. Det omfattar inte nödvändigtvis omfattar chattrobotar, men det är ett relevant och lättillgängligt exempel.
+* Om du undervisar ämnen där textbearbetning eller programmering ingår finns det tydliga skäl att lära dig vad chattrobotar kan göra, både för att dra nytta av det själv och för att få en bild av vad elever kommer att använda i framtiden. Det innebär troligtvis att du behöver lära dig att använda chattrobotar själv – att läsa sig till den typen av kunskap räcker sällan hela vägen.
+* Om du letar efter sätt att effektivisera ditt arbete är chattrobotar en bra kandidat, men inte ett självklart val jämfört med mycket annat som finns att lägga tid på – teknik eller annat.
 * Om du vill hålla dig uppdaterad om banbrytande teknik, för att ha en bild av hur teknik kan påverka samhälle, är chattrobotar en stark kandidat.
 
 ## Bra förutsättningar för att lära sig använda chattrobotar
 En av styrkorna med chattrobotar är att det i nästan inte finns någon teknisk tröskel för att komma igång. Du använder de flesta chattrobotarna genom att skriva i ett chattfönster, på samma sätt som du skulle skriva till en människa, och du behöver oftast inte bry dig om inställningar och reglage, dolda menyer, eller tekniska finurligheter. Även om det finns olika knep och avancerade inställningar för de som är intresserade kommer man mycket långt med att bara köra igång.
 
-Om man vill satsa lite mer på att lära sig chattrobotar, eller kanske ha mer organiserat satsningar på sin skola, kan det vara bra att tänka på de här sakerna.
+Om du vill satsa lite mer på att lära sig chattrobotar, eller kanske ha mer organiserat satsningar på sin skola, kan det vara bra att tänka på de här sakerna.
 
-1. **Testa, testa, testa.** Att pröva alla möjliga (och omöjliga) saker lär vara det allra bästa sättet att lära sig. Lägg ifrån dig boken nu direkt om du inte redan testat chattrobotar, gå till perplexity.ai och fråga till exempel vad som utmärker en bra lärare. Om du leder arbete med att lära sig chattrobotar är den enda rimliga utgångspunkten att låta deltagare lägga mycket tid på att testa och leka runt.
+1. **Testa, testa, testa.** Att pröva alla möjliga (och omöjliga) saker lär vara det allra bästa sättet att lära sig. Om du leder andra i att lära sig chattrobotar är den enda rimliga utgångspunkten att låta deltagare lägga mycket tid på att testa och leka runt. Om du inte redan testat en chattrobot, lägg ifrån dig boken nu direkt, gå till perplexity.ai (eller någon annan chattrobot) och fråga till exempel vad som utmärker en bra lärare.
 2. **Det tar tid.** Räkna med att det tar tid att förstå vad du kan och inte kan göra med chattrobotar. Om du är en rektor som vill att medarbetare ska lära sig om chattrobotar behöver det finnas tid avsatt för det – vid mer än ett tillfälle.
-3. **Planera för misslyckanden.** Saker som ser ut att fungera bra kan bli magplask vid nästa försök, och ibland är det först när man försöker omsätta idéer saker i praktiken som man märker att de inte håller. Använd inte chattrobotar i ett skarpt läge inom områden där det kostar för mycket att misslyckas. Och var inte för hård mot dig själv (eller andra) om saker inte blir som det var tänkt.
-4. **Dela erfarenheter.** Chattrobotar är ung teknik som fortfarande utvecklas, vilket gör det extra värdefullt att dela med sig av både sådant man tycker fungerar bra och sånt som inte fungerat. Dela gärna erfarenheter både inom skolan och med andra skolor, och se förstås till att ta tillvara andras erfarenheter också.
-5. **Ha teknikspanare.** I och med att tekniken ändras så fort är det värdefullt att ha en eller ett par lärare på skolan som särskilt spanar efter nya verktyg eller användningsområden. Om det finns it-utvecklare eller förstelärare med it-inriktning är det förmodligen naturliga val.
+3. **Planera för misslyckanden.** Saker som ser ut att fungera bra kan bli magplask vid nästa försök, och ibland är det först när idéer når klassrummet som man märker att de inte håller. Använd inte chattrobotar i ett skarpt läge inom områden där det kostar mycket att misslyckas. Och var inte för hård mot dig själv (eller andra) om saker inte blir som det var tänkt.
+4. **Dela erfarenheter.** Chattrobotar är ung teknik som fortfarande utvecklas, vilket gör det extra värdefullt att dela med sig av både sådant man tycker fungerar bra och sånt som inte fungerat. Dela gärna erfarenheter både inom skolan och med andra skolor, och se förstås till att ta tillvara andras erfarenheter.
+5. **Ha teknikspanare.** I och med att tekniken ändras fort är det värdefullt att ha en eller ett par personer på skolan som spanar efter nya verktyg eller användningsområden. Om det finns it-utvecklare eller förstelärare med it-inriktning är det förmodligen naturliga val.
 6. **Tappa inte bort syftet.** Fråga dig regelbundet om det du utforskar faktiskt leder till bättre undervisning och lärande. Allt måste inte ge bättre undervisning direkt, men teknikutforskande ska inte bli sitt eget syfte.
 
 [^1]:	[https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/][4]
@@ -324,7 +320,9 @@ Om man vill satsa lite mer på att lära sig chattrobotar, eller kanske ha mer o
 
 [^4]:	[https://mashable.com/article/samsung-chatgpt-leak-details][8]
 
-[^5]:	Om du jobbar i skolan har du med stor sannolikhet _inte_ tid över. Men ändå.
+[^5]:	När sökningen gjordes om på engelska gav sökområdet ”academic” träffar på artiklar från vetenskapliga tidskrifter, vilket inte var fallet på svenska.
+
+[^6]:	Om du jobbar i skolan har du med stor sannolikhet _inte_ tid över. Men ändå.
 
 [1]:	https://chat.lmsys.org/
 [2]:	https://open-assistant.io/sv
