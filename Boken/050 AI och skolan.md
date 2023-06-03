@@ -17,6 +17,6 @@ Jag som skriver boken heter Johan Falk och är tidigare vetenskapsjournalist, we
 
 Jag hoppas att du finner boken användbar. Tack för det viktiga jobb du gör i skolan.
 
-Johan Falk, 2 juni 2023
+Johan Falk, 3 juni 2023
 
 [1]:	https://github.com/Itangalo/AI-och-skolan
