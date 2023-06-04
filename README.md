@@ -7,47 +7,28 @@
 
 <p float="left" align="middle">
   <a href="https://books2read.com/aiineducation" target="_blank"><img src="https://user-images.githubusercontent.com/262940/218328438-e4914050-cbd4-4d36-9d10-1b76d7caecef.png" title="Cover Image" width="40%" height="40%" /></a>
-  <a href="https://books2read.com/aiochskolan" target="_blank"><img src="https://user-images.githubusercontent.com/262940/216779472-acb302bb-7107-4d4e-8b36-7a8b8cee61e6.png" title="Omslagsbild" width="40%" height="40%" /></a>
+  <a href="https://github.com/Itangalo/AI-Education/files/11642864/AI.och.skolan.2.0-beta1.2023-06-03.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/243171326-da2883ca-44b2-4ed4-8374-4bdd20724921.jpeg" title="Omslagsbild" width="40%" height="40%" /></a>
 </p>
 
 ----
 
+## AI och skolan version 2: Förhandsversion ute nu!
 
-## AI in Education: A Teacher's Guide to ChatGPT
+Tekniken rör sig snabbt, och vi fortsätter också att lära oss om hur AI kan påverka skola och samhälle. Därför finns nu en helt omskriven version av boken tillgänglig – drygt 4 månader efter att version 1.0 släpptes.
 
-*AI in Education: A Teacher's Guide to ChatGPT* is a comprehensive guide for teachers interested in using the AI service ChatGPT to save time and enhance the quality of their teaching. The book provides a wealth of practical examples and case studies to illustrate how ChatGPT can simplify various tasks, inspire new ideas, and create material for use in the classroom.
+Vad är nytt?
 
-The book highlights the importance of careful consideration when it comes to using ChatGPT in education, and includes descriptions of four common AI pitfalls to watch out for, including language mistakes, factual errors, skewed perspectives and values, and unreflected pedagogics.
+* Bredare ingång till chattbottar – nu behandlas chattbottar generellt, inte bara ChatGPT.
+* Sju (inte fyra) vanliga misstag beskrivs. Nu nämns även dataintegritet, förhållande till skolans styrdokument och, kanske viktigast, oreflekterad avlastning. Begreppet _hybrider_ införs också, för chattrobotar som kombinerar språkmodeller med andra tjänster.
+* Ett nytt avsnitt om vem som behöver lära sig om chattbottar, och även tips för hur man kan jobba med fortbildning.
+* Lärare och andra engagerade i skola är välkomna att bidra med egna kapitel med praktiska tipsen. Del 2 av boken kommer att utökas löpande med sådana tips.
+* Del 3 av boken, och AI och framtiden, har fått flera nya kapitel och djupare analyser. Till exempel: Hur fort går utvecklingen? Närmare titt på två viktiga hybrider. Bredare analys av hur vår syn på kunskap kan påverkas. Och utökat kapitel om risker med AI, kompletterat med ett antal möjliga scenarion för framtiden.
 
-The final section of the book delves into the future of AI in education, offering insightful perspectives and predictions.
-
-Johan Falk is an experienced educator, working at a national level in Sweden. With a background in journalism, web development, and teaching, he is well-equipped to share his expertise in this field. *AI in Education: A Teacher's Guide to ChatGPT* is a living document, updated regularly to reflect the latest developments in the field. If you have suggestions for improvements or additions, feel free to contribute to the GitHub project page.
-
-### Get updates
-
-[Sign up to get an email when new versions of AI in Education are available.](https://dashboard.mailerlite.com/forms/330475/80213509929961441/share)
-
-### Experimental audiobook
-
-Thanks to Jonatan Tensetti for arranging an audiobook version of AI in Education, using Google Cloud Text-to-Speech. [Download files from here.](https://drive.google.com/drive/folders/1UD47QwOr-_k7Hhzm08FbLwEGBGiyMoAL?usp=share_link)
-
-----
-
-## AI och skolan – hur du som lärare kan använda ChatGPT med omdöme och undvika fyra typer av AI-fällor
-
-AI och skolan är en bok för lärare som är intresserade av att använda AI-tjänsten ChatGPT i sitt arbete. Boken innehåller dussintals exempel på hur man kan underlätta arbete, få inspiration och skapa material med hjälp av ChatGPT.
-
-Boken betonar att det är viktigt att använda sitt omdöme i hur och när ChatGPT används, och den beskriver fyra typer av AI-fällor att vara vaksam för: språkfel, faktafel, skeva perspektiv eller värderingar, samt oreflekterad pedagogik.
-
-Den sista delen av boken ger mer perspektiv på AI, skola och framtiden.
-
-Johan Falk arbetar med skolfrågor på nationell nivå och är tidigare vetenskapsjournalist, webbutvecklare och gymnasielärare. _AI och skolan_ är en e-bok som uppdateras regelbundet. Den som vill är välkommen att föreslå förbättringar och tillägg här på [github.com/Itangalo/AI-Education][1].
+<a href="https://github.com/Itangalo/AI-Education/files/11642864/AI.och.skolan.2.0-beta1.2023-06-03.pdf" target="_blank">Ladda hem förhandsversion 2.0-beta1</a>, och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
 
 ### Mer länkar
 
-* [Få meddelande när versioner av AI och skolan är tillgängliga](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share)
-
-Ladda hem senaste versionen (1.5) här från projektsidan
+Ladda hem version (1.5) här från projektsidan
 
 * [Epub](https://github.com/Itangalo/AI-Education/files/10716412/AI.och.skolan.2023-02-12.16.28.epub.zip)
 * [pdf](https://github.com/Itangalo/AI-Education/files/10716413/AI.och.skolan.2023-02-12.16.28.pdf)
@@ -68,14 +49,14 @@ AI-inläsning av boken (v. 1.4) – *Tack till Jonatan Tensetti som ordnat med 
 * [Del 3](https://drive.google.com/file/d/10DnMuunhd6oSoaDfJ_DhcRuOxQqKJ2Zk/view?usp=share_link)
 * [Appendix](https://drive.google.com/file/d/1KgV5W0H1kJostl9eVELoN6JNoyXVH2i9/view?usp=share_link)
 
-Föreläsning genom Folkuniversitetet med utgångspunkt i boken
+Föreläsning genom Folkuniversitetet med utgångspunkt i version 1.0 av boken
 
 * [Inspelat webbinarium](https://www.youtube.com/watch?v=N0Sgv41RGHc)
 
 
 ### Hänvisa till boken
 
-Om du vill hänvisa till boken kan du utgå från följande:
+Om du vill hänvisa till version 1.x av boken kan du utgå från följande:
 
 * Titel: AI och skolan, version 1.x (ange vilken version du hänvisar till)
 * Utgivningsdatum: Se [sidan med versioner](https://github.com/Itangalo/AI-Education/releases) (2023-01-23 för version 1.0–1.3, 2023-02-06 för 1.4)
@@ -85,6 +66,28 @@ Om du vill hänvisa till boken kan du utgå från följande:
 
 En APA-referens kan alltså se ut så här: Falk, J. (2023). *AI och skolan, version 1.4*. Draft2Digital.
 
+
+----
+
+## AI in Education: A Teacher's Guide to ChatGPT
+
+*AI in Education: A Teacher's Guide to ChatGPT* is a comprehensive guide for teachers interested in using the AI service ChatGPT to save time and enhance the quality of their teaching. The book provides a wealth of practical examples and case studies to illustrate how ChatGPT can simplify various tasks, inspire new ideas, and create material for use in the classroom.
+
+The book highlights the importance of careful consideration when it comes to using ChatGPT in education, and includes descriptions of four common AI pitfalls to watch out for, including language mistakes, factual errors, skewed perspectives and values, and unreflected pedagogics.
+
+The final section of the book delves into the future of AI in education, offering insightful perspectives and predictions.
+
+Johan Falk is an experienced educator, working at a national level in Sweden. With a background in journalism, web development, and teaching, he is well-equipped to share his expertise in this field. *AI in Education: A Teacher's Guide to ChatGPT* is a living document, updated regularly to reflect the latest developments in the field. If you have suggestions for improvements or additions, feel free to contribute to the GitHub project page.
+
+### Get updates
+
+[Sign up to get an email when new versions of AI in Education are available.](https://dashboard.mailerlite.com/forms/330475/80213509929961441/share)
+
+### Experimental audiobook
+
+Thanks to Jonatan Tensetti for arranging an audiobook version of AI in Education, using Google Cloud Text-to-Speech. [Download files from here.](https://drive.google.com/drive/folders/1UD47QwOr-_k7Hhzm08FbLwEGBGiyMoAL?usp=share_link)
+
+----
 
 ![QR-kod med länk till projektsidan för boken.][image-1]
 
