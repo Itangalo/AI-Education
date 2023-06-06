@@ -2,13 +2,13 @@
 
 _Det här kapitlet är skrivet av Jonatan Tensetti som undervisar i svenska, svenska som andraspråk och engelska i Malmö. På bokens projektsida github.com/itangalo/AI-och-skolan kan du föreslå nya kapitel och förbättringar till befintliga kapitel._
 
-Det här kapitlet innehåller förslag på hur du som undervisar i svenska eller svenska som andraspråk på högstadiet kan använda chattbottar i undervisning om lyrik. Tanken är att belysa hur chattbottar kan användas för att skapa exempeltexter för olika ändamål, och man kan tänka sig att liknande upplägg om skönlitterär prosa.
+Det här kapitlet innehåller förslag på hur du som undervisar i svenska eller svenska som andraspråk på mellan- eller högstadiet kan använda chattbottar i undervisning om lyrik. Tanken är att belysa hur chattbottar kan användas för att skapa exempeltexter för olika ändamål, och man kan tänka sig att liknande upplägg om skönlitterär prosa.
 
 ---- 
 
 Använd en chattbot för att skriva haikudikter som ni kan analysera tillsammans (eller använd de som är listade nedan). Fördelen med en kort diktform är att man kan läsa flera stycken utan att det blir särskilt jobbigt. Läs gärna dem tillsammans och låt eleverna turas om att läsa upp dem högt. Be dem att försöka läsa med inlevelse och förmå dem att försöka hitta takten. När ni läst kan ni börja leta efter mönster: hur många stavelser har varje versrad? Vilket tema är vanligast förekommande? Därefter kan ni försöka att tolka dikterna tillsammans. Jag brukar låta eleverna arbeta enskilt först, sedan berätta för en kompis för att slutligen berätta för hela klassen. Med fördel kan du dela upp det så att varje elevpar får en egen dikt. 
 
-> _Exempel från ChatGPT (GPT-4, 12 maj)_
+> _Exempel från ChatGPT (GPT-3.5, 13 februari)_
 > **Jag:** Skriv 10 haikudikter på svenska
 > **Chattbot:** Självklart, här är 10 haikudikter på svenska:
 > Våren spirar fram  
@@ -52,7 +52,7 @@ För att fortsätta arbeta med dikter, kan du be chattbotten skriva en dikt med 
 * Fullrim eller slutrim är när två ord rimmar helt.
 * Allitteration är när två eller fler ord börjar med samma bokstav.
 
-> _Exempel från ChatGPT (GPT-4, 12 maj)_
+> _Exempel från ChatGPT (GPT-3.5, 13 februari)_
 > **Jag:** Skriv en dikt med parrim
 > **Chattbot:** Självklart, här är en dikt med parrim:
 > Natten är stilla och tyst,  
@@ -74,7 +74,7 @@ För att fortsätta arbeta med dikter, kan du be chattbotten skriva en dikt med 
 
 Börja med att, som med haikudikterna, låta eleverna tolka diktens innehåll. Sedan kan du be eleverna att arbeta i par och skriva om dikten så att det blir parrim, det vill säga sista ordet i varje versrad rimmar med föregående versrad. 
 
-* Diskussionsövning: vad händer med innehållet när man ändrar hur dikten rimmar? Går det att tolka dikten på annat sätt nu? 
+* Diskussionsövning: vad händer med innehållet när man ändrar hur dikten rimmar? Går det att tolka dikten på annat sätt nu?
 
 Det finns en kombination av språkfel och faktafel i den genererade texten, om man med fakta i det här fallet räknar det faktum att chattbotten skriver att “här är en dikt parrim” och sedan skriver en dikt som delvis saknar parrim. I det här fallet kan vi utnyttja att chattbotten inte är perfekt i det avseendet utan vi kan använda den genererade texten som underlag för själva undervisningen. 
 
