@@ -16,17 +16,17 @@ Nedan syns några exempel.
 > **Jag:** Vi har just jobbat med bråkräkning i min årskurs 5, och jag skulle vilja ha några kluriga problemuppgifter som eleverna kan arbeta med gruppvis. Kan du ge fyra förslag på problemuppgifter? De får gärna ha ett sammanhang som är intresseväckande för 12-åringar.
 > **Chattbot:** Självklart! Det låter som en rolig och engagerande aktivitet för dina elever. Här är fyra problemuppgifter med sammanhang som kan vara intresseväckande för 12-åringar:
 > 1. **Rymdexpeditionens Matlagning**
->   - Sammanhang: Din klass har skickats på en rymdexpedition till Mars. Som en del av resan måste de förbereda en särskild måltid med begränsade ingredienser.
->   - Problem: De har 2 1/2 liter tomatsås, 1 1/4 liter ost och 3/4 liter skinka för att göra pizzor. Om varje pizza kräver 1/2 liter tomatsås, 1/4 liter ost och 1/8 liter skinka, hur många pizzor kan de göra utan att någon ingrediens tar slut först?
+>   2. Sammanhang: Din klass har skickats på en rymdexpedition till Mars. Som en del av resan måste de förbereda en särskild måltid med begränsade ingredienser.
+>   3. Problem: De har 2 1/2 liter tomatsås, 1 1/4 liter ost och 3/4 liter skinka för att göra pizzor. Om varje pizza kräver 1/2 liter tomatsås, 1/4 liter ost och 1/8 liter skinka, hur många pizzor kan de göra utan att någon ingrediens tar slut först?
 > 2. **Musikfestivalens Schema**
->   - Sammanhang: Eleverna är ansvariga för att planera en musikfestival på skolan. Det finns olika band som vill spela.
->   - Problem: Det finns ett band som vill spela i 3/4 av en timme, ett annat band som vill spela i 2/3 av en timme, och ett tredje band som vill spela i 5/6 av en timme. Hur lång tid tar det för alla tre band att spela, och om festivalen börjar kl. 17.00, vilken tid slutar det sista bandet?
+>   5. Sammanhang: Eleverna är ansvariga för att planera en musikfestival på skolan. Det finns olika band som vill spela.
+>   6. Problem: Det finns ett band som vill spela i 3/4 av en timme, ett annat band som vill spela i 2/3 av en timme, och ett tredje band som vill spela i 5/6 av en timme. Hur lång tid tar det för alla tre band att spela, och om festivalen börjar kl. 17.00, vilken tid slutar det sista bandet?
 > 3. **Skattjakten**
->   - Sammanhang: Eleverna deltar i en skattjakt där de måste hitta olika föremål på skolgården.
->   - Problem: På kartan står det att skatten ligger 5/6 av vägen från skolbyggnaden till lekplatsen. Om avståndet från skolbyggnaden till lekplatsen är 120 meter, hur långt måste eleverna gå för att hitta skatten?
+>   8. Sammanhang: Eleverna deltar i en skattjakt där de måste hitta olika föremål på skolgården.
+>   9. Problem: På kartan står det att skatten ligger 5/6 av vägen från skolbyggnaden till lekplatsen. Om avståndet från skolbyggnaden till lekplatsen är 120 meter, hur långt måste eleverna gå för att hitta skatten?
 > 4. **Chokladkakans Delning**
->   - Sammanhang: Eleverna får en jättechokladkaka för att fira att de har klarat av bråkräkningen. Men de måste dela upp den rättvist!
->   - Problem: Chokladkakan är ett rektangel som mäter 9 3/4 tum på längden och 6 1/2 tum på bredden. Om varje elev ska få en bit av kakan som är 1 1/4 tum på längden och 1 tum på bredden, hur många elever kan få en bit av chokladkakan?
+>   11. Sammanhang: Eleverna får en jättechokladkaka för att fira att de har klarat av bråkräkningen. Men de måste dela upp den rättvist!
+>   12. Problem: Chokladkakan är ett rektangel som mäter 9 3/4 tum på längden och 6 1/2 tum på bredden. Om varje elev ska få en bit av kakan som är 1 1/4 tum på längden och 1 tum på bredden, hur många elever kan få en bit av chokladkakan?
 > För att göra uppgifterna ännu mer engagerande kan du be eleverna presentera sina lösningar på ett kreativt sätt, som genom att skapa affischer, berättelser eller presentationer.
 
 I det här exemplet kan man fråga sig hur kluriga uppgifterna egentligen är. Att chokladkakan i sista uppgiften har mått angivna i tum är kanske inte heller helt lyckat – eller så är det ett tillfälle för att prata om olika mått, enhetsbyten och kanske till och med hur kvadrattum förhåller sig till kvadratcentimeter och kvadratdecimeter. Kanske kan en eller flera uppgifter användas rakt av, eller efter en del bearbetning. Och det går förstås att be om ytterligare förslag, och även precisera önskemålen ytterligare.
@@ -120,6 +120,7 @@ Ett annat sätt att använda chattbottar är att ta rätt standardmässiga probl
 
 ---- 
 
+> _Exempel från ChatGPT (GPT-4, 24 maj)_
 > **Jag:** Här är ett matteproblem: "En boll följer kurvan y = -x^2 + 2x + 1, där y är höjden över marken. a) Vid vilka x-värden är bollen på marken? b) Hur högt når bollen?"
 > Klassen jag har är fantastiskt intresserade av grönsaksodling. Kan du skriva om uppgiften så att den anknyter till grönsaksodling, men fortfarande testar samma typ av mattekunskaper?
 > **Chattbot:** Självklart! Låt oss göra det här matteproblemet mer relevant för din klass genom att knyta det till grönsaksodling.
@@ -127,9 +128,251 @@ Ett annat sätt att använda chattbottar är att ta rätt standardmässiga probl
 > a) Vid vilka x-värden kommer ändarna av stången att röra marken (dvs. när y är 0)?
 > b) Vilken är den maximala höjden som stången når, och vid vilket avstånd från den ena änden sker detta? Detta hjälper odlarna att förstå hur högt nätet kommer att vara i mitten, så att de kan säkerställa att det är tillräckligt högt för att skydda grönsakerna."
 > På det här sättet kan eleverna relatera till grönsaksodling samtidigt som de använder samma matematiska färdigheter som i det ursprungliga problemet.
+> **Jag:** Tack! Jag tänker att det här blev lite för konstlat. Kan du hitta på något annat som kan engagera eleverna genom att vara humoristiskt, eller knyta an till något i samhälle eller historia som de har en stark relation till?
+> **Chattbot:** Självklart, låt oss göra det lite humoristiskt och knyta an till något som kan vara roligt för eleverna.
+> "En dag bestämde sig Tomtebobönderna för att ha en Zucchini-lanseringstävling! Ja, du hörde rätt. Dessa kreativa bönder byggde små katapulter för att se vem som kunde lansera sin zucchini längst. En av bönderna, Olle, byggde en katapult som skickade zucchinis på en bana som kan beskrivas av ekvationen y = -x^2 + 2x + 1, där y är höjden på zucchinin över marken i meter och x är avståndet från katapulten i meter.
+> a) Vid vilka x-värden landar Olles zucchini på marken? (Tips: Det är när y är 0!)
+> b) Hur högt når Olles zucchini och vid vilket avstånd från katapulten? Odlarna börjar bli nervösa - de tror att han kan bryta det årliga Tomtebo-rekordet!"
+> Detta exempel gör matteproblemet lite roligare och mer engagerande för eleverna genom att introducera en humoristisk situation som involverar grönsaksodling, men på ett mer lekfullt sätt.
 
-I exemplen ovan kan man hitta ett antal språkfel, och i exemplet som rör ränta på ränta gör chattbotten ändringar som gör problemet avsevärt mer komplicerat. Med rätt sorts redigering kan chattbottar ändå användas för att få variation i uppgifter och knyta an till elevers intressen.
+I exemplen ovan kan man hitta ett antal språkfel, och i exemplet som rör ränta på ränta gör chattbotten ändringar som gör problemet avsevärt mer komplicerat. I tredje exemplet är kontexten tydligt påklistrad, och man kan fråga sig om en så konstlad kontext hjälper eller stjälper elevers intresse för matematik. (Min egen bedömning är att zucchini-katapulter har bättre möjlighet att nå fram.) Med rätt sorts redigering och pedagogisk medvetenhet kan chattbottar fortfarande användas för att få variation i uppgifter och knyta an till elevers intressen.
 
-…
+## Uppslag för att undervisa begrepp och metoder
+I matteundervisning förekommer ofta nya begrepp och metoder. Vissa av dessa, så kallade tröskelbegrepp, är ofta både svåra att lära sig och viktiga för det fortsatta lärandet. Men även för mindre kritiska begrepp och metoder kan det vara värdefullt att få uppslag för hur man kan lägga upp undervisning.
+
+> _Exempel från Perplexity.ai (2023-06-12, sökområde ”academic”)_
+> **Jag:** How can I teach negative numbers effectively?
+> **Chattbot:** Teaching negative numbers can be challenging due to their complexity and abstract nature[^1]. Here are some tips and strategies that can be used to teach negative numbers effectively:
+> 1. Use real-life examples: Negative numbers can be abstract, so using real-life examples can help students understand their meaning and relevance. For example, using a bank account to demonstrate negative numbers can be helpful[^2].
+> 2. Use visual aids: Visual aids such as number lines, graphs, and charts can help students visualize negative numbers and understand their relationship to positive numbers[^3].
+> 3. Emphasize the concept of opposites: Negative numbers are often described as the opposite of positive numbers. Emphasizing this concept can help students understand the relationship between positive and negative numbers[^4].
+> 4. Use manipulatives: Manipulatives such as blocks or chips can help students physically represent negative numbers and understand their relationship to positive numbers[^5].
+> 5. Teach the rules of operations: Teaching the rules of operations such as addition, subtraction, multiplication, and division with negative numbers can help students understand how to perform these operations correctly[^6].
+> 6. Provide practice problems: Providing practice problems that gradually increase in difficulty can help students develop their skills and confidence in working with negative numbers[^7].
+> 7. Encourage questions and discussion: Encouraging students to ask questions and engage in discussion can help them clarify their understanding of negative numbers and address any misconceptions they may have[^8].
+> 8. Use technology: Technology such as interactive whiteboards or online games can be used to engage students and reinforce their understanding of negative numbers[^9].
+
+Man kan också använda chattbottar för att få mer konkreta uppslag att använda i planering av undervisning.
+
+> _Exempel från Chatbot UI (GPT-4, 2023-06-12)_
+> **Jag:** Imorgon ska jag undervisa om logaritmer, vilket alltid brukar vara ett knepigt område. Det känns som att själva begreppet liksom är svårt att ta till sig. Kan du hjälpa mig att hitta en bra introduktion till logaritmer?
+> **Chattbot:** Självklart! Här är en introduktion till logaritmer som du kan använda för att undervisa dina elever:
+> **Introduktion till logaritmer**
+> Logaritmer är ett matematiskt begrepp som hjälper oss att lösa problem med exponenter. De används för att förenkla beräkningar och har många användningsområden inom matematik, fysik och teknik.
+> **Vad är en logaritm?**
+> En logaritm är en funktion som svarar på frågan: Hur många gånger behöver vi multiplicera basen för att få talet? Logaritmen av ett tal `x` med basen `b` skrivs som `log_b(x)` och utläses "logaritmen av x med basen b".
+> **Exempel**
+> Om vi har:
+> `3^2 = 9
+> `> Logaritmen med bas 3 av talet 9 är 2, eftersom vi behöver multiplicera 3 två gånger för att få 9. Vi kan skriva detta som:
+> `log3(9) = 2
+> `> **Logaritmlagarna**
+> Det finns några grundläggande logaritmlagar som hjälper oss att förenkla uttryck:
+> 1. Produktregeln: `log_b(x * y) = log_b(x) + log_b(y)`
+> 2. Kvotregeln: `log_b(x / y) = log_b(x) - log_b(y)`
+> 3. Potensregeln: `log_b(x^p) = p * log_b(x)`
+> **Några vanliga baser**
+> 1. Naturliga logaritmen (logaritmen med bas `e`): Den naturliga logaritmen av `x` skrivs som `ln(x)` och används ofta inom matematik och naturvetenskap.
+> 2. Logaritmen med bas 10: Logaritmen av `x` med bas 10 skrivs som `log(x)` och används ofta inom teknik och vetenskap.
+> **Användningar av logaritmer**
+> Logaritmer används inom många områden, såsom:
+> 1. Lösning av exponentiella ekvationer och olikheter
+> 2. Förenkling av beräkningar inom teknik och vetenskap
+> 3. Skalning av data för att göra det mer hanterbart och förståeligt
+> 4. Mätning av ljudintensitet (decibel), jordbävningsstyrka (Richterskalan) och surhet (pH-skalan)
+> Förhoppningsvis ger denna introduktion till logaritmer dig en bra grund att börja med i din undervisning. Lycka till!
+
+Man kan förstås också blanda in saker som man av erfarenhet kan engagera eleverna.
+
+> _Exempel från Chatbot UI (GPT-4, 2023-06-12)_
+> **Jag:** I min matteklass är många elever intresserade av musik, inte minst frenetisk banjomusik från sydstaterna i USA. Nästa vecka ska jag börja undervisa om normalfördelning. Kan du skissa en introduktion till normalfördelning som kan engagera eleverna?
+> **Chattbot:** Självklart! Här kommer en introduktion till normalfördelning som kopplar in elevernas intresse för musik, särskilt frenetisk banjomusik från sydstaterna i USA:
+> **Introduktion till normalfördelning med en musikalisk twist**
+> Hej kära elever! Idag ska vi börja utforska en av de mest fascinerande och användbara begreppen inom matematik och statistik: *normalfördelningen*. Men först, låt oss koppla detta till något ni verkligen gillar - frenetisk banjomusik från sydstaterna i USA!
+> Tänk er en stor banjofestival där hundratals banjospelare från hela världen samlas för att visa upp sina färdigheter. Varje deltagare får spela ett solo, och en panel med domare ger dem poäng baserat på deras prestation. Efter att alla spelat, samlas poängen och vi får en uppsättning av data som visar hur de olika banjospelarna presterade.
+> Nu kommer normalfördelningen in i bilden! Om vi plottar dessa poäng på ett diagram, kommer vi förmodligen att se att de flesta spelarna hamnar någonstans i mitten. Det betyder att de är duktiga, men inte exceptionellt bra eller dåliga. Ett mindre antal spelare kommer att ha mycket höga eller mycket låga poäng, vilket indikerar att de är antingen mycket begåvade eller kämpar med sina färdigheter.
+> Denna typ av fördelning, där de flesta observationer samlas kring ett medelvärde och det blir färre observationer ju längre bort vi kommer från medelvärdet, kallas en *normalfördelning*. Den har en karakteristisk klockform och är helt symmetrisk. 
+> Normalfördelningen är mycket användbar för att förstå och förutsäga händelser inom många områden, såsom naturvetenskap, ekonomi och, som vi just såg, musikprestationer.
+> Under de kommande lektionerna kommer vi att dyka djupare in i normalfördelningen och dess egenskaper. Vi kommer att lära oss om begrepp som medelvärde, standardavvikelse och z-scores, samt hur man kan använda dessa för att göra förutsägelser och analysera data.
+> Så, låt oss greppa våra banjos och dyka in i normalfördelningens fascinerande värld! 🎶
+
+## Hitta forskning om matematiklärande
+Rätt sorts chattbottar kan göra det enklare att läsa på om vad forskning säger om att lära sig matematik eller undervisa matematik. Här finns en viktig skillnad mellan de rena chattbottarna (som har tendens att säga ogrundade saker på ett övertygande sätt) och de hybrider som kan slå upp information i olika typer av databaser.
+
+> _Exempel från Perplexity.ai (2023-06-12, sökområde ”academic”)_
+> **Jag:** Hur viktigt är det att lära sig multiplikationstabellen utantill?
+> **Chattbot:** Det finns flera studier som undersöker hur viktigt det är att lära sig multiplikationstabellen utantill. Enligt en studie som jämförde undervisning baserad på repetition med undervisning baserad på strategier, så utvecklade eleverna automatisk förmåga att använda multiplikationstabellen oavsett vilken undervisningsmetod som användes[^10]. En annan studie visade att det är viktigt att eleverna förstår multiplikationstabellen och hur den fungerar, och inte bara memoriserar den[^11]. Det är dock viktigt att notera att dessa studier fokuserar på undervisning i skolan och inte på hur viktigt det är att lära sig multiplikationstabellen utantill för vardagliga situationer. Generellt sett kan det vara fördelaktigt att lära sig multiplikationstabellen utantill för att snabbt kunna utföra enklare matematiska beräkningar i vardagen.
+> **Jag:** finns det några nackdelar med att lära sig multiplikationstabellen utantill
+> **Chattbot:** Det verkar inte finnas några studier eller information som pekar på specifika nackdelar med att lära sig multiplikationstabellen utantill. Däremot har vissa studier visat att det är viktigt att eleverna förstår multiplikationstabellen och hur den fungerar, och inte bara memoriserar den. Det är också viktigt att notera att det finns flera olika sätt att undervisa multiplikationstabellen, och att olika elever kan ha olika sätt att lära sig bäst.[^12]
+
+---- 
+
+> _Exempel från Perplexity.ai (2023-06-12, sökområde ”academic”)_
+> **Jag:** How important is it to memorize the multiplication table?
+> **Chattbot:** There is no clear consensus on the importance of memorizing the multiplication table. Some studies suggest that alternative methods, such as finger mathematics, can be effective in performing multiplication without memorization[^13]. Other studies emphasize the importance of basic mathematics skills, including memorization of multiplication tables, in the development of more advanced mathematical concepts[^14]. Additionally, some argue that the constructivist approach to education, which emphasizes student-centered learning and de-emphasizes teacher-centered instruction, may undervalue the role of memorization in learning[^15]. Ultimately, the importance of memorizing the multiplication table may depend on individual learning styles and educational contexts.
+
+I de här två exemplen, med samma fråga ställd på två olika språk, ges _ungefär_ samma svar: att lära sig multiplikationstabellen är förmodligen bra, men det finns ingen överväldigande forskning att luta sig mot. De två svaren ger olika spår att gå vidare på, vilket beror på att chattbotten hittat olika artiklar på svenska respektive engelska.
+
+> _Exempel från Perplexity.ai (2023-06-12, sökområde ”academic”)_
+> **Jag:** Where can I learn about dyscalculia?
+> **Chattbot:** There are several resources available to learn about dyscalculia. Here are some of them:
+> 1. Potis Calculia: Learning Resources Platform for Dyscalculia: This research proposes an integrated learning platform using a website that offers learning materials specific for dyscalculia children. The development methodology takes into account understanding the brain process in effort to help the children to overcome their disabilities[^16].
+> 2. Students Experiencing Severe Difficulty in Learning Maths: What Resources are Available to Help these Students?: This paper discusses the challenge that children with severe difficulty in learning maths pose for their teachers and for the Resource Teacher Learning and Behaviour (RTLB) who support them. It raises the issue of whether some of these students may indeed have dyscalculia. The paper also highlights some appropriate assessment tools and discusses the particular needs of students who have dyscalculic tendencies that manifest at the Year 4/5 class level. A range of readily available resources are discussed including information on how to access them[^17].
+> 3. Numerical skills and dyscalculia. From basic research to practice in Cuba: This paper discusses the evidence on basic numerical capacities and their association with learning mathematics, taking into account different levels of analysis that consider biology, cognition, and education. Researchers in this laboratory have developed a conceptual, methodological, and instrumental platform based on the experimental evidence they have systematically obtained. This platform has resulted in the design and validation of tools and resources for learning mathematics in the classroom with the intervention of the teachers[^18].
+> 4. Resources Underlying Visuo-Spatial Working Memory Enable Veridical Large Numerosity Perception: This paper discusses the cognitive resources underlying the ability to quickly approximate how many objects are in a visual image. It also highlights the issue of why numerosity estimates are often non-veridical and how this affects individuals with developmental dyscalculia. The paper hypothesizes that resources supporting visuo-spatial working memory, which allow for the simultaneous identification of multiple objects, might also be critical for precise and unbiased perception of larger numerosities[^19].
+> 5. Dyscalculia, Dyslexia, and Medical Students’ Needs for Learning and Using Statistics: This commentary draws attention to dyslexia and dyscalculia as two potentially unrecognized conditions among undergraduate medical students and highlights key developments from recent literature in the diagnosis of these conditions. With a view to assisting medical educators meet the needs of dyscalculic learners and the more varied needs of dyslexic learners, a comprehensive list of suggestions is provided as to how learning resources can be designed from the outset to be more inclusive[^20].
+> 6. Dyscalculia: Action Plans for Successful Learning in Mathematics: This book is divided into six sections and provides an introduction to dyscalculia, effective teaching and learning, understanding the number system, understanding operations, measurement and rational numbers, and teacher resources. It covers topics such as counting, understanding algorithms, addition, subtraction, multiplication, division, and learning number facts[^21].
+
+Exemplet ovan visar på en styrka med chattbottar som kan prata med databaser med forskningsartiklar. Även om det inte är säkert att de sex artiklar som lyfts fram är de bästa att läsa, så lär det ändå vara en bra gissning för ställen att börja leta på. Och varje artikel presenteras med en kort sammanfattning.
+
+Motsvarande sökning på svenska gav ett ganska kortfattat svar, en länk till artikeln om dyskalkyli på 1177.se, och hänvisning till en rad artiklar som inte verkade relevanta (och flera var skrivna på indonesiska). Så som tekniken ser ut idag kan det alltså finnas anledning att söka på engelska när det gäller forskning, åtminstone i chattbotten Perplexity.
+
+## Programmering
+Sedan 2017–2018 är programmering en del i skolmatten, i större eller mindre utsträckning. Chattbottar kan vara ett praktiskt sätt att visa hur programmering kan användas för att hantera vissa typer av matematiska problem – utan att själv behöva skriva kod. Om man dessutom kombinerar kod från en chattbot med onlinetjänster för att köra kod (så som jdoodle.com) kan man i bästa fall få in programmering på ett smidigt sätt i undervisningen.
+
+Ett område där programmering är användbart är när man jobbar med sannolikheter. Den så kallade Monte Carlo-metoden går ut på att låta en dator skapa massor med slumpvisa utfall och undersöka hur ofta de gynnsamma utfallen dyker upp.
+
+> _Exempel från Chatbot UI (GPT-4, 2023-06-12)_
+> **Jag:** Skriv ett Python-program som använder Monte Carlo-metoden för att ta reda på sannolikheten att slå par med tre tärningar. Skriv programmet så att det går lätt att förklara för mina elever i matte.
+> **Chattbot:** Här är ett enkelt Python-program som använder Monte Carlo-metoden för att beräkna sannolikheten att slå par med tre tärningar. Jag kommer att förklara varje del av koden för att göra det lättare för dina elever att förstå.
+> 	import random
+> 	
+> 	def kasta_tarningar():
+> 	    t1 = random.randint(1, 6)
+> 	    t2 = random.randint(1, 6)
+> 	    t3 = random.randint(1, 6)
+> 	    return t1, t2, t3
+> 	
+> 	def har_par(tarningar):
+> 	    return len(set(tarningar)) <= 2
+> 	
+> 	def berakna_sannolikhet_par(antal_simuleringar):
+> 	    par = 0
+> 	    for _ in range(antal_simuleringar):
+> 	        tarningar = kasta_tarningar()
+> 	        if har_par(tarningar):
+> 	            par += 1
+> 	    return par / antal_simuleringar
+> 	
+> 	antal_simuleringar = 100000
+> 	sannolikhet = berakna_sannolikhet_par(antal_simuleringar)
+> 	print(f"Sannolikheten att få par med tre tärningar: {sannolikhet:.2%}")
+> Förklaring av koden:
+> 1. Vi importerar `random`-modulen för att generera slumpmässiga tal.
+> 2. Vi definierar en funktion `kasta_tarningar()` som simulerar att kasta tre tärningar. Funktionen returnerar de tre tärningarnas värden som en tuple.
+> 3. Vi definierar en funktion `har_par(tarningar)` som tar en tuple av tre tärningsvärden och returnerar `True` om det finns minst ett par och `False` annars. Den använder `set()` för att räkna unika värden och jämför längden med 2.
+> 4. Vi definierar en funktion `berakna_sannolikhet_par(antal_simuleringar)` som tar antalet simuleringar som parameter och returnerar sannolikheten att få par. Funktionen räknar antalet gånger vi får par och dividerar det med totala antalet simuleringar för att få sannolikheten.
+> 5. Vi väljer antalet simuleringar (här 100 000) och kör funktionen `berakna_sannolikhet_par()` för att få sannolikheten.
+> 6. Vi skriver ut sannolikheten som ett procenttal med två decimaler.
+> Om du förklarar varje del av koden för dina elever borde det vara enkelt att förstå hur Monte Carlo-metoden används för att beräkna sannolikheten att få par med tre tärningar.
+
+När koden körs får man ett resultat på drygt 44 procent, vilket är sannolikheten för par med tre tärningar (om man inkluderar triss). Om man vill förstå delar av koden bättre går det fint att ställa uppföljningsfrågor:
+
+> **Jag:** Vad gör set()?
+> **Chattbot:** `set()` är en inbyggd Python-funktion som skapar en mängd (engelska: set) från en given sekvens (t.ex. en lista, tuple eller sträng). En mängd är en oordnad samling av unika element, vilket innebär att varje element endast kan förekomma en gång i mängden.
+> I det tidigare exemplet används `set()` för att räkna antalet unika tärningsvärden i tupeln `tarningar`. Här är en kort förklaring av hur `har_par(tarningar)`-funktionen fungerar:
+> 	def har_par(tarningar):
+> 	    return len(set(tarningar)) <= 2
+> När vi skapar en mängd från `tarningar`, tar vi bort eventuella dubbletter och behåller endast unika värden. Därefter räknar vi antalet unika element i mängden med hjälp av `len()`-funktionen.
+> Om det finns minst ett par i `tarningar`, kommer antalet unika element att vara 2 eller mindre. I så fall returnerar funktionen `True`. Annars, om alla tärningar har olika värden och antalet unika element är 3, returnerar funktionen `False`.
+
+I en del andra fall kan det bli svårare att förstå koden, och att verifiera resultatet:
+
+> _Exempel från Chatbot UI (GPT-4, 2023-06-12)_
+> **Jag:** Skriv ett Python-program som använder Monte Carlo-metoden för att ta reda på hur ofta man får exakt fyra kort i samma färg, bland fem slumpvisa kort i en vanlig kortlek.
+> **Chattbot:** Här är ett Python-program som använder Monte Carlo-metoden för att uppskatta sannolikheten att få exakt fyra kort i samma färg bland fem slumpmässigt dragna kort från en vanlig kortlek:
+> 	import random
+> 	from collections import Counter
+> 	
+> 	def draw_cards(num_cards=5):
+> 	    suits = ['hjärter', 'spader', 'ruter', 'klöver']
+> 	    ranks = list(range(1, 14))
+> 	    deck = [(suit, rank) for suit in suits for rank in ranks]
+> 	    random.shuffle(deck)
+> 	    return deck[:num_cards]
+> 	
+> 	def has_four_of_a_kind(cards):
+> 	    suit_counts = Counter([suit for suit, rank in cards])
+> 	    return 4 in suit_counts.values()
+> 	
+> 	def monte_carlo_simulation(n_trials=10000):
+> 	    num_four_of_a_kind = 0
+> 	    for _ in range(n_trials):
+> 	        cards = draw_cards()
+> 	        if has_four_of_a_kind(cards):
+> 	            num_four_of_a_kind += 1
+> 	    return num_four_of_a_kind / n_trials
+> 	
+> 	probability = monte_carlo_simulation()
+> 	print(f"Sannolikheten att få fyra kort i samma färg bland fem slumpmässigt dragna kort är ungefär: {probability:.4f}")
+> Programmet definierar en kortlek med hjälp av en lista över färger och valörer. Funktionen `draw_cards` drar fem slumpmässiga kort från kortleken. Funktionen `has_four_of_a_kind` kontrollerar om det finns fyra kort i samma färg bland de dragna korten. Slutligen körs Monte Carlo-simuleringen med hjälp av funktionen `monte_carlo_simulation`. Du kan ändra antalet försök (`n_trials`) för att få en mer exakt uppskattning av sannolikheten.
+> **Jag:** Det står "ranks = list(range(1, 14))". Betyder det att koden skapar 14 kort i varje färg?
+> **Chattbot:** Förlåt för förvirringen. När jag skrev `ranks = list(range(1, 14))`, skapade jag faktiskt en lista med 13 ranker (eller valörer) för varje färg. `range(1, 14)` genererar en sekvens av heltal från 1 till 13 (inklusive 1 men exklusive 14). Listan med ranker ser ut så här:
+> `\[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13\]
+> `> Dessa siffror representerar valörerna Ess (1), 2, 3, 4, 5, 6, 7, 8, 9, 10, Knekt (11), Dam (12) och Kung (13) för varje färg. Så programmet skapar en kortlek med 13 kort i varje färg, vilket ger totalt 52 kort i kortleken.
+
+Koden som chattbotten levererade ger en sannolikhet på drygt 4 procent.
+
+[^1]:	[https://www.semanticscholar.org/paper/A-review-of-the-research-in-teaching-and-learning-Gagatsis-Alexandrou/736d999af245f80d2028d26b0dd5c1e1ff6d7f1e][2]
+
+[^2]:	[https://www.semanticscholar.org/paper/Negative-Numbers%3A-Obstacles-in-their-Evolution-from-Hefendehl-Hebeker-Shenitzer/8a4f5ab0d4bb064e723734f2fdc8659aa7d396d1][3]
+
+[^3]:	[https://www.semanticscholar.org/paper/A-review-of-the-research-in-teaching-and-learning-Gagatsis-Alexandrou/736d999af245f80d2028d26b0dd5c1e1ff6d7f1e][4]
+
+[^4]:	[https://www.semanticscholar.org/paper/Negative-Numbers%3A-Obstacles-in-their-Evolution-from-Hefendehl-Hebeker-Shenitzer/8a4f5ab0d4bb064e723734f2fdc8659aa7d396d1][5]
+
+[^5]:	[https://www.semanticscholar.org/paper/A-review-of-the-research-in-teaching-and-learning-Gagatsis-Alexandrou/736d999af245f80d2028d26b0dd5c1e1ff6d7f1e][6]
+
+[^6]:	[https://www.semanticscholar.org/paper/The-Integer-Test-of-Primary-Operations%3A-A-Practical-Nurnberger-Haag-Kratky/c775746849a9a27f4a9b19775e3ea47e3f321649][7]
+
+[^7]:	[https://www.semanticscholar.org/paper/The-Integer-Test-of-Primary-Operations%3A-A-Practical-Nurnberger-Haag-Kratky/c775746849a9a27f4a9b19775e3ea47e3f321649][8]
+
+[^8]:	[https://www.semanticscholar.org/paper/Learning-Integers-through-Argumentation%3A-Mapping-a-Whitacre-Flack/4bb9a31ff496c812b61274c9601adaf5aff2da5e][9]
+
+[^9]:	[https://www.semanticscholar.org/paper/A-review-of-the-research-in-teaching-and-learning-Gagatsis-Alexandrou/736d999af245f80d2028d26b0dd5c1e1ff6d7f1e][10]
+
+[^10]:	[https://www.semanticscholar.org/paper/Multiplikationstabellen-%3A-En-j%C3%A4mf%C3%B6relse-mellan-och-Svedbro-Gunnarsson/fefb7130e796b36f08727cb452c805870bf14b4e][11]
+
+[^11]:	[https://www.semanticscholar.org/paper/Att-konkretisera-och-f%C3%B6rst%C3%A5-multiplikationstabellen-Karlsson-Kilborn/33004260a5b804b7c61aa85728e3cc4242080eb8][12]
+
+[^12]:	I svaret fanns hänvisningar till samma artiklar som i föregående svar.
+
+[^13]:	[https://www.semanticscholar.org/paper/RELATING-%E2%80%9CFINGER-MATHEMATICS%E2%80%9DTO-THE-PRODUCT-OF-Costillas/5d7a771a5e1a75ea0e40bd021684eac9850686d7][13]
+
+[^14]:	[https://www.semanticscholar.org/paper/Practicing-Representation%3A-Learning-with-and-about-Greeno-Hall/c5614a114831a6f9a1e25e10b2f8a2b7e6bc2669][14]
+
+[^15]:	[https://www.semanticscholar.org/paper/%E2%80%98We-Want-to-See-the-Teacher%E2%80%99-Baines-Stanley/c8e7c0740aee633ada42a8eec4c5d74a7caa8802][15]
+
+[^16]:	[https://www.semanticscholar.org/paper/Potis-Calculia%3A-Learning-Resources-Platform-for-Kasinathan-Mustapha/1348b108648b408d00621afb5dd2632d7a202417][16]
+
+[^17]:	[https://www.semanticscholar.org/paper/Students-Experiencing-Severe-Difficulty-in-Learning-McNeil/f1f0ea75e6af0ad0d12aa909a0400713bc1f5fcd][17]
+
+[^18]:	[https://www.semanticscholar.org/paper/Numerical-skills-and-dyscalculia.-From-basic-to-in-Reigosa-Crespo-Castro-Ca%C3%B1izares/b5cf70a1e5ebf863db7c3c564fa394fad88bf33f][18]
+
+[^19]:	[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8634845/][19]
+
+[^20]:	[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2779625/][20]
+
+[^21]:	[https://www.semanticscholar.org/paper/Dyscalculia%3A-Action-Plans-for-Successful-Learning-Hannell/ec03603c10b9f3cb245d5ff9b1b300dba8acbee2][21]
 
 [1]:	https://github.com/Itangalo/AI-och-skolan
+[2]:	https://www.semanticscholar.org/paper/A-review-of-the-research-in-teaching-and-learning-Gagatsis-Alexandrou/736d999af245f80d2028d26b0dd5c1e1ff6d7f1e "A review of the research in teaching and learning the negative numbers: an “action research” concerning the application of the geometrical model of the number line"
+[3]:	https://www.semanticscholar.org/paper/Negative-Numbers%3A-Obstacles-in-their-Evolution-from-Hefendehl-Hebeker-Shenitzer/8a4f5ab0d4bb064e723734f2fdc8659aa7d396d1 "Negative Numbers: Obstacles in their Evolution from Intuitive to Intellectual Constructs"
+[4]:	https://www.semanticscholar.org/paper/A-review-of-the-research-in-teaching-and-learning-Gagatsis-Alexandrou/736d999af245f80d2028d26b0dd5c1e1ff6d7f1e "A review of the research in teaching and learning the negative numbers: an “action research” concerning the application of the geometrical model of the number line"
+[5]:	https://www.semanticscholar.org/paper/Negative-Numbers%3A-Obstacles-in-their-Evolution-from-Hefendehl-Hebeker-Shenitzer/8a4f5ab0d4bb064e723734f2fdc8659aa7d396d1 "Negative Numbers: Obstacles in their Evolution from Intuitive to Intellectual Constructs"
+[6]:	https://www.semanticscholar.org/paper/A-review-of-the-research-in-teaching-and-learning-Gagatsis-Alexandrou/736d999af245f80d2028d26b0dd5c1e1ff6d7f1e "A review of the research in teaching and learning the negative numbers: an “action research” concerning the application of the geometrical model of the number line"
+[7]:	https://www.semanticscholar.org/paper/The-Integer-Test-of-Primary-Operations%3A-A-Practical-Nurnberger-Haag-Kratky/c775746849a9a27f4a9b19775e3ea47e3f321649 "The Integer Test of Primary Operations: A Practical and Validated Assessment of Middle School Students’ Calculations with Negative Numbers"
+[8]:	https://www.semanticscholar.org/paper/The-Integer-Test-of-Primary-Operations%3A-A-Practical-Nurnberger-Haag-Kratky/c775746849a9a27f4a9b19775e3ea47e3f321649 "The Integer Test of Primary Operations: A Practical and Validated Assessment of Middle School Students’ Calculations with Negative Numbers"
+[9]:	https://www.semanticscholar.org/paper/Learning-Integers-through-Argumentation%3A-Mapping-a-Whitacre-Flack/4bb9a31ff496c812b61274c9601adaf5aff2da5e "Learning Integers through Argumentation: Mapping a Learning Trajectory"
+[10]:	https://www.semanticscholar.org/paper/A-review-of-the-research-in-teaching-and-learning-Gagatsis-Alexandrou/736d999af245f80d2028d26b0dd5c1e1ff6d7f1e "A review of the research in teaching and learning the negative numbers: an “action research” concerning the application of the geometrical model of the number line"
+[11]:	https://www.semanticscholar.org/paper/Multiplikationstabellen-%3A-En-j%C3%A4mf%C3%B6relse-mellan-och-Svedbro-Gunnarsson/fefb7130e796b36f08727cb452c805870bf14b4e "Multiplikationstabellen : En jämförelse mellan strategi- och repetitionsbaserad undervisning"
+[12]:	https://www.semanticscholar.org/paper/Att-konkretisera-och-f%C3%B6rst%C3%A5-multiplikationstabellen-Karlsson-Kilborn/33004260a5b804b7c61aa85728e3cc4242080eb8 "Att konkretisera och förstå multiplikationstabellen"
+[13]:	https://www.semanticscholar.org/paper/RELATING-%E2%80%9CFINGER-MATHEMATICS%E2%80%9DTO-THE-PRODUCT-OF-Costillas/5d7a771a5e1a75ea0e40bd021684eac9850686d7 "RELATING “FINGER MATHEMATICS”TO THE PRODUCT OF BINOMIALS"
+[14]:	https://www.semanticscholar.org/paper/Practicing-Representation%3A-Learning-with-and-about-Greeno-Hall/c5614a114831a6f9a1e25e10b2f8a2b7e6bc2669 "Practicing Representation: Learning with and about Representational Forms"
+[15]:	https://www.semanticscholar.org/paper/%E2%80%98We-Want-to-See-the-Teacher%E2%80%99-Baines-Stanley/c8e7c0740aee633ada42a8eec4c5d74a7caa8802 "‘We Want to See the Teacher’"
+[16]:	https://www.semanticscholar.org/paper/Potis-Calculia%3A-Learning-Resources-Platform-for-Kasinathan-Mustapha/1348b108648b408d00621afb5dd2632d7a202417 "Potis Calculia: Learning Resources Platform for Dyscalculia"
+[17]:	https://www.semanticscholar.org/paper/Students-Experiencing-Severe-Difficulty-in-Learning-McNeil/f1f0ea75e6af0ad0d12aa909a0400713bc1f5fcd "Students Experiencing Severe Difficulty in Learning Maths: What Resources are Available to Help these Students?"
+[18]:	https://www.semanticscholar.org/paper/Numerical-skills-and-dyscalculia.-From-basic-to-in-Reigosa-Crespo-Castro-Ca%C3%B1izares/b5cf70a1e5ebf863db7c3c564fa394fad88bf33f "Numerical skills and dyscalculia. From basic research to practice in Cuba (Habilidades numéricas y discalculia. De la investigación básica a la práctica en Cuba)"
+[19]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8634845/ "Resources Underlying Visuo-Spatial Working Memory Enable Veridical Large Numerosity Perception"
+[20]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2779625/ "Dyscalculia, Dyslexia, and Medical Students’ Needs for Learning and Using Statistics"
+[21]:	https://www.semanticscholar.org/paper/Dyscalculia%3A-Action-Plans-for-Successful-Learning-Hannell/ec03603c10b9f3cb245d5ff9b1b300dba8acbee2 "Dyscalculia: Action Plans for Successful Learning in Mathematics"
