@@ -23,5 +23,12 @@ Jag minns den dagen då ChatGPT kom ut, detta var något av en ny dimension av v
 
 Jag tror att Johans bok är en av de viktigaste – kanske den viktigaste – boken som en lärare i grundskolan kan läsa idag. Mitt råd till dig som läser detta förord – se det inte som en bok om teori – det är ett korn för ditt eget utforskande i en snabb och föränderlig värld.
 
-_Fredrik Ahlgren, Tekn. Dr._
-_Universitetslektor Linnéuniversitetet_
+_Fredrik Ahlgren, tekn. dr. och universitetslektor_
+_Linnéuniversitetet, Kalmar_
+
+## Johans funderingar
+Under mitt liv har jag alltid haft en naturlig nyfikenhet för ny teknik. Jag var den som omfamnade datorspel på 80-talet, surfade på internets framväxt på 90-talet, anpassade mig till den smarta telefonens snabba utbredning på 00-talet och fascinerades av kryptovalutornas decentraliserade revolution på 10-talet. Varje gång blev jag avfärdad av "vuxna" som såg mina intressen som tillfälliga nycker, men historien har visat att dessa "lekar" har kommit att definiera vår tid.
+Jag kan givetvis ha fel, kanske visar det sig att det teknikskifte som just nu håller på att definiera 20-talet bara är en lek? Jag känner dock just nu en stor övertygelse om att vi just nu ritar om historien för alltid och inom mig bubblar det av en vilja att få berätta om dessa fantastiska, omvälvande tekniker. Att då upptäcka min namnes fantastiskt snabba arbete med detta viktiga verk som du just nu läser har skänkt mig ett lugn med känslan att den svenska skolan är med i matchen! Johan Falk blandar här handfasta tips med illustrativa exempel och beskriver exempelvis hur “assistenter på burk” kan “hyfstränas” allt för att inpirera lärare att börja använda dessa kraftfulla verktyg i sin vardag och i sin undervisning. Så, vad väntar du på? Börja testa och experimentera!
+
+_Johan Leitet, universitetsadjunkt i datavetenskap_
+_Linnéuniversitetet, Kalmar_
