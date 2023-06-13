@@ -137,6 +137,43 @@ Ett annat sätt att använda chattbottar är att ta rätt standardmässiga probl
 
 I exemplen ovan kan man hitta ett antal språkfel, och i exemplet som rör ränta på ränta gör chattbotten ändringar som gör problemet avsevärt mer komplicerat. I tredje exemplet är kontexten tydligt påklistrad, och man kan fråga sig om en så konstlad kontext hjälper eller stjälper elevers intresse för matematik. (Min egen bedömning är att zucchini-katapulter har bättre möjlighet att nå fram.) Med rätt sorts redigering och pedagogisk medvetenhet kan chattbottar fortfarande användas för att få variation i uppgifter och knyta an till elevers intressen.
 
+## Exempellösningar
+Chattbottar, särskilt de lite äldre, är ofta inte särskilt bra på att lösa lite svårare matteproblem. Det kan vara en källa för att skapa felaktiga lösningar att diskutera i klassen, eller låta elever arbeta med för att analysera och rätta till.
+
+> _Exempel från ChatGPT (GPT-3.5, 24 maj)_
+> **Jag:** Vad är sannolikheten att slå par med tre tärningar?
+> **Chattbot:** För att beräkna sannolikheten att slå par med tre tärningar måste vi först definiera vad vi menar med "par". I detta fall innebär det att två av de tre tärningarna visar samma siffra, medan den tredje tärningen visar en annan siffra.
+> För att beräkna sannolikheten kan vi använda principen för sannolikhet som säger att sannolikheten för att två oberoende händelser inträffar samtidigt är produkten av deras individuella sannolikheter.
+> För att få ett par med tre tärningar finns det några olika möjligheter:
+> 1. Två tärningar visar samma siffra och den tredje tärningen visar en annan siffra. Det finns 6 möjliga siffror som de två tärningarna kan visa, och för varje siffra finns det 5 möjliga val för den tredje tärningen. Så det finns totalt 6 \* 5 = 30 möjliga utfall där vi får ett par.
+> 2. Två av tärningarna visar samma siffra, medan den tredje tärningen visar samma siffra som de andra två. Det finns 6 möjliga siffror som de två tärningarna kan visa, och för varje siffra finns det 1 möjligt val för den tredje tärningen. Så det finns totalt 6 möjliga utfall där vi får tre lika siffror.
+> Totalt finns det 30 + 6 = 36 möjliga utfall där vi får par eller tre lika siffror när vi kastar tre tärningar.
+> Eftersom det finns totalt 6 * 6 * 6 = 216 möjliga utfall när vi kastar tre tärningar, kan vi beräkna sannolikheten genom att dela antalet gynnsamma utfall (36) med antalet möjliga utfall (216):
+> Sannolikheten att slå par med tre tärningar är 36/216 = 1/6 ≈ 0,1667 eller 16,67%.
+
+En annan variant är förstås också att använda korrekta lösningar (eller som nedan, nästan korrekta lösningar), och låta elever diskutera hur vad som är bra eller mindre bra i redovisningen och hur den skulle kunna göras bättre.
+
+> _Exempel från ChatGPT (GPT-3.5, 24 maj)_
+> **Jag:** En kopp te har vid tiden t = 0 temperaturen 98 °C. Temperaturen i rummet är 20 °C. För varje minut som går minskar temperaturskillnaden med 4 procent. Hur lång tid tar det innan teet blivit 60 °C?
+> **Chattbot:** För att lösa detta problem kan vi använda en exponentiell modell för temperaturskillnaden. Vi vet att temperaturen på teet vid tiden t kan beskrivas som:
+> T(t) = 20 + (98 - 20) \* (1 - 0.04)^t
+> Där T(t) är temperaturen vid tiden t, 20 är rumstemperaturen, 98 är starttemperaturen för teet och (1 - 0.04)^t är temperaturskillnaden som minskar med 4 procent för varje minut.
+> Vi vill nu lösa för tiden t när temperaturen på teet når 60 °C. Sätt T(t) = 60 och löser ekvationen:
+> 60 = 20 + 78 \* (1 - 0.04)^t
+> Subtrahera 20 från båda sidor:
+> 40 = 78 \* (1 - 0.04)^t
+> Dela båda sidor med 78:
+> (1 - 0.04)^t = 40/78
+> Skriv om 40/78 som en decimal:
+> (1 - 0.04)^t = 0.5128
+> Ta logaritmen på båda sidor med bas 0.96 (1 - 0.04):
+> log(0.96, (1 - 0.04)^t) = log(0.96, 0.5128)
+> Använd logaritmens basförändring för att få t:
+> t = log(0.96, 0.5128) / log(0.96, (1 - 0.04))
+> Beräkna detta med hjälp av en kalkylator eller programvara:
+> t ≈ 47.5
+> Så det tar cirka 47.5 minuter innan teet når 60 °C.
+
 ## Uppslag för att undervisa begrepp och metoder
 I matteundervisning förekommer ofta nya begrepp och metoder. Vissa av dessa, så kallade tröskelbegrepp, är ofta både svåra att lära sig och viktiga för det fortsatta lärandet. Men även för mindre kritiska begrepp och metoder kan det vara värdefullt att få uppslag för hur man kan lägga upp undervisning.
 
@@ -276,7 +313,7 @@ När koden körs får man ett resultat på drygt 44 procent, vilket är sannolik
 > När vi skapar en mängd från `tarningar`, tar vi bort eventuella dubbletter och behåller endast unika värden. Därefter räknar vi antalet unika element i mängden med hjälp av `len()`-funktionen.
 > Om det finns minst ett par i `tarningar`, kommer antalet unika element att vara 2 eller mindre. I så fall returnerar funktionen `True`. Annars, om alla tärningar har olika värden och antalet unika element är 3, returnerar funktionen `False`.
 
-I en del andra fall kan det bli svårare att förstå koden, och att verifiera resultatet:
+När det gäller att räkna ut sannolikheten för par med tre tärningar är en algebraisk lösning inte särskilt långt borta, vilket kanske gör Monte Carlo-metoden överflödig. (Eller så är det ett bra tillfälle att jämföra resultat från simuleringar med det ideala fallet.) I andra fall kan det vara klart svårare att hitta algebraiska lösningar:
 
 > _Exempel från Chatbot UI (GPT-4, 2023-06-12)_
 > **Jag:** Skriv ett Python-program som använder Monte Carlo-metoden för att ta reda på hur ofta man får exakt fyra kort i samma färg, bland fem slumpvisa kort i en vanlig kortlek.
@@ -311,7 +348,62 @@ I en del andra fall kan det bli svårare att förstå koden, och att verifiera r
 > `\[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13\]
 > `> Dessa siffror representerar valörerna Ess (1), 2, 3, 4, 5, 6, 7, 8, 9, 10, Knekt (11), Dam (12) och Kung (13) för varje färg. Så programmet skapar en kortlek med 13 kort i varje färg, vilket ger totalt 52 kort i kortleken.
 
-Koden som chattbotten levererade ger en sannolikhet på drygt 4 procent.
+Koden ovan är ganska svårgenomtränglig, vilket inte är helt ovanligt (för ovana programmerare). Eftersom chattbottar ibland skapar misstag även med kod bör man förhålla sig sunt skeptisk även i de här lägena. Det kan vara en utgångspunkt för rimlighetsbedömningar. Vilka enklare sannolikheter kan vi jämföra med? (I fallet ovan kanske vi kan jämföra med sannolikheten för fem av fem kort i samma färg, och fyra av fyra kort.)
+
+Ett annat sätt att använda programmering i matteundervisning är att skapa korta program som löser givna typer av uppgifter. Att titta på hur programmen fungerar _kan_ vara ett sätt att fördjupa sig i lösningsmetoder. Två tänkbara saker att diskutera för att fördjupa kunskaper om metoderna är att undersöka i vilka lägen programmet inte skulle fungera, eller hur man kan få dem att bli mer effektiva.
+
+> _Exempel från ChatGPT (GPT-3.5, 24 maj)_
+> **Jag:** Skriv ett Python-program som löser ekvationer skrivna på formen a(bx + c) = d.
+> **Chattbot:**
+> 	def solve_equation(a, b, c, d):
+> 	    # Kontrollera om a är noll
+> 	    if a == 0:
+> 	        if b == 0:
+> 	            if c == d:
+> 	                return "Ekvationen är identitetsekvation (0 = 0)"
+> 	            else:
+> 	                return "Ekvationen är en omöjlig ekvation (0 ≠ d)"
+> 	        else:
+> 	            x = (d - c) / b
+> 	            return f"Lösningen är x = {x}"
+> 	    else:
+> 	        x = (d / a - c) / b
+> 	        return f"Lösningen är x = {x}"
+> 	
+> 	
+> 	# Testa programmet med olika värden
+> 	print(solve_equation(2, 3, 1, 7))  # a = 2, b = 3, c = 1, d = 7
+> 	print(solve_equation(0, 3, 1, 7))  # a = 0, b = 3, c = 1, d = 7
+> 	print(solve_equation(2, 0, 1, 7))  # a = 2, b = 0, c = 1, d = 7
+> 	print(solve_equation(2, 3, 0, 7))  # a = 2, b = 3, c = 0, d = 7
+
+---- 
+
+> _Exempel från ChatGPT (GPT-3.5, 24 maj)_
+> **Jag:** Skriv ett Python-program som testar om talet n är ett primtal.
+> **Chattbot:** Självklart! Här är ett Python-program som testar om ett tal är ett primtal:
+> 	def is_prime(n):
+> 	    # Hantera specialfall för n mindre än 2
+> 	    if n < 2:
+> 	        return False
+> 	
+> 	    # Testa om n är delbart med något tal från 2 till n-1
+> 	    for i in range(2, n):
+> 	        if n % i == 0:
+> 	            return False
+> 	
+> 	    # Om inget tal från 2 till n-1 delar n, är det ett primtal
+> 	    return True
+> 	
+> 	# Läs in talet från användaren
+> 	num = int(input("Ange ett heltal: "))
+> 	
+> 	# Testa om talet är ett primtal
+> 	if is_prime(num):
+> 	    print(num, "är ett primtal")
+> 	else:
+> 	    print(num, "är inte ett primtal")
+> I detta program definieras en funktion `is_prime(n)` som tar ett tal `n` som argument och returnerar `True` om talet är ett primtal och `False` annars. Funktionen testar om talet är delbart med något tal från 2 till n-1 genom att använda en `for`-loop. Om talet är delbart med något av dessa tal, returneras `False`. Annars returneras `True`. Slutligen läser programmet in ett tal från användaren och testar om det är ett primtal genom att använda `is_prime()`-funktionen och skriver ut resultatet.
 
 [^1]:	[https://www.semanticscholar.org/paper/A-review-of-the-research-in-teaching-and-learning-Gagatsis-Alexandrou/736d999af245f80d2028d26b0dd5c1e1ff6d7f1e][2]
 
