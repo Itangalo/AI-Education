@@ -16,10 +16,9 @@ Det här exempelkapitlet innehåller riktlinjer och malltexter att använda för
 * …
 
 ## Förslag på kapitel till boken
-* AI och fusk
 * Prompta klokt
 * Chattbotten i Snapchat
-* Hitta forskning
+* Hitta forskning och fortbildning
 * Använda olika funktioner i ChatGPT (inklusive plugins och att dela konversationer med andra)
 * Använda AI i programmeringsämnen
 * Ge elever stöd i skrivprocess (högstadiet och senare?)
