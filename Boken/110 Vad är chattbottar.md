@@ -154,6 +154,8 @@ En särskilt knivig fråga med verktyg som elever själva använder handlar om _
 
 Men det kan också hända att verktyget tar hand om saker som eleven behöver träna på. Att alltid ha miniräknare till hands gör att elever i mindre utsträckning räknar i huvudet eller på papper, och då kommer de att bli sämre på det. Att lyssna på text ger mindre träning i traditionell läsning, att skriva på tangentbord ger mindre träning i att skriva för hand (och omvänt!), att ta rulltrappan ger mindre träning för benen. Och att använda chattbottar för att formulera texter gör att vi blir sämre på att göra det för hand.
 
+I vissa avseenden kan chattbottar vara så självgående att det inte är rimligt att tala om dem som verktyg. Verktyg kräver i regel kunskaper för att använda: Om du har en skruvdragare och ska bygga en altan behöver du veta hur du ska använda den. Att använda en chattbot för att skriva en uppsats kan snarare jämföras med att hyra in en snickare som bygger altanen åt dig.[^5] Och liknelsen har ytterligare lärdomar: När du tittar på snickaren som bygger altanen kan du felaktigt få uppfattningen att du lär dig hur det går till. Är du tillräckligt uppmärksam kan du få en ytlig förståelse av hur man bygger en altan, men när du själv ska sköta skruvdragaren (och allt annat) blir det tydligt att det inte var så lätt som du trodde. Samma sak gäller med chattbottar. Att lägga över jobb på en chattbot kan göra att elever lär sig mindre av något viktigt – men fortfarande _tro_ att de lär sig.
+
 Lösningen på problemet är _inte_ att låta bli verktyg helt och hållet. Lösningen är snarare att vara medveten om att det ofta är mödosamt att lära sig något, och att det alltså är viktigt att välja vad elever ska lägga sina ansträngningar på. (Att något är mödosamt är dock inte samma sak som att det är tråkigt, vilket också är värt att komma ihåg.) Om man vill använda chattbottar för att stötta läsning eller skrivande i lågstadiet kräver det ordentlig eftertanke, medan det är mindre problematiskt att låta studenter på högskola använda en chattbot för att göra en rapport lättare att läsa.
 
 Eftersom elever kan behöva arbeta med olika saker, och kan behöva stöd med olika saker, kan det hända att chattbottar hjälper en elev medan en annan elev i samma klass hindras i sitt lärande av precis samma stöd.
@@ -232,7 +234,7 @@ Att bolla tankar med en kollega är ofta ett sätt att komma vidare i sina egna 
 En särskild förmåga som chattbottar har är att kunna hitta på massor av idéer där den mänskliga hjärnan (författarens inräknad) går på grund efter en kort stund.
 
 ## Ge stöd i programmering
-Långt ifrån alla lärare använder programmering i eller utanför sin undervisning, men de som gör det bör vara medvetna om den typ av stöd man kan få från AI-verktyg. Förutom chattbottar finns det också särskilda verktyg skapade för just programmering, där det mest kända förmodligen är [GitHub Copilot][9].
+Långt ifrån alla lärare använder programmering i eller utanför sin undervisning, men de som gör det bör vara medvetna om den typ av stöd man kan få från AI-verktyg. Förutom chattbottar finns det också särskilda verktyg skapade för just programmering, där det mest kända förmodligen är [GitHub Copilot][10].
 
 Chattbottar och annat AI-stöd kan till exempel:
 * Felsöka kod.
@@ -250,7 +252,7 @@ Som med all kod man får given till sig behöver man också hålla ett öga öpp
 # Hybrider
 Språkmodeller har, som nämnts ovan, nackdelen att de inte bryr sig särskilt mycket om vad som är sant eller falskt, utan det primära målet är att skapa meningar som låter bra. Genom att koppla ihop språkmodeller med andra typer av applikationer kan man komma runt mycket av de problemen.
 
-Tjänsten [perplexity.ai][10] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
+Tjänsten [perplexity.ai][11] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
 
 > Exempel från perplexity.ai (GPT-3.5 + sökområde ”all”).
 > **Jag:** Jag vill lära mig mer om vanliga inlärningssvårigheter i matematik på mellanstadiet. Kan du ge mig förslag på en forskningsartikel att läsa?
@@ -262,7 +264,7 @@ Tjänsten [perplexity.ai][10] är en sådan hybrid av språkmodeller (GPT-3.5 oc
 > 5. "Hur hanterar matematiklärarna extra anpassningar på mellanstadiet?" (5): This study examines how teachers can provide extra support and adaptations to students with learning difficulties in mathematics on middle school level.
 > 6. "Matematiksvårigheter" (6): This research article summarizes previous studies on mathematics difficulties and provides recommendations for how to help students with learning difficulties in mathematics.
 
-Svaret från chattbotten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter.[^5]
+Svaret från chattbotten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter.[^6]
 
 Perplexity.ai är en egen tjänst som anropar chattbottar i bakgrunden, vilket också är en metod som språklärningstjänsten Duolingo använder. En omvänd metod är i stället en hybrid där själva chattbotten utökas med funktioner för att anropa andra applikationer – något som blev möjligt i form av så kallade plugins för betalversionen av ChatGPT i mitten av maj. Nedan syns ett exempel på hur en konversation kan se ut när plugin för WolframAlpha används – en webbtjänst för matematiska beräkningar och kombinerat med en stor bank med data. Det intressanta här är att språkmodellens förmåga att förstå min fråga och skriva lättlästa svar kombineras med en tillförlitlig bank med information.
 
@@ -289,7 +291,7 @@ Nästa kategori handlar om lärare som undervisar i ämnen där chattbottar är 
 
 Ytterligare en kategori är lärare där chattbottar är ett meningsfullt verktyg inom ämnen som de undervisar i – alltså något som kan vara värt att _lära sig använda_. Två av chattbottarnas främsta grenar är att bearbeta text och att skriva programkod, vilket betyder att lärare i exempelvis svenska, svenska som andraspråk, programmeringsämnen och matematik kan ha tydlig nytta av att lära sig mer om chattbottar. Det ger dels verktyg för egna arbetet i undervisningen, dels kunskaper om vilka typer av verktyg elever har eller kommer att ha tillgång till. (Huruvida elever också ska lära sig använda chattbottar för att bearbeta texter eller programmera i de här ämnena, eller om det räcker att läraren vet vad chattbottar eventuellt kan tillföra, är en annan fråga.)
 
-Sista kategorin omfattar att lära sig om chattbottar som en ”nice to have” – det är något man kan göra om man har tid över.[^6] Nästan oavsett vad du jobbar med kan chattbottar vara ett användbart verktyg för att effektivisera delar av ditt arbete, men det är inte säkert att det är den bäst investerade tiden – det kan vara minst lika bra att bli bättre på att använda Excel eller hitta nya sätt att samarbeta med kollegor.
+Sista kategorin omfattar att lära sig om chattbottar som en ”nice to have” – det är något man kan göra om man har tid över.[^7] Nästan oavsett vad du jobbar med kan chattbottar vara ett användbart verktyg för att effektivisera delar av ditt arbete, men det är inte säkert att det är den bäst investerade tiden – det kan vara minst lika bra att bli bättre på att använda Excel eller hitta nya sätt att samarbeta med kollegor.
 
 I den här kategorin ingår också att lära sig om chattbottar för att få en bättre känsla för hur en viktig del av teknikutvecklingen ser ut – en som lär påverka samhället och världen.
 
@@ -320,9 +322,11 @@ Om du vill satsa lite mer på att lära sig chattbottar, eller kanske ha mer org
 
 [^4]:	[https://mashable.com/article/samsung-chatgpt-leak-details][8]
 
-[^5]:	När sökningen gjordes om på engelska gav sökområdet ”academic” träffar på artiklar från vetenskapliga tidskrifter, vilket inte var fallet på svenska.
+[^5]:	Tack till Jonas Linderoth för den här liknelsen! [https://www.youtube.com/watch?v=GZOSh4ocpeI][9]
 
-[^6]:	Om du jobbar i skolan har du med stor sannolikhet _inte_ tid över. Men ändå.
+[^6]:	När sökningen gjordes om på engelska gav sökområdet ”academic” träffar på artiklar från vetenskapliga tidskrifter, vilket inte var fallet på svenska.
+
+[^7]:	Om du jobbar i skolan har du med stor sannolikhet _inte_ tid över. Men ändå.
 
 [1]:	https://chat.lmsys.org/
 [2]:	https://open-assistant.io/sv
@@ -331,5 +335,6 @@ Om du vill satsa lite mer på att lära sig chattbottar, eller kanske ha mer org
 [6]:	https://sverigesradio.se/artikel/snapchats-ai-bot-gav-rad-om-cannabis-for-den-som-vill-ha-roligt
 [7]:	https://arxiv.org/abs/2303.17548 "Arxiv: Whose Opinions Do Language Models Reflect?"
 [8]:	https://mashable.com/article/samsung-chatgpt-leak-details "Mashable: Whoops, Samsung workers accidentally leaked trade secrets via ChatGPT"
-[9]:	https://en.wikipedia.org/wiki/GitHub_Copilot "Engelska Wikipedia: GitHub Copilot"
-[10]:	https://www.perplexity.ai/
+[9]:	https://www.youtube.com/watch?v=GZOSh4ocpeI
+[10]:	https://en.wikipedia.org/wiki/GitHub_Copilot "Engelska Wikipedia: GitHub Copilot"
+[11]:	https://www.perplexity.ai/
