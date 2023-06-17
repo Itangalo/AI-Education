@@ -26,18 +26,19 @@ Mer om AI och utbildning
 Lär dig mer om AI-tekniken
 * Gratis onlinekurs om AI, från MinnaLearn och Helsingfors universitet: [elementsofai.se][15]
 * Introduktion till AI från riskkapitalbolaget A16Z: [a16z.com/2023/05/25/ai-canon][16]
-* AI Sweden: Samarbetsorganisation om AI för universitet och företag, med vissa saker som berör utbildning: [ai.se][17]
+* Rachel Woods, grundare av the AI Exchange, skriver om AI: [theaiexchange.com/therachelwoods][17]
+* AI Sweden: Samarbetsorganisation om AI för universitet och företag, med vissa saker som berör utbildning: [ai.se][18]
 
 Hänga med teknikutvecklingen
-* [The AI Breakdown][18]: Podcast med korta dagliga uppdateringar om vad som händer i AI-utvecklingen.
-* En samling med AI-tjänster för specifika områden, som uppdateras löpande: [theresanaiforthat.com][19]
-* En annan samling med AI-tjänster som uppdateras löpande: [futuretools.io][20]
+* [The AI Breakdown][19]: Podcast med korta dagliga uppdateringar om vad som händer i AI-utvecklingen.
+* En samling med AI-tjänster för specifika områden, som uppdateras löpande: [theresanaiforthat.com][20]
+* En annan samling med AI-tjänster som uppdateras löpande: [futuretools.io][21]
 
 Om AI och framtiden
-* [The Cognitive Revolution][21]: Podcast med många tankar och intervjuer om hur AI påverkar samhälle, ekonomi och framtid.
-* [Life 3.0][22]: Bok av svensk-amerikanen Max Tegmark som diskuterar frågor om vad AI betyder för samhället, framtiden och synen på oss själva. Finns även på svenska. Från 2018.
-* 80,000 hours podcast: Podcast där AI och framtiden tas upp regelbundet: [80000hours.org/podcast/episodes/][23]
-* Future of Life Institute podcast: Podcast där AI och framtiden tas upp regelbundet: [futureoflife.org/project/future-of-life-institute-podcast/][24]
+* [The Cognitive Revolution][22]: Podcast med många tankar och intervjuer om hur AI påverkar samhälle, ekonomi och framtid.
+* [Life 3.0][23]: Bok av svensk-amerikanen Max Tegmark som diskuterar frågor om vad AI betyder för samhället, framtiden och synen på oss själva. Finns även på svenska. Från 2018.
+* 80,000 hours podcast: Podcast där AI och framtiden tas upp regelbundet: [80000hours.org/podcast/episodes/][24]
+* Future of Life Institute podcast: Podcast där AI och framtiden tas upp regelbundet: [futureoflife.org/project/future-of-life-institute-podcast/][25]
 
 [1]:	https://www.facebook.com/groups/594006982511351/
 [2]:	https://discord.gg/HZxBb27Q "AI i utbildning"
@@ -55,11 +56,12 @@ Om AI och framtiden
 [14]:	https://www.linkedin.com/pulse/ai-education-transformation-towards-human-christer-holger/
 [15]:	https://www.elementsofai.se/
 [16]:	https://a16z.com/2023/05/25/ai-canon "AI Canon"
-[17]:	https://www.ai.se/en
-[18]:	https://g.co/kgs/5zmJ3f "The AI Breakdown"
-[19]:	https://theresanaiforthat.com/
-[20]:	https://www.futuretools.io/ "Future Tools"
-[21]:	https://www.cognitiverevolution.ai/
-[22]:	https://en.wikipedia.org/wiki/Life_3.0
-[23]:	https://80000hours.org/podcast/episodes/
-[24]:	https://futureoflife.org/project/future-of-life-institute-podcast/
+[17]:	https://theaiexchange.com/therachelwoods "Rachel Woods"
+[18]:	https://www.ai.se/en
+[19]:	https://g.co/kgs/5zmJ3f "The AI Breakdown"
+[20]:	https://theresanaiforthat.com/
+[21]:	https://www.futuretools.io/ "Future Tools"
+[22]:	https://www.cognitiverevolution.ai/
+[23]:	https://en.wikipedia.org/wiki/Life_3.0
+[24]:	https://80000hours.org/podcast/episodes/
+[25]:	https://futureoflife.org/project/future-of-life-institute-podcast/
