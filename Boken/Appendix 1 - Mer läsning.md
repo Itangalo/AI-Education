@@ -21,7 +21,7 @@ Mer om AI och utbildning
 * Teknik i akademi: Videopodd från Linnéuniversitetet med många avsnitt om chattbottar och (högre) utbildning: [youtube.com/watch?v=Wi5wkT3LrLs&list=PL70wNv4dBdJwUGH8yefxeyy0casWtKDLA][11]
 * Ethan Mollick har en blogg och nyhetsbrev som ofta tar upp AI för undervisning och annat: [oneusefulthing.org][12]
 * Linda Mannila, bland annat forskare vid Åbo Universitet, skriver insiktsfullt om AI:s roll för samhälle och utbildning, och inte minst AI-litteracitet och AI-beredskap: [linkedin.com/pulse/ai-litteracitet-och-ai-beredskap-linda-mannila][13]
-* En serie inlägg om ChatGPT och utbildning av Christer Holger: [linkedin.com/pulse/ai-education-transformation-towards-human-christer-holger][14]
+* En serie inlägg om cahttbottar och utbildning av Christer Holger: [linkedin.com/pulse/ai-education-transformation-towards-human-christer-holger][14]
 
 Lär dig mer om AI-tekniken
 * Gratis onlinekurs om AI, från MinnaLearn och Helsingfors universitet: [elementsofai.se][15]
