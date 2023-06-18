@@ -7,7 +7,7 @@
 
 <p float="left" align="middle">
   <a href="https://books2read.com/aiineducation" target="_blank"><img src="https://user-images.githubusercontent.com/262940/218328438-e4914050-cbd4-4d36-9d10-1b76d7caecef.png" title="Cover Image" width="40%" height="40%" /></a>
-  <a href="https://github.com/Itangalo/AI-Education/files/11642864/AI.och.skolan.2.0-beta1.2023-06-03.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/243171326-da2883ca-44b2-4ed4-8374-4bdd20724921.jpeg" title="Omslagsbild" width="40%" height="40%" /></a>
+  <a href="https://github.com/Itangalo/AI-Education/files/11781723/AI.och.skolan.2023-06-18.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/246669860-8057021f-99fa-43c9-baaa-11bce0adef3c.jpg" title="Omslagsbild" width="40%" height="40%" /></a>
 </p>
 
 ----
