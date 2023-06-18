@@ -71,7 +71,7 @@ Innan vi försöker besvara de frågorna behöver vi lugna ner läget lite. Ett 
 De existentiella riskerna med AI hänger huvudsakligen ihop med två saker. Det ena kallas generell artificiell intelligens (AGI) och det andra kallas ibland för kung Midas-problemet.
 
 ### Generell AI och super-AI
-Det finns ingen allmänt accepterad definition av generell AI, men alla varianter av definitioner går ut på en AI som klarar av att resonera eller problemlösa lika bra som människor, i stort sett oavsett område. Den avgörande av dessa förmågor är förmågan att bygga eller förbättra artificiell intelligens. När en AI blir minst lika bra som mänskliga experter på det kommer vägen till en ännu mer kompetent AI bli kortare, och sedan kortare och kortare för varje generation av AI som skapas.
+Det finns ingen allmänt accepterad definition av generell AI, men alla varianter av definitioner går ut på en AI som klarar av att resonera eller lösa problem lika bra som människor, i stort sett oavsett område. Den avgörande av dessa förmågor är förmågan att bygga eller förbättra artificiell intelligens. När en AI blir minst lika bra som mänskliga experter på det kommer vägen till en ännu mer kompetent AI bli kortare, och sedan kortare och kortare för varje generation av AI som skapas.
 
 När AI-utvecklingen till slut planar ut har sannolikt en super-AI utvecklats, med förmåga att tänka snabbare, längre och djupare än den samlade mänskligheten kan göra. Beroende på hur snabbt det går från en AI på gränsen till mänsklig förmåga till en super-AI pratar man om ”soft AI takeoff” (som tar år eller decennier) eller ”hard AI takeoff” (som tar dagar eller månader).[^19] Hur snabbt det går spelar stor roll för möjligheterna för oss att lära oss kontrollera AI:n under tiden, och helst skulle vi förstås ha lärt oss kontrollera AI redan innan vi har generell artificiell intelligens.
 
@@ -102,7 +102,7 @@ Det innebär att en super-AI inom kort skulle kopiera sig till en mängd olika p
 
 En lite nedslående slutsats är att en super-AI kommer att anstränga sig för att överleva i princip oavsett vilket mål vi ger den. Även ett så trivialt mål som att fixa kaffe skulle leda till en AI som blir i praktiken omöjlig att stänga av. För den kan inte fixa kaffe om den är död.
 
-AI:ns egen överlevnad brukar kallas för ett _instrumentellt mål_ – ett delmål som är viktigt eller nödvändigt för att uppnå det huvudsakliga målet, mer eller mindre oavsett vad det övergripande målet är. Ett annat instrumentellt mål är att skaffa resurser; något som vi kan utgå från att en super-AI också blir mycket skicklig på. Den behöver inte vara intresserad av att utrota alla människor för att det ska gå dåligt – den behöver bara vara intresserad av atomerna vi består av.
+AI:ns egen överlevnad brukar kallas för ett _instrumentellt mål_ – ett delmål som är viktigt eller nödvändigt för att uppnå det huvudsakliga målet, mer eller mindre oavsett vad det övergripande målet är. Ett annat instrumentellt mål är att skaffa resurser; något som vi kan utgå från att en super-AI också blir mycket skicklig på. En super-AI som säkrar upp resurser skulle mycket väl kunna konkurrera med de resurser vi människor behöver (eller annat liv på planeten), och i extremfall kan den också börja se oss människor som resurser. Den behöver inte ha som mål att utrota alla människor för att det ska gå dåligt – den behöver bara vara intresserad av atomerna vi består av.
 
 ### AI-säkerhet
 Problemen ovan studeras och försöker lösas inom det forskningsfält som kallas _AI alignment_, vilket löst kan översättas med få mål med en AI att stämma med mål för människor. AI alignment sammanfattas ibland med frågorna om hur vi får AI att _förstå_ våra mål, _anta_ våra mål, och _behålla_ våra mål över tid.
@@ -174,7 +174,7 @@ I avsnitten ovan var jag avfärdande kring frågan om medvetenhet och hävdade a
 
 Anledningen är att medvetenhet inte är något som syns eller märks på utsidan.
 
-Med medvetenhet avser jag inte förmågan att resonera, komma ihåg saker, eller ha en modell av sig själv, utan förmågan att _uppleva_ något. Inom filosofin används ordet qualia för att markera just själva upplevandet – till exempel skillnaden mellan att sensorer i en kamera registrerar färgen lila och att du _upplever_ färgen lila.
+Med medvetenhet avser jag inte förmågan att resonera, komma ihåg saker, eller ha en modell av sig själv, utan förmågan att _uppleva_ något. Inom filosofin används ordet qualia för att markera just själva upplevelsen av kvaliteter som färg, smak eller lukt. Qualia är skillnaden mellan att du _upplever_ färgen lila och att sensorer i en kamera registrerar färgen lila.
 
 Frågan om medvetande är svår, just för att det inte är något som märks på utsidan. Vi har idag ingen aning om hur medvetandet uppstår, och har till och med mycket svårt att komma på hypoteser som går att pröva ens i teorin. Frågan har fått det beskrivande namnet ”the hard problem of consciousness”.[^33]
 

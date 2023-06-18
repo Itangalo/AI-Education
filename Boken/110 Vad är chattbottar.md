@@ -1,7 +1,7 @@
 # Vad är chattbottar?
 Den 30 november 2022 lanserade det USA-baserade företaget OpenAI tjänsten ChatGPT. Den tog världen med storm, och ett halvår senare orsakar AI fortfarande nyhetsinslag i riksmedia så gott som varje dag.
 
-Det som fortfarande förbluffar många med ChatGPT (författaren inräknad) är dess förmåga att föra en konversation på ett övertygande mänskligt sätt. I kombination med kunskaper inom vitt skilda områden gör det ChatGPT och många andra chattbottar till ett otroligt fascinerande och mångsidigt verktyg.
+Det som fortfarande förbluffar många med ChatGPT (författaren inräknad) är dess skicklighet i att föra en konversation på ett övertygande mänskligt sätt. I kombination med kunskaper inom vitt skilda områden gör det ChatGPT och många andra chattbottar till ett otroligt fascinerande och mångsidigt verktyg.
 
 Låt oss titta på en konversation med ChatGPT, för att ge exempel på både dess språkliga och faktamässiga förmågor.
 
@@ -106,7 +106,7 @@ Här är sju frågor som är värdefulla att ställa för att undvika vanliga mi
 * Finns det skeva perspektiv eller skeva värderingar?
 * Är jag på väg att skicka känslig information?
 * Är det här oreflekterad avlastning?
-* Följder det här skolans styrdokument?
+* Följer det här skolans styrdokument?
 * Är det här bra pedagogik?
 
 ## Finns det språkfel?
@@ -131,7 +131,7 @@ Nedan följer ett exempel som kanske är särskilt belysande.
 > Kom ihåg att vissa forskningsartiklar kan vara betalda eller kräva prenumeration för fullständig tillgång. Om du inte har tillgång till artikeln kan du prova att söka efter dess titel i en sökmotor för att hitta eventuella öppna versioner eller sammanfattningar.
 > Lycka till med din forskningsläsning!
 
-Tipset från chattbotten ovan är tydligt och förtroendeingivande, och värre än meningslöst – artikeln som nämns finns inte. (Länken leder till en artikel med titel ”Neuroinflammation Induces Neurodegeneration” och det finns inga träffar på nätet som matchar den artikelrubrik som chattbotten nämner.)
+Tipset från chattbotten ovan är tydligt och förtroendeingivande – och värre än meningslöst eftersom artikeln som nämns inte finns. (Länken leder till en artikel med titel ”Neuroinflammation Induces Neurodegeneration” och det finns inga träffar på nätet som matchar den artikelrubrik som chattbotten nämner.)
 
 Den som faktiskt försöker läsa artikeln som chattbotten föreslår märker förstås rätt snart att den inte finns, men många faktafel är av karaktären att det inte märks direkt att de är fel – och den som inte är insatt i ämnet har då mycket liten chans att upptäcka att det som chattbotten säger faktiskt inte stämmer. Hade jag till exempel bett chattbotten att sammanfatta det viktigaste som forskning säger om inlärningssvårigheter i matematik på mellanstadiet hade jag fått en prydlig text tillbaka, utan chans att veta om den stämmer eller inte med mindre än att jag själv redan har (eller skaffar mig) god koll på det jag frågar om. Det leder inte bara till att jag riskerar att inte lära mig det jag vill, utan att också lära mig något galet och _tro_ att jag har koll.
 
@@ -266,7 +266,7 @@ Tjänsten [perplexity.ai][11] är en sådan hybrid av språkmodeller (GPT-3.5 oc
 
 Svaret från chattbotten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter.[^6]
 
-Perplexity.ai är en egen tjänst som anropar chattbottar i bakgrunden, vilket också är en metod som språklärningstjänsten Duolingo använder. En omvänd metod är i stället en hybrid där själva chattbotten utökas med funktioner för att anropa andra applikationer – något som blev möjligt i form av så kallade plugins för betalversionen av ChatGPT i mitten av maj. Nedan syns ett exempel på hur en konversation kan se ut när plugin för WolframAlpha används – en webbtjänst för matematiska beräkningar och kombinerat med en stor bank med data. Det intressanta här är att språkmodellens förmåga att förstå min fråga och skriva lättlästa svar kombineras med en tillförlitlig bank med information.
+Perplexity.ai är en egen tjänst som anropar chattbottar i bakgrunden, vilket också är en metod som språklärningstjänsten Duolingo använder. En omvänd metod är i stället en hybrid där själva chattbotten utökas med funktioner för att anropa andra applikationer – något som blev möjligt i form av så kallade plugins för betalversionen av ChatGPT i mitten av maj. Nedan syns ett exempel på hur en konversation kan se ut när plugin för WolframAlpha används – en webbtjänst för matematiska beräkningar och kombinerat med en stor bank med data. Det intressanta här är att språkmodellens förmåga att förstå min fråga och skriva lättlästa svar kombineras med en tillförlitlig bank med information. (I exemplet nedan är delar av kommunikationen mellan ChatGPT och WolframAlpha utskrivet, för att ge en känsla av i vilka sammanhang chattbotten kontaktar andra tjänster.)
 
 > _Exempel från ChatGPT (GPT-4, plugin WolframAlpha aktiverad, 12 maj 2023)._
 > **Jag:** Hur många steg är det mellan Rom och Paris?

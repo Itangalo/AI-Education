@@ -54,14 +54,14 @@ Vad man som lärare kan och bör göra när det gäller frågan om fusk och chat
 ### Övningar eller prov?
 Att lägga över skrivande på en chattbot kan leda till dåliga betygsunderlag, men det kan också leda till sämre lärande. Om en uppsats om upplysningstiden var tänkt att vara betygsunderlag _och_ ett tillfälle för elever att samla ihop sina tankar och djupdyka i några av dem, så är förlusten dubbel.
 
-Det viktigaste sättet att motverka fusk måste vara att minska incitamenten för att fuska. Med den betygshets som finns i många delar av skolan är det förmodligen oundvikligt att en del elever kommer att försöka ta genvägar till höga resultat och bra betyg. Genom att koppla bort betygssättningen från inlämningsuppgifter (eller andra aktiviteter) kan det bli lättare att sätta fokus på lärandet. Jämför:
+Det viktigaste sättet att motverka fusk måste vara att minska incitamenten för att fuska. Med den betygshets som finns i många delar av skolan är det förmodligen oundvikligt att en del elever kommer att försöka ta genvägar till höga resultat och bra betyg. Genom att koppla bort betygsättningen från inlämningsuppgifter (eller andra aktiviteter) kan det bli lättare att fokusera på lärandet. Jämför:
 * ”Inlämningsuppgiften om upplysningstiden ska lämnas in nästa torsdag och är en del av det jag betygsätter i det här avsnittet.”
 * ”Om tre veckor vi det muntliga provet om upplysningstiden. Ett bra tillfälle att få ordning på era tankar är uppsatsen som jag vill att ni lämnar in nästa torsdag.”
 
 Inom bland annat idrott och musik pratar man ofta om _övningar_, och det kan vara ett ord som vi har glädje av i skolan också. Ofta pratar vi om ”uppgifter” (eller ”problem”), vilket signalerar något som ska bli gjort (eller löst). Övningar, däremot, sätter fokus på att det är något man gör för att träna. Det är görandet som är viktigt, inte resultatet.[^4] Kanske kan ett liknande språkbruk hjälpa både lärare och elever att fundera över vad man gör för att lära sig, och vad man gör för att visa upp kunskaper.
 
 ### Gör tydligt vad som gäller
-Oavsett syftet med uppgifter som genomförs under okontrollerade är det viktigt att göra tydligt vilka typer av verktyg eller arbetssätt som är ok. En elev som lämnar in en lätt redigerad AI-text kan (faktiskt!) tro att det är ett ok sätt att skriva uppsatser, och i så fall handlar det inte om fusk (det vill säga medvetet vilseledande) utan snarare kommunikationsproblem. Att göra förväntningarna tydliga är förstås viktigt även i övningar som inte har med betygsättning att göra, eftersom det påverkar hur eleverna lär sig.
+Oavsett syftet med uppgifter som genomförs under okontrollerade är det viktigt att göra tydligt vilka verktyg och metoder som är ok. En elev som lämnar in en lätt redigerad AI-text kan (faktiskt!) tro att det är ett ok sätt att skriva uppsatser, och i så fall handlar det inte om fusk (det vill säga medvetet vilseledande) utan snarare kommunikationsproblem. Att göra förväntningarna tydliga är förstås viktigt även i övningar som inte har med betygsättning att göra, eftersom det påverkar hur eleverna lär sig.
 
 När det gäller övningar som inte blir betygsunderlag kan det vara värt att tillsammans med eleverna diskutera hur de ser på att (exempelvis!) använda chattbottar för att skriva labbrapporter, essäer, recensioner, loggbok med reflektioner eller vad det nu kan vara. Läraren behöver förstås hålla i tyglarna när det gäller arbetssätt, men att diskutera dem kan ge mer förståelse för vitsen med en övning.
 
@@ -85,7 +85,7 @@ Att genomföra prov eller andra betygsgrundande uppgifter under övervakade form
 * Muntliga presentationer, enskilt eller i grupp.
 
 ### Följ upp misstänkt fusk
-Oavsett hur man arbetar kommer det att finnas fall där man misstänker att elever har fuskat. Ett naturligt men ganska tidskrävande sätt att hantera det är att be elever berätta muntligt om det de lämnat in. Om eleven kan göra det på ett sätt som är övertygande, så är det ett trovärdigt sätt att se att eleven har de kunskaper man som lärare är intresserad av. Om eleven inte kan redogöra för det hen lämnat in, så är det ett trovärdigt sätt att se att eleven _inte_ har de kunskaperna. Huruvida eleven fuskat eller inte, och med vilka verktyg, blir sekundärt – det är elevens kunskaper som hamnar i fokus.
+Oavsett hur man arbetar kommer det att finnas fall där man misstänker att elever har fuskat. Ett naturligt men ganska tidskrävande sätt att hantera det är att be elever redogöra muntligt för vad de lämnat in. Om eleven kan göra det på ett sätt som är övertygande, så är det ett trovärdigt sätt att se att eleven har de kunskaper man som lärare är intresserad av. Om eleven inte kan redogöra för det hen lämnat in, så är det ett trovärdigt sätt att se att eleven _inte_ har de kunskaperna. Huruvida eleven fuskat eller inte, och med vilka verktyg, blir sekundärt – det är elevens kunskaper som hamnar i fokus.
 
 I vissa ämnen, eller vissa delar av ämnen, är det svårt att arbeta på det viset.[^5] Och hur man hanterar frågor om fusk handlar ofta om både personliga förhållningssätt och policyer på skolan.
 
