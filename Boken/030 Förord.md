@@ -1,5 +1,5 @@
 # Förord
-_Anders Björby, Fredrik Ahlgren och Johan Leitet driver podden Teknik i akademi._
+_Anders Bjarby, Fredrik Ahlgren och Johan Leitet driver podden Teknik i akademi._
 
 Den 30:e november 2022 markerade en brytpunkt i historien. ChatGPT blev lanserad och plötsligt blev konstgjord intelligens (AI) en central samtalspunkt i vardagens diskussioner. Vi, Anders, Fredrik och Johan, har sedan dess fördjupat oss i att analysera, reflektera och informera om AI - dess potential, dess utmaningar och dess konsekvenser, både positiva och negativa. Vi kan urskilja trender och mönster, men utvecklingen är snabb, och framtiden är oviss. Vi lever i en tid av ständig förvandling.
 
