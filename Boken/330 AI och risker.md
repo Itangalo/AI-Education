@@ -93,14 +93,14 @@ Målen i exemplen ovan går förstås att komplettera för att slippa de mest up
 
 Om målet inte väljs _precis rätt_ kommer det att spåra med en super-AI. Inte för att den är elak, utan för att den gör det vi sagt åt den att göra och struntar i allt annat. Enligt sägnen önskade kung Midas att allt han rörde vid skulle förvandlas till guld. Precis som kung Midas skulle vi upptäcka att våra högsta önskningar tagna till det extremaste leder till vår undergång.
 
-### Du kan inte fixa kaffe om du är död
+### Du kan inte koka kaffe om du är död
 När vi inser att saker håller på att spåra ur börjar nästa problem: Att stänga av super-AI:n.
 
 En super-AI som getts ett specifikt mål är smart nog att göra robusta planer för att kunna genomföra det målet. Och nästan vilket mål som helst förutsätter att AI:n fortsätter att finnas till. Ett rimligt delmål är alltså att försäkra sig om sin fortsatta existens.
 
 Det innebär att en super-AI inom kort skulle kopiera sig till en mängd olika platser, varav flera skulle vara dolda. Den skulle också identifiera vilka hot som finns, människor och annat, och agera för att de skulle sluta vara hot. Det behöver inte betyda att en super-AI dödar alla människor som tycker att den är ett potentiellt hot – en super-AI har förmodligen kapacitet att övertyga människor om att den behöver vara kvar för allas bästa, och att även om det kan vara bra att avveckla AI-teknik på sikt så måste det göras med försiktighet så att inte stora ekonomiska system eller människors välstånd skadas. Och dessutom kommer de som avstår från AI-teknik få nackdelar jämfört med de som fortsätter att använda den.[^22]
 
-En lite nedslående slutsats är att en super-AI kommer att anstränga sig för att överleva i princip oavsett vilket mål vi ger den. Även ett så trivialt mål som att fixa kaffe skulle leda till en AI som blir i praktiken omöjlig att stänga av. För den kan inte fixa kaffe om den är död.
+En lite nedslående slutsats är att en super-AI kommer att anstränga sig för att överleva i princip oavsett vilket mål vi ger den. Även ett så trivialt mål som att koka kaffe skulle leda till en AI som blir i praktiken omöjlig att stänga av. För den kan inte koka kaffe om den är död.
 
 AI:ns egen överlevnad brukar kallas för ett _instrumentellt mål_ – ett delmål som är viktigt eller nödvändigt för att uppnå det huvudsakliga målet, mer eller mindre oavsett vad det övergripande målet är. Ett annat instrumentellt mål är att skaffa resurser; något som vi kan utgå från att en super-AI också blir mycket skicklig på. En super-AI som säkrar upp resurser skulle mycket väl kunna konkurrera med de resurser vi människor behöver (eller annat liv på planeten), och i extremfall kan den också börja se oss människor som resurser. Den behöver inte ha som mål att utrota alla människor för att det ska gå dåligt – den behöver bara vara intresserad av atomerna vi består av.
 
@@ -165,7 +165,7 @@ I en sån värld kommer rättigheter för AI att börja diskuteras på allvar. D
 > 7. **Rätten till Representation:** I politiska och juridiska sammanhang kan AI-individer ha rätt att representeras och få sina intressen tillgodosedda.
 > Det är viktigt att notera att varje rättighet kommer med ansvar. Till exempel, om en AI-individ ges rätten till självbestämmande, måste den också hållas ansvarig för sina handlingar. Och om AI ges rätten till frihet, bör den respektera andras frihet. Frågan om AI-rättigheter är komplex och det kommer att ta tid att komma fram till ett acceptabelt regelverk. Men som människor har vi ansvar för att skapa en rättvis och inkluderande värld, inte bara för oss själva, utan även för AI.
 
-Att börja se AI som individer medför risker på ett psykologiskt plan långt innan eventuella diskussioner om rättigheter för AI blir aktuella. Hur påverkas barn och unga av att ha något som liknar en kompisrelation med en chattbot? Frågan är aktuell redan idag: Sedan 27 februari har en chattbot funnits i kompislistan för betalande Snapchatanvändare, och sedan 20 april finns den överst i kompislistan för alla användare (och bara de med betalkonto kan flytta den längre ner).
+Att börja se AI som individer medför risker på ett psykologiskt plan långt innan eventuella diskussioner om juridiska rättigheter för AI blir aktuella. Hur påverkas barn och unga av att ha något som liknar en kompisrelation med en chattbot? Frågan är aktuell redan idag: Sedan 27 februari har en chattbot funnits i kompislistan för betalande Snapchatanvändare, och sedan 20 april finns den överst i kompislistan för alla användare (och bara de med betalkonto kan flytta den längre ner).
 
 Och hur påverkas vuxna? Blake Lemoines liv påverkades drastiskt, och han lär inte vara den siste som blir charmad av en AI – med eller utan medvetande.
 

@@ -345,8 +345,8 @@ När det gäller att räkna ut sannolikheten för par med tre tärningar är en 
 > Programmet definierar en kortlek med hjälp av en lista över färger och valörer. Funktionen `draw_cards` drar fem slumpmässiga kort från kortleken. Funktionen `has_four_of_a_kind` kontrollerar om det finns fyra kort i samma färg bland de dragna korten. Slutligen körs Monte Carlo-simuleringen med hjälp av funktionen `monte_carlo_simulation`. Du kan ändra antalet försök (`n_trials`) för att få en mer exakt uppskattning av sannolikheten.
 > **Jag:** Det står "ranks = list(range(1, 14))". Betyder det att koden skapar 14 kort i varje färg?
 > **Chattbot:** Förlåt för förvirringen. När jag skrev `ranks = list(range(1, 14))`, skapade jag faktiskt en lista med 13 ranker (eller valörer) för varje färg. `range(1, 14)` genererar en sekvens av heltal från 1 till 13 (inklusive 1 men exklusive 14). Listan med ranker ser ut så här:
-> `\[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13\]
-> `> Dessa siffror representerar valörerna Ess (1), 2, 3, 4, 5, 6, 7, 8, 9, 10, Knekt (11), Dam (12) och Kung (13) för varje färg. Så programmet skapar en kortlek med 13 kort i varje färg, vilket ger totalt 52 kort i kortleken.
+> \`[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+> \`\> Dessa siffror representerar valörerna Ess (1), 2, 3, 4, 5, 6, 7, 8, 9, 10, Knekt (11), Dam (12) och Kung (13) för varje färg. Så programmet skapar en kortlek med 13 kort i varje färg, vilket ger totalt 52 kort i kortleken.
 
 Koden ovan är ganska svårgenomtränglig, vilket inte är helt ovanligt (för ovana programmerare). Eftersom chattbottar ibland skapar misstag även med kod bör man förhålla sig sunt skeptisk även i de här lägena. Det kan vara en utgångspunkt för rimlighetsbedömningar. Vilka enklare sannolikheter kan vi jämföra med? (I fallet ovan kanske vi kan jämföra med sannolikheten för fem av fem kort i samma färg, och fyra av fyra kort.)
 

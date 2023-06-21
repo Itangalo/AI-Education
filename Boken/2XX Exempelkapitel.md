@@ -19,22 +19,21 @@ Det här exempelkapitlet innehåller riktlinjer och malltexter att använda för
 * Prompta klokt
 * Chattbotten i Snapchat
 * Hitta forskning och fortbildning
-* Använda olika funktioner i ChatGPT (inklusive plugins och att dela konversationer med andra)
+* Använda olika funktioner i ChatGPT
 * Använda AI i programmeringsämnen
-* Ge elever stöd i skrivprocess (högstadiet och senare?)
+* AI i bildundervisning
+* Chattbottar i filosofiundervisning
+* Ge elever stöd i skrivprocess
 * Stimulera läsning med interaktiva berättelser
+* Bedöma uppsatser (inklusive många varningsflaggor)
 * Stöd för elever med kognitiva funktionshinder
-* Gymnasiematte och chattbottar
-* För elever som behöver utmaningar i \<ämne\>
+* Skapa extra utmaningar i \<ämne\>
+* Planera lektioner
+* Förslag på upplägg för fortbildning i kollegiet
+* Skapa bättre texter som lärare
+* Skapa quizfrågor
 * Kapitel som riktar sig direkt till elever?
 * Kapitel som riktar sig till föräldrar?
-* AI i bildundervisning
-* Skapa quizfrågor
-* Skapa bättre texter
-* chattbottar i filosofiundervisning
-* Bedöma uppsatser (inklusive många varningsflaggor)
-* Förslag på upplägg för fortbildning i kollegiet
-* Planera lektioner
 * …
 
 [1]:	https://github.com/Itangalo/AI-och-skolan
