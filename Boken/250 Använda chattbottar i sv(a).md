@@ -1,6 +1,6 @@
 # Använda chattbottar i svenska/som andraspråk
 
-_Det här kapitlet är skrivet av Jonatan Tensetti som undervisar i svenska, svenska som andraspråk och engelska i Malmö. På bokens projektsida github.com/itangalo/AI-och-skolan kan du föreslå nya kapitel och förbättringar till befintliga kapitel._
+_Det här kapitlet är skrivet av Jonatan Tensetti som undervisar i svenska, svenska som andraspråk och engelska i Malmö. På bokens projektsida [github.com/itangalo/AI-och-skolan][1] kan du föreslå nya kapitel och förbättringar till befintliga kapitel._
 
 Kapitlet innehåller olika tips på hur du som undervisar i svenska eller svenska som andraspråk på mellan- eller högstadiet kan använda chattbottar i undervisning. Flera av tipsen är förmodligen användbara även i andra åldrar. 
 
@@ -108,7 +108,7 @@ En alternativ uppgift är att eleven får diskutera textens innehåll och proble
 
 Genom att använda både chattbottar och diskussioner med klasskamrater kan eleven få inspiration och hjälp att komma igång med sitt skrivande. Samtidigt utmanas eleven att ta ansvar för sin egen textproduktion och får möjlighet att utveckla sitt eget skrivande. 
 
-## Använda chattbottar för att skapa lyssningsövningar 
+## Använda chattbottar för att skapa lyssningsövningar
 
 Här kommer en idé som riktar sig till dig som undervisar i svenska och svenska som andraspråk på mellan- och högstadiet. Tanken är att belysa hur chattbottar kan användas för att skapa lyssningsövningar för att öva på att stava ljuden. 
 
@@ -208,7 +208,7 @@ För några år sedan hade jag en elev med grav NPF-problematik, hen kunde endas
 
 Som man kan utläsa av nivån på frågorna handlar frågorna i den vänstra kolumnen (lätta frågor) om information som eleven kan läsa på raden medan frågorna i den högra kräver lite mer av eleven. Dels är det frågor där eleven måste samla in information från flera ställen i texten, men det är också frågor som går bortom raderna och frågor som kräver att eleverna kan reflektera.
 
-## Använda chattbottar för att skapa äventyr om vetenskap 
+## Använda chattbottar för att skapa äventyr om vetenskap
 
 En prompt som jag tror kan få stort genomslag för elever som tycker att det är lite jobbigt att läsa faktatexter har jag hämtat (och modifierat något) från Håkan Karlsson (högstadielärare (NO/Ma) och kommunlektor i Åstorps kommun) (orginalidé Anders Bjarby, som skrivit förordet till boken).
 
@@ -244,6 +244,8 @@ Prompten utgår att ge chattbotten en roll som sagoberättare och utgår från a
 > Vidare reser skeppet inuti kroppen, och besättningen tar sig an fler utmaningar och äventyr. Men tänk på att äventyret är inte över förrän du säger till.
 
 Det går att använda denna berättelse för att skapa material för att undervisa om olika platser, men det går också att använda för att testa elevernas kunskaper genom att ställa kaptenens frågor till eleverna. Vilka ställen kan du ta din klass till? 
+
+[1]:	https://github.com/Itangalo/AI-och-skolan
 
 [image-1]:	https://camo.githubusercontent.com/c62e948283dba826dfbbf9ec5c77b6d7c98d3bb6d3eecda903f8549fd4697c54/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f65774f72464c4576684655484f344b77504d326b57454c714a41796e336443323774364f784a676e487462386571596534794c754a48753152556b6578705658484b3250714d745059634c6c386a6f756d4f63466951324470637943424f6842737564323976745462374f556f36487a62776130485f71506c554558393058546267467230556c3672794b53586633446b595a6c746449
 [image-2]:	https://camo.githubusercontent.com/51c8e5a08a18a52a3d0dd04b6b7bcaa5652a539c4618334867d30c02206f1ce5/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f414d4f47455561696e6154785a59724f6f7959704c7277526c7152467167684f2d57536e64564b2d695050485f484a53704c41415f4548384d6e65353138684a6541466c615471444b74334c675462524c55754b4c49334147436632424c6a72454c63514f6d7a5833734a644356503174666b73396c526331697277506a446a76694778414f6a4a61797055333944397363386d567941
