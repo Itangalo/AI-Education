@@ -1,13 +1,13 @@
 <p float="left" align="middle">
   <a href="https://books.apple.com/us/book/id6445699958" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" height="20%" width="20%" /></a>
   <a href="https://www.amazon.com/dp/B0BVP216G9" target="_blank"><img src="https://user-images.githubusercontent.com/262940/219131870-10c07f3f-1a00-4827-8991-72f27f6694da.png" height="20%" width="20%" /></a>
-  <a href="https://books.apple.com/us/book/id6445495939" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" height="20%" width="20%" /></a>
-  <a href="https://books2read.com/aiochskolan" target="_blank"><img src="https://user-images.githubusercontent.com/262940/224125542-71841377-f102-4448-828a-0547da6b869e.png" height="20%" width="20%" /></a>
+  <a href="https://books.apple.com/us/book/id6450510071" target="_blank"><img src="https://user-images.githubusercontent.com/262940/217656617-3472d937-9b80-43f1-8158-7fb0923c19b0.png" height="20%" width="20%" /></a>
+  <a href="https://books2read.com/aiochskolan2" target="_blank"><img src="https://user-images.githubusercontent.com/262940/224125542-71841377-f102-4448-828a-0547da6b869e.png" height="20%" width="20%" /></a>
 </p>
 
 <p float="left" align="middle">
   <a href="https://books2read.com/aiineducation" target="_blank"><img src="https://user-images.githubusercontent.com/262940/218328438-e4914050-cbd4-4d36-9d10-1b76d7caecef.png" title="Cover Image" width="40%" height="40%" /></a>
-  <a href="https://github.com/Itangalo/AI-Education/files/11815375/AI.och.skolan.2.0.2023-06-21.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/246669860-8057021f-99fa-43c9-baaa-11bce0adef3c.jpg" title="Omslagsbild" width="40%" height="40%" /></a>
+  <a href="https://github.com/Itangalo/AI-Education/files/11824528/AI.och.skolan.2.0.2023-06-21.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/246669860-8057021f-99fa-43c9-baaa-11bce0adef3c.jpg" title="Omslagsbild" width="40%" height="40%" /></a>
 </p>
 
 ----
@@ -24,7 +24,7 @@ Vad är nytt?
 * Lärare och andra engagerade i skola är välkomna att bidra med egna kapitel med praktiska tipsen. Del 2 av boken kommer att utökas löpande med sådana tips.
 * Del 3 av boken, och AI och framtiden, har fått flera nya kapitel och djupare analyser. Till exempel: Hur fort går utvecklingen? Närmare titt på två viktiga hybrider. Bredare analys av hur vår syn på kunskap kan påverkas. Och utökat kapitel om risker med AI, kompletterat med ett antal möjliga scenarion för framtiden.
 
-<a href="https://github.com/Itangalo/AI-Education/files/11815375/AI.och.skolan.2.0.2023-06-21.pdf" target="_blank">Ladda hem förhandsversion 2.0-beta1</a>, och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
+<a href="https://github.com/Itangalo/AI-Education/files/11824528/AI.och.skolan.2.0.2023-06-21.pdf" target="_blank">Ladda hem version 2.0</a>, och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
 
 ### Mer länkar
 
@@ -32,13 +32,6 @@ Ladda hem version (1.5) här från projektsidan
 
 * [Epub](https://github.com/Itangalo/AI-Education/files/10716412/AI.och.skolan.2023-02-12.16.28.epub.zip)
 * [pdf](https://github.com/Itangalo/AI-Education/files/10716413/AI.och.skolan.2023-02-12.16.28.pdf)
-* [Word/docx (utan omslagsbild, kan finnas problem med fonter)](https://github.com/Itangalo/AI-Education/files/10716411/AI.och.skolan.2023-02-12.16.28.docx)
-
-Skaffa boken genom e-bokhandel (v. 1.0)
-
-* [Apple Books](https://books.apple.com/us/book/id6445495939)
-* [kobo.com](https://www.kobo.com/se/sv/ebook/ai-och-skolan)
-* [smashwords.com](https://www.smashwords.com/books/view/1325975)
 
 AI-inläsning av boken (v. 1.4) – *Tack till Jonatan Tensetti som ordnat med AI-inläsning av boken!*
 
@@ -56,6 +49,15 @@ Föreläsning genom Folkuniversitetet med utgångspunkt i version 1.0 av boken
 
 ### Hänvisa till boken
 
+Om du vill hänvisa till version 2.x av boken kan du utgå från följande:
+
+* Titel: AI och skolan, version 2.x (ange vilken version du hänvisar till)
+* Utgivningsdatum: Se [sidan med versioner](https://github.com/Itangalo/AI-Education/releases) (2023-06-21 för version 2.0)
+* Författare: Johan Falk
+* ISBN: 9798215302736 (endast för version 2.0)
+* Förlag: Draft2Digital
+
+
 Om du vill hänvisa till version 1.x av boken kan du utgå från följande:
 
 * Titel: AI och skolan, version 1.x (ange vilken version du hänvisar till)
@@ -64,7 +66,7 @@ Om du vill hänvisa till version 1.x av boken kan du utgå från följande:
 * ISBN: 9798215304334 (endast för version 1.0)
 * Förlag: Draft2Digital
 
-En APA-referens kan alltså se ut så här: Falk, J. (2023). *AI och skolan, version 1.4*. Draft2Digital.
+En APA-referens kan alltså se ut så här: Falk, J. (2023). *AI och skolan, version 2.0*. Draft2Digital.
 
 
 ----
