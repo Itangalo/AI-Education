@@ -297,10 +297,10 @@ I den här kategorin ingår också att lära sig om chattbottar för att få en 
 
 Med det som bakgrund testar vi igen att ställa frågan: _Är det värt att lära sig om chattbottar?_
 * Om du är rektor eller använder inlämningsuppgifter som betygsunderlag finns det starka skäl att lära dig att chattbottar klarar av att genomföra inlämningsuppgifter.
-* Om du undervisar samhällskunskap eller teknikämnen finns det tydliga skäl att bli insatt i hur AI-utvecklingen ser ut, så att du kan ta upp den på ett relevant sätt i din undervisning. Det omfattar inte nödvändigtvis omfattar chattbottar, men det är ett relevant och lättillgängligt exempel.
+* Om du undervisar samhällskunskap eller teknikämnen finns det tydliga skäl att bli insatt i hur AI-utvecklingen ser ut, så att du kan ta upp den på ett relevant sätt i din undervisning. Det omfattar inte nödvändigtvis chattbottar, men det är ett relevant och lättillgängligt exempel.
 * Om du undervisar ämnen där textbearbetning eller programmering ingår finns det tydliga skäl att lära dig vad chattbottar kan göra, både för att dra nytta av det själv och för att få en bild av vad elever kommer att använda i framtiden. Det innebär troligtvis att du behöver lära dig att använda chattbottar själv – att läsa sig till den typen av kunskap räcker sällan hela vägen.
 * Om du letar efter sätt att effektivisera ditt arbete är chattbottar en bra kandidat, men inte ett självklart val jämfört med mycket annat som finns att lägga tid på – teknik eller annat.
-* Om du vill hålla dig uppdaterad om banbrytande teknik, för att ha en bild av hur teknik kan påverka samhälle, är chattbottar en stark kandidat.
+* Om du vill hålla dig uppdaterad om banbrytande teknik, för att ha en bild av hur teknik kan påverka samhället, är chattbottar en stark kandidat.
 
 ## Bra förutsättningar för att lära sig använda chattbottar
 En av styrkorna med chattbottar är att det i nästan inte finns någon teknisk tröskel för att komma igång. Du använder de flesta chattbottarna genom att skriva i ett chattfönster, på samma sätt som du skulle skriva till en människa, och du behöver oftast inte bry dig om inställningar och reglage, dolda menyer, eller tekniska finurligheter. Även om det finns olika knep och avancerade inställningar för de som är intresserade kommer man mycket långt med att bara köra igång.
