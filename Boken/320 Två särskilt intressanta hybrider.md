@@ -57,7 +57,7 @@ Exemplet ovan låter lite som ett drömscenario, och är lite för bra för att 
 
 Inte desto mindre är AutoGPT ett verktyg som kan skapa _hyfsade_ litteratursammanställningar och göra _ganska bra_ analyser, och göra det snabbare och billigare än någon människa kan. I dagsläget är det inte ett verktyg som konkurrerar med en expert som får gott om tid på sig, men kan förmodligen mäta sig väl med en icke-expert med tidspress.
 
-Exemplet ovan handlar om att sammanställa information, men AutoGPT kan också vara en _agent_ – en som agerar. Bland verktygen som AutoGPT kan använda finns också saker som e-post, Twitter, verktyg för börshandel, Instagram, talsyntes, möjligheter att skriva och köra kod på din dator och – håll i dig – kapacitet att knoppa av hela hela delmål och skicka till en separat process.
+Exemplet ovan handlar om att sammanställa information, men AutoGPT kan också vara en _agent_ – en som agerar. Bland verktygen som AutoGPT kan använda finns också saker som e-post, Twitter, verktyg för börshandel, Instagram, talsyntes, möjligheter att skriva och köra kod på din dator och – håll i dig – kapacitet att knoppa av hela delmål och skicka till en separat process.
 
 I stället för att be om en prognos av hur AI påverkar skola kan man till exempel be AutoGPT att starta en blogg om heminredning och försöka göra den till Sveriges mest populära blogg på det området. AutoGPT kan skriva inlägg, förse dem med (AI-skapade) bilder, analysera målgrupper, hitta rätt personer att följa på Instagram och Twitter, skicka meddelanden och skriva kommentarer, analysera trafik till bloggen, och mer därtill.
 

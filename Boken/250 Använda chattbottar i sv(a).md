@@ -8,7 +8,7 @@ Kapitlet innehåller olika tips på hur du som undervisar i svenska eller svensk
 
 ## Använda chattbottar för att skriva exempeldikter
 
-Chattbottar kan användas för att skapa exempeltexter för olika ändamål, till exempel i undervisning om lyrik. Man kan tänka sig att liknande upplägg om skönlitterär prosa.
+Chattbottar kan användas för att skapa exempeltexter för olika ändamål, till exempel i undervisning om lyrik. Man kan tänka sig ett liknande upplägg om skönlitterär prosa.
 
 Använd en chattbot för att skriva haikudikter som ni kan analysera tillsammans (eller använd de som är listade nedan). Fördelen med en kort diktform är att man kan läsa flera stycken utan att det blir särskilt jobbigt. Läs gärna dem tillsammans och låt eleverna turas om att läsa upp dem högt. Be dem att försöka läsa med inlevelse och förmå dem att försöka hitta takten. När ni läst kan ni börja leta efter mönster: hur många stavelser har varje versrad? Vilket tema är vanligast förekommande? Därefter kan ni försöka att tolka dikterna tillsammans. Jag brukar låta eleverna arbeta enskilt först, sedan berätta för en kompis för att slutligen berätta för hela klassen. Med fördel kan du dela upp det så att varje elevpar får en egen dikt. 
 

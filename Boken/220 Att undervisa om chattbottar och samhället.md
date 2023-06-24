@@ -14,7 +14,7 @@ Det här kapitlet är skrivet av någon som inte är behörig i vare sig samhäl
 ## Arbeta ämnesövergripande
 Inte minst i grundskolan finns möjlighet att arbeta ämnesövergripande mellan samhällskunskap (eller SO) och teknik, för att undervisa om chattbottar och eventuellt annan AI-teknik. Att arbeta tillsammans med lärare i andra ämnen kan ge värdefulla perspektiv både vad gäller undervisningens innehåll och arbetssätt, men kan förstås också kosta tid och ansträngningar.
 
-På gymnasial nivå finns det som motsvarar grundskolans teknikämne, men på vissa program finns andra teknikämnen och kurser som kan ge möjlighet till ämnesövergripande arbete tillsammans med samhällskunskapen.
+På gymnasial nivå finns inte det som motsvarar grundskolans teknikämne, men på vissa program finns andra teknikämnen och kurser som kan ge möjlighet till ämnesövergripande arbete tillsammans med samhällskunskapen.
 
 ## Förskoleklass och lågstadiet
 I förskoleklass och lågstadiet är frågor om chattbottar och Snapchat förmodligen underordnade frågor som rör om elever har egna telefoner, och hur de i så fall får eller bör användas. Det kan vara värt att undersöka hur många elever i klassen som har egna telefoner, och hur många av dessa som har konton på sociala medier – Snapchat eller andra.
