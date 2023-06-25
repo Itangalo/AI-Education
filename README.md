@@ -99,6 +99,7 @@ Tack till följande personer som bidragit till boken:
 * Peter Parnes (korrekturläsning)
 * Anette Jahnke (förord)
 * Jonatan Tensetti (AI-inläsning för talbok)
+* Martin Krisell för att ha fixat språkfel
 * Idéer för användningsområden och ställen att läsa mer: Marcus Strömbäck Hjärne, Julia Tsygan, Malin Frykman, Patricia Diaz, Jalal Nouri
 
 Alla dessa har hjälpt till att göra boken bättre, och ingen skugga ska falla på dem för de missar som finns kvar.
