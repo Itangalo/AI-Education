@@ -24,7 +24,7 @@ Vad är nytt?
 * Lärare och andra engagerade i skola är välkomna att bidra med egna kapitel med praktiska tipsen. Del 2 av boken kommer att utökas löpande med sådana tips.
 * Del 3 av boken, och AI och framtiden, har fått flera nya kapitel och djupare analyser. Till exempel: Hur fort går utvecklingen? Närmare titt på två viktiga hybrider. Bredare analys av hur vår syn på kunskap kan påverkas. Och utökat kapitel om risker med AI, kompletterat med ett antal möjliga scenarion för framtiden.
 
-<a href="https://github.com/Itangalo/AI-Education/files/11824528/AI.och.skolan.2.0.2023-06-21.pdf" target="_blank">Ladda hem version 2.0</a>, och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
+<a href="https://github.com/Itangalo/AI-Education/files/11860979/AI.och.skolan.2.1.2023-06-25.pdf" target="_blank">Ladda hem version 2.1</a>, och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
 
 ### Mer länkar
 
