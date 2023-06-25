@@ -159,7 +159,7 @@ Det är värt att notera att utvärdering mot betygskriterier inte behöver hand
 > Exempel från ChatGPT (GPT-4, maj 24)
 > **Jag:** Här nedanför är en argumenterande text om kärnkraft skriven av en 15-åring. Kan du ge återkoppling på texten utifrån betygskriterierna i årskurs 9, inklistrade nedan?
 > [uppsatsen]
-> [relevanta delar av betygskriterier]
+> [relevanta delar av betygskriterier i svenska årskurs 9]
 > **Chattbot:** Den text som 15-åringen har skrivit är argumenterande och tar upp flera viktiga aspekter av kärnkraft. Låt oss bryta ner det utifrån betygskriterierna.
 > 1. **Struktur och innehåll**: Texten har en tydlig struktur med en inledning där skribenten presenterar ämnet, följt av flera argument som stödjer skribentens åsikt, och avslutar med en sammanfattning och uppmaning. Strukturen är väl fungerande.
 > 2. **Språklig variation och anpassning till mottagare**: Skribenten använder ett informellt språk som är lämpligt för att engagera jämnåriga. Det finns en god variation i språket, med metaforer som ”kärnkraft är som en ninja” och ett mer ungdomligt språk som ”grym idé”. Detta kan ses som en god anpassning till en yngre målgrupp.
@@ -175,7 +175,7 @@ Notera att chattbotten uttrycker sig i termer av betyg utan att det efterfrågad
 > Exempel från ChatGPT (GPT-4, maj 24)
 > **Jag:** Här nedanför är en argumenterande text om kärnkraft skriven av en 15-åring. Kan du ge återkoppling på texten utifrån betygskriterierna i årskurs 9, inklistrade nedan? Skriv återkopplingen så att det framgår vad styrkorna med texten är och vad eleven tjänar mest på att arbeta vidare med.
 > [uppsatsen]
-> [relevanta delar av betygskriterier]
+> [relevanta delar av betygskriterier i svenska årskurs 9]
 > **Chattbot:** Hej!
 > Först och främst, bra jobbat med att skriva en argumenterande text om ett så viktigt ämne som kärnkraft!
 > **Styrkor:**
@@ -196,7 +196,7 @@ Notera att chattbotten uttrycker sig i termer av betyg utan att det efterfrågad
 > Exempel från ChatGPT (GPT-4, maj 24)
 > **Jag:** Här nedanför är en argumenterande text om kärnkraft skriven av en 15-åring, och även betygskriterierna i årskurs 9. Vilket betyg bör uppsatsen få?
 > [uppsatsen]
-> [relevanta delar av betygskriterier]
+> [relevanta delar av betygskriterier i svenska årskurs 9]
 > **Chattbot:** För att utvärdera den argumenterande texten som är skriven av en 15-åring i förhållande till betygskriterierna för årskurs 9, kan vi bryta ner texten och dess element i förhållande till kriterierna:
 > 1. **Struktur och innehåll**: Texten har en tydlig och informell introduktion som engagerar läsaren. Den har också en logisk struktur där skribenten presenterar olika argument för kärnkraft. Texten avslutas med en sammanfattning och tack till läsaren. Detta visar att strukturen och innehållet är fungerande.
 > 2. **Språklig variation**: Språket är informellt, och skribenten använder en konversationell ton. Skribenten använder också liknelser och humor för att engagera läsaren. Detta indikerar en viss språklig variation men inte på en mycket hög nivå.
