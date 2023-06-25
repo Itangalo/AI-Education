@@ -12,7 +12,7 @@ Det här exempelkapitlet innehåller riktlinjer och malltexter att använda för
 * Utdrag ur konversationer med chattbottar ska återges ordagrant, eller så ska eventuella justeringar vara markerade.
 * Text som _inte_ är konversationer med chattbottar ska vara skriven av en människa. Att använda chattbottar eller andra verktyg för att bearbeta texter eller idéer är inga problem, men det ska inte vara AI-skapade texter som redigerats av en människa.
  * Det får mycket gärna finnas med aktiviteter eller övningar. Det får också gärna finnas frågor att reflektera över (till exempel med utgångspunkt i de vanliga misstagen som beskrivs i del 1).
-* Licens för boken är ännu inte avgjord, men blir förmodligen en Creative Commons-licens. Författare måste vara beredda att låta andra använda, kopiera och modifiera texten. Ursprungsförfattaren ska dock fortfarande anges.
+* Boken sprids under Creative Commons-licens. Författare måste vara beredda att låta andra använda, kopiera och modifiera texten. Ursprungsförfattaren ska dock fortfarande anges.
 * …
 
 ## Förslag på kapitel till boken
@@ -25,7 +25,6 @@ Det här exempelkapitlet innehåller riktlinjer och malltexter att använda för
 * Chattbottar i filosofiundervisning
 * Ge elever stöd i skrivprocess
 * Stimulera läsning med interaktiva berättelser
-* Bedöma uppsatser (inklusive många varningsflaggor)
 * Stöd för elever med kognitiva funktionshinder
 * Skapa extra utmaningar i \<ämne\>
 * Planera lektioner
