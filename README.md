@@ -7,14 +7,14 @@
 
 <p float="left" align="middle">
   <a href="https://books2read.com/aiineducation" target="_blank"><img src="https://user-images.githubusercontent.com/262940/218328438-e4914050-cbd4-4d36-9d10-1b76d7caecef.png" title="Cover Image" width="40%" height="40%" /></a>
-  <a href="https://github.com/Itangalo/AI-Education/files/11824528/AI.och.skolan.2.0.2023-06-21.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/246669860-8057021f-99fa-43c9-baaa-11bce0adef3c.jpg" title="Omslagsbild" width="40%" height="40%" /></a>
+  <a href="https://github.com/Itangalo/AI-Education/files/11860979/AI.och.skolan.2.1.2023-06-25.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/246669860-8057021f-99fa-43c9-baaa-11bce0adef3c.jpg" title="Omslagsbild" width="40%" height="40%" /></a>
 </p>
 
 ----
 
 ## AI och skolan version 2 ute nu!
 
-Tekniken rör sig snabbt, och vi fortsätter också att lära oss om hur AI kan påverka skola och samhälle. Därför finns nu version 2.0 av boken tillgänglig – drygt 4 månader efter att version 1.0 släpptes.
+Tekniken rör sig snabbt, och vi fortsätter också att lära oss om hur AI kan påverka skola och samhälle. Därför finns nu version 2.0 (nu 2.1!) av boken tillgänglig – drygt 4 månader efter att version 1.0 släpptes.
 
 Vad är nytt?
 
@@ -28,7 +28,7 @@ Vad är nytt?
 
 ### Mer länkar
 
-Ladda hem version (1.5) här från projektsidan
+Ladda hem version 1.5
 
 * [Epub](https://github.com/Itangalo/AI-Education/files/10716412/AI.och.skolan.2023-02-12.16.28.epub.zip)
 * [pdf](https://github.com/Itangalo/AI-Education/files/10716413/AI.och.skolan.2023-02-12.16.28.pdf)
@@ -52,7 +52,7 @@ Föreläsning genom Folkuniversitetet med utgångspunkt i version 1.0 av boken
 Om du vill hänvisa till version 2.x av boken kan du utgå från följande:
 
 * Titel: AI och skolan, version 2.x (ange vilken version du hänvisar till)
-* Utgivningsdatum: Se [sidan med versioner](https://github.com/Itangalo/AI-Education/releases) (2023-06-21 för version 2.0)
+* Utgivningsdatum: Se [sidan med versioner](https://github.com/Itangalo/AI-Education/releases) (2023-06-21 för version 2.0, 2023-06-25 för version 2.1)
 * Författare: Johan Falk
 * ISBN: 9798215302736 (endast för version 2.0)
 * Förlag: Draft2Digital
