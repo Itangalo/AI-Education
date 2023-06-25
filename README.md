@@ -96,9 +96,9 @@ Thanks to Jonatan Tensetti for arranging an audiobook version of AI in Education
 Tack till följande personer som bidragit till boken:
 
 * Rustan Håkansson (idéer och inspiration)
-* Peter Parnes (korrekturläsning)
+* Jonatan Tensetti (kapitel i del 2 samt AI-inläsning för talbok, version 1)
+* Peter Parnes (korrekturläsning version 1)
 * Anette Jahnke (förord)
-* Jonatan Tensetti (AI-inläsning för talbok)
 * Martin Krisell för att ha fixat språkfel
 * Idéer för användningsområden och ställen att läsa mer: Marcus Strömbäck Hjärne, Julia Tsygan, Malin Frykman, Patricia Diaz, Jalal Nouri
 
