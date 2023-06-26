@@ -1,5 +1,5 @@
 AI och skolan, Johan Falk
-Version 2.1, publicerad 2023-06-25
+Version 2.2, publicerad 2023-06-26
 
 Den här boken är tillgänglig under CC BY-SA 4.0: [creativecommons.org/licenses/by-sa/4.0/][1]. Det betyder att du får använda och anpassa innehållet för de ändamål du vill, men måste ange varifrån materialet kommer och sprida det vidare under samma villkor.
 
