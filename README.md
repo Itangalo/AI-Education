@@ -52,7 +52,7 @@ Föreläsning genom Folkuniversitetet med utgångspunkt i version 1.0 av boken
 Om du vill hänvisa till version 2.x av boken kan du utgå från följande:
 
 * Titel: AI och skolan, version 2.x (ange vilken version du hänvisar till)
-* Utgivningsdatum: Se [sidan med versioner](https://github.com/Itangalo/AI-Education/releases) (2023-06-21 för version 2.0, 2023-06-25 för version 2.1)
+* Utgivningsdatum: Se [sidan med versioner](https://github.com/Itangalo/AI-Education/releases) (2023-06-21 för version 2.0, 2023-06-26 för version 2.2)
 * Författare: Johan Falk
 * ISBN: 9798215302736 (endast för version 2.0)
 * Förlag: Draft2Digital
