@@ -1,9 +1,9 @@
 # Bedöma uppsatser
 _Det här kapitlet är skrivet av Johan Falk. På bokens projektsida [github.com/itangalo/AI-och-skolan][1] kan du föreslå nya kapitel och förbättringar till befintliga kapitel._
 
-I det här kapitlet finns tips och tankar angående att använda chattbottar för att bedöma uppsatser, främst sådana som fokuserar på språk men i viss mån också uppsatser berör sakinnehåll.
+I det här kapitlet finns tips och tankar angående att använda chattbottar för att bedöma uppsatser.
 
-Att använda chattbottar för att bedöma uppsatser har potential att spara mycket arbete, men det rymmer också möjligheter att begå flera av de misstag som nämns i del 1 av boken. Att ta en text skriven av en elev och mata in i en chattbot bör redan de få en varningsklocka eller två att börja ringa. Innehåller uppsatsen information om eleven, om någon annan, eller någon annan känslig information? Är det över huvud taget ok att ta någon annans alster och mata in i en chattbot, där villkoren mycket väl kan omfatta att AI-företaget får spara och använda texten som de vill?
+Att använda chattbottar för att bedöma uppsatser har potential att spara mycket arbete, men det rymmer också möjligheter att begå flera av de misstag som nämns i del 1 av boken. Att ta en text skriven av en elev och mata in i en chattbot bör redan det få varningsklockor att börja ringa. Innehåller uppsatsen information om eleven, om någon annan, eller någon annan känslig information? Är det över huvud taget ok att ta någon annans alster och mata in i en chattbot, där villkoren mycket väl kan omfatta att AI-företaget får spara och använda texten som de vill?
 
 I det här kapitlet tittar vi närmare på vilka möjligheter som finns när det gäller att använda chattbottar för att underlätta och snabba upp arbete med att bedöma uppsatser. Kapitlet är skrivet av en lärare i matematik och fysik, som har begränsad erfarenhet av att bedöma uppsatser. Författarens kunskaper om juridik när det gäller upphovsrätt och GPDR är också begränsade. Det finns alltså all anledning att också använda sitt eget omdöme vid läsning och användning av det som står här.
 
@@ -12,16 +12,16 @@ I det här kapitlet tittar vi närmare på vilka möjligheter som finns när det
 ## Kan jag skicka en elevuppsats till en chattbot?
 En bra tumregel är att inte skriva något till en chattbot som du inte skulle kunna posta på Facebook. Sett ur det perspektivet bör man tänka sig för både en och två gånger innan elevuppsatser lämnas vidare.
 
-Ur juridiskt perspektiv är det förmodligen två aspekter som är värda att titta närmare på: personuppgifter eller andra känsliga uppgifter, och upphovsrätt.
+Ur juridiskt perspektiv är det förmodligen två aspekter som är värda att titta närmare på. Det ena är personuppgifter eller andra känsliga uppgifter, och det andra är upphovsrätt.
 
 ### Upphovsrätt och verkshöjd
-När det gäller upphovsrätt brukar man tala om ”verkshöjd” för att något ska skyddas av upphovsrätt. Högskolan i Halmstad gör tydligt att om lärare vill publicera material som studenter skapat på internet behövs studentens samtycke[^1], men det är inte självklart att samma sak gäller en uppsats om andra världskriget från årskurs 7.
+När det gäller upphovsrätt brukar man tala om ”verkshöjd” för att något ska skyddas av upphovsrätt. Högskolan i Halmstad gör tydligt att deras bedömning är att om lärare vill publicera material som studenter skapat på internet behövs studentens samtycke[^1], men det är inte självklart att samma sak gäller en uppsats om andra världskriget från årskurs 8.
 
-Oavsett ålder och verkshöjd kan an argumentera för att man bör visa respekt för elever och de texter som de skriver, och att ett sätt att göra det är att be om tillåtelse innan texter lämnas vidare. En sådan förfrågan bör förmodligen kort förklara i vilket syfte texten lämnas vidare, och om elever inte är myndiga _kan_ det vara lämpligt att även be om godkännande från vårdnadshavare.
+Oavsett ålder och verkshöjd kan man argumentera för att man bör visa respekt för elever och de texter som de skriver, och att ett sätt att göra det är att be om tillåtelse innan texter lämnas vidare. En sådan förfrågan bör förmodligen kort förklara i vilket syfte texten lämnas vidare, och om elever inte är myndiga _kan_ det vara lämpligt att även be om godkännande från vårdnadshavare.
 
 En sådan förfrågan skulle kunna se ut så här:
 
-> För att underlätta arbetet med att bedöma och ge återkoppling på uppsatser vill jag som lärare ta stöd av AI-teknik. Det gör det möjligt för mig att ge bättre återkoppling och säkrare bedömningar utan att det tar mer tid, men det innebär också att din uppsats kan komma att användas för att träna nya AI-tjänster. Kryss i rutan nedan om det är ok att använda AI-stöd när jag bedömer och ger återkoppling på din uppsats.
+> För att underlätta arbetet med att bedöma och ge återkoppling på uppsatser vill jag som lärare ta stöd av AI-teknik. Det gör det möjligt för mig att ge bättre återkoppling och säkrare bedömningar utan att det tar mer tid, men det innebär också att din uppsats kan komma att användas för att träna nya AI-tjänster. Kryssa i rutan nedan om det är ok att använda AI-stöd när jag bedömer och ger återkoppling på din uppsats.
 
 ### Personuppgifter och andra känsliga uppgifter
 Om en uppsats innehåller personuppgifter eller andra känsliga uppgifter måste de rensas bort innan uppsatsen skickas till en chattbot.[^2] För vissa typer av uppsatser, så som en uppsats om citronsyracykeln, är det sällan något problem. För andra typer av uppsatser kan det kräva att namn eller vissa personspecifika saker byts ut. Och för vissa typer av uppsatser, till exempel på temat ”mina framtidsdrömmar”, skulle så mycket av en uppsats behöva kapas eller bytas ut att det inte är meningsfullt att bedöma det som är kvar.
@@ -31,7 +31,7 @@ För att veta om en uppsats innehåller personuppgifter – även en uppsats om 
 ## Omvandla anteckningar till återkoppling
 Oavsett vilken typ av uppsats det handlar om, och hur mycket personuppgifter den än innehåller, finns möjlighet att använda en chattbot för att omvandla egna lösa anteckningar till återkoppling att skicka till eleven. Metoden gör att du har kontroll över vilken data som skickas till chattbotten.
 
-Det utkast till återkoppling som chattbotten ger behöver förstås läsas igenom och justeras, om det inte stämmer med den återkoppling du vill ge. Nedan syns två exempel på hur prompt och återkoppling skulle kunna se ut.
+Det utkast till återkoppling som chattbotten ger behöver du läsa igenom och eventuellt justera, om det inte stämmer med den återkoppling du vill ge. Nedan syns två exempel på hur prompt och återkoppling skulle kunna se ut.
 
 > Exempel från ChatGPT (GPT-4, maj 24)
 > **Jag:** Jag bedömer uppsatser som mina årskurs 8:or har skrivit om orsakerna till andra världskriget. Kan du ge mig utkast på återkoppling till en uppsats utifrån anteckningarna nedan?
@@ -128,7 +128,7 @@ Om man som lärare själv brukar läsa eller bedöma uppsatser enligt vissa mön
 (Observera den felaktiga återkopplingen i punkt 2.)
 
 ### Återkoppling utifrån betygskriterier
-En stark begränsning med chattbottar och språkmodeller är att det inte går att se hur de kommit fram till sina svar. Därmed är det också mycket svårt att veta om en chattbot använder betygskriterier på ett lämpligt sätt – även om de anges explicit i en prompt. Det är däremot mycket tveksamt om det är lämpligt att använda chattbottar för att utvärdera uppsatser mot betygskriterier, men det skulle kunna vara en användbar second opinion om läraren redan gjort en egen bedömning.
+En stark begränsning med chattbottar och språkmodeller är att det inte går att se hur de kommit fram till sina svar. Därmed är det också mycket svårt att veta om en chattbot använder betygskriterier på ett lämpligt sätt – även om de anges explicit i en prompt. Det är därmed mycket tveksamt om det är lämpligt att använda chattbottar för att utvärdera uppsatser mot betygskriterier, men det skulle kunna vara en användbar second opinion om läraren redan gjort en egen bedömning.
 
 Det är värt att notera att utvärdering mot betygskriterier inte behöver handla om att ge betyg, utan skulle kunna handla om att hitta saker att utveckla. (Och man kan fundera över hur meningsfullt det är att ge betygsbeteckningar på enskilda uppsatser.)
 
@@ -137,21 +137,21 @@ Det är värt att notera att utvärdering mot betygskriterier inte behöver hand
 > [uppsatsen]
 > **Chattbot:** Den argumenterande texten skriven av den 15-åringen är ett exempel på en skoluppgift, och jag kommer att ge återkoppling utifrån de betygskriterier som ofta används i svensk skolor för årskurs 9.
 > 1. **Innehåll och ämneskunskap**
->   - Eleven har valt ett relevant ämne (kärnkraft) och försöker koppla det till aktuella problem som klimatförändringar.
->   - Eleven har visat en grundläggande förståelse för ämnet, även om informationen är något ytlig.
->   - Det skulle vara bra att inkludera mer detaljerad och specificerad information för att styrka argumenten.
+> 	2. Eleven har valt ett relevant ämne (kärnkraft) och försöker koppla det till aktuella problem som klimatförändringar.
+> 	2. Eleven har visat en grundläggande förståelse för ämnet, även om informationen är något ytlig.
+> 	3. Det skulle vara bra att inkludera mer detaljerad och specificerad information för att styrka argumenten.
 > 2. **Struktur och sammanhang**
->   - Texten är relativt väl strukturerad. Eleven introducerar ämnet och avslutar med en sammanfattning.
->   - Det finns tydliga stycken som behandlar olika aspekter av ämnet.
->   - En ytterligare utveckling av varje argument med exempel eller data skulle hjälpa till att ge djup till texten.
+> 	1. Texten är relativt väl strukturerad. Eleven introducerar ämnet och avslutar med en sammanfattning.
+> 	2. Det finns tydliga stycken som behandlar olika aspekter av ämnet.
+> 	3. En ytterligare utveckling av varje argument med exempel eller data skulle hjälpa till att ge djup till texten.
 > 3. **Språk och stil**
->   - Språket är informellt och tilltalande, vilket gör texten lätt att ta till sig.
->   - Eleven använder sig av vardagligt språk ("snacka", "grym", "typ"), vilket kan vara effektivt för att engagera jämnåriga, men det kan vara värt att överväga en mer formell ton om texten är avsedd för en akademisk uppgift.
+> 	1. Språket är informellt och tilltalande, vilket gör texten lätt att ta till sig.
+> 	2. Eleven använder sig av vardagligt språk ("snacka", "grym", "typ"), vilket kan vara effektivt för att engagera jämnåriga, men det kan vara värt att överväga en mer formell ton om texten är avsedd för en akademisk uppgift.
 > 4. **Källkritik och användning av källor**
->   - Texten innehåller inte några direkta källor eller referenser. För en argumenterande text, speciellt på ett sådant tekniskt och komplicerat ämne som kärnkraft, skulle det vara väldigt användbart att inkludera några pålitliga källor för att stödja argumenten.
+> 	1. Texten innehåller inte några direkta källor eller referenser. För en argumenterande text, speciellt på ett sådant tekniskt och komplicerat ämne som kärnkraft, skulle det vara väldigt användbart att inkludera några pålitliga källor för att stödja argumenten.
 > 5. **Kritiskt tänkande**
->   - Eleven har visat förmåga att tänka kritiskt genom att väga för- och nackdelar av kärnkraft.
->   - Dock, det kritiska tänkandet kan ytterligare förstärkas genom att undersöka och presentera fler perspektiv, och genom att använda konkret data och exempel för att stödja argumenten.
+> 	1. Eleven har visat förmåga att tänka kritiskt genom att väga för- och nackdelar av kärnkraft.
+> 	2. Dock, det kritiska tänkandet kan ytterligare förstärkas genom att undersöka och presentera fler perspektiv, och genom att använda konkret data och exempel för att stödja argumenten.
 > Sammanfattningsvis, texten är ett gott exempel på en elevs förmåga att engagera sig i ett aktuellt ämne och presentera argument på ett tilltalande sätt. För att höja kvaliteten på texten och möta högre betygskriterier, rekommenderas det att eleven utvecklar sina argument med mer detaljerad information, inkluderar källor, och överväger användning av ett mer formellt språk.
 
 ---- 
@@ -214,18 +214,25 @@ Notera att chattbotten uttrycker sig i termer av betyg utan att det efterfrågad
 > För att ge en rättvis och balanserad bedömning är det också bra att ha en dialog med kollegor eller att följa etablerade riktlinjer och praxis inom skolan.
 > I slutändan är det viktigt att betyget och feedbacken ges med elevens bästa intresse i åtanke, och att det hjälper eleven att växa och utveckla sina färdigheter. Mitt svar kan användas som en utgångspunkt, men jag rekommenderar att du använder din professionella bedömning och erfarenhet för att ge ett slutligt betyg.
 
-Det är ganska läskigt hur villig chattboten är att ge betyg på en uppsats. Det är också intressant hur den inte verkar skilja mellan betyg och återkoppling (vilket i och för sig är bäddat för om man ber om ett betyg på en uppsats).
+Det är tänkvärt hur villig chattboten är att ge betyg på en uppsats. Det är också intressant hur den inte verkar skilja mellan betyg och återkoppling (vilket i och för sig är bäddat för om man ber om ett betyg på en uppsats).
 
 ## Andra tankar om bedömning av uppsatser med chattbottar
 
 ### Hur konsekvent bedömer chattbottar?
-Att be chattbottar betygsätta uppsatser väcker direkt frågan hur konsekvent sådan betygsättning blir. När samma prompt som användes i sista exemplet ovan (där betyg direkt efterfrågades) gavs fem gånger till GPT-4, blev resultatet i fyra fall att uppsatsen ligger mellan E och C, men närmare E, och i ett fall ”ett betyg närmare C”. När samma prompt gavs till GPT-3.5 fem gånger blev det större spridning: Ett E, två omdömen ”vissa av kriterierna för C”, ett C och ett ”C–B” (vilket var extra intressant eftersom betyget B hade klippts bort från kriterierna i prompten).
+Att be chattbottar betygsätta uppsatser väcker direkt frågan hur konsekvent sådan betygsättning blir. Prompten ovan (där betyg direkt efterfrågades) testades fem gånger i rad med GPT-4 och fem gånger med GPT-3.5 med följande resultat:
+
+* GPT-4: I fyra fall bedömdes uppsatsen ligga mellan E och C, men närmare E. I ett fall blev bedömningen ”ett betyg närmare C”.
+* GPT-3.5:
+	* En bedömning med E
+	* Två bedömningar med ”vissa av kriterierna för C”
+	* En bedömning med C
+	* En bedömning med ”C–B” (vilket var extra intressant eftersom betyget B hade klippts bort från kriterierna i prompten).
 
 En undersökning med 5 + 5 bedömningar av chattbottar är för liten för att säga något om hur stor variation det är i bedömningen, men redan från dessa resultat går det att dra slutsatsen att bedömningen varierar även med exakt samma fråga. (Och detta är utan att ta hänsyn till om chattbotten gör en _korrekt_ bedömning – det handlar bara om hur konsekvent den är.)
 
 Det är alltså med stor försiktighet man ska be chattbottar att bedöma uppsatser i termer av betyg – det är risk att svaren leder läraren fel, om man inte är väl ankrad i sin egen bedömning först.
 
-Man skulle däremot kunna fantisera om att göra bedömningar på gruppnivå eller till och med nationell nivå: om man kan anta att felbedömningar tar ut varandra, och de inte har någon betydelse för enskilda elever, kan det vara ett effektivt sätt att bedöma tusentals uppsatser och se hur bedömningar skiljer sig mellan grupper eller över tid.
+Man skulle däremot kunna fantisera om att göra bedömningar på gruppnivå eller till och med nationell nivå: Om man kan anta att felbedömningar tar ut varandra, och de inte har någon betydelse för enskilda elever, kan det vara ett effektivt sätt att bedöma tusentals uppsatser och se hur bedömningar skiljer sig mellan grupper eller över tid. Innan något sådant kan göras behöver man dock jämföra chattbottars bedömningar med de som lärare gör. Vissa sådana jämförelser har gjorts – exempelvis en norsk undersökning från februari 2023 som visade att bedömningar var ”påfallande lika”.[^4]
 
 ### Elever som själva får återkoppling från chattbottar?
 Vad händer om elever själva ber en chattbot om återkoppling och bearbetar en uppsats i flera omgångar innan den lämnas in? Metoden skulle kunna testas i senare årskurser, där elever blivit lite mer självständiga i sin skrivprocess och förhoppningsvis kan förhålla sig på ett sunt sätt till återkoppling som de får.
@@ -240,5 +247,8 @@ En metod skulle kunna vara att läraren ger eleverna en uppsättning med genomt�
 
 [^3]:	I teorin skulle en chattbot förmodligen kunna avgöra om det finns personuppgifter eller andra känsliga uppgifter i en uppsats, men så länge chattbottar bor på servrar i USA hjälper det inte så mycket. Den dagen enkla chattbottar finns på ens egen dator öppnas nya möjligheter.
 
+[^4]:	[https://www.nrk.no/sorlandet/bruker-robot-til-a-rette-oppgaver-og-setje-karakterar-1.16281165][3]
+
 [1]:	https://github.com/Itangalo/AI-och-skolan
 [2]:	https://www.hh.se/student/innehall-a-o/upphovsratt.html
+[3]:	https://www.nrk.no/sorlandet/bruker-robot-til-a-rette-oppgaver-og-setje-karakterar-1.16281165 "NRK: Robot sette karakteren til Amanda - resultatet overraska"
