@@ -154,7 +154,7 @@ Det är värt att notera att utvärdering mot betygskriterier inte behöver hand
 > 	2. Dock, det kritiska tänkandet kan ytterligare förstärkas genom att undersöka och presentera fler perspektiv, och genom att använda konkret data och exempel för att stödja argumenten.
 > Sammanfattningsvis, texten är ett gott exempel på en elevs förmåga att engagera sig i ett aktuellt ämne och presentera argument på ett tilltalande sätt. För att höja kvaliteten på texten och möta högre betygskriterier, rekommenderas det att eleven utvecklar sina argument med mer detaljerad information, inkluderar källor, och överväger användning av ett mer formellt språk.
 
----- 
+För att öka sannolikheten att chattbotten faktiskt utgår från betygskriterierna kan de klistras in i prompten:
 
 > Exempel från ChatGPT (GPT-4, maj 24)
 > **Jag:** Här nedanför är en argumenterande text om kärnkraft skriven av en 15-åring. Kan du ge återkoppling på texten utifrån betygskriterierna i årskurs 9, inklistrade nedan?
@@ -168,9 +168,7 @@ Det är värt att notera att utvärdering mot betygskriterier inte behöver hand
 > 5. **Språkliga normer**: Skribenten följer i huvudsak språkliga normer, men det informella språket och avsaknaden av mer formell terminologi kan vara mindre lämpligt i ett mer akademiskt eller formellt sammanhang.
 > Sammanfattningsvis skulle jag säga att texten närmar sig betygskriterierna för ett C. Den har en fungerande struktur, relativt god språklig variation, och relativt väl underbyggda argument. För att närma sig betyg A skulle det vara bra att inkludera mer konkret information, källhänvisningar, och potentiellt använda ett något mer formellt språk för att ge texten större tyngd i argumentationen.
 
-Notera att chattbotten uttrycker sig i termer av betyg utan att det efterfrågades i prompten, och ger även förslag på vad som behövs för att få en högre bedömning mot betygskriterierna.
-
----- 
+Notera att chattbotten uttrycker sig i termer av betyg utan att det efterfrågades i prompten, och ger även förslag på vad som behövs för att få en högre bedömning mot betygskriterierna. Det är inte alls säkert att det är bästa formen för återkoppling. Nedan är ett exempel där chattbotten instrueras tydligare att lyfta fram styrkor och svagheter.
 
 > Exempel från ChatGPT (GPT-4, maj 24)
 > **Jag:** Här nedanför är en argumenterande text om kärnkraft skriven av en 15-åring. Kan du ge återkoppling på texten utifrån betygskriterierna i årskurs 9, inklistrade nedan? Skriv återkopplingen så att det framgår vad styrkorna med texten är och vad eleven tjänar mest på att arbeta vidare med.
@@ -191,7 +189,28 @@ Notera att chattbotten uttrycker sig i termer av betyg utan att det efterfrågad
 > Vänliga hälsningar,
 > ChatGPT
 
----- 
+I exemplet nedan instrueras chattbotten att ge återkoppling utifrån betygskriterierna, men också att återkopplingen ska ske utan att betyg eller värdeord i betygskriterierna nämns. Avsikten med detta är att förhindra att återkopplingen signalerar en viss betygsnivå. Dels kan en sådan betygsnivå vara felaktigt bedömd av chattbotten, dels finns anledning att försöka styra fokus till lärande och utveckling snarare än betygsnivåer.
+
+> Exempel från ChatGPT (GPT-4, maj 24)
+> **Jag:** Här nedanför är en argumenterande text om kärnkraft skriven av en 15-åring. Kan du ge återkoppling på texten utifrån betygskriterierna i årskurs 9, inklistrade nedan? Skriv återkopplingen så att det framgår vad styrkorna med texten är och vad eleven tjänar mest på att arbeta vidare med. Återkopplingen ska inte nämna betygssteg eller de fetstilade orden i betygskriterierna.
+> [uppsatsen]
+> [relevanta delar av betygskriterier i svenska årskurs 9]
+> **Chattbot:** Hej!
+> För det första, bra jobbat med din text om kärnkraft! Det är tydligt att du har engagerat dig i ämnet och vill dela med dig av dina tankar.
+> Styrkor:
+> 1. **Personlig stil**: Du använder ett informellt och personligt språk som gör texten engagerande och lätt att relatera till. Det är särskilt effektivt för att nå ut till jämnåriga läsare.
+> 2. **Struktur**: Texten har en klar struktur, med en introduktion där du presenterar ämnet, flera stycken där du diskuterar olika aspekter av kärnkraft, och ett avslutande stycke där du sammanfattar dina tankar. Det hjälper till att hålla läsaren engagerad och gör det lätt att följa dina argument.
+> 3. **Argumentation**: Du tar upp och diskuterar flera vanliga invändningar mot kärnkraft på ett balanserat sätt. Det stärker din argumentation när du inte bara talar om fördelarna utan också erkänner och bemöter kritik.
+> Områden att arbeta vidare med:
+> 1. **Mer underbyggda argument**: För att stärka din argumentation ytterligare, kan det vara bra att inkludera mer fakta och data som stöder dina påståenden. Till exempel, när du pratar om kärnkraft som ett sätt att minska koldioxidutsläpp, kunde du inkludera några siffror eller studier som visar detta.
+> 2. **Källhänvisningar**: I din text nämner du att teknologin går framåt och att det finns idéer för hur man kan återanvända kärnavfall. Det är bra, men det skulle stärka ditt argument om du kunde inkludera några källhänvisningar eller exempel på dessa teknologier. Det hjälper också till att visa att du har gjort research och att din information är trovärdig.
+> 3. **Språklig variation**: Även om din informella stil är engagerande, skulle texten kunna dra nytta av lite mer variation i språket. Använda några mer avancerade eller ämnesspecifika ord kan ge texten ytterligare tyngd och seriösitet där det behövs.
+> Sammantaget är det en mycket bra text med en tydlig struktur och engagerande stil. Genom att lägga till mer fakta, källhänvisningar och lite mer språklig variation kan du göra din argumentation ännu starkare.
+> Fortsätt så, du har en stark röst som skribent!
+> Med vänliga hälsningar,
+> ChatGPT
+
+I exemplet nedan instrueras chattbotten att ge ett betyg på uppsatsen, vilket kan vara användbart exempelvis som en second opinion.
 
 > Exempel från ChatGPT (GPT-4, maj 24)
 > **Jag:** Här nedanför är en argumenterande text om kärnkraft skriven av en 15-åring, och även betygskriterierna i årskurs 9. Vilket betyg bör uppsatsen få?
@@ -214,7 +233,7 @@ Notera att chattbotten uttrycker sig i termer av betyg utan att det efterfrågad
 > För att ge en rättvis och balanserad bedömning är det också bra att ha en dialog med kollegor eller att följa etablerade riktlinjer och praxis inom skolan.
 > I slutändan är det viktigt att betyget och feedbacken ges med elevens bästa intresse i åtanke, och att det hjälper eleven att växa och utveckla sina färdigheter. Mitt svar kan användas som en utgångspunkt, men jag rekommenderar att du använder din professionella bedömning och erfarenhet för att ge ett slutligt betyg.
 
-Det är tänkvärt hur villig chattboten är att ge betyg på en uppsats. Det är också intressant hur den inte verkar skilja mellan betyg och återkoppling (vilket i och för sig är bäddat för om man ber om ett betyg på en uppsats).
+Det är tänkvärt hur villig chattboten är att ge betyg på en uppsats. Det är också intressant hur den inte verkar skilja mellan betyg och återkoppling (vilket i och för sig kanske inte är konstigt när man ber om ett betyg på en uppsats).
 
 ## Andra tankar om bedömning av uppsatser med chattbottar
 
