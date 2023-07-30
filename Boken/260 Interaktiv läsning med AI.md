@@ -4,6 +4,8 @@ _Det här kapitlet är skrivet av Karl Törnered som undervisar i matematik och 
 
 Detta kapitel innehåller praktiska tips för pedagogisk personal som vill integrera AI-verktyg i sina elevers läsprocess för att skapa en mer engagerande och interaktiv läsupplevelse.
 
+---- 
+
 ## AI och interaktiv läsning: En översikt
 
 I min roll som lärare har jag ofta stött på behovet av att hitta läsbart material som komplement till min undervisning. Ofta hittar jag ett par sidor i någon av de läromedel vi har som någorlunda speglar det jag har förmedlat i klassrummet. Jag har dock observerat att flera av mina elever har svårt att ta till sig information via läsning. De behöver interaktion och de behöver engagera sig med materialet för att verkligen absorbera och minnas det.
