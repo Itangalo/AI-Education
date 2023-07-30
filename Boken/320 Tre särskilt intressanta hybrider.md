@@ -61,8 +61,83 @@ Redan idag används chattbottar utanför klassrummen som studiestöd. I början 
 
 AI-stöd i undervisning har en rad frågor och risker att ta hänsyn till, utöver hur korrekt vägledning de ger. En av dem handlar om dataintegritet. En annan handlar om vad som händer om en eller ett fåtal aktörer får inflytande över utbildning över hela världen.
 
+## ChatGPT + Code Interpreter
+I början av juli 2023 lanserade OpenAI inställningen _Code Interpreter_ i ChatGPT. När läget aktiveras blir två nya saker möjliga för chattbotten. Det ena är att chattbotten får en tillfällig filyta, där både botten och användaren kan lägga filer. Det andra är att chattbotten får tillgång till en programmeringsmiljö där den kan skriva, köra och se resultatet av programkod.
+
+I och med att GPT-4 är så pass skicklig på att skriva kod öppnar Code Interpreter möjligheter möjligheter att göra tämligen avancerade saker genom ett enkelt chattgränssnitt. En minst lika intressant effekt är att resultat från program som GPT-4 skapar i många avseenden är mer pålitliga än det som chattbotten skulle svara på egen hand.[^4]
+
+> _Exempel från ChatGPT (GPT-4 + Code Interpreter, 20 juli)_
+> **Jag:** Bifogat är ett kapitel ur boken "AI och skolan". Kan du lista de fem vanligaste orden i kapitlet?
+> **Chattbot:** För att hitta de fem vanligaste orden i texten, kommer jag att:
+> 1. Läsa filen och konvertera all text till små bokstäver.
+> 2. Ta bort alla icke-alfanumeriska tecken (som punkter, kommatecken, etc.) för att endast behålla orden.
+> 3. Bryta ner texten till enskilda ord.
+> 4. Räkna hur många gånger varje ord förekommer.
+> 5. Lista de fem vanligaste orden.
+> Låt oss göra det nu.
+> [Chattbotten skriver och exekverar ett program.]
+> De fem vanligaste orden i kapitlet är:
+> 1. "att" - förekommer 304 gånger
+> 2. "ai" - förekommer 219 gånger
+> 3. "och" - förekommer 185 gånger
+> 4. "det" - förekommer 149 gånger
+> 5. "som" - förekommer 148 gånger
+> **Jag:** Tack! Kan du göra en mer sofistikerad analys av vilka ord som är de viktigaste? Ta med de tio viktigaste, är du snäll.
+> **Chattbot:** Ja, absolut. En mer sofistikerad analys kan göras med metoden "Term Frequency-Inverse Document Frequency" (TF-IDF). TF-IDF är en statistisk metod för att bedöma vikten av ett ord inom en samling eller ett korpus av dokument.
+> * Termfrekvens (TF) är hur ofta ett visst ord förekommer i ett dokument.
+> * Inverse Document Frequency (IDF) minskar vikten av ord som förekommer mycket ofta och ökar vikten av ord som förekommer sällan.
+> En hög vikt i TF-IDF ges till ord som förekommer ofta i en viss text, men inte i många texter i korpuset.
+> I vårt fall har vi bara en text, så vi kommer att anpassa vår metod för att ge mer vikt åt ord som förekommer ofta, men inte för ofta (för att minimera inverkan av vanliga ord som "och", "det", etc.).
+> Observera att denna metod fortfarande kan vara begränsad, eftersom den inte tar hänsyn till semantiken av orden eller ordens ordning. Men det är en vanligt förekommande teknik inom textmining och natural language processing.
+> Låt oss genomföra denna analys.
+> [Chattbotten skriver och exekverar ett program.][^5]
+> Tyvärr verkar det som att det inte finns någon inbyggd stoppordslista för svenska i den aktuella versionen av scikit-learn. Stoppord är vanligt förekommande ord som normalt tas bort från textdata eftersom de inte bidrar med mycket information. Exempel på engelska stoppord inkluderar "the", "is", "and", etc.
+> Jag kommer att använda en manuell lista över svenska stoppord för att fortsätta med analysen. Denna lista kanske inte är heltäckande, men den bör inkludera de flesta av de vanliga svenska stopporden. Låt oss fortsätta med analysen.
+> [Chattbotten skriver och exekverar ett program.]
+> Jag ber om ursäkt för misstaget. Eftersom vi bara arbetar med ett enda dokument, kan vi inte använda `max_df`-parametern som jag ursprungligen angav. Denna parameter används för att ignorera ord som har en dokumentfrekvens strikt högre än den givna tröskeln, vilket inte är tillämpligt här.
+> Låt oss köra analysen igen utan den här parametern.
+> [Chattbotten skriver och exekverar ett program.]
+> Jag ber om ursäkt för detta misstag. Det verkar som jag glömde att importera pandas-biblioteket, som används för att hantera data i tabellform. Låt mig rätta till det och köra analysen igen.
+> [Chattbotten skriver och exekverar ett program.]
+> Här är de tio viktigaste orden enligt TF-IDF-analysen:
+> 1. "ai" - med en TF-IDF-poäng på 0.091555
+> 2. "https" - med en TF-IDF-poäng på 0.071755
+> 3. "människor" - med en TF-IDF-poäng på 0.067192
+> 4. "com" - med en TF-IDF-poäng på 0.062081
+> 5. "www" - med en TF-IDF-poäng på 0.061019
+> 6. "mer" - med en TF-IDF-poäng på 0.059872
+> 7. "finns" - med en TF-IDF-poäng på 0.058625
+> 8. "super" - med en TF-IDF-poäng på 0.058625
+> 9. "också" - med en TF-IDF-poäng på 0.057958
+> 10. "medvetande" - med en TF-IDF-poäng på 0.057259
+> Observera att ord som "https", "com" och "www" troligen kommer från URL:er i texten. Dessa ord kanske inte är så informativa i detta sammanhang. Om du vill, kan vi filtrera bort dessa ord och uppdatera listan.
+> **Jag:** Tack, filtrera gärna bort ord som kommer från länkar.
+> **Chattbot:**
+> [Chattbotten skriver och exekverar ett program.]
+> Här är de tio viktigaste orden enligt TF-IDF-analysen, efter att ha filtrerat bort ord som kommer från URL:er:
+> 1. "ai" - med en TF-IDF-poäng på 0.091555
+> 2. "människor" - med en TF-IDF-poäng på 0.067192
+> 3. "mer" - med en TF-IDF-poäng på 0.059872
+> 4. "finns" - med en TF-IDF-poäng på 0.058625
+> 5. "super" - med en TF-IDF-poäng på 0.058625
+> 6. "också" - med en TF-IDF-poäng på 0.057958
+> 7. "medvetande" - med en TF-IDF-poäng på 0.057259
+> 8. "2023" - med en TF-IDF-poäng på 0.057259
+> 9. "andra" - med en TF-IDF-poäng på 0.056524
+> 10. "göra" - med en TF-IDF-poäng på 0.056524
+> Observera att dessa ord är de som anses mest "viktiga" i texten enligt TF-IDF-metoden, vilket inte alltid korrelerar med hur centrala de är för textens innebörd. Dessutom ignorerar denna metod ordens ordning och sammanhang, vilket kan påverka resultaten.
+> **Jag:** Kan du göra ett ordmoln med dessa ord?
+> **Chattbot:**
+> [Chattbotten skriver och exekverar ett program.]
+> ![Ordmoln skapat av Code Interpreter][image-1]
+> Här är ett ordmoln baserat på de tio viktigaste orden enligt vår TF-IDF-analys. Storleken på varje ord representerar dess TF-IDF-poäng, vilket i princip betyder dess "vikt" i texten.
+
+Code Interpreter har inte funnits tillräckligt länge för att kunna säga var de riktiga styrkorna ligger, men två tydliga användningsområden är att analysera och visualisera data. I exemplet ovan laddades en textfil upp, men man kan också utgå från CSV-filer med enorma mängder data. I exemplet ovan skapar chattbotten ett ordmoln, men man kan också be om en rad olika typer av diagram och tabeller.
+
+Några överraskande användningsområden som kanske inte är lika brett användbara är att skapa GIF-animationer, identifiera ansikten i bilder, läsa text i bilder, konvertera filer, skapa QR-koder och skapa HTML-sidor. En begränsning med Code Interpreter är att filutrymmet rensas efter cirka fem minuter.
+
 ## AutoGPT
-AutoGPT är en annan typ av AI-hybrid som kan ha stor betydelse. AutoGPT lanserades den 30 mars av en privatperson vid namn Toran Bruce Richards, och gick snabbt stor uppmärksamhet.[^4] Ett antal hybrider med liknande funktioner dykt upp, så som AgentGPT, BabyAGI, Godmode ChaosGPT och SuperAGI, och det kommer sannolikt att dyka upp fler och bättre varianter. I det här avsnittet används AutoGPT som exempel, men det som skrivs gäller även för andra hybrider av samma typ.
+AutoGPT är en annan typ av AI-hybrid som kan ha stor betydelse. AutoGPT lanserades den 30 mars av en privatperson vid namn Toran Bruce Richards, och gick snabbt stor uppmärksamhet.[^6] Ett antal hybrider med liknande funktioner dykt upp, så som AgentGPT, BabyAGI, Godmode ChaosGPT och SuperAGI, och det kommer sannolikt att dyka upp fler och bättre varianter. I det här avsnittet används AutoGPT som exempel, men det som skrivs gäller även för andra hybrider av samma typ.
 
 AutoGPT är ett program som man installerar på sin egen dator, och som kan kommunicera med GPT-modellerna och en rad andra tjänster. Principen bakom AutoGPT är att användaren anger ett mål, och programmet använder sedan chattbottar för att skapa en plan som bryts ner i mindre och mindre bitar (också med hjälp av chattbottar) tills de är hanterbara uppgifter. Uppgifterna genomförs sedan genom de verktyg som bedöms lämpliga: Det kan vara att fråga chattbottar ännu en gång, men också att läsa på Wikipedia, leta efter nyheter, sammanställa börsdata och kolla vädret. Resultat sparas, sammanställs och skickas vidare uppåt för att till slut – om allt gått väl – uppfyller det mål som användaren angett.
 
@@ -98,7 +173,11 @@ Hur förbereder vi oss själva?
 
 [^3]:	[https://www.intelligent.com/new-survey-finds-students-are-replacing-human-tutors-with-chatgpt/][8]
 
-[^4]:	[https://en.wikipedia.org/wiki/Auto-GPT][9]
+[^4]:	De program som chattbotten skriver kan dock innehålla misstag som inte upptäcks, så resultaten är fortfarande inte helt tillförlitliga.
+
+[^5]:	Här, och på fler ställen nedan, ger chattbottens program felmeddelanden. Chattbotten tolkar dessa och uppdaterar koden för att försöka lösa problemen.
+
+[^6]:	[https://en.wikipedia.org/wiki/Auto-GPT][9]
 
 [1]:	https://khanacademy.org/ "Khan Academy"
 [2]:	https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education/c "TED: How AI could save (not destroy) education"
@@ -110,3 +189,5 @@ Hur förbereder vi oss själva?
 [8]:	https://www.intelligent.com/new-survey-finds-students-are-replacing-human-tutors-with-chatgpt/ "Intelligent: New Survey Finds Students Are Replacing Human Tutors with ChatGPT"
 [9]:	https://en.wikipedia.org/wiki/Auto-GPT "Engelska Wikipedias artikel om AutoGPT"
 [10]:	https://www.youtube.com/playlist?list=PL70wNv4dBdJx5Y2cPTUUk00nOxHzpp6g_ "YouTube: Teknik i akademi"
+
+[image-1]:	https://user-images.githubusercontent.com/262940/257077789-c3fdce7d-6637-4b1c-a63a-37eb52e3d71a.png
