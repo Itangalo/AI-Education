@@ -266,7 +266,9 @@ Tjänsten [perplexity.ai][11] är en sådan hybrid av språkmodeller (GPT-3.5 oc
 
 Svaret från chattbotten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter.[^6]
 
-Perplexity.ai är en egen tjänst som anropar chattbottar i bakgrunden, vilket också är en metod som språklärningstjänsten Duolingo använder. En omvänd metod är i stället en hybrid där själva chattbotten utökas med funktioner för att anropa andra applikationer – något som blev möjligt i form av så kallade plugins för betalversionen av ChatGPT i mitten av maj. Nedan syns ett exempel på hur en konversation kan se ut när plugin för WolframAlpha används – en webbtjänst för matematiska beräkningar och kombinerat med en stor bank med data. Det intressanta här är att språkmodellens förmåga att förstå min fråga och skriva lättlästa svar kombineras med en tillförlitlig bank med information. (I exemplet nedan är delar av kommunikationen mellan ChatGPT och WolframAlpha utskrivet, för att ge en känsla av i vilka sammanhang chattbotten kontaktar andra tjänster.)
+Perplexity.ai är en egen tjänst som anropar chattbottar i bakgrunden. Samma metod används av exempelvis språklärningstjänsten Duolingo och verktyget Jenni som skriver akademiska artiklar.
+
+En omvänd metod är i stället att själva chattbotten – gränssnittet för att chatta med en språkmodell – utökas med funktioner för att anropa andra applikationer. Det är något som blev möjligt i form av så kallade plugins för betalversionen av ChatGPT i mitten av maj. Nedan syns ett exempel på hur en konversation kan se ut när plugin för WolframAlpha används – en webbtjänst för matematiska beräkningar och kombinerat med en stor bank med data. Det intressanta här är att språkmodellens förmåga att förstå min fråga och skriva lättlästa svar kombineras med en tillförlitlig bank med information. (I exemplet nedan är delar av kommunikationen mellan ChatGPT och WolframAlpha utskrivet, för att ge en känsla av i vilka sammanhang chattbotten kontaktar andra tjänster.)
 
 > _Exempel från ChatGPT (GPT-4, plugin WolframAlpha aktiverad, 12 maj 2023)._
 > **Jag:** Hur många steg är det mellan Rom och Paris?
@@ -276,6 +278,8 @@ Perplexity.ai är en egen tjänst som anropar chattbottar i bakgrunden, vilket o
 > Jag kommer nu att utföra beräkningen.
 > [REQUEST TO WOLFRAM: "input": "1109000 / 0.7”]
 > Avståndet mellan Rom och Paris är ungefär 1,584,286 steg, givet att ett genomsnittligt steg är 0,7 meter. Observera att detta är en uppskattning och det faktiska antalet steg kan variera beroende på din steglängd.
+
+Ur teknisk synvinkel spelar det mycket liten roll om en hybrid är egen tjänst som anropar en AI eller en chattbot som anropar andra tjänster: Båda kan i teorin göra samma saker. En fördel med egna tjänster som anropar en AI är att de kan utvecklas av fristående aktörer, vilket gör att sådana hybrider utvecklas i rask takt och för alla möjliga användningsområden (och även med skiftande kvalitet). Chattbottar som själva anropar externa tjänster har å andra sidan potential att vara smidigare att använda, och kan nå ut till fler användare.
 
 Det är troligt att olika typer av hybrider kommer att ge många nya användningsområden för chattbottar, i och utanför skolan.
 
