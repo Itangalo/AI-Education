@@ -140,12 +140,12 @@ Det är lätt att föreställa sig att elever kan gå i samma fälla om de lämn
 ## Finns det skeva perspektiv eller skeva värderingar?
 De flesta chattbottar har tränats på text från internet, vilket betyder att de också har potential att uttrycka sexism, rasism, extremism och många andra olämpliga värderingar som finns att hitta på nätet. I stor utsträckning förhindras det av ett sista steg i träningen av AI-modeller kallad _reinforcement learning from human feedback_ eller RLHF, vilket kan ses som människor lär chattbottar hyfs. Resultatet är dock inte felfritt: olämpliga budskap som man försökt träna bort kan ändå synas ibland och – en knepigare nöt att knäcka – olämpliga budskap som man _inte_ aktivt försökt träna bort fortfarande finns kvar. Ett extremt exempel på det senare är att talibanregimen i Afghanistan troligtvis anser att hyfsträning lämnar stora luckor, eftersom de inte omfattar en (enligt dem) korrekt syn på kvinnor. I andra kulturer kan man tänka sig mer subtila luckor, som kan gå under radarn för de flesta men till exempel kan innehålla budskap som minoritetsgrupper finner direkt kränkande.
 
-Men hyfsträning kan också skapa svårigheter i sig. Människor i Sverige kan tycka att hyfsträning gjord efter USA-standarder ger en lite konstig bild när det gäller syn på abort eller användning av cannabis[^2]. En studie på en rad olika chattbottar visar att modeller som genomgått hyfsträning, kanske inte helt överraskande, oproportionellt mycket avspeglar åsikter det som i USA kännetecknas av liberala, välutbildade och välbeställda människor.[^3] Det finns med andra ord anledning att fundera över om budskap från chattbottar under ytan har med sig värderingar eller en världssyn som inte stämmer med vad vi vill (och ska) förmedla i skolan.
+Men hyfsträning kan också skapa svårigheter i sig. Människor i Sverige kan tycka att hyfsträning gjord efter USA-standarder ger en lite konstig bild när det gäller syn på abort eller användning av cannabis[^2]. En studie på en rad olika chattbottar visar att modeller som genomgått hyfsträning, kanske inte helt överraskande, oproportionellt mycket avspeglar åsikter det som i USA kännetecknas av liberala, välutbildade och välbeställda människor.[^3] En annan studie från Köpenhamns universitet jämförde ChatGPT:s svar på frågor om kulturella värden i fem olika länder med verkliga människors svar på samma frågor, och kom fram till att chattbottens svar är tydligt influerade av USA – särskilt om man skriver på engelska.[^4] Det finns med andra ord anledning att fundera över om budskap från chattbottar under ytan har med sig värderingar eller en världssyn som inte stämmer med vad vi vill (och ska) förmedla i skolan.
 
-Det finns chattbottar som inte har genomgått hyfsträning, och alltså kan slänga ur sig budskap utan tanke på om de är oartiga, kränkande eller direkt skadliga. Sådana modeller kräver i regel mer expertis för att hitta och använda, och spelar därför en mindre roll i skolan.
+Det finns chattbottar som inte har genomgått hyfsträning, och alltså kan slänga ur sig budskap utan tanke på om de är oartiga, kränkande eller direkt skadliga. Sådana modeller kan orsaka skada, men kräver i regel mer expertis för att hitta och använda, och spelar därför mindre roll i skolan.
 
 ## Är jag på väg att skicka känsliga uppgifter?
-I april 2023 visade det sig att anställda på Samsung hade skickat känslig data till ChatGPT – i två fall för att förbättra känslig kod, i ett tredje var det mötesanteckningar som delades.[^4] Det finns förmodligen många fler företag och organisationer som skickat information till chattbottar utan att fundera över om det är data som är lämplig att dela.
+I april 2023 visade det sig att anställda på Samsung hade skickat känslig data till ChatGPT – i två fall för att förbättra känslig kod, i ett tredje var det mötesanteckningar som delades.[^5] Det finns förmodligen många fler företag och organisationer som skickat information till chattbottar utan att fundera över om det är data som är lämplig att dela.
 
 Man kan utgå från att chattbottar är molntjänster med servrar utanför EU, och att all information som skickas både bearbetas och sparas. Man ska därför inte skicka personuppgifter eller andra känsliga uppgifter.
 
@@ -154,7 +154,7 @@ En särskilt knivig fråga med verktyg som elever själva använder handlar om _
 
 Men det kan också hända att verktyget tar hand om saker som eleven behöver träna på. Att alltid ha miniräknare till hands gör att elever i mindre utsträckning räknar i huvudet eller på papper, och då kommer de att bli sämre på det. Att lyssna på text ger mindre träning i traditionell läsning, att skriva på tangentbord ger mindre träning i att skriva för hand (och omvänt!), att ta rulltrappan ger mindre träning för benen. Och att använda chattbottar för att formulera texter gör att vi blir sämre på att göra det för hand.
 
-I vissa avseenden kan chattbottar vara så självgående att det inte är rimligt att tala om dem som verktyg. Verktyg kräver i regel kunskaper för att använda: Om du har en skruvdragare och ska bygga en altan behöver du veta hur du ska använda den. Att använda en chattbot för att skriva en uppsats kan snarare jämföras med att hyra in en snickare som bygger altanen åt dig.[^5] Och liknelsen har ytterligare lärdomar: När du tittar på snickaren som bygger altanen kan du felaktigt få uppfattningen att du lär dig hur det går till. Är du tillräckligt uppmärksam kan du få en ytlig förståelse av hur man bygger en altan, men när du själv ska sköta skruvdragaren (och allt annat) blir det tydligt att det inte var så lätt som du trodde. Samma sak gäller med chattbottar. Att lägga över jobb på en chattbot kan göra att elever lär sig mindre av något viktigt – men fortfarande _tro_ att de lär sig.
+I vissa avseenden kan chattbottar vara så självgående att det inte är rimligt att tala om dem som verktyg. Verktyg kräver i regel kunskaper för att använda: Om du har en skruvdragare och ska bygga en altan behöver du veta hur du ska använda den. Att använda en chattbot för att skriva en uppsats kan snarare jämföras med att hyra in en snickare som bygger altanen åt dig.[^6] Och liknelsen har ytterligare lärdomar: När du tittar på snickaren som bygger altanen kan du felaktigt få uppfattningen att du lär dig hur det går till. Är du tillräckligt uppmärksam kan du få en ytlig förståelse av hur man bygger en altan, men när du själv ska sköta skruvdragaren (och allt annat) blir det tydligt att det inte var så lätt som du trodde. Samma sak gäller med chattbottar. Att lägga över jobb på en chattbot kan göra att elever lär sig mindre av något viktigt – men fortfarande _tro_ att de lär sig.
 
 Lösningen på problemet är _inte_ att låta bli verktyg helt och hållet. Lösningen är snarare att vara medveten om att det ofta är mödosamt att lära sig något, och att det alltså är viktigt att välja vad elever ska lägga sina ansträngningar på. (Att något är mödosamt är dock inte samma sak som att det är tråkigt, vilket också är värt att komma ihåg.) Om man vill använda chattbottar för att stötta läsning eller skrivande i lågstadiet kräver det ordentlig eftertanke, medan det är mindre problematiskt att låta studenter på högskola använda en chattbot för att göra en rapport lättare att läsa.
 
@@ -234,7 +234,7 @@ Att bolla tankar med en kollega är ofta ett sätt att komma vidare i sina egna 
 En särskild förmåga som chattbottar har är att kunna hitta på massor av idéer där den mänskliga hjärnan (författarens inräknad) går på grund efter en kort stund.
 
 ## Ge stöd i programmering
-Långt ifrån alla lärare använder programmering i eller utanför sin undervisning, men de som gör det bör vara medvetna om den typ av stöd man kan få från AI-verktyg. Förutom chattbottar finns det också särskilda verktyg skapade för just programmering, där det mest kända förmodligen är [GitHub Copilot][10].
+Långt ifrån alla lärare använder programmering i eller utanför sin undervisning, men de som gör det bör vara medvetna om den typ av stöd man kan få från AI-verktyg. Förutom chattbottar finns det också särskilda verktyg skapade för just programmering, där det mest kända förmodligen är [GitHub Copilot][11].
 
 Chattbottar och annat AI-stöd kan till exempel:
 * Felsöka kod.
@@ -252,7 +252,7 @@ Som med all kod man får given till sig behöver man också hålla ett öga öpp
 # Hybrider
 Språkmodeller har, som nämnts ovan, nackdelen att de inte bryr sig särskilt mycket om vad som är sant eller falskt, utan det primära målet är att skapa meningar som låter bra. Genom att koppla ihop språkmodeller med andra typer av applikationer kan man komma runt mycket av de problemen.
 
-Tjänsten [perplexity.ai][11] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
+Tjänsten [perplexity.ai][12] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
 
 > Exempel från perplexity.ai (GPT-3.5 + sökområde ”all”).
 > **Jag:** Jag vill lära mig mer om vanliga inlärningssvårigheter i matematik på mellanstadiet. Kan du ge mig förslag på en forskningsartikel att läsa?
@@ -264,7 +264,7 @@ Tjänsten [perplexity.ai][11] är en sådan hybrid av språkmodeller (GPT-3.5 oc
 > 5. "Hur hanterar matematiklärarna extra anpassningar på mellanstadiet?" (5): This study examines how teachers can provide extra support and adaptations to students with learning difficulties in mathematics on middle school level.
 > 6. "Matematiksvårigheter" (6): This research article summarizes previous studies on mathematics difficulties and provides recommendations for how to help students with learning difficulties in mathematics.
 
-Svaret från chattbotten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter.[^6]
+Svaret från chattbotten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter.[^7]
 
 Perplexity.ai är en egen tjänst som anropar chattbottar i bakgrunden. Samma metod används av exempelvis språklärningstjänsten Duolingo och verktyget Jenni som skriver akademiska artiklar.
 
@@ -295,7 +295,7 @@ Nästa kategori handlar om lärare som undervisar i ämnen där chattbottar är 
 
 Ytterligare en kategori är lärare där chattbottar är ett meningsfullt verktyg inom ämnen som de undervisar i – alltså något som kan vara värt att _lära sig använda_. Två av chattbottarnas främsta grenar är att bearbeta text och att skriva programkod, vilket betyder att lärare i exempelvis svenska, svenska som andraspråk, programmeringsämnen och matematik kan ha tydlig nytta av att lära sig mer om chattbottar. Det ger dels verktyg för egna arbetet i undervisningen, dels kunskaper om vilka typer av verktyg elever har eller kommer att ha tillgång till. (Huruvida elever också ska lära sig använda chattbottar för att bearbeta texter eller programmera i de här ämnena, eller om det räcker att läraren vet vad chattbottar eventuellt kan tillföra, är en annan fråga.)
 
-Sista kategorin omfattar att lära sig om chattbottar som en ”nice to have” – det är något man kan göra om man har tid över.[^7] Nästan oavsett vad du jobbar med kan chattbottar vara ett användbart verktyg för att effektivisera delar av ditt arbete, men det är inte säkert att det är den bäst investerade tiden – det kan vara minst lika bra att bli bättre på att använda Excel eller hitta nya sätt att samarbeta med kollegor.
+Sista kategorin omfattar att lära sig om chattbottar som en ”nice to have” – det är något man kan göra om man har tid över.[^8] Nästan oavsett vad du jobbar med kan chattbottar vara ett användbart verktyg för att effektivisera delar av ditt arbete, men det är inte säkert att det är den bäst investerade tiden – det kan vara minst lika bra att bli bättre på att använda Excel eller hitta nya sätt att samarbeta med kollegor.
 
 I den här kategorin ingår också att lära sig om chattbottar för att få en bättre känsla för hur en viktig del av teknikutvecklingen ser ut – en som lär påverka samhället och världen.
 
@@ -324,13 +324,15 @@ Om du vill satsa lite mer på att lära sig chattbottar, eller kanske ha mer org
 
 [^3]:	[https://arxiv.org/abs/2303.17548][7]
 
-[^4]:	[https://mashable.com/article/samsung-chatgpt-leak-details][8]
+[^4]:	Se [https://techxplore.com/news/2023-07-chatgpt-american-norms-values-reveals.html][8]
 
-[^5]:	Tack till Jonas Linderoth för den här liknelsen! [https://www.youtube.com/watch?v=GZOSh4ocpeI][9]
+[^5]:	[https://mashable.com/article/samsung-chatgpt-leak-details][9]
 
-[^6]:	När sökningen gjordes om på engelska gav sökområdet ”academic” träffar på artiklar från vetenskapliga tidskrifter, vilket inte var fallet på svenska.
+[^6]:	Tack till Jonas Linderoth för den här liknelsen! [https://www.youtube.com/watch?v=GZOSh4ocpeI][10]
 
-[^7]:	Om du jobbar i skolan har du med stor sannolikhet _inte_ tid över. Men ändå.
+[^7]:	När sökningen gjordes om på engelska gav sökområdet ”academic” träffar på artiklar från vetenskapliga tidskrifter, vilket inte var fallet på svenska.
+
+[^8]:	Om du jobbar i skolan har du med stor sannolikhet _inte_ tid över. Men ändå.
 
 [1]:	https://chat.lmsys.org/
 [2]:	https://open-assistant.io/sv
@@ -338,7 +340,8 @@ Om du vill satsa lite mer på att lära sig chattbottar, eller kanske ha mer org
 [4]:	https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/ "TechTalks: A look at open-source alternatives to ChatGPT"
 [6]:	https://sverigesradio.se/artikel/snapchats-ai-bot-gav-rad-om-cannabis-for-den-som-vill-ha-roligt
 [7]:	https://arxiv.org/abs/2303.17548 "Arxiv: Whose Opinions Do Language Models Reflect?"
-[8]:	https://mashable.com/article/samsung-chatgpt-leak-details "Mashable: Whoops, Samsung workers accidentally leaked trade secrets via ChatGPT"
-[9]:	https://www.youtube.com/watch?v=GZOSh4ocpeI
-[10]:	https://en.wikipedia.org/wiki/GitHub_Copilot "Engelska Wikipedia: GitHub Copilot"
-[11]:	https://www.perplexity.ai/
+[8]:	https://techxplore.com/news/2023-07-chatgpt-american-norms-values-reveals.html "TechXplore: ChatGPT promotes American norms and values, study reveals"
+[9]:	https://mashable.com/article/samsung-chatgpt-leak-details "Mashable: Whoops, Samsung workers accidentally leaked trade secrets via ChatGPT"
+[10]:	https://www.youtube.com/watch?v=GZOSh4ocpeI
+[11]:	https://en.wikipedia.org/wiki/GitHub_Copilot "Engelska Wikipedia: GitHub Copilot"
+[12]:	https://www.perplexity.ai/
