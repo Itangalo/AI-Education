@@ -60,7 +60,7 @@ Om AI och framtiden
 [17]:	https://a16z.com/2023/05/25/ai-canon "AI Canon"
 [18]:	https://theaiexchange.com/therachelwoods "Rachel Woods"
 [19]:	https://www.ai.se/en
-[20]:	https://g.co/kgs/5zmJ3f "The AI Breakdown"
+[20]:	https://breakdown.network/ "The AI Breakdown"
 [21]:	https://theresanaiforthat.com/
 [22]:	https://www.futuretools.io/ "Future Tools"
 [23]:	https://www.cognitiverevolution.ai/

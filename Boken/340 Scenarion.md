@@ -13,14 +13,14 @@ Trycket på omskolning ökar inom framförallt högskola och yrkeshögskola, men
 ## Scenario: Översvämning på nätet
 Inom en snar framtid börjar sociala medier, bloggar, dejtingappar och kommentarsfält på alla möjliga ställen på nätet få AI-skapat innehåll. Det märks till en början inte, eftersom innehållet upplevs genuint och de spärrar som tidigare hållit borta botskapat innehåll inte ger varningar. Ett halvår–år senare dyker det upp rapporter från enskilda tjänster som visar på en stor mängd AI-skapat innehåll, vilket följs av större utredningar som konstaterar att långt över hälften av nätinnehåll skapat senaste året kommer från AI.
 
-Avslöjandena leder till debatt och känslostorm, eftersom många upptäcker att vänskaper de haft över nätet varit med en AI. EU-lagstiftning som kräver att AI-skapat material inte får utges för att vara skapat av en människa kritiseras som tandlös och en ny reglering tas fram på kort tid. Grunden i den nya regleringen är att mänskligt skapat innehåll kan verifieras och spåras tillbaka till källan, och att medlemsstater ska garantera autenticiteten hos sina medborgare. Nya tekniska standarder tas fram och EU-medborgare som uppfyller kraven för att vara internetmyndig (huvudsakligen baserat på ålder) får en digital legitimation.
+Avslöjandena leder till debatt och känslostorm, eftersom många upptäcker att vänskaper de haft över nätet varit med en AI. EU-lagstiftning som kräver att AI-skapat material inte får utges för att vara skapat av en människa kritiseras som tandlös och en ny reglering tas fram på kort tid. Grunden i den nya regleringen är att mänskligt skapat innehåll kan verifieras och spåras tillbaka till källan, och att medlemsstater ska garantera autenticiteten hos sina medborgare. Nya tekniska standarder tas fram och EU-medborgare som uppfyller kraven för att vara internetmyndig (huvudsakligen baserat på ålder) får en digital legitimation.[^1]
 
-Processen med att ta fram tekniska standarder och digital legitimation påskyndas men tar ändå strax över ett år, och under tiden växer andelen AI-skapat innehåll konstant. Detta leder till att allt fler drar sig för interaktion med nya människor (eller icke-människor) online, och att utgångspunkten blir att allting utanför reglerade medier har bottar som avsändare. Sociala medier faller mer eller mindre samman, medan mer intima grupper där människor som känner varandra från den fysiska världen fortsätter att kommunicera online.
+Tekniken för digital legitimation finns i princip redan på plats, men det tar strax över ett år för att få majoriteten av EU-medborgare att använda den.  Under tiden växer andelen AI-skapat innehåll konstant. Detta leder till att allt fler drar sig för interaktion med nya människor (eller icke-människor) online, och att utgångspunkten blir att allting utanför reglerade medier har bottar som avsändare. Sociala medier faller mer eller mindre samman, medan mer intima grupper där människor som känner varandra från den fysiska världen fortsätter att kommunicera online.
 
 I skolan får källkritik en ny dimension, som snarare kan beskrivas som källforensistik. En EU-gemensam bas för internetutbildning införs, kompletterat med ytterligare delar unika för varje medlemsland.
 
 ## Scenario: Öppen AI används för att stärka demokratin
-_Det här scenariot är i stor utsträckning inspirerat av en essä skriven av Bruce Schneier, Henry Farrell och Nathan Sanders._[^1]
+_Det här scenariot är i stor utsträckning inspirerat av en essä skriven av Bruce Schneier, Henry Farrell och Nathan Sanders._[^2]
 
 AI-utvecklingen börjar efter några år domineras först av open source och sedan av demokratiska stater och filantroper, som bygger AI med primära målet att stötta demokrati. AI används för att utbilda medborgare (även utanför skolan), sammanfatta åsikter, underlätta samtal mellan olika grupper i samhället, låta marginaliserade grupper höras och för att hitta gemensam grund där det behövs för politiska beslut eller där konflikter behöver trappas ner. Politiska beslut fattas med AI som viktigt verktyg, för att så långt som möjligt säkra att åtgärder leder till de mål man vill uppnå.
 
@@ -48,7 +48,7 @@ AI-tjänsterna ger stöd i både undervisning och kunskapsbedömning, men har br
 Hur mycket skolor förlitar sig på AI-stödd undervisning varierar stort beroende på lärartäthet, vilket gör att skolsegregationen ökar.
 
 ## Scenario: Välbeprövade AI-undervisare införs
-EU-lagstiftning kompletteras tidigt med svenska regleringar som sätter tydliga krav på när AI får användas inte bara för kunskapsbedömning, utan också i undervisning.[^2] AI-stöd i undervisning utvärderas i utvalda skolor, för att utforska effekter på lärande, risker med integritet, acceptans hos lärare och en rad andra aspekter. Flera AI-tjänster utvärderas, inklusive en nordisk och en EU-gemensam tjänst.
+EU-lagstiftning kompletteras tidigt med svenska regleringar som sätter tydliga krav på när AI får användas inte bara för kunskapsbedömning, utan också i undervisning.[^3] AI-stöd i undervisning utvärderas i utvalda skolor, för att utforska effekter på lärande, risker med integritet, acceptans hos lärare och en rad andra aspekter. Flera AI-tjänster utvärderas, inklusive en nordisk och en EU-gemensam tjänst.
 
 Utvärderingarna utökas efter hand som tillförlitligheten växer. I regel upplever både lärare, elever och föräldrar tydliga vinster men det finns också protester. I och med att AI-tjänsten anpassar undervisning efter varje elev ses störst vinster kunskapsmässigt bland elever som tidigare var lågpresterande eller högpresterande. Individanpassningen leder till allmänt högre kunskapsnivåer, men också större spridning inom en och samma klass eller grupp. Storskalig och detaljerad data om lärande gör det möjligt med ny typ av forskning på lärande och välmående bland elever. Det pratas mer och mer om AI-undervisning än AI-stödd undervisning.
 
@@ -73,8 +73,10 @@ I USA är levnadsförhållandena astronomiskt mycket bättre än i resten av vä
 
 Skolan i Sverige förblir förhållandevis lik den idag, och det upplevs som att historien har stannat av på alla andra ställen än i USA.
 
-[^1]:	[https://www.schneier.com/blog/archives/2023/04/ai-to-aid-democracy.html][1]
+[^1]:	För att se exempel på sådana legitimationer, se exempelvis eIDAS II, C2PA och Worldcoin.
 
-[^2]:	Den EU-lagstiftning som diskuteras juni 2023 innebär att exempelvis betygssättning och annat som avgör tillträde till utbildningar eller yrken räknas som högrisk-AI, och har särskilda krav. AI i undervisning räknas inte som högrisk.
+[^2]:	[https://www.schneier.com/blog/archives/2023/04/ai-to-aid-democracy.html][1]
+
+[^3]:	Den EU-lagstiftning som diskuteras juni 2023 innebär att exempelvis betygssättning och annat som avgör tillträde till utbildningar eller yrken räknas som högrisk-AI, och har särskilda krav. AI i undervisning räknas inte som högrisk.
 
 [1]:	https://www.schneier.com/blog/archives/2023/04/ai-to-aid-democracy.html "Schneier on security: AI to Aid Democracy"
