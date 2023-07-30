@@ -7,14 +7,14 @@
 
 <p float="left" align="middle">
   <a href="https://books2read.com/aiineducation" target="_blank"><img src="https://user-images.githubusercontent.com/262940/218328438-e4914050-cbd4-4d36-9d10-1b76d7caecef.png" title="Cover Image" width="40%" height="40%" /></a>
-  <a href="https://github.com/Itangalo/AI-Education/files/11870257/AI.och.skolan.2.2.2023-06-26.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/246669860-8057021f-99fa-43c9-baaa-11bce0adef3c.jpg" title="Omslagsbild" width="40%" height="40%" /></a>
+  <a href="https://github.com/Itangalo/AI-Education/files/12210303/AI.och.skolan.2.3.2023-07-31.med.omslag.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/246669860-8057021f-99fa-43c9-baaa-11bce0adef3c.jpg" title="Omslagsbild" width="40%" height="40%" /></a>
 </p>
 
 ----
 
 ## AI och skolan version 2 ute nu!
 
-Tekniken rör sig snabbt, och vi fortsätter också att lära oss om hur AI kan påverka skola och samhälle. Därför finns nu version 2.0 (nu 2.2!) av boken tillgänglig – drygt 4 månader efter att version 1.0 släpptes.
+Tekniken rör sig snabbt, och vi fortsätter också att lära oss om hur AI kan påverka skola och samhälle. Därför finns nu version 2.0 (nu 2.3!) av boken tillgänglig – drygt 4 månader efter att version 1.0 släpptes.
 
 Vad är nytt?
 
@@ -24,7 +24,7 @@ Vad är nytt?
 * Lärare och andra engagerade i skola är välkomna att bidra med egna kapitel med praktiska tipsen. Del 2 av boken kommer att utökas löpande med sådana tips.
 * Del 3 av boken, och AI och framtiden, har fått flera nya kapitel och djupare analyser. Till exempel: Hur fort går utvecklingen? Närmare titt på två viktiga hybrider. Bredare analys av hur vår syn på kunskap kan påverkas. Och utökat kapitel om risker med AI, kompletterat med ett antal möjliga scenarion för framtiden.
 
-Ladda hem version 2.2 (<a href="https://github.com/Itangalo/AI-Education/files/11870257/AI.och.skolan.2.2.2023-06-26.pdf" target="_blank">pdf</a>, <a href="https://github.com/Itangalo/AI-Education/files/11870255/AI.och.skolan.2.2.2023-06-26.epub.zip">epub</a>) och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
+Ladda hem version 2.3 (<a href="https://github.com/Itangalo/AI-Education/files/12210303/AI.och.skolan.2.3.2023-07-31.med.omslag.pdf" target="_blank">pdf</a>, <a href="https://github.com/Itangalo/AI-Education/files/12210302/AI.och.skolan.2.3.2023-07-31.med.omslag.epub.zip">epub</a>) och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
 
 ### Mer länkar
 
@@ -52,7 +52,7 @@ Föreläsning genom Folkuniversitetet med utgångspunkt i version 1.0 av boken
 Om du vill hänvisa till version 2.x av boken kan du utgå från följande:
 
 * Titel: AI och skolan, version 2.x (ange vilken version du hänvisar till)
-* Utgivningsdatum: Se [sidan med versioner](https://github.com/Itangalo/AI-Education/releases) (2023-06-21 för version 2.0, 2023-06-26 för version 2.2)
+* Utgivningsdatum: Se [sidan med versioner](https://github.com/Itangalo/AI-Education/releases) (2023-06-21 för version 2.0, 2023-06-26 för version 2.2, 2023-07-31 för version 2.3)
 * Författare: Johan Falk
 * ISBN: 9798215302736 (endast för version 2.0)
 * Förlag: Draft2Digital
