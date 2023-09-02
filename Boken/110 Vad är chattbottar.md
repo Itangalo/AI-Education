@@ -354,7 +354,7 @@ Med det som bakgrund testar vi igen att ställa frågan: _Är det värt att lär
 ## Bra förutsättningar för att lära sig använda chattbottar
 En av styrkorna med chattbottar är att det i nästan inte finns någon teknisk tröskel för att komma igång. Du använder de flesta chattbottarna genom att skriva i ett chattfönster, på samma sätt som du skulle skriva till en människa, och du behöver oftast inte bry dig om inställningar och reglage, dolda menyer, eller tekniska finurligheter. Även om det finns olika knep och avancerade inställningar för de som är intresserade kommer man mycket långt med att bara köra igång.
 
-Om du vill satsa lite mer på att lära sig chattbottar, eller kanske ha mer organiserat satsningar på sin skola, kan det vara bra att tänka på de här sakerna.
+Om du vill satsa lite mer på att lära dig om chattbottar, eller kanske ha mer organiserade satsningar på sin skola, kan det vara bra att tänka på de här sakerna.
 
 1. **Testa, testa, testa.** Att pröva alla möjliga (och omöjliga) saker lär vara det allra bästa sättet att lära sig. Om du leder andra i att lära sig chattbottar är den enda rimliga utgångspunkten att låta deltagare lägga mycket tid på att testa och leka runt. Om du inte redan testat en chattbot, lägg ifrån dig boken nu direkt, gå till perplexity.ai (eller någon annan chattbot) och fråga till exempel vad som utmärker en bra lärare.
 2. **Det tar tid.** Räkna med att det tar tid att förstå vad du kan och inte kan göra med chattbottar. Om du är en rektor som vill att medarbetare ska lära sig om chattbottar behöver det finnas tid avsatt för det – vid mer än ett tillfälle.

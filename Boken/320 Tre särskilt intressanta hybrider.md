@@ -64,7 +64,7 @@ AI-stöd i undervisning har en rad frågor och risker att ta hänsyn till, utöv
 ## ChatGPT + Code Interpreter
 I början av juli 2023 lanserade OpenAI inställningen _Code Interpreter_ i ChatGPT. När läget aktiveras blir två nya saker möjliga för chattbotten. Det ena är att chattbotten får en tillfällig filyta, där både botten och användaren kan lägga filer. Det andra är att chattbotten får tillgång till en programmeringsmiljö där den kan skriva, köra och se resultatet av programkod.
 
-I och med att GPT-4 är så pass skicklig på att skriva kod öppnar Code Interpreter möjligheter möjligheter att göra tämligen avancerade saker genom ett enkelt chattgränssnitt. En minst lika intressant effekt är att resultat från program som GPT-4 skapar i många avseenden är mer pålitliga än det som chattbotten skulle svara på egen hand.[^4]
+I och med att GPT-4 är så pass skicklig på att skriva kod öppnar Code Interpreter möjligheter att göra tämligen avancerade saker genom ett enkelt chattgränssnitt. En minst lika intressant effekt är att resultat från program som GPT-4 skapar i många avseenden är mer pålitliga än det som chattbotten skulle svara på egen hand.[^4]
 
 > _Exempel från ChatGPT (GPT-4 + Code Interpreter, 20 juli)_
 > **Jag:** Bifogat är ett kapitel ur boken "AI och skolan". Kan du lista de fem vanligaste orden i kapitlet?
@@ -129,6 +129,7 @@ I och med att GPT-4 är så pass skicklig på att skriva kod öppnar Code Interp
 > **Jag:** Kan du göra ett ordmoln med dessa ord?
 > **Chattbot:**
 > [Chattbotten skriver och exekverar ett program.]
+> 
 > ![Ordmoln skapat av Code Interpreter][image-1]
 > Här är ett ordmoln baserat på de tio viktigaste orden enligt vår TF-IDF-analys. Storleken på varje ord representerar dess TF-IDF-poäng, vilket i princip betyder dess "vikt" i texten.
 
@@ -137,7 +138,7 @@ Code Interpreter har inte funnits tillräckligt länge för att kunna säga var 
 Några överraskande användningsområden som kanske inte är lika brett användbara är att skapa GIF-animationer, identifiera ansikten i bilder, läsa text i bilder, konvertera filer, skapa QR-koder och skapa HTML-sidor. En begränsning med Code Interpreter är att filutrymmet rensas efter cirka fem minuter.
 
 ## AutoGPT
-AutoGPT är en annan typ av AI-hybrid som kan ha stor betydelse. AutoGPT lanserades den 30 mars av en privatperson vid namn Toran Bruce Richards, och gick snabbt stor uppmärksamhet.[^6] Ett antal hybrider med liknande funktioner dykt upp, så som AgentGPT, BabyAGI, Godmode ChaosGPT och SuperAGI, och det kommer sannolikt att dyka upp fler och bättre varianter. I det här avsnittet används AutoGPT som exempel, men det som skrivs gäller även för andra hybrider av samma typ.
+AutoGPT är en annan typ av AI-hybrid som kan ha stor betydelse. AutoGPT lanserades den 30 mars av en privatperson vid namn Toran Bruce Richards, och fick snabbt stor uppmärksamhet.[^6] Ett antal hybrider med liknande funktioner har dykt upp, så som AgentGPT, BabyAGI, Godmode ChaosGPT och SuperAGI, och det kommer sannolikt att dyka upp fler och bättre varianter. I det här avsnittet används AutoGPT som exempel, men det som skrivs gäller även för andra hybrider av samma typ.
 
 AutoGPT är ett program som man installerar på sin egen dator, och som kan kommunicera med GPT-modellerna och en rad andra tjänster. Principen bakom AutoGPT är att användaren anger ett mål, och programmet använder sedan chattbottar för att skapa en plan som bryts ner i mindre och mindre bitar (också med hjälp av chattbottar) tills de är hanterbara uppgifter. Uppgifterna genomförs sedan genom de verktyg som bedöms lämpliga: Det kan vara att fråga chattbottar ännu en gång, men också att läsa på Wikipedia, leta efter nyheter, sammanställa börsdata och kolla vädret. Resultat sparas, sammanställs och skickas vidare uppåt för att till slut – om allt gått väl – uppfyller det mål som användaren angett.
 

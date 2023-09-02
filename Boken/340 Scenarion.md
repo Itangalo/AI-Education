@@ -30,7 +30,7 @@ På global nivå används AI för att lösa de ärenden som anses mest angelägn
 
 I skolan sker under några år hastiga förändringar som uppfattas som tuffa, med flera omställningar och tvära kast. När AI-utvecklingen lugnar ner sig införs gradvis en global ram för skola, med både globala och lokala stödresurser tillgängliga. Kunskap om det mänskliga samfundet, som inkluderar möten mellan olika folk och grupper, blir en obligatorisk del i all skola.
 
-## Scenario: Meborgarlön införs
+## Scenario: Medborgarlön införs
 Innan AI-effektivisering leder till storskaliga uppsägningar införs statligt stöd för att göra det mer ekonomiskt fördelaktigt att arbeta deltid. Samtidigt genomförs kritiserade skattereformer för att säkra att statsbudgeten håller balans trots färre arbetade timmar och ökat stöd till deltidsarbetare.
 
 AI-effektiviseringen fortsätter, med följden att deltid ner till 10 eller 25 procent måste subventioneras för att inte få storskaliga uppsägningar i flera yrkesgrupper. Ytterligare skattereformer möts med protester, och alternativet medborgarlön växer i popularitet – vilket redan har genomförts i ett par länder och diskuteras i flera andra. Sverige blir till slut det nionde landet i världen att införa medborgarlön, med följden att staten garanterar grundläggande inkomst för alla invånare.

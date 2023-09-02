@@ -151,7 +151,7 @@ Chattbottar, särskilt de lite äldre, är ofta inte särskilt bra på att lösa
 > Eftersom det finns totalt 6 * 6 * 6 = 216 möjliga utfall när vi kastar tre tärningar, kan vi beräkna sannolikheten genom att dela antalet gynnsamma utfall (36) med antalet möjliga utfall (216):
 > Sannolikheten att slå par med tre tärningar är 36/216 = 1/6 ≈ 0,1667 eller 16,67%.
 
-En annan variant är förstås också att använda korrekta lösningar (eller som nedan, nästan korrekta lösningar), och låta elever diskutera hur vad som är bra eller mindre bra i redovisningen och hur den skulle kunna göras bättre.
+En annan variant är förstås också att använda korrekta lösningar (eller som nedan, nästan korrekta lösningar), och låta elever diskutera vad som är bra eller mindre bra i redovisningen och hur den skulle kunna göras bättre.
 
 > _Exempel från ChatGPT (GPT-3.5, 24 maj)_
 > **Jag:** En kopp te har vid tiden t = 0 temperaturen 98 °C. Temperaturen i rummet är 20 °C. För varje minut som går minskar temperaturskillnaden med 4 procent. Hur lång tid tar det innan teet blivit 60 °C?
@@ -200,10 +200,10 @@ Man kan också använda chattbottar för att få mer konkreta uppslag att använ
 > En logaritm är en funktion som svarar på frågan: Hur många gånger behöver vi multiplicera basen för att få talet? Logaritmen av ett tal `x` med basen `b` skrivs som `log_b(x)` och utläses "logaritmen av x med basen b".
 > **Exempel**
 > Om vi har:
-> `3^2 = 9
-> `> Logaritmen med bas 3 av talet 9 är 2, eftersom vi behöver multiplicera 3 två gånger för att få 9. Vi kan skriva detta som:
-> `log3(9) = 2
-> `> **Logaritmlagarna**
+> \`3^2 = 9
+> \`\> Logaritmen med bas 3 av talet 9 är 2, eftersom vi behöver multiplicera 3 två gånger för att få 9. Vi kan skriva detta som:
+> \`log3(9) = 2
+> \`\> **Logaritmlagarna**
 > Det finns några grundläggande logaritmlagar som hjälper oss att förenkla uttryck:
 > 1. Produktregeln: `log_b(x * y) = log_b(x) + log_b(y)`
 > 2. Kvotregeln: `log_b(x / y) = log_b(x) - log_b(y)`
@@ -219,7 +219,7 @@ Man kan också använda chattbottar för att få mer konkreta uppslag att använ
 > 4. Mätning av ljudintensitet (decibel), jordbävningsstyrka (Richterskalan) och surhet (pH-skalan)
 > Förhoppningsvis ger denna introduktion till logaritmer dig en bra grund att börja med i din undervisning. Lycka till!
 
-Man kan förstås också blanda in saker som man av erfarenhet kan engagera eleverna.
+Man kan förstås också blanda in saker som man av erfarenhet vet kan engagera eleverna.
 
 > _Exempel från Chatbot UI (GPT-4, 2023-06-12)_
 > **Jag:** I min matteklass är många elever intresserade av musik, inte minst frenetisk banjomusik från sydstaterna i USA. Nästa vecka ska jag börja undervisa om normalfördelning. Kan du skissa en introduktion till normalfördelning som kan engagera eleverna?

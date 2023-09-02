@@ -95,7 +95,7 @@ Exemplen nedan utgår från den här (fiktiva) argumenterande texten om kärnkra
 > // En 15-årig kärnkraftsfantast
 
 ### Second opinion
-En risk med att låta chattbottar ge bedöma uppsatser är att man som lärare blir färgad av AI:n bedömning. Ett sätt att komma runt det är att kortfattat skriva ner en egen bedömning innan texten lämnas till en chattbot. Nackdelen med metoden är förstås att tidsvinsterna blir mindre.
+En risk med att låta chattbottar bedöma uppsatser är att man som lärare blir färgad av AI:n bedömning. Ett sätt att komma runt det är att kortfattat skriva ner en egen bedömning innan texten lämnas till en chattbot. Nackdelen med metoden är förstås att tidsvinsterna blir mindre.
 
 ### Be om särskild typ av granskning eller återkoppling
 Om man som lärare själv brukar läsa eller bedöma uppsatser enligt vissa mönster kan det vara användbart att be chattbotten använda samma metoder. Kanske finns också anledning att granska specifika saker, text- eller innehållsmässigt.
