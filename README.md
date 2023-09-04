@@ -28,6 +28,12 @@ Ladda hem version 2.3 (<a href="https://github.com/Itangalo/AI-Education/files/1
 
 ### Mer länkar
 
+Presentationer
+
+* [SETT-MEET Linköping 2023-08-30](https://www.youtube.com/live/dPqTAWhcT8Q?si=aHjJX3MTc61yitgq&t=1203) ([länk direkt till presentationens start](https://www.youtube.com/live/dPqTAWhcT8Q?si=Uqy7HtOLk2JJpEUx&t=3667)). Fokus på del 3 av boken.
+* [Inspelat webbinarium för Folkuniversitetet 2023-02-20](https://www.youtube.com/watch?v=N0Sgv41RGHc). Baserat på version 1.0 av boken.
+
+
 Ladda hem version 1.5
 
 * [Epub](https://github.com/Itangalo/AI-Education/files/10716412/AI.och.skolan.2023-02-12.16.28.epub.zip)
@@ -41,10 +47,6 @@ AI-inläsning av boken (v. 1.4) – *Tack till Jonatan Tensetti som ordnat med 
 * [Del 2](https://drive.google.com/file/d/1Dg0vdVllufdd58CLnbps_INbzeZpTq_i/view?usp=share_link)
 * [Del 3](https://drive.google.com/file/d/10DnMuunhd6oSoaDfJ_DhcRuOxQqKJ2Zk/view?usp=share_link)
 * [Appendix](https://drive.google.com/file/d/1KgV5W0H1kJostl9eVELoN6JNoyXVH2i9/view?usp=share_link)
-
-Föreläsning genom Folkuniversitetet med utgångspunkt i version 1.0 av boken
-
-* [Inspelat webbinarium](https://www.youtube.com/watch?v=N0Sgv41RGHc)
 
 
 ### Hänvisa till boken
