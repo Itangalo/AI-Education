@@ -1,4 +1,6 @@
 # Anpassade sagor för läsvila
+_Uppdaterat 2023-07-31._
+
 _Det här kapitlet är skrivet av Johan Falk. På bokens projektsida [github.com/itangalo/AI-och-skolan][1] kan du föreslå nya kapitel och förbättringar till befintliga kapitel._
 
 I det här kapitlet visas exempel på hur chattbottar kan användas för att skapa anpassade eller på andra sätt unika sagor, att till exempel använda vid läsvila på en förskola.

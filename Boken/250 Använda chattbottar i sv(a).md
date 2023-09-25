@@ -1,4 +1,5 @@
 # Använda chattbottar i svenska/som andraspråk
+_Uppdaterat 2023-06-24._
 
 _Det här kapitlet är skrivet av Jonatan Tensetti som undervisar i svenska, svenska som andraspråk och engelska i Malmö. På bokens projektsida [github.com/itangalo/AI-och-skolan][1] kan du föreslå nya kapitel och förbättringar till befintliga kapitel._
 
@@ -223,6 +224,7 @@ Prompten utgår att ge chattbotten en roll som sagoberättare och utgår från a
 > Berättaren: Våra äventyrare hade precis samlats på skeppet för att påbörja deras resa in i den stora kroppspulsådern. Kapten Jonatan övervakade alla förberedelser och besättningen, som bestod av matroserna Björn, Benny, Elsa, Anna och Pocahontas, var redo att segla mot det okända.
 > Kapten Jonatan: ”Bra jobbat allihopa! Vi är nu redo att påbörja resan. Vårt mål: insidan av den stora kroppspulsådern. Förbered er för ett äventyr fyllt med vetenskapliga utmaningar!”
 > _Beskrivning av bilden: Skeppet är förankrat vid kajen och besättningen står på däck. Solen skiner och några fiskmåsar flyger över dem._
+> 
 > ![Kapten Jonatan och besättningen ombord, kort innan avfärd till den stora kroppspulsådern.][image-1]
 > **Kapitel 2: I blodomloppet**
 > Berättaren: Skeppet krympte till en mikroskopisk storlek och seglade in i blodomloppet. Här var allt annorlunda än på de vanliga sjöarna: de seglade på en röd ström av blodceller och passade andra celler på vägen.
@@ -232,7 +234,9 @@ Prompten utgår att ge chattbotten en roll som sagoberättare och utgår från a
 > Besättningen viskade och diskuterade frågan.
 > Elsa: ”Jag tror att det är den stora kroppspulsådern, eller aorta som det också kallas!”
 > Kapten Jonatan: ”Det är rätt svar, Elsa! Bra jobbat!”
+> 
 > ![Skeppet och besättningen seglar vidare längs den stora kroppspulsådern, omgiven av strömmande blod och celler.][image-2]
+> 
 > ![Skeppet och besättningen seglar vidare längs den stora kroppspulsådern, omgiven av strömmande blod och celler.][image-3]
 > **Kapitel 3: Ett mysterium vid kärlväggen**
 > Berättaren: Efter en stund seglade skeppet upp bredvid en av väggarna i det stora blodkärlet. Kapten Jonatan blev konfys och visste inte vilket håll de skulle ta.
@@ -240,6 +244,7 @@ Prompten utgår att ge chattbotten en roll som sagoberättare och utgår från a
 > Anna: ”Kapten, jag tror en av dem är huvudartären, som för blod till huvudet och halsen. Den andra är kransartären som försörjer hjärtat med blod och syre.”
 > Kapten Jonatan: ”Rätt igen! Vi ska följa kransartären för att fortsätta vår färd längs väggen av den stora kroppspulsådern. Bra jobbat!”
 > *Beskrivning av bilden: Skeppet befinner sig vid en förgrening av flera blodkärl. Besättningen kikar nyfiket på den blodceller-täta platsen.*
+> 
 > ![Skeppet vid kärlväggen, besättningen löser mysteriet om vägval.][image-4]
 > Vidare reser skeppet inuti kroppen, och besättningen tar sig an fler utmaningar och äventyr. Men tänk på att äventyret är inte över förrän du säger till.
 

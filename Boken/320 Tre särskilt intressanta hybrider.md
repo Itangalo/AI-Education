@@ -1,4 +1,6 @@
 # Tre särskilt intressanta hybrider
+_Uppdaterat 2023-09-02._
+
 I det här kapitlet tittar vi närmare på tre hybrider – kombinationer av språkmodeller med andra typer av program. De är utvalda för att de pekar på särskilda möjligheter med AI i skola respektive breda användningsområden för AI. AI-tjänsterna finns redan idag, men har inte den mognad eller spridning som krävs för att deras effekter ska vara märkbara ännu.
 
 ## Undervisningsbottar
@@ -129,6 +131,7 @@ I och med att GPT-4 är så pass skicklig på att skriva kod öppnar Code Interp
 > **Jag:** Kan du göra ett ordmoln med dessa ord?
 > **Chattbot:**
 > [Chattbotten skriver och exekverar ett program.]
+> 
 > 
 > ![Ordmoln skapat av Code Interpreter][image-1]
 > Här är ett ordmoln baserat på de tio viktigaste orden enligt vår TF-IDF-analys. Storleken på varje ord representerar dess TF-IDF-poäng, vilket i princip betyder dess "vikt" i texten.

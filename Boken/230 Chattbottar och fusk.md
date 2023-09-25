@@ -1,4 +1,6 @@
 # Chattbottar och fusk
+_Uppdaterat 2023-09-02._
+
 _Det här kapitlet är skrivet av Johan Falk. På bokens projektsida [github.com/itangalo/AI-och-skolan][1] kan du föreslå nya kapitel och förbättringar till befintliga kapitel._
 
 I det här kapitlet diskuteras fusk med chattbottar, inklusive tankar om hur det kan förebyggas och hanteras. Det innehåller också tankar om vad det betyder att chattbottar kan genomföra många av de saker som vi använder som betygsunderlag i skolan.

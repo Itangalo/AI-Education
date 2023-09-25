@@ -1,4 +1,6 @@
 # Några möjliga framtidsscenarion
+_Uppdaterat 2023-09-02._
+
 Motsvarar den AI-utveckling vi ser nu en lika stor förändring som när internet kom? Elektriciteten? Är den lika stor som den industriella revolutionen, eller till och med större? Eller är det mer som dotcom-bubblan?
 
 I det här kapitlet beskrivs några möjliga scenarion för hur AI-utvecklingen kan komma att påverka skolan, antingen direkt eller genom förändringar i samhället. Beskrivningarna är kortfattade och spekulativa, men kan förhoppningsvis göra det lättare att reflektera över olika vägar som utvecklingen kan ta.

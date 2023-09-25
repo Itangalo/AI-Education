@@ -1,4 +1,5 @@
 # Skolledare och Elevhälsa – hur kan de tänka kring och även ha nytta av Chattbottar?
+_Uppdaterat 2023-09-25._
 
 *Magnus Blixt är legitimerad lärare, rektorsutbildad skolledare med rektorserfarenhet, f d verksamhetsutvecklare i Uppsala och nu inom EdTech på Haldor, föreläsare, författare, trebarnsfar med ett förflutet både i Lärarnas yrkesetiska råd, Lärarnas Ansvarsnämnd och Skolportens lärarpanel. På bokens projektsida [github.com/itangalo/AI-och-skolan][1] kan du föreslå nya kapitel och förbättringar till befintliga kapitel.*
 

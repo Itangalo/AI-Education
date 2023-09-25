@@ -1,4 +1,6 @@
 # Exempelkapitel
+_Uppdaterat 2023-06-25._
+
 _Det här kapitlet är skrivet av \<namn\> som undervisar i \<kategori\> i \<stad\>. På bokens projektsida [github.com/itangalo/AI-och-skolan][1] kan du föreslå nya kapitel och förbättringar till befintliga kapitel._
 
 Det här exempelkapitlet innehåller riktlinjer och malltexter att använda för nya kapitel i del 2 i boken AI och skolan. Du är välkommen att bidra till boken med områden där du har erfarenheter eller tankar. Bokens huvudförfattare, Johan Falk, fungerar som redaktör för kapitlen i del 2.

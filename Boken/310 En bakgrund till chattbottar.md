@@ -1,4 +1,6 @@
 # En bakgrund till chattbottar
+_Uppdaterat 2023-06-25._
+
 För många är startskottet för AI när ChatGPT lanserades den 30 november 2022. Den lättanvända och förbluffande kompetenta tjänsten växte rekordsnabbt, och på bara fem dagar hade antalet användare vuxit till en miljon[^1] – något som normalt tar månader eller år även för framgångsrika tekniktjänster[^2]. Den 14 mars släppte OpenAI modellen GPT-4, som är tydligt bättre än den GPT-3.5 som fram till dess legat bakom ChatGPT. Den nya modellen, tillsammans med möjlighet för utvecklare att skriva program som anropar både GPT-3.5 och GPT-4, ledde till en stormflod av applikationer och nya användningsområden för chattbottar. De framgångar som OpenAI hade med ChatGPT inspirerade (eller tvingade) också andra aktörer att lansera språkmodeller som de arbetat på under kortare eller längre tid.
 
 Det är med andra ord befogat att säga att det finns ett före och ett efter ChatGPT. Men det är också tydligt att historien sträcker sig längre än så.

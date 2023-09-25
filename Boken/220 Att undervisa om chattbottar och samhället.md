@@ -1,4 +1,6 @@
 # Att undervisa om chattbottar och samhället
+_Uppdaterat 2023-06-24._
+
 _Det här kapitlet är skrivet av Johan Falk. På bokens projektsida [github.com/itangalo/AI-och-skolan][1] kan du föreslå nya kapitel och förbättringar till befintliga kapitel._
 
 Det här kapitlet riktar sig främst till lärare i samhällskunskap på högstadiet och gymnasial nivå, och till tekniklärare i grundskolan. Det tar upp tankar om hur man kan undervisa om hur teknik och samhälle hänger samman, med fokus på chattbottar.

@@ -1,4 +1,6 @@
 # AI och risker
+_Uppdaterat 2023-09-02._
+
 En bok som handlar om AI bör också ta upp risker med AI. De risker som tas upp här är har inte utgångspunkt i skola och utbildning, utan har ett mer allmänt perspektiv på risker med AI. Hur skolan kan påverkas får större plats i nästa kapitel, om några möjliga framtidsscenarion.
 
 I det här kapitlet finns både jordnära risker och risker som kan tyckas mer främmande. Flera av riskerna som beskrivs i det här kapitlet överlappar varandra.

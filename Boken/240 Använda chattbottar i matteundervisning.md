@@ -1,4 +1,6 @@
 # Använda chattbottar i matteundervisning
+_Uppdaterat 2023-09-02._
+
 _Det här kapitlet är skrivet av Johan Falk. På bokens projektsida [github.com/itangalo/AI-och-skolan][1] kan du föreslå nya kapitel och förbättringar till befintliga kapitel._
 
 I det här kapitlet finns tips på hur du kan använda chattbottar i matteundervisning, från förskoleklass till gymnasial nivå. Det handlar främst om användning i förberedelser inför undervisning, men några tips gäller användning i klassrummet.

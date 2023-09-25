@@ -1,4 +1,6 @@
 # Appendix 1: Mer läsning
+_Uppdaterat 2023-07-31._
+
 Här är tips på ställen att läsa, lyssna eller delta för att lära dig mer om AI och skola.
 
 Diskutera

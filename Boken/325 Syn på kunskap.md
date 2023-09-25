@@ -1,4 +1,6 @@
 # Hur påverkas vår syn på kunskap?
+_Uppdaterat 2023-09-02._
+
 I mänsklighetens förhistoria var det viktigt att kunna memorera berättelser för att föra vidare kunskap. Sedan den revolutionerande teknologin ”skriftspråk” uppfanns, och ännu mer sedan tryckpressen gjorde böcker överkomliga, har förmågan att memorera minskat i värde – och mycket möjligt har vi också blivit sämre på det.
 
 Chattbottar har potential att inte bara öka och minska våra förmågor inom vissa områden, utan också ändra vad vi anser är meningsfullt att kunna. Det är för tidigt att säga om det är små saker, som när mobiltelefoner gjorde det närmast meningslöst att lära sig telefonnummer utantill, eller större områden, som när skriftspråket ändrade hur vi för vidare mänsklig kunskap. Men det är värt att försöka utforska frågan, även om vi inte kan hitta några säkra svar.

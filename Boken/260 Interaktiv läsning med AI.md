@@ -1,4 +1,5 @@
 # Interaktiv läsning med AI
+_Uppdaterat 2023-07-31._
 
 _Det här kapitlet är skrivet av Karl Törnered som undervisar i matematik och fysik i Norrköping. På bokens projektsida [github.com/itangalo/AI-och-skolan][1]kan du föreslå nya kapitel och förbättringar till befintliga kapitel._
 
