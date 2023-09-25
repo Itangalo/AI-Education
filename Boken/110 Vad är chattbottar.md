@@ -1,4 +1,6 @@
 # Vad är chattbottar?
+_Uppdaterat 2023-05-29._
+
 Den 30 november 2022 lanserade det USA-baserade företaget OpenAI tjänsten ChatGPT. Den tog världen med storm, och ett halvår senare orsakar AI fortfarande nyhetsinslag i riksmedia så gott som varje dag.
 
 Det som fortfarande förbluffar många med ChatGPT (författaren inräknad) är dess skicklighet i att föra en konversation på ett övertygande mänskligt sätt. I kombination med kunskaper inom vitt skilda områden gör det ChatGPT och många andra chattbottar till ett otroligt fascinerande och mångsidigt verktyg.
@@ -24,25 +26,42 @@ Låt oss titta på en konversation med ChatGPT, för att ge exempel på både de
 ChatGPT är ett av flera sätt att använda chattbottar, och det är värt att försöka hålla isär begreppen för att ChatGPT inte ska bli synonymt med vare sig chattbottar eller AI.
 
 * **AI, artificiell intelligens**, är ett brett begrepp som vanligtvis används för att beskriva maskiner som i något avseende försöker efterlikna mänsklig intelligens, och omfattar ofta också att maskinen lär sig saker och inte bara agerar enligt inprogrammerade regler. Exempel på användningsområden är självkörande bilar, ansiktsigenkänning och autokorrigering av text på telefonen.
-* **Generativ AI** är en typ av AI som utifrån att ha tränats på massor av exempel kan skapa nytt material. Exempel är Midjourney (bild), OpenAI:s GPT (text) och AlphaCode (kod).
-* **En AI-modell** är motorn bakom det som en AI gör. Exempel är GPT-3.5, GPT-4 och PaLM 2.
-* **Chattbottar** är generativ AI som (huvudsakligen) arbetar med text och dessutom är skapade för att föra dialoger. Exempel är GPT-4, PaLM 2 och Claude.
-* **ChatGPT** är en produkt från företaget OpenAI. Den består huvudsakligen av en webbsida där du kan chatta med några av deras AI-modeller (som är chattbottar).
+* **Generativ AI** är en typ av AI som utifrån att ha tränats på massor av exempel kan skapa nytt material. Exempel är Midjourney (bild), OpenAI:s GPT-modeller (text) och AlphaCode (kod).
+* **En AI-modell** är motorn bakom det som en AI gör.
+* **Stora språkmodeller** (Large Language Models, LLMs) är AI-modeller som är tränade på gigantiska mängder text, med effekten att de inte bara kan hantera själva språket utan även delar av de begrepp som finns i textmassan som modellen tränats på. Exempel är GPT-3.5, GPT-SW3, Llama 2 och PaLM 2.
+* **Chattbottar** (egentligen AI-baserade chattbottar) är applikationer där man chattar med en AI-modell som är utformad för att föra dialoger. Förutom en AI-modell kan chattbottar också använda en rad andra programvaror i bakgrunden. Exempel är ChatGPT, Bing, Bard och MyAI.
 
-I skrivande stund är det förhållandevis tydligt att den chattbot som har fått störst genomslag och har bredast kompetens är GPT-4, som lanserades i mars 2023 och (liksom GPT-3.5) går att nå genom tjänsten ChatGPT. Men en rad andra chattbottar har dykt upp, både kommersiella och öppna, liksom massor av verktyg som använder AI-modeller i bakgrunden för att kunna göra mer komplexa eller specialiserade saker. Det betyder att andra chattbottar eller AI-verktyg är bättre på vissa typer av uppgifter, och det kan också hända att nya modeller inom en snar framtid tar över ledarplatsen från GPT-4.
+I skrivande stund är det förhållandevis tydligt att den chattbot som har fått störst genomslag är ChatGPT, som OpenAI lanserade sen höst 2022 och använder AI-modellerna GPT-3.5 och GPT-4. Men en rad andra chattbottar har dykt upp, både kommersiella och öppna, liksom massor av verktyg som använder språkmodeller i bakgrunden för att kunna göra mer komplexa eller specialiserade saker. Det betyder att andra chattbottar eller AI-verktyg är bättre på vissa typer av uppgifter. Det kan också hända att nya modeller inom en snar framtid tar över ledarplatsen från GPT-4, som i skrivande stund får anses vara den AI-modell som i allmänhet har högst kompetens.
 
 I den här boken används termen _chattbot_ om det inte någon specifik AI-modell eller produkt avses. Där konversationer med chattbottar skrivs ut markeras vilken AI-modell det rör sig om (inklusive datum för senaste uppdateringen för modellen alternativt datum för konversationen, för att kunna se när exempel blivit utdaterade).
 
 ## Testa själv!
-Det finns inget bättre sätt att lära sig om chattbottar än att själv testa att använda en. Om du ännu inte testat att använda en chattbot, lägg i från dig boken och hitta en.
+Det finns inget bättre sätt att lära sig om chattbottar än att själv testa att använda en. Om du ännu inte testat att använda en chattbot, lägg i från dig boken och hitta en. Nedan är tre tips:
 
-* På [poe.com][1] kan du testa en rad olika språkmodeller. Går att använda gratis men kräver ett konto.
-* [bard.google.com][2] är också gratis att använda och kräver ett konto.
-* På [chat.lmsys.org][3] kan du testa ett antal öppna AI-modeller, också utan att behöva skapa något konto. Den mest kraftfulla AI-modellen bland de tillgängliga är förvald (för närvarande ”vicuna-13b”), så du kan bara bläddra ner och börja skriva.
-* På [open-assistant.io][4] kan du skapa ett (gratis) konto med ett par klick, inklusive att godkänna användarvillkor, och börja använda den öppna AI-modellen Open Assistant.
-* På [chat.openai.com][5] kan du skaffa ett (gratis) konto för ChatGPT, som du kan börja använda efter att du bekräftat din e-postadress genom ett mail som du får.
+* Bästa stället att testa vanliga chattbottar är förmodligen [poe.com][1], där du kan utforska många olika språkmodeller. Tjänsten kräver att du skaffar konto, men inte att du betalar något.
+* På [chat.openai.com][2] kan du testa ChatGPT, den mest använda chattbotten. Gränssnittet är enklare än på Poe, ovan, men du har bara tillgång till språkmodeller från OpenAI. Liksom på Poe krävs att du skapar ett konto (och du behöver dessutom bekräfta din e-postadress), och det finns både gratis- och betalvariant.
+* På [chat.ai.se][3] kan du testa den svenska språkmodellen GPT-SW3. Den är inte i närheten av lika kunnig som de största modellerna, men å andra sidan inget konto och data skickas dessutom inte utanför EU.
 
-Är du fortfarande här? Gå och testa en chattbot! En bra första konversation kan vara att fråga om något som du jobbar med och skulle vilja höra någon annans tankar.
+Nedan finns kommentarer och exempel från några av de vanligare chattbottarna och språkmodellerna, om du skulle behöva hjälp att välja.
+
+### ChatGPT
+ChatGPT från OpenAI nås på [chat.openai.com][4]. Det är den dominerande chattbot-tjänsten, vilket både beror på att den var först bland de stora modellerna och dessutom använder GPT-4 som allmänt betraktas som den starkaste av språkmodellerna.
+
+Med ett gratiskonto för ChatGPT kan du använda modellen GPT-3.5. Med ett betalkonto kan du också använda den betydligt starkare GPT-4, och även ett antal tilläggsfunktioner. Enligt OpenAI ska betalversionen av ChatGPT från oktober 2023 även kunna användas för att skapa bilder genom DALL·E 3, deras nya modell för bilder.
+
+> _Exempel från ChatGPT (GPT-4 12 maj 2023)._
+> **Jag:** Vad är ett bra sätt att förklara kemisk jämvikt för mina årskurs 2:or på gymnasiet?
+> **Chattbot:** Absolut! Kemisk jämvikt är ett viktigt koncept inom kemi, men det kan vara ganska svårt att förstå första gången man stöter på det. Här är ett enkelt sätt att förklara det för dina gymnasieelever:
+> För det första, det är viktigt att förstå att i en kemisk reaktion, kommer reaktanter (de saker som reagerar) att omvandlas till produkter. Men det är inte alltid en enkel one-way process - ibland kan produkterna faktiskt omvandlas tillbaka till reaktanter. Detta är kärnan i konceptet kemisk jämvikt.
+> Så föreställ dig att du har en låda med bollar. Du börjar med 100 röda bollar och 0 blå bollar. Men med tiden, börjar några av de röda bollarna ändras till blåa. Efter ett tag har du 50 röda bollar och 50 blåa. Men nu börjar några av de blåa bollarna ändras tillbaka till röda. Och så fortsätter det - bollar ändrar färg fram och tillbaka.
+> Detta är vad som händer i en kemisk reaktion som har uppnått jämvikt: reaktanter blir till produkter, och produkter blir till reaktanter, i en konstant cykel. Och även om det kan verka som om inget händer eftersom mängderna inte ändras (liksom det totala antalet bollar i din låda inte ändras), pågår det faktiskt ständiga förändringar på molekylär nivå.
+> Det är också viktigt att påpeka att vid kemisk jämvikt betyder det inte alltid att mängderna av reaktanter och produkter är lika - det betyder bara att hastigheterna för de två reaktionerna (reaktanter blir till produkter, och produkter blir till reaktanter) är lika.
+> Hoppas det hjälper! Låt mig veta om det finns något mer du vill veta om kemisk jämvikt.
+
+### Claude
+Claude 2 från Anthropic är den språkmodell som i skrivande stund är den tydligaste konkurrenten till GPT-4 och GPT-3.5. Den sägs ha bättre språkkänsla än dessa, men det är inte tydligt att det gäller för text på svenska. En klar fördel jämfört med GPT-4 är däremot att Claude 2 kan ta emot längre texter – upp till cirka 30 000 svenska ord (jämfört med 2000–2500 för GPT-4).
+
+Claude-modellerna är normalt inte tillgängliga i Sverige, men genom [poe.com][5] går det att nå Claude 2 (och en rad andra modeller). Som nämnts tidigare behöver du skapa ett konto för att använda Poe, men även ett gratiskonto räcker för att använda Claude 2. För att hitta Claude 2 på Poe klickar du på ”Explore” och söker efter Claude.
 
 > _Exempel från Poe (Claude-2-100k, 2023-07-30)._
 > **Jag:** Vi har en temavecka om mänskliga rättigheter på lågstadieskolan där jag jobbar. Kan du ge några förslag på aktiviteter vi kan genomföra?
@@ -55,7 +74,10 @@ Det finns inget bättre sätt att lära sig om chattbottar än att själv testa 
 > * Se på filmer för barn som handlar om alla människors lika värde, till exempel animationfilmen "Lilla Hjärtat". Diskutera filmerna efteråt.
 > Lycka till med er viktiga temavecka!
 
----- 
+### Llama 2
+Llama 2 från Meta (som bland annat äger Facebook) är anmärkningsvärd då det är en största och förmodligen mest kompetenta språkmodellen som släppts fritt: Det är möjligt för privatpersoner och företag att ladda hem modellen och både använda och justera den (förutsatt att man har rätt kunskaper och tillgång till datorkraft).
+
+Även Llama 2 går att nå från Poe.
 
 > _Exempel från Poe (Llama-2-70b, 2023-07-30)._
 > **Jag:** Jag vill undervisa om den vetenskapliga metoden för mina gymnasieelever i biologi. Vad är vanliga missuppfattningar om den vetenskapliga metoden?
@@ -69,9 +91,10 @@ Det finns inget bättre sätt att lära sig om chattbottar än att själv testa 
 > 7. The scientific method is only used in a lab: While laboratory experiments are certainly a part of the scientific method, it's not the only place where scientific inquiry takes place. Scientists may conduct field research, observations, and other types of studies to gather data and test hypotheses.
 > I hope this helps your students understand the scientific method better and avoid some common misconceptions about it. Good luck with your lesson!
 
----- 
+### Bard
+Den som har ett Google-konto kan använda deras chattbot Bard på [bard.google.com][6]. Den är gratis att använda, men kräver ett konto. Bard använder Googles AI-modell PaLM 2.
 
-> _Exempel från Bard (GPT-4, 2023-07-30)._
+> _Exempel från Bard (PaLM 2, 2023-07-30)._
 > **Jag:** Jag ska ha mitt första föräldramöte med årskurs 6-klass jag tagit över. Klassen har haft många byten av lärare och det har varit stökigt. Kan du ge mig tips på hur jag kan lägga upp föräldramötet?
 > **Chattbot:** Hej! Grattis till ditt nya uppdrag som lärare i årskurs 6. Här är några tips på hur du kan lägga upp ditt första föräldramöte:
 > 1. **Börja med att presentera dig själv och berätta lite om dig själv.** Berätta om dina utbildningar, erfarenheter och vad du brinner för.
@@ -85,24 +108,39 @@ Det finns inget bättre sätt att lära sig om chattbottar än att själv testa 
 > * Bygg upp ett gott samarbete med föräldrarna. Föräldrarna kan vara en stor tillgång för dig, och de kan hjälpa dig att skapa en positiv och lärorik miljö i klassrummet.
 > Jag hoppas att dessa tips hjälper dig att ha ett lyckat första föräldramöte!
 
----- 
+### GPT-SW3
+Den svenska språkmodellen GPT-SW3 (uttalas ”gpt sve”) är närmast unik i och med att den tränats på små språk (de nordiska) och att träningsdata och träningsmetoder deklarerats öppet. Den är inte lika stor och inte lika kunnig som de stora modellerna nämnda ovan, men värd att känna till. Den går att använda utan att skapa något konto på [chat.ai.se][7].
 
-> _Exempel från chat.lmsys.org (vicuna-13b)._
+> Exempel från GPT-SW3 (gpt-swe-20b-instruct, 2023-09-25)
+> **Jag:** Vad är viktigt att tänka på när man ska undervisa om källkritik?
+> **Chattbot:**  Källkritik är viktigt för att säkerställa att informationen som finns tillgänglig är korrekt och inte vilseledande. Följande är några viktiga överväganden:
+> - Kontrollera källan: Kontrollera alltid källan till informationen du får från en onlinekälla eller sociala medier. Se till att det är en ansedd organisation eller person som står bakom innehållet. Detta kommer att bidra till att minska risken för felaktig eller vilseledande information.
+> - Granska datumet: Kontrollera datumet för informationen du får från en onlinekälla eller sociala medier. Leta efter en tidstämpel som visar datumet då innehållet skapades eller uppdaterades. Detta hjälper dig att avgöra hur aktuell informationen är.
+> - Gör din egen forskning: Om du letar efter mer djupgående information kan det vara värt att göra din egen forskning genom att konsultera flera källor. Detta kommer att hjälpa dig att få en mer nyanserad förståelse av ämnet.
+> - Var medveten om avsändaren: Var uppmärksam på vem som tillhandahåller informationen du får. Se till att du känner igen avsändarens rykte och kvalifikationer innan du litar på dem med dina uppgifter.
+> - Tänk på syftet med informationen: Tänk på syftet med den information du får. Är du bara intresserad av att veta fakta? Eller vill du vidta åtgärder baserat på den information du får? Att ha ett tydligt mål i åtanke kan hjälpa dig att utvärdera trovärdigheten hos källan.
+> I slutändan är det viktigt att vara skeptisk och göra din egen forskning när du utvärderar all information du stöter på. Bara för att något verkar vara sant betyder inte nödvändigtvis att det är sant.
+
+### Några öppna AI-modeller
+På [chat.lmsys.org][8] kan du testa ett antal öppna AI-modeller utan att behöva skapa något konto, och även jämföra hur två modeller svarar på samma prompt. Den mest kraftfulla AI-modellen bland de tillgängliga är förvald (för närvarande ”vicuna-13b”), så du kan bara bläddra ner och börja skriva.
+
+På [open-assistant.io][9] kan du skapa ett (gratis) konto med ett par klick, inklusive att godkänna användarvillkor, och börja använda den öppna AI-modellen Open Assistant.
+
+> _Exempel från chat.lmsys.org (vicuna-33b)._
 > **Jag:** Vad är viktigt att tänka på när man undervisar i hem- och konsumentkunskap?
-> **Chattbot:** När man undervisar i hem- och konsumentkunskap finns det flera saker som är viktiga att tänka på för att säkerställa att eleverna får en effektiv utbildning. Här är några förslag:
-> 1. Anpassa lärande till elevernas behov och intressen: Eleverna har olika behov och intressen, så det är viktigt att anpassa lärande till deras individuella behov. Gör det till en aktivitet där eleverna kan delta och engageras på ett personligt sätt.
-> 2. Måla upp realistiska situationer: Lära eleverna om realistiska situationer som de kan stöta på i sin vardagliga livet. Det kan vara att lära dem om att köpa en bil, att sköta sin hälsa, eller att hantera sin konsumtion.
-> 3. Utvärdera och bedöma källor: Utvärdera och bedöma källorna som eleverna använder när de ska ta beslut om att köpa eller beställa en produkt eller tjänst. Det kan innefatta att de ska undersöka produktens kvalitet, pris, och om det finns alternativ som är bättre.
-> 4. Skapa engagemang: Skapa engagemang och aktivitet bland eleverna genom att fråga dem om deras egna erfarenheter och idéer. Låt dem delta i diskussioner och samarbete med andra elever.
-> 5. Förmedla användbara fakta: Förmedla användbara fakta och information om produkter och tjänster som eleverna kan använda i sitt vardagliga liv. Ge dem tillgång till information som kan hjälpa dem att göra välgrundade beslut.
-> 6. Förbereda eleverna för framtiden: Förbereda eleverna för framtiden genom att låta dem undersöka olika karriärmöjligheter och befattningar inom branscherna som de tänker sig att arbeta i.
-> 7. Gör det
-> **Jag:** Fortsätt
-> **Chattbot:** roligt: Gör undervisningen roligt och anpassad till elevernas interessen. Försöka använda olika metoder som lekar, skämt, och övningar för att hålla eleverna engagerade och intresserade. Gör det lätt att förstå och kom tillrätta med svåra koncept genom att använda enkla och begripliga uttryck och exempel.
-> 8. Gör det till en aktivitet: Låt undervisningen vara en aktivitet där eleverna kan delta och engageras på ett personligt sätt. Gör det till en tävling eller en utmaning där eleverna kan vinna priser eller belöningar för att de gjort ett bra jobb.
-> 9. Ge dem feedback: Ge eleverna feedback på deras arbete och hjälp dem att förstå vad de gjort rätt och fel och hur de kan förbättra sig. Gör det till en positiv aktivitet och låt dem veta att de gjort bra ifrån sig.
-> 10. Låt dem delta i beslut: Låt eleverna delta i beslut som görver deras lärande relevant och kommersiellt. Gör det till en aktivitet där eleverna kan försöka sätta igång sin egen företagsamhet eller starta en egen organisation.
-> 11. Genom att använda dessa tips kan du säkerställa att eleverna får en effektiv och rolig utbildning i hem- och konsumentkunskap.
+> **Chattbot:** Att undervisa i hem- och konsumentkunskap är viktigt för att ge eleverna grundläggande kunskaper och färdigheter som är nödvändiga för ett självständigt och hälsosamt liv. Här är några viktiga aspekter att tänka på när man undervisar i ämnet:
+> 1. Holistisk utbildning: Hem- och konsumentkunskap är en bred ämenskategori som omfattar allt från matlagning och hushållsarbete till ekonomi, konsumtion och miljömedvetenhet. Det är viktigt att ge eleverna en holistisk bild av ämnet, så att de kan förstå hur olika aspekter av det påverkar varandra.
+> 2. Praktiska färdigheter: Att lära sig hem- och konsumentkunskap innebär att lära sig praktiska färdigheter som matlagning, tvätt och städning, budgetering och handel. Det är viktigt att ge eleverna möjlighet att öva och utveckla dessa färdigheter i en säker och supportiv miljö.
+> 3. Konsumenträttigheter och skyldigheter: Eleverna bör förstå sina rättigheter och skyldigheter som konsumenter, så att de kan fatta välgrundade beslut när de handlar och använder tjänster. Det är viktigt att undervisa i lagar och regler som skyddar konsumenter, samt hur man kan lösa eventuella konflikter.
+> 4. Hälsa och miljö: Hem- och konsumentkunskap innefattar också att förstå hur våra val som konsumenter påverkar hälsa och miljö. Det är viktigt att ge eleverna information om hälsosamma matval, ekologisktäta alternativ och att vara medveten om hur våra val påverkar planeten.
+> 5. Ekonomi och budgetering: Att hantera ekonomi och budgetering är en viktig del av hem- och k
+> **Jag:** Fortsätt.
+> **Chattbot:**
+> 1. Ekonomi och budgetering: Att hantera ekonomi och budgetering är en viktig del av hem- och konsumentkunskap. Det är viktigt att ge eleverna övningar och exempel på hur man kan budgetera inkomst och utgift, samt hur man kan hantera skulder och spara pengar.
+> 2. Måltidsläranning: Att lära sig matlaga och balansera måltider är centralt för hem- och konsumentkunskap. Det är viktigt att ge eleverna inspiration och råd om hur man kan laga mat som är nyttig, smaklig och variationrik, samt hur man kan anpassa recept för olika dieter och allergier.
+> 3. Samarbete och gemenskap: Hem- och konsumentkunskap är en ämenskategori där det är lätt att arbeta gemensamt och samarbeta. Det är viktigt att ge eleverna möjlighet att delta i gemensamma projekt och uppgifter, så att de kan lära sig av varandra och utveckla sin kommunikation och samarbetsfärdigheter.
+> 4. Anpassning och flexibilitet: Det är viktigt att undervisa i hem- och konsumentkunskap på ett sätt som är anpassat efter elevernas behov och förutsättningar. Det kan vara nödvändigt att utforma uppgifter och aktiviteter på olika sätt för att möta olika färdigheter och intressen.
+> 5. Attityder och värderingar: Hem- och konsumentkunskap handlar inte bara om praktiska färdigheter, utan också om att forma attityder och värderingar kring hushåll och konsumtion. Det är viktigt att fråga ut eleverna om deras åsikter och erfarenheter, samt att ge dem möjlighet att reflektera över hur deras val som konsumenter påverkar både sig själva och andra.
 
 ---- 
 
@@ -113,17 +151,6 @@ Det finns inget bättre sätt att lära sig om chattbottar än att själv testa 
 > Obstacle Course - Set up an obstacle course using chairs or cones. Include simple activities like hopping, skipping or crawling through tunnels. Divide into teams and have them race each other while completing all tasks correctly!
 > Scavenger Hunt - Make a list of items for the students to find in your outdoor space such as leaves, sticks, feathers etc. Let the groups search alone but remind that everyone must return together when found so not to wander off too far from the group. When finished, have the students sort their treasures by shape or texture! Have fun!
 
----- 
-
-> _Exempel från ChatGPT (GPT-4 12 maj 2023)._
-> **Jag:** Vad är ett bra sätt att förklara kemisk jämvikt för mina årskurs 2:or på gymnasiet?
-> **Chattbot:** Absolut! Kemisk jämvikt är ett viktigt koncept inom kemi, men det kan vara ganska svårt att förstå första gången man stöter på det. Här är ett enkelt sätt att förklara det för dina gymnasieelever:
-> För det första, det är viktigt att förstå att i en kemisk reaktion, kommer reaktanter (de saker som reagerar) att omvandlas till produkter. Men det är inte alltid en enkel one-way process - ibland kan produkterna faktiskt omvandlas tillbaka till reaktanter. Detta är kärnan i konceptet kemisk jämvikt.
-> Så föreställ dig att du har en låda med bollar. Du börjar med 100 röda bollar och 0 blå bollar. Men med tiden, börjar några av de röda bollarna ändras till blåa. Efter ett tag har du 50 röda bollar och 50 blåa. Men nu börjar några av de blåa bollarna ändras tillbaka till röda. Och så fortsätter det - bollar ändrar färg fram och tillbaka.
-> Detta är vad som händer i en kemisk reaktion som har uppnått jämvikt: reaktanter blir till produkter, och produkter blir till reaktanter, i en konstant cykel. Och även om det kan verka som om inget händer eftersom mängderna inte ändras (liksom det totala antalet bollar i din låda inte ändras), pågår det faktiskt ständiga förändringar på molekylär nivå.
-> Det är också viktigt att påpeka att vid kemisk jämvikt betyder det inte alltid att mängderna av reaktanter och produkter är lika - det betyder bara att hastigheterna för de två reaktionerna (reaktanter blir till produkter, och produkter blir till reaktanter) är lika.
-> Hoppas det hjälper! Låt mig veta om det finns något mer du vill veta om kemisk jämvikt.
-
 ## Hur fungerar chattbottar?
 ”Det är omöjligt att skilja tillräckligt avancerad teknologi från magi.”
 
@@ -131,17 +158,19 @@ Citatet kommer från Arthur C. Clarke, förmodligen mest känd för boken _År 2
 
 Det visar sig, föga förvånande, att det inte är magi utan just avancerad teknik. (Även om det också visar sig vara så pass svårt att förstå den faktiska processen att det nästan lika gärna kunde varit magi – mer om det i del 3.)
 
-Chattbottar är som tidigare nämnts så kallade generativa AI, närmare bestämt en sort som kallas _stora språkmodeller_ eller LLM, _large language models_. Grovt sammanfattat så har sådana modeller tränats på massiva mängder text, genom att försöka gissa nästa ord i meningar. Modellen innehåller miljarder av så kallade parametrar, som förenklat motsvarar kopplingar mellan neuroner i biologiska hjärnor, och styr hur modellen gissar nästa ord. De parametrarna ändras medan AI-modellen tränas, så att dess gissning på nästa ord stämmer bättre och bättre med hur texterna i träningsdatan faktiskt ser ut.
+Chattbottar använder en sorts AI som kallas _stora språkmodeller_ eller LLM, _large language models_. De är algoritmer som är skapade av datorer i stället för människor, och grovt sammanfattat gjorda för att gissa nästa ord i en mening. I algoritmerna finns vanligtvis miljarder med så kallade parametrar – värden som kan justeras upp eller ner, och påverkar vilka gissningar algoritmen gör. Modellen _tränas_ på enorma mängder text, vilket betyder att parametrarna justeras på ett systematiskt sätt för att ge bättre och bättre gissningar.
 
 Resultatet blir en AI-modell som kan skapa naturlig text. De flesta språkmodeller har sedan fått ytterligare minst ett lager med träning, där människor (eller andra AI-modeller) ger återkoppling på vad som exempelvis är en trevlig ton, hjälpsamma svar, kränkande, olämpligt eller tydligt. Om allt detta görs på rätt sätt leder det i slutändan fram till en AI-modell som man kan föra en naturlig dialog med, om det mesta mellan himmel och jord.
 
-När modellerna som ChatGPT använder tränades, användes stora delar av den text som fanns på internet fram till september 2021 i kombination med gigantiska mängder datorkraft. Sedan dess har flera sätt att effektivisera träning av språkmodeller utforskats, vilket inte har gett riktigt lika kraftfulla modeller men har å andra sidan kostat så lite som 30 dollar (medan GPT-4 uppskattats ha kostat omkring hundra miljoner dollar att träna).[^1] Att använda de färdiga modellerna kräver mycket mindre datorkraft än att träna upp dem, och det finns nu språkmodeller som till och med kan köras på en persondator.
+När modellerna som ChatGPT använder tränades, användes stora delar av den text som fanns på internet fram till september 2021 i kombination med gigantiska mängder datorkraft. Forskning pågår hela tiden för att göra träningen mer effektiv och för att minska mängden data som behövs. Att använda de färdiga modellerna kräver mycket mindre datorkraft än att träna upp dem, och det finns nu språkmodeller som till och med kan köras på en persondator.
 
 I grund och botten är språkmodeller tränade på att skapa meningar som på ett abstrakt sätt ”stämmer med” hur texter de tränats på ser ut. Det är fascinerande att en modell genom detta lär sig stavning, grammatik och meningsbyggnad – och närmast otroligt att den dessutom lär sig översätta texter, använda komplicerade begrepp på ett (ofta) korrekt sätt, och även i viss mån föra resonemang.
 
 Inte desto mindre är det viktigt att komma ihåg att chattbottar i första hand är gjorda för att skapa text som låter bra – inte att säga saker som är sanna. Mer om det i nästa kapitel.
 
 # Vanliga misstag med chattbottar
+_Granskad 2023-05-29._
+
 Som med alla andra verktyg är det värt att använda chattbottar med omdöme. I den första versionen av boken, från januari 2023, fanns fyra vanliga misstag listade. I andra boken, skriven i skiftet maj–juni, har listan vuxit till sju. Listan kommer sannolikt fortsätta att växa när vi lär oss mer om effekterna av att använda chattbottar, och det är viktigt hela tiden använda sitt omdöme.
 
 Här är sju frågor som är värdefulla att ställa för att undvika vanliga misstag med chattbottar.
@@ -185,30 +214,36 @@ Det är lätt att föreställa sig att elever kan gå i samma fälla om de lämn
 ## Finns det skeva perspektiv eller skeva värderingar?
 De flesta chattbottar har tränats på text från internet, vilket betyder att de också har potential att uttrycka sexism, rasism, extremism och många andra olämpliga värderingar som finns att hitta på nätet. I stor utsträckning förhindras det av ett sista steg i träningen av AI-modeller kallad _reinforcement learning from human feedback_ eller RLHF, vilket kan ses som människor lär chattbottar hyfs. Resultatet är dock inte felfritt: olämpliga budskap som man försökt träna bort kan ändå synas ibland och – en knepigare nöt att knäcka – olämpliga budskap som man _inte_ aktivt försökt träna bort fortfarande finns kvar. Ett extremt exempel på det senare är att talibanregimen i Afghanistan troligtvis anser att hyfsträning lämnar stora luckor, eftersom de inte omfattar en (enligt dem) korrekt syn på kvinnor. I andra kulturer kan man tänka sig mer subtila luckor, som kan gå under radarn för de flesta men till exempel kan innehålla budskap som minoritetsgrupper finner direkt kränkande.
 
-Men hyfsträning kan också skapa svårigheter i sig. Människor i Sverige kan tycka att hyfsträning gjord efter USA-standarder ger en lite konstig bild när det gäller syn på abort eller användning av cannabis[^2]. En studie på en rad olika chattbottar visar att modeller som genomgått hyfsträning, kanske inte helt överraskande, oproportionellt mycket avspeglar åsikter det som i USA kännetecknas av liberala, välutbildade och välbeställda människor.[^3] En annan studie från Köpenhamns universitet jämförde ChatGPT:s svar på frågor om kulturella värden i fem olika länder med verkliga människors svar på samma frågor, och kom fram till att chattbottens svar är tydligt influerade av USA – särskilt om man skriver på engelska.[^4] Det finns med andra ord anledning att fundera över om budskap från chattbottar under ytan har med sig värderingar eller en världssyn som inte stämmer med vad vi vill (och ska) förmedla i skolan.
+Men hyfsträning kan också skapa svårigheter i sig. Människor i Sverige kan tycka att hyfsträning gjord efter USA-standarder ger en lite konstig bild när det gäller syn på abort eller användning av cannabis[^1]. En studie på en rad olika chattbottar visar att modeller som genomgått hyfsträning, kanske inte helt överraskande, oproportionellt mycket avspeglar åsikter det som i USA kännetecknas av liberala, välutbildade och välbeställda människor.[^2] En annan studie från Köpenhamns universitet jämförde ChatGPT:s svar på frågor om kulturella värden i fem olika länder med verkliga människors svar på samma frågor, och kom fram till att chattbottens svar är tydligt influerade av USA – särskilt om man skriver på engelska.[^3] Det finns med andra ord anledning att fundera över om budskap från chattbottar under ytan har med sig värderingar eller en världssyn som inte stämmer med vad vi vill (och ska) förmedla i skolan.
 
 Det finns chattbottar som inte har genomgått hyfsträning, och alltså kan slänga ur sig budskap utan tanke på om de är oartiga, kränkande eller direkt skadliga. Sådana modeller kan orsaka skada, men kräver i regel mer expertis för att hitta och använda, och spelar därför mindre roll i skolan.
 
 ## Är jag på väg att skicka känsliga uppgifter?
-I april 2023 visade det sig att anställda på Samsung hade skickat känslig data till ChatGPT – i två fall för att förbättra känslig kod, i ett tredje var det mötesanteckningar som delades.[^5] Det finns förmodligen många fler företag och organisationer som skickat information till chattbottar utan att fundera över om det är data som är lämplig att dela.
+I april 2023 visade det sig att anställda på Samsung hade skickat känslig data till ChatGPT – i två fall för att förbättra känslig kod, i ett tredje var det mötesanteckningar som delades på ett ogenomtänkt sätt.[^4] Det finns förmodligen många fler företag och organisationer som skickat information till chattbottar utan att fundera över om det är data som är lämplig att dela.
 
-Man kan utgå från att chattbottar är molntjänster med servrar utanför EU, och att all information som skickas både bearbetas och sparas. Man ska därför inte skicka personuppgifter eller andra känsliga uppgifter.
+Man kan utgå från att chattbottar är molntjänster med servrar utanför EU, och att all information som skickas både bearbetas och sparas. Man ska därför inte skicka personuppgifter eller andra känsliga uppgifter, om man inte försäkrat sig om att datan för just den chattbotten du använder hanteras på ett säkert sätt – precis som med annan information du skickar över nätet.
 
 ## Är det här oreflekterad avlastning?
 En särskilt knivig fråga med verktyg som elever själva använder handlar om _oreflekterad avlastning_. Saker som miniräknare, ordböcker och ordlistor, formelblad, rättstavningsprogram, uppläsningsprogram – och chattbottar – kan vara fantastiska verktyg för att kunna arbeta smidigare och fokusera på det som är undervisningens egentliga innehåll. De gör det möjligt att slippa fastna i saker som kan stjäla värdefull tankekraft – tankekraft för att bearbeta och lära sig nya saker.
 
 Men det kan också hända att verktyget tar hand om saker som eleven behöver träna på. Att alltid ha miniräknare till hands gör att elever i mindre utsträckning räknar i huvudet eller på papper, och då kommer de att bli sämre på det. Att lyssna på text ger mindre träning i traditionell läsning, att skriva på tangentbord ger mindre träning i att skriva för hand (och omvänt!), att ta rulltrappan ger mindre träning för benen. Och att använda chattbottar för att formulera texter gör att vi blir sämre på att göra det för hand.
 
-I vissa avseenden kan chattbottar vara så självgående att det inte är rimligt att tala om dem som verktyg. Verktyg kräver i regel kunskaper för att använda: Om du har en skruvdragare och ska bygga en altan behöver du veta hur du ska använda den. Att använda en chattbot för att skriva en uppsats kan snarare jämföras med att hyra in en snickare som bygger altanen åt dig.[^6] Och liknelsen har ytterligare lärdomar: När du tittar på snickaren som bygger altanen kan du felaktigt få uppfattningen att du lär dig hur det går till. Är du tillräckligt uppmärksam kan du få en ytlig förståelse av hur man bygger en altan, men när du själv ska sköta skruvdragaren (och allt annat) blir det tydligt att det inte var så lätt som du trodde. Samma sak gäller med chattbottar. Att lägga över jobb på en chattbot kan göra att elever lär sig mindre av något viktigt – men fortfarande _tro_ att de lär sig.
+I vissa avseenden kan chattbottar vara så självgående att det inte är rimligt att tala om dem som verktyg. Verktyg kräver i regel kunskaper för att använda: Om du har en skruvdragare och ska bygga en altan behöver du veta hur du ska använda den. Att använda en chattbot för att skriva en uppsats kan snarare jämföras med att hyra in en snickare som bygger altanen åt dig.[^5] Och liknelsen har ytterligare lärdomar: När du tittar på snickaren som bygger altanen kan du felaktigt få uppfattningen att du lär dig hur det går till. Är du tillräckligt uppmärksam kan du få en ytlig förståelse av hur man bygger en altan, men när du själv ska sköta skruvdragaren (och allt annat) blir det tydligt att det inte var så lätt som du trodde. Samma sak gäller med chattbottar. Att lägga över jobb på en chattbot kan göra att elever lär sig mindre av något viktigt – men fortfarande _tro_ att de lär sig.
 
 Lösningen på problemet är _inte_ att låta bli verktyg helt och hållet. Lösningen är snarare att vara medveten om att det ofta är mödosamt att lära sig något, och att det alltså är viktigt att välja vad elever ska lägga sina ansträngningar på. (Att något är mödosamt är dock inte samma sak som att det är tråkigt, vilket också är värt att komma ihåg.) Om man vill använda chattbottar för att stötta läsning eller skrivande i lågstadiet kräver det ordentlig eftertanke, medan det är mindre problematiskt att låta studenter på högskola använda en chattbot för att göra en rapport lättare att läsa.
 
 Eftersom elever kan behöva arbeta med olika saker, och kan behöva stöd med olika saker, kan det hända att chattbottar hjälper en elev medan en annan elev i samma klass hindras i sitt lärande av precis samma stöd.
 
+Problemet sammanfattades oavsiktligt rätt bra i en intervju med en australisk skolutvecklare. ”Idag har vi bilar och flygplan, men det betyder inte att vi slutat röra på oss.” Sanningen är snarare att övervikt är ett stort och globalt hälsoproblem. Vi vill inte att användning av AI skapar motsvarande problem för vår förmåga att använda hjärnan.
+
 ## Följer det här skolans styrdokument?
 Det finns flera tjänster som använder språkmodeller för att generera färdiga lektionsplaneringar, inklusive en krok för att väcka intresse i början av lektionen, beskrivningar av aktiviteter och hur lång tid de ska ta, och frågor att avsluta lektionen med. Och även utan specialbyggda verktyg kan många chattbottar skapa en lektionsplanering på mindre än en minut.
 
 Men det behöver inte betyda att lektionen tar upp det som skolans styrdokument säger att undervisningen ska handla om. Det är inte en slump att det går åt mycket kraft för att skapa läromedel, där redaktörer och skickliga lärare arbetat för att få till delar och helheter som fångar både det som kurs- och ämnesplaner tar upp och de mer övergripande målen som finns i läroplaner.
+
+Ett annat exempel är om man ber en chattbot att bedöma uppsatser eller andra arbeten som elever gjort. Du kan utan tvekan få svar, men de behöver inte vara grundade i betygskriterier eller andra delar av kurs- och ämnesplaner.
+
+Som tidigare matematik- och fysiklärare i gymnasieskolan är jag inte kompetent att bedöma lektionsplaneringen nedan. För att göra det krävs någon som är skicklig i att undervisa historia på mellanstadiet, och att använda planeringen utan att ha försäkrat sig om att den är rimlig vore oansvarigt.
 
 > Exempel från ChatGPT (GPT-3.5, 12 maj 2023).
 > **Jag:** Kan du skapa en lektionsplanering för mig? Vi ska ha första lektionen av sex som fokuserar på vikingatiden. Mellanstadiet.
@@ -253,6 +288,8 @@ Men det behöver inte betyda att lektionen tar upp det som skolans styrdokument 
 ## Är det här bra pedagogik?
 De som har lätt för att fastna i nya roliga verktyg (författaren inräknad) har nytta av att regelbundet fråga sig om det man använder chattbottar till faktiskt är bra pedagogik, eller om verktyget har fått bestämma för mycket över undervisningens utformning. Att det går snabbt och är roligt att skapa automaträttade quizzar behöver inte betyda att det är en bra idé att avsluta _varje_ lektion med en quiz.
 
+Det är en självklarhet, men förtjänar att sägas: Undervisningen ska utgå från elevernas lärande, inte vilka verktyg som finns i närheten.
+
 # Chattbottars styrkor
 Med alla misstag och brister som beskrivs ovan kan man börja undra om det verkligen är en bra idé att använda chattbottar i skola, i eller utanför klassrum. De skapar faktafel som är svåra att upptäcka, smyger in en världssyn som kan göra skada, lurar användare att skicka känsliga uppgifter, följer inte skolans styrdokument och riskerar att få elever att lära sig mindre när de använder verktyg i stället för att göra saker själva.
 
@@ -279,7 +316,7 @@ Att bolla tankar med en kollega är ofta ett sätt att komma vidare i sina egna 
 En särskild förmåga som chattbottar har är att kunna hitta på massor av idéer där den mänskliga hjärnan (författarens inräknad) går på grund efter en kort stund.
 
 ## Ge stöd i programmering
-Långt ifrån alla lärare använder programmering i eller utanför sin undervisning, men de som gör det bör vara medvetna om den typ av stöd man kan få från AI-verktyg. Förutom chattbottar finns det också särskilda verktyg skapade för just programmering, där det mest kända förmodligen är [GitHub Copilot][13].
+Långt ifrån alla lärare använder programmering i eller utanför sin undervisning, men de som gör det bör vara medvetna om den typ av stöd man kan få från AI-verktyg. Förutom chattbottar finns det också särskilda verktyg skapade för just programmering, där det mest kända förmodligen är [GitHub Copilot][16].
 
 Chattbottar och annat AI-stöd kan till exempel:
 * Felsöka kod.
@@ -297,7 +334,7 @@ Som med all kod man får given till sig behöver man också hålla ett öga öpp
 # Hybrider
 Språkmodeller har, som nämnts ovan, nackdelen att de inte bryr sig särskilt mycket om vad som är sant eller falskt, utan det primära målet är att skapa meningar som låter bra. Genom att koppla ihop språkmodeller med andra typer av applikationer kan man komma runt mycket av de problemen.
 
-Tjänsten [perplexity.ai][14] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
+Tjänsten [perplexity.ai][17] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
 
 > Exempel från perplexity.ai (GPT-3.5 + sökområde ”all”).
 > **Jag:** Jag vill lära mig mer om vanliga inlärningssvårigheter i matematik på mellanstadiet. Kan du ge mig förslag på en forskningsartikel att läsa?
@@ -309,7 +346,7 @@ Tjänsten [perplexity.ai][14] är en sådan hybrid av språkmodeller (GPT-3.5 oc
 > 5. "Hur hanterar matematiklärarna extra anpassningar på mellanstadiet?" (5): This study examines how teachers can provide extra support and adaptations to students with learning difficulties in mathematics on middle school level.
 > 6. "Matematiksvårigheter" (6): This research article summarizes previous studies on mathematics difficulties and provides recommendations for how to help students with learning difficulties in mathematics.
 
-Svaret från chattbotten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter.[^7]
+Svaret från chattbotten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter.[^6]
 
 Perplexity.ai är en egen tjänst som anropar chattbottar i bakgrunden. Samma metod används av exempelvis språklärningstjänsten Duolingo och verktyget Jenni som skriver akademiska artiklar.
 
@@ -340,7 +377,7 @@ Nästa kategori handlar om lärare som undervisar i ämnen där chattbottar är 
 
 Ytterligare en kategori är lärare där chattbottar är ett meningsfullt verktyg inom ämnen som de undervisar i – alltså något som kan vara värt att _lära sig använda_. Två av chattbottarnas främsta grenar är att bearbeta text och att skriva programkod, vilket betyder att lärare i exempelvis svenska, svenska som andraspråk, programmeringsämnen och matematik kan ha tydlig nytta av att lära sig mer om chattbottar. Det ger dels verktyg för egna arbetet i undervisningen, dels kunskaper om vilka typer av verktyg elever har eller kommer att ha tillgång till. (Huruvida elever också ska lära sig använda chattbottar för att bearbeta texter eller programmera i de här ämnena, eller om det räcker att läraren vet vad chattbottar eventuellt kan tillföra, är en annan fråga.)
 
-Sista kategorin omfattar att lära sig om chattbottar som en ”nice to have” – det är något man kan göra om man har tid över.[^8] Nästan oavsett vad du jobbar med kan chattbottar vara ett användbart verktyg för att effektivisera delar av ditt arbete, men det är inte säkert att det är den bäst investerade tiden – det kan vara minst lika bra att bli bättre på att använda Excel eller hitta nya sätt att samarbeta med kollegor.
+Sista kategorin omfattar att lära sig om chattbottar som en ”nice to have” – det är något man kan göra om man har tid över.[^7] Nästan oavsett vad du jobbar med kan chattbottar vara ett användbart verktyg för att effektivisera delar av ditt arbete, men det är inte säkert att det är den bäst investerade tiden – det kan vara minst lika bra att bli bättre på att använda Excel eller hitta nya sätt att samarbeta med kollegor.
 
 I den här kategorin ingår också att lära sig om chattbottar för att få en bättre känsla för hur en viktig del av teknikutvecklingen ser ut – en som lär påverka samhället och världen.
 
@@ -363,32 +400,33 @@ Om du vill satsa lite mer på att lära dig om chattbottar, eller kanske ha mer 
 5. **Ha teknikspanare.** I och med att tekniken ändras fort är det värdefullt att ha en eller ett par personer på skolan som spanar efter nya verktyg eller användningsområden. Om det finns it-utvecklare eller förstelärare med it-inriktning är det förmodligen naturliga val.
 6. **Tappa inte bort syftet.** Fråga dig regelbundet om det du utforskar faktiskt leder till bättre undervisning och lärande. Allt måste inte ge bättre undervisning direkt, men teknikutforskande ska inte bli sitt eget syfte.
 
-[^1]:	[https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/][6]
+[^1]:	Just synen på cannabis blev en nyhet i Sverige i mitten av maj, då den chattbot som alla Snapchat-användare har tillgång till tyckte att cannabis kan användas av den som ”vill ha roligt med vänner”: [https://sverigesradio.se/artikel/snapchats-ai-bot-gav-rad-om-cannabis-for-den-som-vill-ha-roligt][11]
 
-[^2]:	Just synen på cannabis blev en nyhet i Sverige i mitten av maj, då den chattbot som alla Snapchat-användare har tillgång till tyckte att cannabis kan användas av den som ”vill ha roligt med vänner”: [https://sverigesradio.se/artikel/snapchats-ai-bot-gav-rad-om-cannabis-for-den-som-vill-ha-roligt][8]
+[^2]:	[https://arxiv.org/abs/2303.17548][12]
 
-[^3]:	[https://arxiv.org/abs/2303.17548][9]
+[^3]:	Se [https://techxplore.com/news/2023-07-chatgpt-american-norms-values-reveals.html][13]
 
-[^4]:	Se [https://techxplore.com/news/2023-07-chatgpt-american-norms-values-reveals.html][10]
+[^4]:	[https://mashable.com/article/samsung-chatgpt-leak-details][14]
 
-[^5]:	[https://mashable.com/article/samsung-chatgpt-leak-details][11]
+[^5]:	Tack till Jonas Linderoth för den här liknelsen! [https://www.youtube.com/watch?v=GZOSh4ocpeI][15]
 
-[^6]:	Tack till Jonas Linderoth för den här liknelsen! [https://www.youtube.com/watch?v=GZOSh4ocpeI][12]
+[^6]:	När sökningen gjordes om på engelska gav sökområdet ”academic” träffar på artiklar från vetenskapliga tidskrifter, vilket inte var fallet på svenska.
 
-[^7]:	När sökningen gjordes om på engelska gav sökområdet ”academic” träffar på artiklar från vetenskapliga tidskrifter, vilket inte var fallet på svenska.
-
-[^8]:	Om du jobbar i skolan har du med stor sannolikhet _inte_ tid över. Men ändå.
+[^7]:	Om du jobbar i skolan har du med stor sannolikhet _inte_ tid över. Men ändå.
 
 [1]:	https://poe.com/ "Poe"
-[2]:	https://bard.google.com/ "Bard"
-[3]:	https://chat.lmsys.org/
-[4]:	https://open-assistant.io/sv
-[5]:	https://chat.openai.com/
-[6]:	https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/ "TechTalks: A look at open-source alternatives to ChatGPT"
-[8]:	https://sverigesradio.se/artikel/snapchats-ai-bot-gav-rad-om-cannabis-for-den-som-vill-ha-roligt
-[9]:	https://arxiv.org/abs/2303.17548 "Arxiv: Whose Opinions Do Language Models Reflect?"
-[10]:	https://techxplore.com/news/2023-07-chatgpt-american-norms-values-reveals.html "TechXplore: ChatGPT promotes American norms and values, study reveals"
-[11]:	https://mashable.com/article/samsung-chatgpt-leak-details "Mashable: Whoops, Samsung workers accidentally leaked trade secrets via ChatGPT"
-[12]:	https://www.youtube.com/watch?v=GZOSh4ocpeI
-[13]:	https://en.wikipedia.org/wiki/GitHub_Copilot "Engelska Wikipedia: GitHub Copilot"
-[14]:	https://www.perplexity.ai/
+[2]:	https://chat.openai.com/
+[3]:	https://chat.ai.se/ "GPT-SW3"
+[4]:	https://chat.openai.com/
+[5]:	https://poe.com/ "Poe"
+[6]:	https://bard.google.com/ "Bard"
+[7]:	https://chat.ai.se/ "GPT-SW3"
+[8]:	https://chat.lmsys.org/
+[9]:	https://open-assistant.io/sv
+[11]:	https://sverigesradio.se/artikel/snapchats-ai-bot-gav-rad-om-cannabis-for-den-som-vill-ha-roligt
+[12]:	https://arxiv.org/abs/2303.17548 "Arxiv: Whose Opinions Do Language Models Reflect?"
+[13]:	https://techxplore.com/news/2023-07-chatgpt-american-norms-values-reveals.html "TechXplore: ChatGPT promotes American norms and values, study reveals"
+[14]:	https://mashable.com/article/samsung-chatgpt-leak-details "Mashable: Whoops, Samsung workers accidentally leaked trade secrets via ChatGPT"
+[15]:	https://www.youtube.com/watch?v=GZOSh4ocpeI
+[16]:	https://en.wikipedia.org/wiki/GitHub_Copilot "Engelska Wikipedia: GitHub Copilot"
+[17]:	https://www.perplexity.ai/
