@@ -169,7 +169,7 @@ I grund och botten är språkmodeller tränade på att skapa meningar som på et
 Inte desto mindre är det viktigt att komma ihåg att chattbottar i första hand är gjorda för att skapa text som låter bra – inte att säga saker som är sanna. Mer om det i nästa kapitel.
 
 # Vanliga misstag med chattbottar
-_Granskad 2023-05-29._
+_Uppdaterat 2023-05-29._
 
 Som med alla andra verktyg är det värt att använda chattbottar med omdöme. I den första versionen av boken, från januari 2023, fanns fyra vanliga misstag listade. I andra boken, skriven i skiftet maj–juni, har listan vuxit till sju. Listan kommer sannolikt fortsätta att växa när vi lär oss mer om effekterna av att använda chattbottar, och det är viktigt hela tiden använda sitt omdöme.
 
@@ -291,11 +291,13 @@ De som har lätt för att fastna i nya roliga verktyg (författaren inräknad) h
 Det är en självklarhet, men förtjänar att sägas: Undervisningen ska utgå från elevernas lärande, inte vilka verktyg som finns i närheten.
 
 # Chattbottars styrkor
+_Uppdaterat 2023-05-29._
+
 Med alla misstag och brister som beskrivs ovan kan man börja undra om det verkligen är en bra idé att använda chattbottar i skola, i eller utanför klassrum. De skapar faktafel som är svåra att upptäcka, smyger in en världssyn som kan göra skada, lurar användare att skicka känsliga uppgifter, följer inte skolans styrdokument och riskerar att få elever att lära sig mindre när de använder verktyg i stället för att göra saker själva.
 
 Ovanpå det kan man lägga en meh-effekt, som man får om det första man testar är att ställa en fråga för att se om chattbotten kan svara rätt. Det leder ofta till besvikelse – ibland för att chattbotten svarar fel, men oftare för att den svarar rätt och man sedan frågar sig vad vitsen var. Vi har ju redan sökmotorer?
 
-Det tar ett tag att vänja sig vid att chattbottar inte primärt är uppslagsverk eller sökrobotar, utan kanske snarare ska ses som en assistent på burk. Som diskuteras nedanför under rubriken _hybrider_ kan chattbottar fungera även som uppslagsverk, om språkmodeller kombineras med andra verktyg, men de tre starkaste områdena för rena språkmodeller är att bearbeta text, vara idéspruta eller bollplank, och att ge stöd i programmering. Om man använder chattbottar till saker som de är bra på, och håller de sju frågorna ovan i bakhuvudet, kan man få ut mycket nytta av dem.
+Det tar ett tag att vänja sig vid att chattbottar inte primärt är uppslagsverk eller sökrobotar, utan kanske snarare ska ses som en assistent på burk. Som diskuteras nedanför under rubriken _hybrider_ kan chattbottar fungera även som uppslagsverk, om språkmodeller kombineras med andra verktyg, men de tre starkaste områdena för rena språkmodeller är att bearbeta text, vara idéspruta eller bollplank, och att ge stöd i programmering. Om man använder chattbottar till saker som de är bra på, och håller de sju frågorna ovan i bakhuvudet, kan man få mycket nytta av dem.
 
 Nedan beskrivs kort de tre starka områdena för chattbottar. I del 2 finns mer utförliga exempel på hur det kan se ut i praktiken (där en del exempel också går utanför de här tre områdena).
 
@@ -332,6 +334,8 @@ Om elever använder AI-stöd för programmering behöver man förstås vara extr
 Som med all kod man får given till sig behöver man också hålla ett öga öppet efter potentiella säkerhetshål.
 
 # Hybrider
+_Uppdaterat 2023-05-29._
+
 Språkmodeller har, som nämnts ovan, nackdelen att de inte bryr sig särskilt mycket om vad som är sant eller falskt, utan det primära målet är att skapa meningar som låter bra. Genom att koppla ihop språkmodeller med andra typer av applikationer kan man komma runt mycket av de problemen.
 
 Tjänsten [perplexity.ai][17] är en sådan hybrid av språkmodeller (GPT-3.5 och GPT-4) kombinerat med sökmotorer, som dessutom går att ställa in på att söka i olika typer av källor. Här nedanför används samma fråga som gav en påhittad forskningsartikel från GPT-3.5.
@@ -346,7 +350,7 @@ Tjänsten [perplexity.ai][17] är en sådan hybrid av språkmodeller (GPT-3.5 oc
 > 5. "Hur hanterar matematiklärarna extra anpassningar på mellanstadiet?" (5): This study examines how teachers can provide extra support and adaptations to students with learning difficulties in mathematics on middle school level.
 > 6. "Matematiksvårigheter" (6): This research article summarizes previous studies on mathematics difficulties and provides recommendations for how to help students with learning difficulties in mathematics.
 
-Svaret från chattbotten levererades tillsammans med länkar till respektive artikel. Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter.[^6]
+Svaret från chattbotten levererades tillsammans med länkar till respektive artikel. (Flera av träffarna är examensarbeten och alltså inte publicerade i vetenskapliga tidskrifter.[^6])
 
 Perplexity.ai är en egen tjänst som anropar chattbottar i bakgrunden. Samma metod används av exempelvis språklärningstjänsten Duolingo och verktyget Jenni som skriver akademiska artiklar.
 
@@ -366,12 +370,14 @@ Ur teknisk synvinkel spelar det mycket liten roll om en hybrid är egen tjänst 
 Det är troligt att olika typer av hybrider kommer att ge många nya användningsområden för chattbottar, i och utanför skolan.
 
 # Hur lär jag mig om chattbottar?
+_Uppdaterat 2023-05-29._
+
 ## Vem bör lära sig om chattbottar?
 Frågan måste ställas: _Är det värt att lära sig om chattbottar?_
 
 Det finns flera lager i svaret på frågan, och hur de ser ut beror också vilka ämnen du undervisar eller om du till exempel är rektor.
 
-Den mest direkta implikationen av chattbottar, som fått mer än sin beskärda del av uppmärksamhet, handlar om risken att elever låter en chattbot skriva inlämningsuppgifter, trots att det inte var tillåtet. (Se rätt kapitel i del 2 för mer om detta.) Sett ur det perspektivet behöver rektorer och alla lärare som använder inlämningsuppgifter som bedömningsunderlag _känna till_ att det finns chattbottar som kan skriva uppsatser om det mesta som undervisas i skolan. Det omfattar många lärare i många ämnen, men långt ifrån alla – att låta elever ta hem matteprov för att lämna in dagen efter är till exempel mycket ovanligt.
+Den mest direkta implikationen av chattbottar, som fått mer än sin beskärda del av uppmärksamhet, handlar om fusk: Att elever låter en chattbot skriva inlämningsuppgifter trots att det inte var tillåtet. (Se rätt kapitel i del 2 för mer om detta.) Sett ur det perspektivet behöver rektorer och alla lärare som använder inlämningsuppgifter som bedömningsunderlag _känna till_ att det finns chattbottar som kan skriva uppsatser om det mesta som undervisas i skolan. Det omfattar många lärare i många ämnen, men långt ifrån alla – att låta elever ta hem matteprov för att lämna in dagen efter är till exempel mycket ovanligt.
 
 Nästa kategori handlar om lärare som undervisar i ämnen där chattbottar är ett rimligt undervisningsinnehåll att lära sig _om_. Teknikämnet i grundskolan och samhällskunskap på gymnasial nivå är två exempel – båda omfattar hur teknik och samhälle påverkar varandra. (På gymnasial nivå finns dessutom många fler ämnen som berör exempelvis teknik, automatisering och programmering.) I de här ämnena är det rimligt att ta upp hur AI påverkar samhället, och chattbottar är ett konkret exempel på hur det kan se ut – även om det finns också _många_ andra former för AI, från låtförslag till självkörande bilar och lastbalansering i elnät.
 
@@ -385,7 +391,7 @@ Med det som bakgrund testar vi igen att ställa frågan: _Är det värt att lär
 * Om du är rektor eller använder inlämningsuppgifter som betygsunderlag finns det starka skäl att lära dig att chattbottar klarar av att genomföra inlämningsuppgifter.
 * Om du undervisar samhällskunskap eller teknikämnen finns det tydliga skäl att bli insatt i hur AI-utvecklingen ser ut, så att du kan ta upp den på ett relevant sätt i din undervisning. Det omfattar inte nödvändigtvis chattbottar, men det är ett relevant och lättillgängligt exempel.
 * Om du undervisar ämnen där textbearbetning eller programmering ingår finns det tydliga skäl att lära dig vad chattbottar kan göra, både för att dra nytta av det själv och för att få en bild av vad elever kommer att använda i framtiden. Det innebär troligtvis att du behöver lära dig att använda chattbottar själv – att läsa sig till den typen av kunskap räcker sällan hela vägen.
-* Om du letar efter sätt att effektivisera ditt arbete är chattbottar en bra kandidat, men inte ett självklart val jämfört med mycket annat som finns att lägga tid på – teknik eller annat.
+* Om du letar efter sätt att effektivisera ditt arbete är chattbottar en bra kandidat, men inte ett självklart val jämfört med mycket annat som finns att lägga tid på – och inte bara teknik.
 * Om du vill hålla dig uppdaterad om banbrytande teknik, för att ha en bild av hur teknik kan påverka samhället, är chattbottar en stark kandidat.
 
 ## Bra förutsättningar för att lära sig använda chattbottar
@@ -399,6 +405,33 @@ Om du vill satsa lite mer på att lära dig om chattbottar, eller kanske ha mer 
 4. **Dela erfarenheter.** Chattbottar är ung teknik som fortfarande utvecklas, vilket gör det extra värdefullt att dela med sig av både sådant man tycker fungerar bra och sånt som inte fungerat. Dela gärna erfarenheter både inom skolan och med andra skolor, och se förstås till att ta tillvara andras erfarenheter.
 5. **Ha teknikspanare.** I och med att tekniken ändras fort är det värdefullt att ha en eller ett par personer på skolan som spanar efter nya verktyg eller användningsområden. Om det finns it-utvecklare eller förstelärare med it-inriktning är det förmodligen naturliga val.
 6. **Tappa inte bort syftet.** Fråga dig regelbundet om det du utforskar faktiskt leder till bättre undervisning och lärande. Allt måste inte ge bättre undervisning direkt, men teknikutforskande ska inte bli sitt eget syfte.
+
+## Skolans förhållning till chattbottar
+Ett sätt att göra det lättare för lärare och elever att förhålla sig till chattbottar är att ha uttalade principer eller riktlinjer på skolan. Nedan finns några exempel på hur sådana principer skulle kunna se ut; några försiktiga, andra mer offensiva.
+
+### Om inlämningsuppgifter som betygsunderlag
+* På den här skolan använder vi inte inlämningsuppgifter som betygsunderlag.
+* På den här skolan använder vi i regel inte inlämningsuppgifter som betygsunderlag. Om lärare använder inlämningsuppgifter som betygsunderlag behöver de beskriva för rektorn hur risken för fusk hanteras.
+* På den här skolan bestämmer varje ämneslag om inlämningsuppgifter ska få användas som betygsunderlag.
+
+### Om att ta upp AI i undervisning
+* På den här skolan ska lärare i samhällskunskap och teknik samarbeta för att ge elever grundläggande kunskaper om AI: hur AI påverkar samhället, hur samhället påverkar teknikutvecklingen, principer för hur AI fungerar, frågor om makt och AI, frågor om integritet, och diskussioner om vad AI kan betyda för framtidens samhälle.
+* På den här skolan ska undervisningen i svenska och svenska som andraspråk även omfatta hur man kan analysera och bearbeta texter med hjälp av chattbottar.
+
+### Om chattbottar som undervisningsverktyg
+* På den här skolan måste all användning av chattbottar i klassrummet godkännas av rektorn.
+* På den här skolan måste rektorn ge godkännande innan elever använder chattbottar som en del av undervisningen.
+* På den här skolan uppmuntrar vi att lärare efter egen vilja och intresse varsamt utforskar hur chattbottar kan förbättra undervisning. Lärandet måste stå i centrum och elevers integritet får inte riskeras.
+* På den här skolan litar vi på att lärare använder pedagogiska verktyg på kloka sätt, och delar med sig av tankar och erfarenheter till kollegor. Det gäller även AI.
+* På den här skolan ska vi inte uppmuntra elever att själva skaffa konton för att använda chattbottar.
+* På den här skolan måste lärare som vill använda chattbottar i klassrummet först få utbildning av vår ikt-pedagog.
+
+### Om AI som arbetsverktyg för lärare
+* På den här skolan ska all användning av AI i arbetet, i eller utanför klassrummet, stämmas av med vår förstelärare inom digitalisering. Hon har ansvar för att varje månad uppdatera våra riktlinjer.
+* På den här skolan får AI inte användas för att göra bedömningar av betygsunderlag.
+* På den här skolan får AI användas för att ge en second opinion av betygsunderlag, men aldrig den första bedömningen.
+* På den här skolan måste den elev och vårdnadshavare ge godkännande innan elevuppsatser får matas in i en chattbot, och läraren måste först kontrollera att uppsatsen inte innehåller några känsliga uppgifter.
+* På den här skolan ska alla texter som publiceras offentligt granskas av en chattbot för att undvika skrivfel och säkra enkelt språk.
 
 [^1]:	Just synen på cannabis blev en nyhet i Sverige i mitten av maj, då den chattbot som alla Snapchat-användare har tillgång till tyckte att cannabis kan användas av den som ”vill ha roligt med vänner”: [https://sverigesradio.se/artikel/snapchats-ai-bot-gav-rad-om-cannabis-for-den-som-vill-ha-roligt][11]
 
