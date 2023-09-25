@@ -122,7 +122,7 @@ Den svenska språkmodellen GPT-SW3 (uttalas ”gpt sve”) är närmast unik i o
 > I slutändan är det viktigt att vara skeptisk och göra din egen forskning när du utvärderar all information du stöter på. Bara för att något verkar vara sant betyder inte nödvändigtvis att det är sant.
 
 ### Några öppna AI-modeller
-På [chat.lmsys.org][8] kan du testa ett antal öppna AI-modeller utan att behöva skapa något konto, och även jämföra hur två modeller svarar på samma prompt. Den mest kraftfulla AI-modellen bland de tillgängliga är förvald (för närvarande ”vicuna-13b”), så du kan bara bläddra ner och börja skriva.
+På [chat.lmsys.org][8] kan du testa ett antal öppna AI-modeller utan att behöva skapa något konto, och även jämföra hur två modeller svarar på samma prompt. På webbplatsen finns också en lista över vilka språkmodeller som är högst rankade, enligt webbplatsens egna mätningar.
 
 På [open-assistant.io][9] kan du skapa ett (gratis) konto med ett par klick, inklusive att godkänna användarvillkor, och börja använda den öppna AI-modellen Open Assistant.
 
