@@ -1,5 +1,5 @@
 # Några möjliga framtidsscenarion
-_Uppdaterat 2023-09-02._
+_Uppdaterat 2023-09-26._
 
 Motsvarar den AI-utveckling vi ser nu en lika stor förändring som när internet kom? Elektriciteten? Är den lika stor som den industriella revolutionen, eller till och med större? Eller är det mer som dotcom-bubblan?
 
@@ -60,6 +60,11 @@ Efter ett antal år av utvärderingar införs AI-undervisning i alla skolor vid 
 Oro över AI-utveckling leder till växande protester, och när en allvarlig AI-relaterad incident inträffar skapas multinationella avtal som kraftigt begränsar AI-utvecklingen. Arbetsmarknad har då genomgått kännbara förändringar men inte vänts upp och ner.
 
 Även i skolan har AI börjat användas, men som en lärarassistent mer än för undervisning. Lärarens arbete förskjuts mot att vara mer elevnära, även i senare år. Kunskap om AI ur flera perspektiv blir en del av läroplanen redan i grundskolan, bland annat för att minska AI-risker och öka säkerhetsforskning inom AI.
+
+## Scenario: Löst styrda AI-assistenter
+Inom några år blir AI-modeller tillräckligt små för att kunna köras på telefoner, och några år senare är frågor som rör dataintegritet och sedan AI-säkerhet så gott som lösta. Detta leder till att de allra flesta över 13 år har en personlig AI-assistent som lär sig om ens egna liv och preferenser, och tar hand om många vardagssysslor.
+
+Sverige och många andra länder börjar använda en samhällsmodell där AI-assistenter kopplas mot en statlig kärna, och användare själva väljer vilken data de vill dela med sig av. De samordnade AI-assistenterna gör det möjligt att hjälpa medborgare till bättre liv på många olika sätt: hälsa, möten med andra människor, upplevelser, ekonomi och att förverkliga personliga mål. AI-assistenterna blir också en del av ett systematiskt livslångt lärande, eftersom de kan undervisa om så gott som allt människan har upptäckt. Det livslånga lärandet styrs både personliga mål och intressen, och av behov som finns i samhället. Skola som institution finns kvar, både som mer styrd verksamhet för barn upp till 13 år och som mötesplats för äldre medborgare i sitt livslånga lärande, men på många sätt är det en annan skola än idag.
 
 ## Scenario: AI-vinter
 Uppståndelsen över ny AI-teknik får en ny skjuts när multimodala AI-modeller lanseras under hösten 2023. Floden med nya tillämpningar fortsätter under 2024, men mattas sedan av när det inte kommer några nya tydliga framsteg inom AI-teknik. Vid slutet av 2025 börjar man prata om ”AI-bubblan” i samband med att ett antal AI-företag går i konkurs – vissa till följd av skandaler när brister med datasäkerhet uppdagats. Ett par år senare har nästa AI-vinter börjat, i och med att både intresse och finansiering för AI försvunnit i det allmänna bruset.
