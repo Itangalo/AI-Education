@@ -167,7 +167,18 @@ Om det inte är tillräckligt för att känna ett lätt obehag kan man i ställe
 
 GPT-modellerna har spärrar för att skapa stötande eller skadliga budskap, och skulle normalt inte gå med på att hjälpa AutoGPT att exempelvis driva hatkampanjer. Men tillräckligt listiga personer kan ta sig runt de spärrarna. Ett sista exempel på elakheter är hämtat från podden [Teknik i akademi][10]. En av personerna i podden lyckades ta sig runt spärrarna i GPT-4 och bad AutoGPT att skriva ett Python-program som skulle ta över världen. Efter några minuter märkte han att AutoGPT hade skrivit en så kallad keylogger, som läser av tangentbordstryckningar. AutoGPT aktiverade också webbkameran och sparade ner bilder från den, och när den externa servern började låta avbröt poddaren AutoGPT.
 
-Varken GPT-4 eller AutoGPT har kapacitet att ta över världen, lika lite som de kan skapa kunskapsöversikter av toppkvalitet. Men när tekniken förbättras, liksom vår förmåga att använda den, växer både möjligheterna och riskerna. När dagens högstadieelever slutar gymnasiet kan de mycket väl befinna sig i en värld där AI-skapat innehåll på internet är normen. Hur förbereder vi dem för det?
+### MetaGPT och ChatDev
+Under sommaren och tidig höst 2023 utvecklades verktyg för att ta AutoGPT och dess efterföljare till nästa nivå. [MetaGPT][11] och [ChatDev][12] är program som simulerar mjukvaruföretag befolkade av chattbottar, var och en med givna roller. Rollerna omfattar exempelvis projektledare, kodare och testare, och de interagerar med varandra genom att ge uppgifter till varandra, leverera resultat och granska det som levererats. I och med att varje roll är en egen instans av en chattbot finns möjlighet att ge mer anpassade instruktioner och därmed bättre träffsäkerhet i hur varje uppgift genomförs.
+
+I slutändan betyder det att du kan be MetaGPT att till exempel skapa ett Flappy Birds-spel. Uppgiften kommer att analyseras och brytas ner i delar, som granskas och förfinas med lämpliga krav som att spelet ska vara färgglatt, gå snabbt att styra, och ha banor som blir svårare efter hand. När produkten gått igenom alla interna tester levereras den till människan som beställde.
+
+### Reqruit
+Det går att ta koncepten med MetaGPT och ChatDev minst ett steg längre, även om det inte (ännu) finns några sådana produkter. Ett fiktivt nästa steg i samma utveckling är programmet _Reqruit_.[^7] Jämfört med MetaGPT och ChatDev har de följande funktioner:
+* I stället för att Reqruit är just ett mjukvaruföretag anpassar det sig efter det projekt som ska utföras. Reqruit kan agera revisionsbyrå, nyhetsredaktion, försäkringsföretag, läromedelsförlag, eller något annat.
+* I stället för att Reqruit använder bestämda AI-roller för att utföra ett arbete väljer den bland en stor katalog med roller, och ”anställer” de som passar bäst för projektet. Reqruit kan ta med i beräkningen hur mycket olika roller kostar att anställa, så att de mindre och billigare AI-modellerna används för de enklare uppgifterna.
+* När tillgängliga roller inte räcker till kan Reqruit välja mellan att (a) försöka skapa en ny AI-roll, (b) säga till användaren att projektet tyvärr inte går att utföra, eller (c) delegera uppgifter till människor. Reqruit skulle till exempel alltså kunna delegera till en människa att skapa ett bankkonto eller registrera ett bolag, vilket är något som människor men inte maskiner får göra.
+
+Varken GPT-4, AutoGPT, MetaGPT eller Reqruit har kapacitet att ta över världen, lika lite som de kan skapa kunskapsöversikter eller mjukvara av toppkvalitet. Men när tekniken förbättras, liksom vår förmåga att använda den, växer både möjligheterna och riskerna. När dagens högstadieelever slutar gymnasiet kan de mycket väl befinna sig i en värld där AI-skapat innehåll på internet är normen, och när mellanstadieelever slutar gymnasiet kan det finnas AI-modeller som driver företag. Hur förbereder vi dem för det?
 
 Hur förbereder vi oss själva?
 
@@ -183,6 +194,8 @@ Hur förbereder vi oss själva?
 
 [^6]:	[https://en.wikipedia.org/wiki/Auto-GPT][9]
 
+[^7]:	Bara för att vara helt tydlig: I skrivande stund finns inte den här programvaran, och namnet är påhittat.
+
 [1]:	https://khanacademy.org/ "Khan Academy"
 [2]:	https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education/c "TED: How AI could save (not destroy) education"
 [3]:	https://www.youtube.com/watch?v=rnIgnS8Susg "GPT-4 Khan Academy In Depth Demo"
@@ -193,5 +206,7 @@ Hur förbereder vi oss själva?
 [8]:	https://www.intelligent.com/new-survey-finds-students-are-replacing-human-tutors-with-chatgpt/ "Intelligent: New Survey Finds Students Are Replacing Human Tutors with ChatGPT"
 [9]:	https://en.wikipedia.org/wiki/Auto-GPT "Engelska Wikipedias artikel om AutoGPT"
 [10]:	https://www.youtube.com/playlist?list=PL70wNv4dBdJx5Y2cPTUUk00nOxHzpp6g_ "YouTube: Teknik i akademi"
+[11]:	https://github.com/geekan/MetaGPT "GitHub: MetaGPT"
+[12]:	https://github.com/OpenBMB/ChatDev "GitHub: ChatDev"
 
 [image-1]:	https://user-images.githubusercontent.com/262940/257077789-c3fdce7d-6637-4b1c-a63a-37eb52e3d71a.png
