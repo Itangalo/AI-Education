@@ -1,5 +1,5 @@
 # Tre särskilt intressanta hybrider
-_Uppdaterat 2023-09-02._
+_Uppdaterat 2023-09-26._
 
 I det här kapitlet tittar vi närmare på tre hybrider – kombinationer av språkmodeller med andra typer av program. De är utvalda för att de pekar på särskilda möjligheter med AI i skola respektive breda användningsområden för AI. AI-tjänsterna finns redan idag, men har inte den mognad eller spridning som krävs för att deras effekter ska vara märkbara ännu.
 
