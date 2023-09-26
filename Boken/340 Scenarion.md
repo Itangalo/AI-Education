@@ -67,7 +67,7 @@ Inom några år blir AI-modeller tillräckligt små för att kunna köras på te
 Sverige och många andra länder börjar använda en samhällsmodell där AI-assistenter kopplas mot en statlig kärna, och användare själva väljer vilken data de vill dela med sig av. De samordnade AI-assistenterna gör det möjligt att hjälpa medborgare till bättre liv på många olika sätt: hälsa, möten med andra människor, upplevelser, ekonomi och att förverkliga personliga mål. AI-assistenterna blir också en del av ett systematiskt livslångt lärande, eftersom de kan undervisa om så gott som allt människan har upptäckt. Det livslånga lärandet styrs både personliga mål och intressen, och av behov som finns i samhället. Skola som institution finns består, både som mer styrd verksamhet för barn upp till 13 år och som mötesplats för äldre medborgare i sitt livslånga lärande, men på många sätt är det en annan skola än idag.
 
 ## Scenario: Teknikbang
-En ljudbang uppstår när ljudkällan rör sig snabbare än vad ljudet sprider sig i luften, vilket leder till en massiv ljudvåg. En teknikbang uppstår när teknikutvecklingen går snabbare än vad den hinner sprida sig i samhället.
+En ljudbang uppstår när ljudkällan rör sig snabbare än vad ljudet sprider sig i luften, vilket leder till en massiv ljudvåg. En teknikbang uppstår när teknikutvecklingen går snabbare än vad den hinner sprida sig i samhället.[^4]
 
 I det här scenariot fortsätter teknikutvecklingen accelerera, med ständigt nya och allt mer kraftfulla tillämpningar – som i sin tur skapar möjlighet till nya tillämpningar. Även grundforskning inom AI accelererar. Detta leder till att även de som lägger det mesta av sin vakna tid på att följa AI-utvecklingen inte kan följa med i vad som händer, och regelbundet blir överraskade av tekniksprång de inte hade hört ryktas om i förväg. Detta gäller även AI-forskare. Människor längre bort från AI-utvecklingen slutar i stor utsträckning lyssna på nyheter om framsteg, eftersom det upplevs osammanhängande, obegripligt och omöjligt att hänga med i.
 
@@ -94,5 +94,7 @@ Skolan i Sverige förblir förhållandevis lik den idag, och det upplevs som att
 [^2]:	[https://www.schneier.com/blog/archives/2023/04/ai-to-aid-democracy.html][1]
 
 [^3]:	Den EU-lagstiftning som diskuteras juni 2023 innebär att exempelvis betygssättning och annat som avgör tillträde till utbildningar eller yrken räknas som högrisk-AI, och har särskilda krav. AI i undervisning räknas inte som högrisk.
+
+[^4]:	Om du inte hört talas om uttrycket teknikbang förut är det för att det just uppfanns.
 
 [1]:	https://www.schneier.com/blog/archives/2023/04/ai-to-aid-democracy.html "Schneier on security: AI to Aid Democracy"
