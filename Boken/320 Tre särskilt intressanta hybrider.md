@@ -63,12 +63,12 @@ Redan idag används chattbottar utanför klassrummen som studiestöd. I början 
 
 AI-stöd i undervisning har en rad frågor och risker att ta hänsyn till, utöver hur korrekt vägledning de ger. En av dem handlar om dataintegritet. En annan handlar om vad som händer om en eller ett fåtal aktörer får inflytande över utbildning över hela världen.
 
-## ChatGPT + Code Interpreter
-I början av juli 2023 lanserade OpenAI inställningen _Code Interpreter_ i ChatGPT. När läget aktiveras blir två nya saker möjliga för chattbotten. Det ena är att chattbotten får en tillfällig filyta, där både botten och användaren kan lägga filer. Det andra är att chattbotten får tillgång till en programmeringsmiljö där den kan skriva, köra och se resultatet av programkod.
+## ChatGPT + Advanced Data Analysis
+I början av juli 2023 lanserade OpenAI inställningen _Advanced Data Analysis_ (då _Code Interpreter_) i ChatGPT. När läget aktiveras blir två nya saker möjliga för chattbotten. Det ena är att chattbotten får en tillfällig filyta, där både botten och användaren kan lägga filer. Det andra är att chattbotten får tillgång till en programmeringsmiljö där den kan skriva, köra och se resultatet av programkod.
 
-I och med att GPT-4 är så pass skicklig på att skriva kod öppnar Code Interpreter möjligheter att göra tämligen avancerade saker genom ett enkelt chattgränssnitt. En minst lika intressant effekt är att resultat från program som GPT-4 skapar i många avseenden är mer pålitliga än det som chattbotten skulle svara på egen hand.[^4]
+I och med att GPT-4 är så pass skicklig på att skriva kod öppnar Advanced Data Analysis möjligheter att göra tämligen avancerade saker genom ett enkelt chattgränssnitt. En minst lika intressant effekt är att resultat från program som GPT-4 skapar i många avseenden är mer pålitliga än det som chattbotten skulle svara på egen hand.[^4]
 
-> _Exempel från ChatGPT (GPT-4 + Code Interpreter, 20 juli)_
+> _Exempel från ChatGPT (GPT-4 + Advanced Data Analysis, 20 juli)_
 > **Jag:** Bifogat är ett kapitel ur boken "AI och skolan". Kan du lista de fem vanligaste orden i kapitlet?
 > **Chattbot:** För att hitta de fem vanligaste orden i texten, kommer jag att:
 > 1. Läsa filen och konvertera all text till små bokstäver.
@@ -136,7 +136,7 @@ I och med att GPT-4 är så pass skicklig på att skriva kod öppnar Code Interp
 > ![Ordmoln skapat av Code Interpreter][image-1]
 > Här är ett ordmoln baserat på de tio viktigaste orden enligt vår TF-IDF-analys. Storleken på varje ord representerar dess TF-IDF-poäng, vilket i princip betyder dess "vikt" i texten.
 
-Code Interpreter har inte funnits tillräckligt länge för att kunna säga var de riktiga styrkorna ligger, men två tydliga användningsområden är att analysera och visualisera data. I exemplet ovan laddades en textfil upp, men man kan också utgå från CSV-filer med enorma mängder data. I exemplet ovan skapar chattbotten ett ordmoln, men man kan också be om en rad olika typer av diagram och tabeller.
+Advanced Data Analysis har inte funnits tillräckligt länge för att kunna säga var de riktiga styrkorna ligger, men två tydliga användningsområden är att analysera och visualisera data. I exemplet ovan laddades en textfil upp, men man kan också utgå från CSV-filer med enorma mängder data. I exemplet ovan skapar chattbotten ett ordmoln, men man kan också be om en rad olika typer av diagram och tabeller.
 
 Några överraskande användningsområden som kanske inte är lika brett användbara är att skapa GIF-animationer, identifiera ansikten i bilder, läsa text i bilder, konvertera filer, skapa QR-koder och skapa HTML-sidor. En begränsning med Code Interpreter är att filutrymmet rensas efter cirka fem minuter.
 
