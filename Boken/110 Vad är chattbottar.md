@@ -47,7 +47,7 @@ Nedan finns kommentarer och exempel från några av de vanligare chattbottarna o
 ### ChatGPT
 ChatGPT från OpenAI nås på [chat.openai.com][4]. Det är den dominerande chattbot-tjänsten, vilket både beror på att den var först bland de stora modellerna och dessutom använder GPT-4 som allmänt betraktas som den starkaste av språkmodellerna.
 
-Med ett gratiskonto för ChatGPT kan du använda modellen GPT-3.5. Med ett betalkonto kan du också använda den betydligt starkare GPT-4, och även ett antal tilläggsfunktioner. Enligt OpenAI ska betalversionen av ChatGPT från oktober 2023 även kunna användas för att skapa bilder genom DALL·E 3, deras nya modell för bilder.
+Med ett gratiskonto för ChatGPT kan du använda modellen GPT-3.5. Med ett betalkonto kan du också använda den betydligt starkare GPT-4, och även ett antal tilläggsfunktioner. I slutet av september 2023 börjar betalversionen kunna läsa bilder och även hantera talat språk, och enligt OpenAI ska den från oktober även kunna användas för att skapa bilder.
 
 > _Exempel från ChatGPT (GPT-4 12 maj 2023)._
 > **Jag:** Vad är ett bra sätt att förklara kemisk jämvikt för mina årskurs 2:or på gymnasiet?
