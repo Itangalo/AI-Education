@@ -10,11 +10,13 @@
   <a href="https://github.com/Itangalo/AI-Education/files/12729973/AI.och.skolan.2.4.2023-09-26.med.omslag.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/246669860-8057021f-99fa-43c9-baaa-11bce0adef3c.jpg" title="Omslagsbild" width="40%" height="40%" /></a>
 </p>
 
+Ladda hem version 2.4 (<a href="https://github.com/Itangalo/AI-Education/files/12729973/AI.och.skolan.2.4.2023-09-26.med.omslag.pdf" target="_blank">pdf</a>, <a href="https://github.com/Itangalo/AI-Education/files/12729972/AI.och.skolan.2.4.2023-09-26.med.omslag.epub.zip">epub</a>) och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
+
 ----
 
 ## AI och skolan version 2 ute nu!
 
-Tekniken rör sig snabbt, och vi fortsätter också att lära oss om hur AI kan påverka skola och samhälle. Därför finns nu version 2.0 (nu 2.3!) av boken tillgänglig – drygt 4 månader efter att version 1.0 släpptes.
+Tekniken rör sig snabbt, och vi fortsätter också att lära oss om hur AI kan påverka skola och samhälle. Därför finns nu version 2.0 (nu 2.4!) av boken tillgänglig – drygt 4 månader efter att version 1.0 släpptes.
 
 Vad är nytt?
 
