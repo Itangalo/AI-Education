@@ -18,7 +18,6 @@ Det här exempelkapitlet innehåller riktlinjer och malltexter att använda för
 * …
 
 ## Förslag på kapitel till boken
-* Prompta klokt
 * Chattbotten i Snapchat
 * Hitta forskning och fortbildning
 * Använda olika funktioner i ChatGPT
