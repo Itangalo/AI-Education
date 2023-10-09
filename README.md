@@ -10,7 +10,7 @@
   <a href="https://github.com/Itangalo/AI-Education/files/12821048/AI.och.skolan.2.5.2023-10-05.med.omslag.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/262940/246669860-8057021f-99fa-43c9-baaa-11bce0adef3c.jpg" title="Omslagsbild" width="40%" height="40%" /></a>
 </p>
 
-Ladda hem version 2.4 (<a href="https://github.com/Itangalo/AI-Education/files/12821048/AI.och.skolan.2.5.2023-10-05.med.omslag.pdf" target="_blank">pdf</a>, <a href="https://github.com/Itangalo/AI-Education/files/12820814/AI.och.skolan.2.5.2023-10-05.med.omslag.epub.zip">epub</a>) och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
+Ladda hem version 2.5 (<a href="https://github.com/Itangalo/AI-Education/files/12821048/AI.och.skolan.2.5.2023-10-05.med.omslag.pdf" target="_blank">pdf</a>, <a href="https://github.com/Itangalo/AI-Education/files/12820814/AI.och.skolan.2.5.2023-10-05.med.omslag.epub.zip">epub</a>) och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
 
 ----
 
@@ -26,7 +26,7 @@ Vad är nytt?
 * Lärare och andra engagerade i skola är välkomna att bidra med egna kapitel med praktiska tipsen. Del 2 av boken kommer att utökas löpande med sådana tips.
 * Del 3 av boken, och AI och framtiden, har fått flera nya kapitel och djupare analyser. Till exempel: Hur fort går utvecklingen? Närmare titt på två viktiga hybrider. Bredare analys av hur vår syn på kunskap kan påverkas. Och utökat kapitel om risker med AI, kompletterat med ett antal möjliga scenarion för framtiden.
 
-Ladda hem version 2.4 (<a href="https://github.com/Itangalo/AI-Education/files/12821048/AI.och.skolan.2.5.2023-10-05.med.omslag.pdf" target="_blank">pdf</a>, <a href="https://github.com/Itangalo/AI-Education/files/12820814/AI.och.skolan.2.5.2023-10-05.med.omslag.epub.zip">epub</a>) och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
+Ladda hem version 2.5 (<a href="https://github.com/Itangalo/AI-Education/files/12821048/AI.och.skolan.2.5.2023-10-05.med.omslag.pdf" target="_blank">pdf</a>, <a href="https://github.com/Itangalo/AI-Education/files/12820814/AI.och.skolan.2.5.2023-10-05.med.omslag.epub.zip">epub</a>) och [anmäl dig för att få meddelande när uppdateringar kommer](https://dashboard.mailerlite.com/forms/330475/80213780896679109/share).
 
 ### Mer länkar
 
